@@ -20,7 +20,7 @@
 	    {{ end }}
 
 		<!-- Facebook -->
-	    <meta property="og:url" content="{{ .RelPermalink }}">
+	    <meta property="og:url" content="{{ .Permalink }}">
 	    {{ if $.Scratch.Get "single"}}<meta property="og:type" content="article">{{end}}
 	    <meta property="og:title" content="{{ .Title}}">
 	    <meta property="og:description" content="{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{if .Param "excerpt"}}{{ .Param "excerpt" }}{{else}}{{ .Summary }}{{end}}{{ end }}" name="description">
@@ -90,7 +90,7 @@
 	          "name":"{{.Site.Params.siteName}}",
 	          "logo":"http://tableless.com.br/images/logo.svg"
 	          },
-	        "url": "{{ .RelPermalink }}",
+	        "url": "{{ .Permalink }}",
 	        "wordCount": "{{ .FuzzyWordCount }}",
 	        "keywords": "{{.Params.tags}}",
 	        "datePublished": "{{.Params.date}}",
