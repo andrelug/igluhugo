@@ -2,18 +2,32 @@
 
 <div class="post-header">
 <ul class="post-categories">
-<li><a href="{{ .Param "categories" }}" rel="category tag">{{ .Param "categories" }}</a></li></ul>    <h2 class="entry-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-<ul class="post-meta">      <li class="meta-reading-time">
-	leia em 2 <span> minutos</span>      </li>
+	<li>
+		{{ range .Params.categories }}
+		<a href="{{ "/category/" | relLangURL }}{{ . | urlize }}" rel="category tag">{{ . }}</a>
+	    {{ end }}
+	</li>
+</ul>
+<h2 class="entry-title">
+	<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+</h2>
+<ul class="post-meta">
+	<!--
+	<li class="meta-reading-time">
+		leia em 2 <span> minutos</span>
+	</li>
 <li class="meta-views">
-			{{ .Param "post_views_count" }}  visualizações      </li>
+	{{ .Param "post_views_count" }}  visualizações
+</li>
+-->
 <li class="meta-date">
-<time class="entry-date published updated" datetime="{{ .Date.Format "02/01/2006" }}">
-{{ .Date.Format "02/01/2006" }} </time>
+	<time class="entry-date published updated" datetime="{{ .Date.Format "02/01/2006" }}">{{ .Date.Format "02/01/2006" }} </time>
 </li>
 <li class="meta-author author vcard">
-<span>por</span>				<a class="url fn n" href="{{ "/author/" | relLangURL }}{{ .Param "author" | urlize }}">
-		{{ .Param "author" }}				</a>
+	<span>por</span>
+	<a class="url fn n" href="{{ "/author/" | relLangURL }}{{ .Param "author" | urlize }}">
+		{{ .Param "author" }}
+	</a>
 </li>
 <!-- Comentários
 <li class="meta-comments">

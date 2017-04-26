@@ -12,25 +12,38 @@
 	  </a>
 </div>
 
+	<!-- views
   <ul class="post-meta">      <li class="meta-reading-time">
 		2        <span> minute read</span>      </li>
+
   <li class="meta-views">
 				{{ .Param "post_views_count" }}         visualizações      </li>
-</ul>      <a href="{{ .Permalink }}"></a>
+</ul>  -->
+<a href="{{ .Permalink }}"></a>
 </div>
 
 <ul class="post-categories">
-<li><a href="{{ .Param "categories" }}" rel="category tag">{{ .Param "categories" }}</a></li></ul>  <h2 class="entry-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-<ul class="post-meta">      <li class="meta-date">
-<time class="entry-date published updated" datetime="{{ .Date.Format "02/01/2006" }}">
-  {{ .Date.Format "02/01/2006" }}        </time>
+	<li>
+		{{ range first 1 .Params.categories }}
+		<a href="{{ "/category/" | relLangURL }}{{ . | urlize }}" rel="category tag">{{ . }}</a>
+	    {{ end }}
+
+	</li>
+</ul>
+<h2 class="entry-title">
+	<a href="{{ .Permalink }}">{{ .Title }}</a>
+</h2>
+<ul class="post-meta">
+	<li class="meta-date">
+	<time class="entry-date published updated" datetime="{{ .Date.Format "02/01/2006" }}">{{ .Date.Format "02/01/2006" }}</time>
 </li>
   <li class="meta-author author vcard">
 	  <span>por</span>
 	  		{{ .Param "author" }}
 </li>
+<!--
   <li class="meta-comments">
-		<a href="http://demo.codesupply.co/authentic/exclusive-get-a-first-look-at-the-fall-collection/#comments" class="comments-link">5 comments</a>      </li>
+		<a href="http://demo.codesupply.co/authentic/exclusive-get-a-first-look-at-the-fall-collection/#comments" class="comments-link">5 comments</a>      </li> -->
 </ul>  <div class="post-excerpt">{{ .Summary }}</div>
 
 <div class="post-more">
