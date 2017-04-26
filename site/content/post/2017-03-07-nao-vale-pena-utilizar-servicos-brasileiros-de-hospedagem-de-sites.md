@@ -43,11 +43,11 @@ Todo sistema de gerenciamento de hospedagens possui recursos similares. Apenas u
 
 Quer usar hospedagem no Terra para empresas? Olha o que você vai ter que ver:
 
-<img class="size-full wp-image-569 aligncenter" src="https://www.igluonline.com/wp-content/uploads/2017/03/hospedagem_terra.jpg" alt="" width="787" height="555" srcset="https://www.igluonline.com/wp-content/uploads/2017/03/hospedagem_terra.jpg 787w, https://www.igluonline.com/wp-content/uploads/2017/03/hospedagem_terra-300x212.jpg 300w, https://www.igluonline.com/wp-content/uploads/2017/03/hospedagem_terra-768x542.jpg 768w" sizes="(max-width: 787px) 100vw, 787px" />
+<img class="size-full wp-image-569 aligncenter" src="/images/uploads/2017/03/hospedagem_terra.jpg" alt="" width="787" height="555" srcset="/images/uploads/2017/03/hospedagem_terra.jpg 787w, /images/uploads/2017/03/hospedagem_terra-300x212.jpg 300w, /images/uploads/2017/03/hospedagem_terra-768x542.jpg 768w" sizes="(max-width: 787px) 100vw, 787px" />
 
 E que tal na Localweb&#8230;
 
-<img class=" wp-image-570 aligncenter" src="https://www.igluonline.com/wp-content/uploads/2017/03/hospedagem_localweb.jpg" alt="" width="905" height="548" srcset="https://www.igluonline.com/wp-content/uploads/2017/03/hospedagem_localweb.jpg 1022w, https://www.igluonline.com/wp-content/uploads/2017/03/hospedagem_localweb-300x182.jpg 300w, https://www.igluonline.com/wp-content/uploads/2017/03/hospedagem_localweb-768x465.jpg 768w, https://www.igluonline.com/wp-content/uploads/2017/03/hospedagem_localweb-150x90.jpg 150w" sizes="(max-width: 905px) 100vw, 905px" />
+<img class=" wp-image-570 aligncenter" src="/images/uploads/2017/03/hospedagem_localweb.jpg" alt="" width="905" height="548" srcset="/images/uploads/2017/03/hospedagem_localweb.jpg 1022w, /images/uploads/2017/03/hospedagem_localweb-300x182.jpg 300w, /images/uploads/2017/03/hospedagem_localweb-768x465.jpg 768w, /images/uploads/2017/03/hospedagem_localweb-150x90.jpg 150w" sizes="(max-width: 905px) 100vw, 905px" />
 
 Aí você pode me perguntar:
 
@@ -65,7 +65,7 @@ Grande parte das pessoas que usam serviços de hospedagem são leigos em program
 
 Um rápido exemplo do meu último contato com suporte da Terra (Março 2017). O sistema não só é realmente lento mas não aceitar # (e depois letras maiúsculas) em uma senha para FTP? Imagina de quando deve ser o sistema deles. 1995?
 
-<img class="size-full wp-image-574 aligncenter" src="https://www.igluonline.com/wp-content/uploads/2017/03/hardware_terra.jpg" alt="" width="604" height="508" srcset="https://www.igluonline.com/wp-content/uploads/2017/03/hardware_terra.jpg 604w, https://www.igluonline.com/wp-content/uploads/2017/03/hardware_terra-300x252.jpg 300w" sizes="(max-width: 604px) 100vw, 604px" />
+<img class="size-full wp-image-574 aligncenter" src="/images/uploads/2017/03/hardware_terra.jpg" alt="" width="604" height="508" srcset="/images/uploads/2017/03/hardware_terra.jpg 604w, /images/uploads/2017/03/hardware_terra-300x252.jpg 300w" sizes="(max-width: 604px) 100vw, 604px" />
 
 A internet evolui numa velocidade muito grande. Quem não consegue acompanhar o suporte às novas tecnologias vai acabar com problemas.
 
@@ -93,7 +93,7 @@ O site que subi no Superdomínios era meu mesmo. Um site de jogos chamado <a hre
 
 Certo dia conseguimos compartilhar um artigo bom e conseguimos mais ou menos umas 100 visitas a mais. Resultado: Nossa hospedagem compartilhada travou e o site caiu. Lá fui eu abrir um ticket de suporte. Ninguém respondeu. Mais outro&#8230;ninguém respondeu. Até que mandei o terceiro e olha a resposta que deram:
 
-<img class="size-full wp-image-571 aligncenter" src="https://www.igluonline.com/wp-content/uploads/2017/03/suporte_superdominios.jpg" alt="" width="714" height="471" srcset="https://www.igluonline.com/wp-content/uploads/2017/03/suporte_superdominios.jpg 714w, https://www.igluonline.com/wp-content/uploads/2017/03/suporte_superdominios-300x198.jpg 300w" sizes="(max-width: 714px) 100vw, 714px" />
+<img class="size-full wp-image-571 aligncenter" src="/images/uploads/2017/03/suporte_superdominios.jpg" alt="" width="714" height="471" srcset="/images/uploads/2017/03/suporte_superdominios.jpg 714w, /images/uploads/2017/03/suporte_superdominios-300x198.jpg 300w" sizes="(max-width: 714px) 100vw, 714px" />
 
 Magicamente o site voltou no ar depois de UMA SEMANA e, naturalmente, cacei outro lugar para hospedar.
 
@@ -103,7 +103,7 @@ Para começar o suporte da Localweb é feito por um bot. Antigamente chamava Nic
 
 Felizmente eu há um tempo atrás descobri o código secreto que é você digitar: FALAR COM ATENDENTE. Aí ele te transfere para uma pessoa&#8230;que muitas vezes não faz diferença para o bot.
 
-<img class="size-full wp-image-572 aligncenter" src="https://www.igluonline.com/wp-content/uploads/2017/03/supoerte_localweb.jpg" alt="" width="300" height="473" srcset="https://www.igluonline.com/wp-content/uploads/2017/03/supoerte_localweb.jpg 300w, https://www.igluonline.com/wp-content/uploads/2017/03/supoerte_localweb-190x300.jpg 190w" sizes="(max-width: 300px) 100vw, 300px" />
+<img class="size-full wp-image-572 aligncenter" src="/images/uploads/2017/03/supoerte_localweb.jpg" alt="" width="300" height="473" srcset="/images/uploads/2017/03/supoerte_localweb.jpg 300w, /images/uploads/2017/03/supoerte_localweb-190x300.jpg 190w" sizes="(max-width: 300px) 100vw, 300px" />
 
 Infelizmente eu não tenho mais acesso ao histórico do suporte pois está na conta de um cliente que não tenho mais acesso. Mas o site do meu cliente tinha sido invadido (leia o tópico seguinte de segurança) e eu fui consertar. Eu abri o chat para conversar e o tempo inteiro fui tratado mal e com total má vontade. O mais bizarro é que tive que abrir três chats pois as duas primeiras pessoas não resolveram meu problema porque não conheciam do sistema e não sabiam o que fazer. **Um deles simplesmente desligou o chat depois que viu que não ia conseguir me ajudar**.
 
@@ -111,11 +111,11 @@ Infelizmente eu não tenho mais acesso ao histórico do suporte pois está na co
 
 Vou confessar que foi por causa desse suporte hoje que resolvi fazer esse artigo. Não tem coisa mais chata do que você _estar querendo_ fazer o seu trabalho e ter que lidar com um serviço ruim desses.
 
-<img class="size-full wp-image-573 aligncenter" src="https://www.igluonline.com/wp-content/uploads/2017/03/suporte_terra.png" alt="" width="609" height="508" srcset="https://www.igluonline.com/wp-content/uploads/2017/03/suporte_terra.png 609w, https://www.igluonline.com/wp-content/uploads/2017/03/suporte_terra-300x250.png 300w" sizes="(max-width: 609px) 100vw, 609px" />
+<img class="size-full wp-image-573 aligncenter" src="/images/uploads/2017/03/suporte_terra.png" alt="" width="609" height="508" srcset="/images/uploads/2017/03/suporte_terra.png 609w, /images/uploads/2017/03/suporte_terra-300x250.png 300w" sizes="(max-width: 609px) 100vw, 609px" />
 
 Em seguida:
 
-<img class="size-full wp-image-583 aligncenter" src="https://www.igluonline.com/wp-content/uploads/2017/03/Screenshot_2.jpg" alt="" width="605" height="512" srcset="https://www.igluonline.com/wp-content/uploads/2017/03/Screenshot_2.jpg 605w, https://www.igluonline.com/wp-content/uploads/2017/03/Screenshot_2-300x254.jpg 300w" sizes="(max-width: 605px) 100vw, 605px" />
+<img class="size-full wp-image-583 aligncenter" src="/images/uploads/2017/03/Screenshot_2.jpg" alt="" width="605" height="512" srcset="/images/uploads/2017/03/Screenshot_2.jpg 605w, /images/uploads/2017/03/Screenshot_2-300x254.jpg 300w" sizes="(max-width: 605px) 100vw, 605px" />
 
 Todos os requerimentos que eu fiz para meu caro HUMBERTO no chat foram respondidos com um: _Somente o titular_. O que ele quis dizer com isso é que somente poderia falar com o meu cliente. No caso o cliente é de uma empresa grande em Minas Gerais e possivelmente nem deve saber que o site está sendo transferido. Foram os seus funcionários que me contrataram. Entendo a justificativa de segurança, mas eu já estou logado no sistema com a senha de administração, então não faz muito sentido.
 
@@ -125,7 +125,7 @@ O maior problema nesse caso pra mim é a falta de preparo. Tanto de conhecimento
 
 E em outro atendimento no mesmo dia tive que dar um feedback construtivo:
 
-<img class="size-full wp-image-584 aligncenter" src="https://www.igluonline.com/wp-content/uploads/2017/03/Screenshot_1.jpg" alt="" width="608" height="516" srcset="https://www.igluonline.com/wp-content/uploads/2017/03/Screenshot_1.jpg 608w, https://www.igluonline.com/wp-content/uploads/2017/03/Screenshot_1-300x255.jpg 300w" sizes="(max-width: 608px) 100vw, 608px" />
+<img class="size-full wp-image-584 aligncenter" src="/images/uploads/2017/03/Screenshot_1.jpg" alt="" width="608" height="516" srcset="/images/uploads/2017/03/Screenshot_1.jpg 608w, /images/uploads/2017/03/Screenshot_1-300x255.jpg 300w" sizes="(max-width: 608px) 100vw, 608px" />
 
 Gastamos uns 5 minutos de conversa aleatória porque não o atendente não prestou atenção na pergunta inicial e presumiu que eu não sabia o que estava falando.
 
@@ -339,7 +339,7 @@ Resolvi colocar esses aqui também para comparar uma vez que não são tão mais
 
 Acabei escrevendo um tanto a mais do que eu planejava, mas espero que agora você tenha um pouco mais de conhecimento sobre como grande parte dos serviços de hospedagem no Brasil estão precários. Não é atoa que serviços estrangeiros como <a href="https://br.godaddy.com/hosting/web-hosting" target="_blank">GoDaddy</a>, <a href="https://www.hostgator.com.br/24430.html" target="_blank">Hostgator</a> e <a href="http://mbsy.co/gWDv6" target="_blank">Dreamhost</a> estão já todos com atendimento em português. Estão até pagando mais para ficar em primeiro no Google ao comprar as palavras-chave de hospedagem de sites.
 
-<img class=" wp-image-575 aligncenter" src="https://www.igluonline.com/wp-content/uploads/2017/03/hospedagem_google.jpg" alt="" width="798" height="481" srcset="https://www.igluonline.com/wp-content/uploads/2017/03/hospedagem_google.jpg 1030w, https://www.igluonline.com/wp-content/uploads/2017/03/hospedagem_google-300x181.jpg 300w, https://www.igluonline.com/wp-content/uploads/2017/03/hospedagem_google-768x463.jpg 768w, https://www.igluonline.com/wp-content/uploads/2017/03/hospedagem_google-1024x617.jpg 1024w, https://www.igluonline.com/wp-content/uploads/2017/03/hospedagem_google-450x270.jpg 450w, https://www.igluonline.com/wp-content/uploads/2017/03/hospedagem_google-150x90.jpg 150w" sizes="(max-width: 798px) 100vw, 798px" />
+<img class=" wp-image-575 aligncenter" src="/images/uploads/2017/03/hospedagem_google.jpg" alt="" width="798" height="481" srcset="/images/uploads/2017/03/hospedagem_google.jpg 1030w, /images/uploads/2017/03/hospedagem_google-300x181.jpg 300w, /images/uploads/2017/03/hospedagem_google-768x463.jpg 768w, /images/uploads/2017/03/hospedagem_google-1024x617.jpg 1024w, /images/uploads/2017/03/hospedagem_google-450x270.jpg 450w, /images/uploads/2017/03/hospedagem_google-150x90.jpg 150w" sizes="(max-width: 798px) 100vw, 798px" />
 
 Eu sinceramente espero que os serviços nacionais se tornem melhores no futuro e possam oferecer tecnologia, suporte e preços que brilhem nossos olhos. **Nesse momento eu vou escrever um outro post elogiando. Mas por enquanto só posso recomendar os serviços estrangeiros mencionados.**
 

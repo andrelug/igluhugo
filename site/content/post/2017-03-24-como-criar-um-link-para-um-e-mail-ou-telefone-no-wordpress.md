@@ -40,11 +40,11 @@ Em primeiro lugar, copie com **Ctrl + C** ou clicando com o botão direito do mo
 
 1- Clique no botão de corrente na barra de ferramentas do editor do WordPress e cole o texto com o comando **Ctrl + V** ou clicando com o botão direito do mouse e em seguida na opção **Colar**.
 
-<img class="size-full wp-image-659 aligncenter" src="https://www.igluonline.com/wp-content/uploads/2017/03/link_no_wordpress.gif" alt="" width="657" height="452" />
+<img class="size-full wp-image-659 aligncenter" src="/images/uploads/2017/03/link_no_wordpress.gif" alt="" width="657" height="452" />
 
 2- Apenas aperte o comando Ctrl + V com o texto selecionado e o link automaticamente irá ser criado.
 
-<img class="size-full wp-image-660 aligncenter" src="https://www.igluonline.com/wp-content/uploads/2017/03/link_para_wordpress.gif" alt="" width="636" height="455" />
+<img class="size-full wp-image-660 aligncenter" src="/images/uploads/2017/03/link_para_wordpress.gif" alt="" width="636" height="455" />
 
 ## Link para E-mail
 
@@ -54,7 +54,7 @@ O protocolo que vem antes de um link para e-mail é o **mailto:** seguido pelo e
 
 `mailto:andre@igluonline.com`
 
-<img class="size-full wp-image-661 aligncenter" src="https://www.igluonline.com/wp-content/uploads/2017/03/link_email_wordpress.gif" alt="" width="625" height="455" />
+<img class="size-full wp-image-661 aligncenter" src="/images/uploads/2017/03/link_email_wordpress.gif" alt="" width="625" height="455" />
 
 O WordPress é bastante inteligente hoje em dia e, como visto acima no GIF, ele automaticamente detecta que quero criar um link para um e-mail quando selecionei o meu e-mail e cliquei no botão de criação de links. Contudo você pode criar links para e-mails com qualquer tipo de texto e não somente com o próprio e-mail.
 
@@ -66,7 +66,7 @@ O protocolo que vem antes de um link para e-mail é o **tel:** seguido pelo tele
 
 `tel:+5511999999999`
 
-<img class="size-full wp-image-662 aligncenter" src="https://www.igluonline.com/wp-content/uploads/2017/03/link_telefone_wordpress.gif" alt="" width="623" height="458" />
+<img class="size-full wp-image-662 aligncenter" src="/images/uploads/2017/03/link_telefone_wordpress.gif" alt="" width="623" height="458" />
 
 No caso acima adicionei o link em um texto que é o próprio número de telefone, mas você pode criar o link de telefone em qualquer tipo de texto.
 
@@ -80,7 +80,7 @@ Para criar um link em HTML basta utilizarmos o seguinte padrão:
 
 Basta então substituir o [link] pelo link desejado e o [texto do link] para o texto que será o link. Lembrando que no [link] podemos colocar tanto links para páginas na internet quanto para e-mails e telefones.
 
-<img class="size-full wp-image-663 aligncenter" src="https://www.igluonline.com/wp-content/uploads/2017/03/e-mail_widget_wordpress.jpg" alt="" width="442" height="600" srcset="https://www.igluonline.com/wp-content/uploads/2017/03/e-mail_widget_wordpress.jpg 442w, https://www.igluonline.com/wp-content/uploads/2017/03/e-mail_widget_wordpress-221x300.jpg 221w" sizes="(max-width: 442px) 100vw, 442px" />
+<img class="size-full wp-image-663 aligncenter" src="/images/uploads/2017/03/e-mail_widget_wordpress.jpg" alt="" width="442" height="600" srcset="/images/uploads/2017/03/e-mail_widget_wordpress.jpg 442w, /images/uploads/2017/03/e-mail_widget_wordpress-221x300.jpg 221w" sizes="(max-width: 442px) 100vw, 442px" />
 
 ## Questões a considerar ao criar links
 

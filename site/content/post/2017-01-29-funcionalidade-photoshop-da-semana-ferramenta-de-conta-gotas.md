@@ -38,13 +38,13 @@ Além de ser muito útil para quem faz pintura digital, essa ferramenta pode ser
 
 Você pode encontrar a ferramenta de conta-gotas na barra de ferramentas no canto esquerdo do Photoshop. Você também pode a acessar com o atalho **I** no seu teclado.
 
-<img class="size-full wp-image-450 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/01/ferramenta_conta-gotas_photoshop.jpg" alt="" width="927" height="591" srcset="https://www.igluonline.com/wp-content/uploads/2017/01/ferramenta_conta-gotas_photoshop.jpg 927w, https://www.igluonline.com/wp-content/uploads/2017/01/ferramenta_conta-gotas_photoshop-300x191.jpg 300w, https://www.igluonline.com/wp-content/uploads/2017/01/ferramenta_conta-gotas_photoshop-768x490.jpg 768w" sizes="(max-width: 927px) 100vw, 927px" />
+<img class="size-full wp-image-450 aligncenter" src="http://igluonline.com/images/uploads/2017/01/ferramenta_conta-gotas_photoshop.jpg" alt="" width="927" height="591" srcset="/images/uploads/2017/01/ferramenta_conta-gotas_photoshop.jpg 927w, /images/uploads/2017/01/ferramenta_conta-gotas_photoshop-300x191.jpg 300w, /images/uploads/2017/01/ferramenta_conta-gotas_photoshop-768x490.jpg 768w" sizes="(max-width: 927px) 100vw, 927px" />
 
 ## Funcionalidades
 
 Ao selecionar a ferramenta clicando no ícone, que inclusive é um conta-gotas, você agora pode clicar em qualquer área da sua imagem que a ferramenta irá detectar qual é a cor. Após o clique a cor será mostrada tanto no módulo de cores no canto direito superior da sua tela quanto na parte inferior da própria barra de ferramentas na esquerda do Photoshop.
 
-<img class=" wp-image-451 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/01/ferramenta_conta-gotas_photoshop2.jpg" alt="" width="933" height="427" srcset="https://www.igluonline.com/wp-content/uploads/2017/01/ferramenta_conta-gotas_photoshop2.jpg 1892w, https://www.igluonline.com/wp-content/uploads/2017/01/ferramenta_conta-gotas_photoshop2-300x137.jpg 300w, https://www.igluonline.com/wp-content/uploads/2017/01/ferramenta_conta-gotas_photoshop2-768x352.jpg 768w, https://www.igluonline.com/wp-content/uploads/2017/01/ferramenta_conta-gotas_photoshop2-1024x469.jpg 1024w" sizes="(max-width: 933px) 100vw, 933px" />
+<img class=" wp-image-451 aligncenter" src="http://igluonline.com/images/uploads/2017/01/ferramenta_conta-gotas_photoshop2.jpg" alt="" width="933" height="427" srcset="/images/uploads/2017/01/ferramenta_conta-gotas_photoshop2.jpg 1892w, /images/uploads/2017/01/ferramenta_conta-gotas_photoshop2-300x137.jpg 300w, /images/uploads/2017/01/ferramenta_conta-gotas_photoshop2-768x352.jpg 768w, /images/uploads/2017/01/ferramenta_conta-gotas_photoshop2-1024x469.jpg 1024w" sizes="(max-width: 933px) 100vw, 933px" />
 
 A partir daí você pode trabalhar com a cor da maneira que desejar através da ferramenta de cores. O painel de cores aparece quando você clica duas vezes nos quadradinhos que mostram as cores selecionadas. Para saber mais sobre como utilizar as ferramentas de cores, <a href="http://igluonline.com/funcionalidade-photoshop-da-semana-ferramenta-de-cor/" target="_blank">confira nosso artigo sobre a funcionalidade de cores</a>.
 

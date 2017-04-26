@@ -27,7 +27,7 @@ Com milhares de bibliotecas disponíveis, entre elas algumas clássicas como jQu
 Nesse artigo vamos ver alguma das bibliotecas que imaginamos que não só crescerão mais do que já são hoje quanto são boas apostas para gastar o tempo e aprender mais a fundo como usar e ganhar um ponto na competição no mercado de trabalho.
 
 <div id="attachment_333" style="width: 1035px" class="wp-caption aligncenter">
-  <img class=" wp-image-333" src="http://blog.igluonline.com/wp-content/uploads/2017/01/jstips-header-blog.gif" alt="" width="1025" height="448" />
+  <img class=" wp-image-333" src="http://blog.igluonline.com/images/uploads/2017/01/jstips-header-blog.gif" alt="" width="1025" height="448" />
   
   <p class="wp-caption-text">
     Fonte da imagem: <a href="http://dinki.com.br/blog/index.php/2016/07/08/entendendo-a-criacao-e-instanciacao-de-variaveis-no-javascript/" target="_blank">dinki</a>
@@ -44,7 +44,7 @@ Frameworks, CMS e outras ferramentas estão constantemente sendo atualizadas e m
 
 ## <a href="http://www.createjs.com/" target="_blank">2- Create.js</a>
 
-<img class="size-full wp-image-334 aligncenter" src="http://blog.igluonline.com/wp-content/uploads/2017/01/createjs.jpg" alt="" width="900" height="370" srcset="https://www.igluonline.com/wp-content/uploads/2017/01/createjs.jpg 900w, https://www.igluonline.com/wp-content/uploads/2017/01/createjs-300x123.jpg 300w, https://www.igluonline.com/wp-content/uploads/2017/01/createjs-768x316.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />
+<img class="size-full wp-image-334 aligncenter" src="http://blog.igluonline.com/images/uploads/2017/01/createjs.jpg" alt="" width="900" height="370" srcset="/images/uploads/2017/01/createjs.jpg 900w, /images/uploads/2017/01/createjs-300x123.jpg 300w, /images/uploads/2017/01/createjs-768x316.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />
 
 Createjs traz uma variedade de bibliotecas que suportam as mais atuais tecnologias audiovisuais na web. De animações a audio, você pode utilizar de suas bibliotecas separadamente para criar experiências interativas e mais modernas na web com muita eficiência.
 
@@ -58,7 +58,7 @@ Com ele você consegue desenvolver webapps baseados na proposta MEAN (Mongodb, E
 
 ## <a href="https://www.meteor.com/" target="_blank">4- Meteor</a>
 
-<img class="size-full wp-image-335 aligncenter" src="http://blog.igluonline.com/wp-content/uploads/2017/01/meteor.jpg" alt="" width="900" height="245" srcset="https://www.igluonline.com/wp-content/uploads/2017/01/meteor.jpg 900w, https://www.igluonline.com/wp-content/uploads/2017/01/meteor-300x82.jpg 300w, https://www.igluonline.com/wp-content/uploads/2017/01/meteor-768x209.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />
+<img class="size-full wp-image-335 aligncenter" src="http://blog.igluonline.com/images/uploads/2017/01/meteor.jpg" alt="" width="900" height="245" srcset="/images/uploads/2017/01/meteor.jpg 900w, /images/uploads/2017/01/meteor-300x82.jpg 300w, /images/uploads/2017/01/meteor-768x209.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />
 
 Meu favorito e que acredito ser o mais incrível por aqui.  Você pode integrar qualquer plataforma ao ambiente do Meteor com resultados incríveis. Esse projeto open source ajuda desenvolvedores de aplicações JavaScript a trabalharem com funcionalidades de tempo real, comunidades sociais e dashboards customizados.
 
@@ -88,7 +88,7 @@ Se essa é uma área que você tem interesse, com certeza pode aproveitar muito 
 
 ## <a href="https://threejs.org/" target="_blank">7- Three.js</a>
 
-<img class="size-full wp-image-336 aligncenter" src="http://blog.igluonline.com/wp-content/uploads/2017/01/Screenshot_4.jpg" alt="" width="940" height="566" srcset="https://www.igluonline.com/wp-content/uploads/2017/01/Screenshot_4.jpg 940w, https://www.igluonline.com/wp-content/uploads/2017/01/Screenshot_4-300x181.jpg 300w, https://www.igluonline.com/wp-content/uploads/2017/01/Screenshot_4-768x462.jpg 768w, https://www.igluonline.com/wp-content/uploads/2017/01/Screenshot_4-450x270.jpg 450w, https://www.igluonline.com/wp-content/uploads/2017/01/Screenshot_4-150x90.jpg 150w" sizes="(max-width: 940px) 100vw, 940px" />
+<img class="size-full wp-image-336 aligncenter" src="http://blog.igluonline.com/images/uploads/2017/01/Screenshot_4.jpg" alt="" width="940" height="566" srcset="/images/uploads/2017/01/Screenshot_4.jpg 940w, /images/uploads/2017/01/Screenshot_4-300x181.jpg 300w, /images/uploads/2017/01/Screenshot_4-768x462.jpg 768w, /images/uploads/2017/01/Screenshot_4-450x270.jpg 450w, /images/uploads/2017/01/Screenshot_4-150x90.jpg 150w" sizes="(max-width: 940px) 100vw, 940px" />
 
 Antes da Realidade Virtual, 3D era ainda o rei do pedaço no quesito tecnologia. Mas ainda assim colocar 3D na web é um problemão hoje em dia. A tecnologia está aí, mas colocá-la no código front end sem auxílio de bibliotecas como a Three.js é uma tarefa bem complicada.
 
@@ -102,7 +102,7 @@ Mexer com essa plataforma não é necessariamente fácil, mas você encontrará 
 
 ## <a href="https://d3js.org/" target="_blank">8- D3.js</a>
 
-<img class=" wp-image-332 aligncenter" src="http://blog.igluonline.com/wp-content/uploads/2017/01/Screenshot_3.png" alt="" width="1189" height="700" srcset="https://www.igluonline.com/wp-content/uploads/2017/01/Screenshot_3.png 1308w, https://www.igluonline.com/wp-content/uploads/2017/01/Screenshot_3-300x177.png 300w, https://www.igluonline.com/wp-content/uploads/2017/01/Screenshot_3-768x452.png 768w, https://www.igluonline.com/wp-content/uploads/2017/01/Screenshot_3-1024x603.png 1024w" sizes="(max-width: 1189px) 100vw, 1189px" />
+<img class=" wp-image-332 aligncenter" src="http://blog.igluonline.com/images/uploads/2017/01/Screenshot_3.png" alt="" width="1189" height="700" srcset="/images/uploads/2017/01/Screenshot_3.png 1308w, /images/uploads/2017/01/Screenshot_3-300x177.png 300w, /images/uploads/2017/01/Screenshot_3-768x452.png 768w, /images/uploads/2017/01/Screenshot_3-1024x603.png 1024w" sizes="(max-width: 1189px) 100vw, 1189px" />
 
 Visualização de informações e dados está cada vez mais importante com o mais simples acesso às tecnologias de big data, então a biblioteca JavaScript D3 oferece o que há de melhor nessa área. Muitas bibliotecas competem por um espaço no âmbito de visualização e demonstração de dados de forma interativa e intuitiva, mas a D3 já há algum tempo tem seu espaço garantido lá na frente. Essa biblioteca funciona com elementos SVG e Canvas para renderizar seus gráficos e visualizações dinâmicas na web.
 

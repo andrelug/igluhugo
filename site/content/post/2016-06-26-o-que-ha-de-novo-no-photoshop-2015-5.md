@@ -46,13 +46,13 @@ Agora foi a vez da ferramenta de corte ganhar a funcionalidade de ser sensível 
 
 Naturalmente esse recurso não é perfeito e da mesma forma das outras ferramentas que utilizam alguma funcionalidade sensível a conteúdo essa funciona melhor com áreas de menor detalhe, como areia, nuvens, céu, entre outros. De qualquer maneira é uma boa adição.
 
-<img class=" wp-image-79 aligncenter" src="http://blog.igluonline.com/wp-content/uploads/2016/06/Photoshop_atualizacao_2015.5.jpg" alt="Photoshop_atualizacao_2015.5" width="852" height="608" srcset="https://www.igluonline.com/wp-content/uploads/2016/06/Photoshop_atualizacao_2015.5.jpg 1113w, https://www.igluonline.com/wp-content/uploads/2016/06/Photoshop_atualizacao_2015.5-300x214.jpg 300w, https://www.igluonline.com/wp-content/uploads/2016/06/Photoshop_atualizacao_2015.5-768x548.jpg 768w, https://www.igluonline.com/wp-content/uploads/2016/06/Photoshop_atualizacao_2015.5-1024x731.jpg 1024w" sizes="(max-width: 852px) 100vw, 852px" />
+<img class=" wp-image-79 aligncenter" src="http://blog.igluonline.com/images/uploads/2016/06/Photoshop_atualizacao_2015.5.jpg" alt="Photoshop_atualizacao_2015.5" width="852" height="608" srcset="/images/uploads/2016/06/Photoshop_atualizacao_2015.5.jpg 1113w, /images/uploads/2016/06/Photoshop_atualizacao_2015.5-300x214.jpg 300w, /images/uploads/2016/06/Photoshop_atualizacao_2015.5-768x548.jpg 768w, /images/uploads/2016/06/Photoshop_atualizacao_2015.5-1024x731.jpg 1024w" sizes="(max-width: 852px) 100vw, 852px" />
 
 ## Identificador Facial para a Ferramenta de Liquefazer
 
 A ferramenta de liquefazer no Photoshop é, na minha opinião, a mais divertida para brincar com fotos &#8211; inclusive para iniciantes pois é intuitiva e simples de mexer. Agora, um problema que em geral acontece é as deformações acabarem indo para lugares que não queremos. Agora com a nova atualização o Photoshop identifica alguns traços faciais e os preserva para facilitar algumas pequenas deformações sem deixar os rostos das pessoas desproporcionais.
 
-<img class="wp-image-75 aligncenter" src="http://blog.igluonline.com/wp-content/uploads/2016/06/Photoshop_atualizacao_2015.5.02.jpg" alt="Photoshop_atualizacao_2015.5.02" width="842" height="476" srcset="https://www.igluonline.com/wp-content/uploads/2016/06/Photoshop_atualizacao_2015.5.02.jpg 1856w, https://www.igluonline.com/wp-content/uploads/2016/06/Photoshop_atualizacao_2015.5.02-300x170.jpg 300w, https://www.igluonline.com/wp-content/uploads/2016/06/Photoshop_atualizacao_2015.5.02-768x434.jpg 768w, https://www.igluonline.com/wp-content/uploads/2016/06/Photoshop_atualizacao_2015.5.02-1024x579.jpg 1024w" sizes="(max-width: 842px) 100vw, 842px" />
+<img class="wp-image-75 aligncenter" src="http://blog.igluonline.com/images/uploads/2016/06/Photoshop_atualizacao_2015.5.02.jpg" alt="Photoshop_atualizacao_2015.5.02" width="842" height="476" srcset="/images/uploads/2016/06/Photoshop_atualizacao_2015.5.02.jpg 1856w, /images/uploads/2016/06/Photoshop_atualizacao_2015.5.02-300x170.jpg 300w, /images/uploads/2016/06/Photoshop_atualizacao_2015.5.02-768x434.jpg 768w, /images/uploads/2016/06/Photoshop_atualizacao_2015.5.02-1024x579.jpg 1024w" sizes="(max-width: 842px) 100vw, 842px" />
 
 ## Identificador de Fontes
 
@@ -60,7 +60,7 @@ Essa é a funcionalidade mais interessante da atualização na minha opinião. S
 
 <a href="https://www.igluonline.com/funcionalidade-photoshop-da-semana-texto-e-fontes-customizadas/" target="_blank"><strong>Confira também nosso tutorial completo sobre a ferramenta de texto e fontes no Photoshop.</strong></a>
 
-<img class="size-full wp-image-76 aligncenter" src="http://blog.igluonline.com/wp-content/uploads/2016/06/Photoshop_atualizacao_2015.5.04.jpg" alt="Photoshop_atualizacao_2015.5.04" width="831" height="618" srcset="https://www.igluonline.com/wp-content/uploads/2016/06/Photoshop_atualizacao_2015.5.04.jpg 831w, https://www.igluonline.com/wp-content/uploads/2016/06/Photoshop_atualizacao_2015.5.04-300x223.jpg 300w, https://www.igluonline.com/wp-content/uploads/2016/06/Photoshop_atualizacao_2015.5.04-768x571.jpg 768w" sizes="(max-width: 831px) 100vw, 831px" />
+<img class="size-full wp-image-76 aligncenter" src="http://blog.igluonline.com/images/uploads/2016/06/Photoshop_atualizacao_2015.5.04.jpg" alt="Photoshop_atualizacao_2015.5.04" width="831" height="618" srcset="/images/uploads/2016/06/Photoshop_atualizacao_2015.5.04.jpg 831w, /images/uploads/2016/06/Photoshop_atualizacao_2015.5.04-300x223.jpg 300w, /images/uploads/2016/06/Photoshop_atualizacao_2015.5.04-768x571.jpg 768w" sizes="(max-width: 831px) 100vw, 831px" />
 
 ## Selecionar e Mascarar
 
@@ -70,7 +70,7 @@ Até a última versão do Photoshop, ao terminar uma seleção podíamos clicar 
 
 Além disso, a funcionalidade agora abre em um espaço próprio de edição e se assemelha a uma máscara que pintamos de preto ou branco para alterar a visibilidade da seleção. Complexos contornos em cabelos, com essa funcionalidade, ficaram bem mais simples de se fazer.
 
-<img class=" wp-image-77 aligncenter" src="http://blog.igluonline.com/wp-content/uploads/2016/06/Photoshop_atualizacao_2015.5.03.jpg" alt="Photoshop_atualizacao_2015.5.03" width="831" height="406" srcset="https://www.igluonline.com/wp-content/uploads/2016/06/Photoshop_atualizacao_2015.5.03.jpg 1280w, https://www.igluonline.com/wp-content/uploads/2016/06/Photoshop_atualizacao_2015.5.03-300x146.jpg 300w, https://www.igluonline.com/wp-content/uploads/2016/06/Photoshop_atualizacao_2015.5.03-768x375.jpg 768w, https://www.igluonline.com/wp-content/uploads/2016/06/Photoshop_atualizacao_2015.5.03-1024x500.jpg 1024w" sizes="(max-width: 831px) 100vw, 831px" />
+<img class=" wp-image-77 aligncenter" src="http://blog.igluonline.com/images/uploads/2016/06/Photoshop_atualizacao_2015.5.03.jpg" alt="Photoshop_atualizacao_2015.5.03" width="831" height="406" srcset="/images/uploads/2016/06/Photoshop_atualizacao_2015.5.03.jpg 1280w, /images/uploads/2016/06/Photoshop_atualizacao_2015.5.03-300x146.jpg 300w, /images/uploads/2016/06/Photoshop_atualizacao_2015.5.03-768x375.jpg 768w, /images/uploads/2016/06/Photoshop_atualizacao_2015.5.03-1024x500.jpg 1024w" sizes="(max-width: 831px) 100vw, 831px" />
 
 ## Melhoras na Performance
 

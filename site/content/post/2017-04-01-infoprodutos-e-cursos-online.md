@@ -85,7 +85,7 @@ A ordem que apresentei as divisões foi proposital pois, independentemente do cu
 
 Trabalhar com essas dualidades é uma forma de simplificar o pensamento. Naturalmente na verdade cada uma dessas divisões são escalas. Existem níveis de profissionalismo, existem preços baratos e caros e existem cursos bons em algumas coisas e ruins em outras. De qualquer maneira, temos algo mais ou menos assim:
 
-<img class="aligncenter wp-image-700 size-full" src="https://www.igluonline.com/wp-content/uploads/2017/03/curso_online.jpg" alt="Tipos de curso online" width="484" height="400" srcset="https://www.igluonline.com/wp-content/uploads/2017/03/curso_online.jpg 484w, https://www.igluonline.com/wp-content/uploads/2017/03/curso_online-300x248.jpg 300w" sizes="(max-width: 484px) 100vw, 484px" />
+<img class="aligncenter wp-image-700 size-full" src="/images/uploads/2017/03/curso_online.jpg" alt="Tipos de curso online" width="484" height="400" srcset="/images/uploads/2017/03/curso_online.jpg 484w, /images/uploads/2017/03/curso_online-300x248.jpg 300w" sizes="(max-width: 484px) 100vw, 484px" />
 
 Cada linha colorida é um curso diferente. Se for para dar um exemplo, o azul seria um curso de desenvolvimento de aplicativos iOS que comprei há uns anos. Muito técnico, bem produzido, caro e muito ruim.
 
@@ -240,7 +240,7 @@ Particularmente eu acho hilária a noção de bônus na maior parte das ofertas 
 O efeito que isso tem é similar ao do tripwire, mencionado no ponto anterior desse artigo. Cria-se uma noção de que você ganha muito mais pelo preço ofertado. Recentemente vi um produto que custava US$2 000,00. Na página de vendas tinha mais de R$ 15 000,00 em bônus. Então a ideia é que os clientes pagarão por uma fração do conteúdo oferecido.
 
 <div id="attachment_705" style="width: 735px" class="wp-caption aligncenter">
-  <a href="https://courses.chalenejohnson.com/p/2017-open?affiliate_token=9GvJoAzIpTKENH0g" target="_blank"><img class="wp-image-705 size-full" src="https://www.igluonline.com/wp-content/uploads/2017/04/venda_produtos_digitais.jpg" alt="Marketing Impact Academy" width="725" height="254" srcset="https://www.igluonline.com/wp-content/uploads/2017/04/venda_produtos_digitais.jpg 725w, https://www.igluonline.com/wp-content/uploads/2017/04/venda_produtos_digitais-300x105.jpg 300w" sizes="(max-width: 725px) 100vw, 725px" /></a>
+  <a href="https://courses.chalenejohnson.com/p/2017-open?affiliate_token=9GvJoAzIpTKENH0g" target="_blank"><img class="wp-image-705 size-full" src="/images/uploads/2017/04/venda_produtos_digitais.jpg" alt="Marketing Impact Academy" width="725" height="254" srcset="/images/uploads/2017/04/venda_produtos_digitais.jpg 725w, /images/uploads/2017/04/venda_produtos_digitais-300x105.jpg 300w" sizes="(max-width: 725px) 100vw, 725px" /></a>
   
   <p class="wp-caption-text">
     Marketing Impact Academy
@@ -296,7 +296,7 @@ Se você está pensando em produzir um infoproduto, essa tática é boa mas some
 Grande parte dos vídeos no processo da fórmula de lançamento contém depoimentos de pessoas que ou já fizeram o curso ou foram impactadas pelo criador do curso e sua metodologia. Depoimentos em vídeo ou mesmo texto são uma evolução da tradicional avaliação com 5 estrelinhas. Elas servem para passar mais confiança para quem está querendo adquirir o produto.
 
 <div id="attachment_706" style="width: 847px" class="wp-caption aligncenter">
-  <img class="wp-image-706" src="https://www.igluonline.com/wp-content/uploads/2017/04/depoimentos_cursos_online.jpg" alt="Fórmula de Lançamento - Érico Rocha" width="837" height="319" srcset="https://www.igluonline.com/wp-content/uploads/2017/04/depoimentos_cursos_online.jpg 1139w, https://www.igluonline.com/wp-content/uploads/2017/04/depoimentos_cursos_online-300x114.jpg 300w, https://www.igluonline.com/wp-content/uploads/2017/04/depoimentos_cursos_online-768x293.jpg 768w, https://www.igluonline.com/wp-content/uploads/2017/04/depoimentos_cursos_online-1024x390.jpg 1024w" sizes="(max-width: 837px) 100vw, 837px" />
+  <img class="wp-image-706" src="/images/uploads/2017/04/depoimentos_cursos_online.jpg" alt="Fórmula de Lançamento - Érico Rocha" width="837" height="319" srcset="/images/uploads/2017/04/depoimentos_cursos_online.jpg 1139w, /images/uploads/2017/04/depoimentos_cursos_online-300x114.jpg 300w, /images/uploads/2017/04/depoimentos_cursos_online-768x293.jpg 768w, /images/uploads/2017/04/depoimentos_cursos_online-1024x390.jpg 1024w" sizes="(max-width: 837px) 100vw, 837px" />
   
   <p class="wp-caption-text">
     Fórmula de Lançamento &#8211; Érico Rocha
@@ -312,7 +312,7 @@ A página de vendas de muitos cursos é repleta de números para impressionar qu
 Da mesma forma que a prova social, muitos usuários não querem comprar algo ou fazer parte de uma turma de alunos sem que haja mais pessoas para dar segurança. Ter números assim faz com que usuários se sintam mais tranquilos ao se comprometer com a compra por não estarem sozinhos.
 
 <div id="attachment_707" style="width: 697px" class="wp-caption aligncenter">
-  <a href="http://www.hsacademy.com.br/hsweek/action/" target="_blank"><img class="wp-image-707" src="https://www.igluonline.com/wp-content/uploads/2017/04/Screenshot_3.jpg" alt="High Stakes Academy" width="687" height="226" srcset="https://www.igluonline.com/wp-content/uploads/2017/04/Screenshot_3.jpg 797w, https://www.igluonline.com/wp-content/uploads/2017/04/Screenshot_3-300x99.jpg 300w, https://www.igluonline.com/wp-content/uploads/2017/04/Screenshot_3-768x252.jpg 768w" sizes="(max-width: 687px) 100vw, 687px" /></a>
+  <a href="http://www.hsacademy.com.br/hsweek/action/" target="_blank"><img class="wp-image-707" src="/images/uploads/2017/04/Screenshot_3.jpg" alt="High Stakes Academy" width="687" height="226" srcset="/images/uploads/2017/04/Screenshot_3.jpg 797w, /images/uploads/2017/04/Screenshot_3-300x99.jpg 300w, /images/uploads/2017/04/Screenshot_3-768x252.jpg 768w" sizes="(max-width: 687px) 100vw, 687px" /></a>
   
   <p class="wp-caption-text">
     High Stakes Academy

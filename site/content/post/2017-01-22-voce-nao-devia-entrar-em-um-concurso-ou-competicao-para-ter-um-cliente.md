@@ -104,7 +104,7 @@ Acredito que cada um de nós tem uma forma de olhar para os desafios e oportunid
 
 Trabalhe nesses serviços &#8220;fast food&#8221; quando preciso, só não sugiro se deixar levar demais por eles.
 
-<img class=" wp-image-438 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/01/woman-hand-smartphone-desk.jpg" alt="" width="1172" height="781" srcset="https://www.igluonline.com/wp-content/uploads/2017/01/woman-hand-smartphone-desk.jpg 1280w, https://www.igluonline.com/wp-content/uploads/2017/01/woman-hand-smartphone-desk-300x200.jpg 300w, https://www.igluonline.com/wp-content/uploads/2017/01/woman-hand-smartphone-desk-768x512.jpg 768w, https://www.igluonline.com/wp-content/uploads/2017/01/woman-hand-smartphone-desk-1024x682.jpg 1024w" sizes="(max-width: 1172px) 100vw, 1172px" />
+<img class=" wp-image-438 aligncenter" src="http://igluonline.com/images/uploads/2017/01/woman-hand-smartphone-desk.jpg" alt="" width="1172" height="781" srcset="/images/uploads/2017/01/woman-hand-smartphone-desk.jpg 1280w, /images/uploads/2017/01/woman-hand-smartphone-desk-300x200.jpg 300w, /images/uploads/2017/01/woman-hand-smartphone-desk-768x512.jpg 768w, /images/uploads/2017/01/woman-hand-smartphone-desk-1024x682.jpg 1024w" sizes="(max-width: 1172px) 100vw, 1172px" />
 
 Agora&#8230;se você é um cliente está na dúvida se deve ou não utilizar esses serviços, aqui vão mais alguns pontos para considerarmos.
 
@@ -146,7 +146,7 @@ Coisas bem feitas demoram mais tempo mesmo para se fazer. É inevitável.
 
 Se esses designers estão produzindo centenas de logos (ou qualquer outro tipo de projeto) por mês, a chance do trabalho ser apenas uma derivação de outro ou mesmo um template com o nome da sua empresa escrito em cima é grande. Eles não podem gastar tempo pensando na sua empresa ou projeto. **Eles devem correr e fazer o maior número possível com o intuito de bater as metas para que a probabilidade os ajude**.
 
-<img class=" wp-image-439 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/01/hand-the-hand-gesture-stick-39393.png" alt="" width="892" height="593" srcset="https://www.igluonline.com/wp-content/uploads/2017/01/hand-the-hand-gesture-stick-39393.png 1280w, https://www.igluonline.com/wp-content/uploads/2017/01/hand-the-hand-gesture-stick-39393-300x199.png 300w, https://www.igluonline.com/wp-content/uploads/2017/01/hand-the-hand-gesture-stick-39393-768x511.png 768w, https://www.igluonline.com/wp-content/uploads/2017/01/hand-the-hand-gesture-stick-39393-1024x681.png 1024w" sizes="(max-width: 892px) 100vw, 892px" />
+<img class=" wp-image-439 aligncenter" src="http://igluonline.com/images/uploads/2017/01/hand-the-hand-gesture-stick-39393.png" alt="" width="892" height="593" srcset="/images/uploads/2017/01/hand-the-hand-gesture-stick-39393.png 1280w, /images/uploads/2017/01/hand-the-hand-gesture-stick-39393-300x199.png 300w, /images/uploads/2017/01/hand-the-hand-gesture-stick-39393-768x511.png 768w, /images/uploads/2017/01/hand-the-hand-gesture-stick-39393-1024x681.png 1024w" sizes="(max-width: 892px) 100vw, 892px" />
 
 Se você conhece alguém que fez uma identidade visual num site de concurso pergunte sobre as opções oferecidas. A maior parte é ruim ou simplesmente inaceitável. Alguns podem ser melhores e se der sorte pode ter até algum muito bom.
 

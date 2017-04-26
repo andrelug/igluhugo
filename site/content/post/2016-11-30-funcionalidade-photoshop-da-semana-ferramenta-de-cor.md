@@ -36,11 +36,11 @@ As ferramentas de Cor e Amostras no Photoshop servem para selecionar, modificar,
 
 Se seu Photoshop está configurado no espaço de trabalho Essencial (o que já vem quando é instalado) então você pode localizar os módulos de cor no canto superior direito de sua tela.
 
-<img class="size-full wp-image-144 aligncenter" src="http://blog.igluonline.com/wp-content/uploads/2016/11/Screenshot_1.png" alt="screenshot_1" width="775" height="309" srcset="https://www.igluonline.com/wp-content/uploads/2016/11/Screenshot_1.png 775w, https://www.igluonline.com/wp-content/uploads/2016/11/Screenshot_1-300x120.png 300w, https://www.igluonline.com/wp-content/uploads/2016/11/Screenshot_1-768x306.png 768w" sizes="(max-width: 775px) 100vw, 775px" />
+<img class="size-full wp-image-144 aligncenter" src="http://blog.igluonline.com/images/uploads/2016/11/Screenshot_1.png" alt="screenshot_1" width="775" height="309" srcset="/images/uploads/2016/11/Screenshot_1.png 775w, /images/uploads/2016/11/Screenshot_1-300x120.png 300w, /images/uploads/2016/11/Screenshot_1-768x306.png 768w" sizes="(max-width: 775px) 100vw, 775px" />
 
 Outra forma de encontrar a ferramenta é abaixo da coluna de ferramentas no canto inferior esquerdo.
 
-<img class="size-full wp-image-145 aligncenter" src="http://blog.igluonline.com/wp-content/uploads/2016/11/Screenshot_2.png" alt="screenshot_2" width="268" height="195" />
+<img class="size-full wp-image-145 aligncenter" src="http://blog.igluonline.com/images/uploads/2016/11/Screenshot_2.png" alt="screenshot_2" width="268" height="195" />
 
 ## Funcionalidades
 
@@ -50,7 +50,7 @@ Abra o seletor de cores clicando duas vezes com o botão esquerdo do mouse ou no
 
 A partir daí, você pode salvar essa cor clicando em Adicionar a amostras.
 
-<img class="size-full wp-image-148 aligncenter" src="http://blog.igluonline.com/wp-content/uploads/2016/11/Screenshot_3.png" alt="screenshot_3" width="568" height="387" srcset="https://www.igluonline.com/wp-content/uploads/2016/11/Screenshot_3.png 568w, https://www.igluonline.com/wp-content/uploads/2016/11/Screenshot_3-300x204.png 300w" sizes="(max-width: 568px) 100vw, 568px" />
+<img class="size-full wp-image-148 aligncenter" src="http://blog.igluonline.com/images/uploads/2016/11/Screenshot_3.png" alt="screenshot_3" width="568" height="387" srcset="/images/uploads/2016/11/Screenshot_3.png 568w, /images/uploads/2016/11/Screenshot_3-300x204.png 300w" sizes="(max-width: 568px) 100vw, 568px" />
 
 ## Dicas para lembrar
 
@@ -60,9 +60,9 @@ A partir daí, você pode salvar essa cor clicando em Adicionar a amostras.
 
 ## Sugestão de exercício
 
-Crie um novo documento em branco, selecione a ferramenta de pincel na barra de ferramentas à esquerda de sua tela do Photoshop <img class="alignnone size-full wp-image-149" src="http://blog.igluonline.com/wp-content/uploads/2016/11/Screenshot_4.png" alt="screenshot_4" width="33" height="30" />, abra a caixa de Amostras e comece a testar desenhando algo no seu canvas. Abra em seguida o seletor de cores e experimente criar sua própria amostra como indicado acima.
+Crie um novo documento em branco, selecione a ferramenta de pincel na barra de ferramentas à esquerda de sua tela do Photoshop <img class="alignnone size-full wp-image-149" src="http://blog.igluonline.com/images/uploads/2016/11/Screenshot_4.png" alt="screenshot_4" width="33" height="30" />, abra a caixa de Amostras e comece a testar desenhando algo no seu canvas. Abra em seguida o seletor de cores e experimente criar sua própria amostra como indicado acima.
 
-<img class="alignnone size-full wp-image-150" src="http://blog.igluonline.com/wp-content/uploads/2016/11/Screenshot_5.png" alt="screenshot_5" width="1550" height="341" srcset="https://www.igluonline.com/wp-content/uploads/2016/11/Screenshot_5.png 1550w, https://www.igluonline.com/wp-content/uploads/2016/11/Screenshot_5-300x66.png 300w, https://www.igluonline.com/wp-content/uploads/2016/11/Screenshot_5-768x169.png 768w, https://www.igluonline.com/wp-content/uploads/2016/11/Screenshot_5-1024x225.png 1024w" sizes="(max-width: 1550px) 100vw, 1550px" />
+<img class="alignnone size-full wp-image-150" src="http://blog.igluonline.com/images/uploads/2016/11/Screenshot_5.png" alt="screenshot_5" width="1550" height="341" srcset="/images/uploads/2016/11/Screenshot_5.png 1550w, /images/uploads/2016/11/Screenshot_5-300x66.png 300w, /images/uploads/2016/11/Screenshot_5-768x169.png 768w, /images/uploads/2016/11/Screenshot_5-1024x225.png 1024w" sizes="(max-width: 1550px) 100vw, 1550px" />
 
 &nbsp;
 

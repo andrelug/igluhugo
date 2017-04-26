@@ -42,7 +42,7 @@ Essas são as ferramentas prediletas dos artistas digitais e recurso que precisa
 
 A ferramenta pode ser acessada na barra principal de ferramentas no canto esquerdo da sua tela do Photoshop. Também ela conta com o atalho da letra **B** (de Brush) no seu teclado.
 
-<img class="size-full wp-image-459 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/02/funcionalidade_photoshop_pincel.jpg" alt="" width="782" height="580" srcset="https://www.igluonline.com/wp-content/uploads/2017/02/funcionalidade_photoshop_pincel.jpg 782w, https://www.igluonline.com/wp-content/uploads/2017/02/funcionalidade_photoshop_pincel-300x223.jpg 300w, https://www.igluonline.com/wp-content/uploads/2017/02/funcionalidade_photoshop_pincel-768x570.jpg 768w" sizes="(max-width: 782px) 100vw, 782px" />
+<img class="size-full wp-image-459 aligncenter" src="http://igluonline.com/images/uploads/2017/02/funcionalidade_photoshop_pincel.jpg" alt="" width="782" height="580" srcset="/images/uploads/2017/02/funcionalidade_photoshop_pincel.jpg 782w, /images/uploads/2017/02/funcionalidade_photoshop_pincel-300x223.jpg 300w, /images/uploads/2017/02/funcionalidade_photoshop_pincel-768x570.jpg 768w" sizes="(max-width: 782px) 100vw, 782px" />
 
 Uma vez que essa ferramenta lida com cores e camadas, recomendo dar uma olhada em nossos outros dois artigos sobre as funcionalidades de cor e camadas caso ainda não esteja familiarizado com essas funcionalidades.
 
@@ -57,7 +57,7 @@ Ambas ferramentas de pincel e lápis funcionam de forma similar. Contudo a ferra
 
 Uma das primeiras coisas que podemos considerar na hora de criar um traço em nosso canvas no Photoshop é o tamanho desse traço. Para se controlar o tamanho você deverá abrir o painel de controle das características do traço localizado na barra de opções da ferramenta no topo de sua tela. Lá você encontrará o primeiro item que é de tamanho, podendo não só colocar um valor em pixels como arrastar o slider para controlar.
 
-<img class="size-full wp-image-460 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/02/funcionalidade_photoshop_pincel2.jpg" alt="" width="857" height="535" srcset="https://www.igluonline.com/wp-content/uploads/2017/02/funcionalidade_photoshop_pincel2.jpg 857w, https://www.igluonline.com/wp-content/uploads/2017/02/funcionalidade_photoshop_pincel2-300x187.jpg 300w, https://www.igluonline.com/wp-content/uploads/2017/02/funcionalidade_photoshop_pincel2-768x479.jpg 768w" sizes="(max-width: 857px) 100vw, 857px" />
+<img class="size-full wp-image-460 aligncenter" src="http://igluonline.com/images/uploads/2017/02/funcionalidade_photoshop_pincel2.jpg" alt="" width="857" height="535" srcset="/images/uploads/2017/02/funcionalidade_photoshop_pincel2.jpg 857w, /images/uploads/2017/02/funcionalidade_photoshop_pincel2-300x187.jpg 300w, /images/uploads/2017/02/funcionalidade_photoshop_pincel2-768x479.jpg 768w" sizes="(max-width: 857px) 100vw, 857px" />
 
 Uma outra forma também de rapidamente alterar é utilizando os atalhos no seu teclado. **[** para diminuir o tamanho e **]** para aumentar o tamanho.
 
@@ -65,13 +65,13 @@ Uma outra forma também de rapidamente alterar é utilizando os atalhos no seu t
 
 Podendo ser encontrada no mesmo local do tamanho, essa opção lida com as bordas do traço, deixando elas mais duras ou mais leves formando um gradiente.
 
-<img class="size-full wp-image-461 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/02/funcionalidade_photoshop_pincel3.jpg" alt="" width="612" height="260" srcset="https://www.igluonline.com/wp-content/uploads/2017/02/funcionalidade_photoshop_pincel3.jpg 612w, https://www.igluonline.com/wp-content/uploads/2017/02/funcionalidade_photoshop_pincel3-300x127.jpg 300w" sizes="(max-width: 612px) 100vw, 612px" />
+<img class="size-full wp-image-461 aligncenter" src="http://igluonline.com/images/uploads/2017/02/funcionalidade_photoshop_pincel3.jpg" alt="" width="612" height="260" srcset="/images/uploads/2017/02/funcionalidade_photoshop_pincel3.jpg 612w, /images/uploads/2017/02/funcionalidade_photoshop_pincel3-300x127.jpg 300w" sizes="(max-width: 612px) 100vw, 612px" />
 
 ### Pinceis e presets
 
 No mesmo local do tamanho e dureza podem ser localizados os pinceis disponíveis. Eles são nada mais do que combinações entre dureza, tamanho e texturas. Esses pinceis representam traços de pinceis encontrados na vida real e são de excelente uso para quem já está acostumado com as técnicas e resultados de determinados tipos de traços feitos com esses utensílios.
 
-<img class="size-full wp-image-462 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/02/funcionalidade_photoshop_pincel4.jpg" alt="" width="958" height="585" srcset="https://www.igluonline.com/wp-content/uploads/2017/02/funcionalidade_photoshop_pincel4.jpg 958w, https://www.igluonline.com/wp-content/uploads/2017/02/funcionalidade_photoshop_pincel4-300x183.jpg 300w, https://www.igluonline.com/wp-content/uploads/2017/02/funcionalidade_photoshop_pincel4-768x469.jpg 768w" sizes="(max-width: 958px) 100vw, 958px" />
+<img class="size-full wp-image-462 aligncenter" src="http://igluonline.com/images/uploads/2017/02/funcionalidade_photoshop_pincel4.jpg" alt="" width="958" height="585" srcset="/images/uploads/2017/02/funcionalidade_photoshop_pincel4.jpg 958w, /images/uploads/2017/02/funcionalidade_photoshop_pincel4-300x183.jpg 300w, /images/uploads/2017/02/funcionalidade_photoshop_pincel4-768x469.jpg 768w" sizes="(max-width: 958px) 100vw, 958px" />
 
 ### Modo de camada
 
@@ -85,21 +85,21 @@ Andando um pouco para a direita nessa barra de opções dos pinceis achamos o co
 
 Essa opção não é muito percebida sem o uso de um tablet de desenho, mas ela controla a quantidade de tinta que supostamente sai do pincel no momento de realizar os traços. Quando utilizada com um mouse ela tem um efeito muito parecido com o de opacidade, mas é possível distinguir facilmente pele espaço entre os pontos do traçado.
 
-<img class="size-full wp-image-463 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/02/funcionalidade_photoshop_pincel5.jpg" alt="" width="668" height="204" srcset="https://www.igluonline.com/wp-content/uploads/2017/02/funcionalidade_photoshop_pincel5.jpg 668w, https://www.igluonline.com/wp-content/uploads/2017/02/funcionalidade_photoshop_pincel5-300x92.jpg 300w" sizes="(max-width: 668px) 100vw, 668px" />
+<img class="size-full wp-image-463 aligncenter" src="http://igluonline.com/images/uploads/2017/02/funcionalidade_photoshop_pincel5.jpg" alt="" width="668" height="204" srcset="/images/uploads/2017/02/funcionalidade_photoshop_pincel5.jpg 668w, /images/uploads/2017/02/funcionalidade_photoshop_pincel5-300x92.jpg 300w" sizes="(max-width: 668px) 100vw, 668px" />
 
 ### Efeito de aerógrafo
 
 Quase no final dessa barra de opções da ferramenta no topo da tela do Photoshop você encontrará um ícone similar a um spray. Essa opção ativa ou desativa o efeito de aerógrafo (airbrush). Esse efeito simula um spray (tipo aqueles de pichador) no seu pincel. A grade diferença entre o pincel com e sem essa opção marcada é no momento de segurar o clique. Quando está ativada o clique resulta em mais tinta sendo espalhada ao redor do ponto. Veja o exemplo abaixo do mesmo pincel com ou sem o efeito de aerógrafo ativado após segurar por dois segundos o clique do traço.
 
-<img class="size-full wp-image-464 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/02/funcionalidade_photoshop_pincel6.jpg" alt="" width="472" height="257" srcset="https://www.igluonline.com/wp-content/uploads/2017/02/funcionalidade_photoshop_pincel6.jpg 472w, https://www.igluonline.com/wp-content/uploads/2017/02/funcionalidade_photoshop_pincel6-300x163.jpg 300w" sizes="(max-width: 472px) 100vw, 472px" />
+<img class="size-full wp-image-464 aligncenter" src="http://igluonline.com/images/uploads/2017/02/funcionalidade_photoshop_pincel6.jpg" alt="" width="472" height="257" srcset="/images/uploads/2017/02/funcionalidade_photoshop_pincel6.jpg 472w, /images/uploads/2017/02/funcionalidade_photoshop_pincel6-300x163.jpg 300w" sizes="(max-width: 472px) 100vw, 472px" />
 
 ### Funcionalidades para tablets de desenho
 
 Para fazer desenhos digitais normalmente é necessário o uso de tables de desenho. Eles se parecem com isto:
 
-<img class=" wp-image-465 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/02/galleryimage1IntuousManga.jpg" alt="" width="767" height="511" srcset="https://www.igluonline.com/wp-content/uploads/2017/02/galleryimage1IntuousManga.jpg 960w, https://www.igluonline.com/wp-content/uploads/2017/02/galleryimage1IntuousManga-300x200.jpg 300w, https://www.igluonline.com/wp-content/uploads/2017/02/galleryimage1IntuousManga-768x512.jpg 768w" sizes="(max-width: 767px) 100vw, 767px" />
+<img class=" wp-image-465 aligncenter" src="http://igluonline.com/images/uploads/2017/02/galleryimage1IntuousManga.jpg" alt="" width="767" height="511" srcset="/images/uploads/2017/02/galleryimage1IntuousManga.jpg 960w, /images/uploads/2017/02/galleryimage1IntuousManga-300x200.jpg 300w, /images/uploads/2017/02/galleryimage1IntuousManga-768x512.jpg 768w" sizes="(max-width: 767px) 100vw, 767px" />
 
-Faltamos falar de três ícones na barra de opções das ferramentas de desenho. Vamos agora falar sobre essas duas: <img class="alignnone wp-image-466" src="http://igluonline.com/wp-content/uploads/2017/02/Screenshot_1.jpg" alt="" width="270" height="55" />
+Faltamos falar de três ícones na barra de opções das ferramentas de desenho. Vamos agora falar sobre essas duas: <img class="alignnone wp-image-466" src="http://igluonline.com/images/uploads/2017/02/Screenshot_1.jpg" alt="" width="270" height="55" />
 
 A primeira na imagem possibilita que o controle de opacidade seja feito através do sistema de pressão do tablet. Isto é, quando mais leve o traço é feito, menor será o nível da opacidade. Já o segundo ícone, quando ativado, permite o sistema de pressão controlar o tamanho do traço no Photoshop. Quando ambos estão ativados os efeitos são muito similares ao traço real em um papel ou tela de pintura pois simulam exatamente os efeitos verdadeiros.
 

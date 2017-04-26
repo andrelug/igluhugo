@@ -48,7 +48,7 @@ Para solucionar essa dificuldade, gestores de pacotes (que agora vou me referir 
 
 O][4] tinha seus problemas, então uma solução melhorada surgiu com o nome de NPM. Só que a partir do ponto que Node escolheu o NPM como seu package manager padrão ele cresceu imensamente e hoje é um dos maiores gerenciadores disponíveis.
 
-<img class=" wp-image-277 aligncenter" src="http://blog.igluonline.com/wp-content/uploads/2016/12/pexels-photo-169573.jpeg" alt="" width="993" height="662" srcset="https://www.igluonline.com/wp-content/uploads/2016/12/pexels-photo-169573.jpeg 1280w, https://www.igluonline.com/wp-content/uploads/2016/12/pexels-photo-169573-300x200.jpeg 300w, https://www.igluonline.com/wp-content/uploads/2016/12/pexels-photo-169573-768x512.jpeg 768w, https://www.igluonline.com/wp-content/uploads/2016/12/pexels-photo-169573-1024x682.jpeg 1024w" sizes="(max-width: 993px) 100vw, 993px" />
+<img class=" wp-image-277 aligncenter" src="http://blog.igluonline.com/images/uploads/2016/12/pexels-photo-169573.jpeg" alt="" width="993" height="662" srcset="/images/uploads/2016/12/pexels-photo-169573.jpeg 1280w, /images/uploads/2016/12/pexels-photo-169573-300x200.jpeg 300w, /images/uploads/2016/12/pexels-photo-169573-768x512.jpeg 768w, /images/uploads/2016/12/pexels-photo-169573-1024x682.jpeg 1024w" sizes="(max-width: 993px) 100vw, 993px" />
 
 ## Problemas com NPM
 
@@ -67,7 +67,7 @@ Essa ferramenta possibilita utilizar de pacotes e bibliotecas de múltiplos regi
 
 Se um request de um pacote qualquer falhar, não vai causar o erro na instalação imediatamente. Ele irá tentar novamente após falhas. Ou seja, considerando tudo que vimos o Yarn é uma melhor alternativa para o NPM por proporcionar uma dinâmica de trabalho melhor.
 
-<img class=" wp-image-276 aligncenter" src="http://blog.igluonline.com/wp-content/uploads/2016/12/Screenshot_1-2.jpg" alt="" width="1132" height="623" srcset="https://www.igluonline.com/wp-content/uploads/2016/12/Screenshot_1-2.jpg 1314w, https://www.igluonline.com/wp-content/uploads/2016/12/Screenshot_1-2-300x165.jpg 300w, https://www.igluonline.com/wp-content/uploads/2016/12/Screenshot_1-2-768x423.jpg 768w, https://www.igluonline.com/wp-content/uploads/2016/12/Screenshot_1-2-1024x563.jpg 1024w" sizes="(max-width: 1132px) 100vw, 1132px" />
+<img class=" wp-image-276 aligncenter" src="http://blog.igluonline.com/images/uploads/2016/12/Screenshot_1-2.jpg" alt="" width="1132" height="623" srcset="/images/uploads/2016/12/Screenshot_1-2.jpg 1314w, /images/uploads/2016/12/Screenshot_1-2-300x165.jpg 300w, /images/uploads/2016/12/Screenshot_1-2-768x423.jpg 768w, /images/uploads/2016/12/Screenshot_1-2-1024x563.jpg 1024w" sizes="(max-width: 1132px) 100vw, 1132px" />
 
 ## Instalando o Yarn
 
@@ -162,7 +162,7 @@ Uma dica bacana é que você deverá adicionar esse arquivo no seu controle de v
 
 A maior parte dos packages managers vêm com muito lixo e coisas inúteis. Utilizando uma [imagem de guy fierri][5] podemos ver como o Yarn ajuda nessa questão ao rodarmos o comando `yarn clean`. Ele irá remover todo o lixo que conseguir.
 
-<img class="size-full wp-image-275 aligncenter" src="http://blog.igluonline.com/wp-content/uploads/2016/12/clean.gif" alt="" width="959" height="233" />
+<img class="size-full wp-image-275 aligncenter" src="http://blog.igluonline.com/images/uploads/2016/12/clean.gif" alt="" width="959" height="233" />
 
 Após o comando um arquivo chamado **.yarnclean** será criado e irá ajudar futuras instalações a não adicionarem lixo para o projeto. Esse é um arquivo que é bom manter no seu controle de versão.
 
@@ -186,7 +186,7 @@ De qualquer maneira o projeto é muito bacana e vale a pena ser utilizado para s
 
 Algo bobo, mas interessante: Usuários do Windows não possuem acesso aos emojis quando instalam as dependências:
 
-<img class="size-full wp-image-274 aligncenter" src="http://blog.igluonline.com/wp-content/uploads/2016/12/imagem.gif" alt="" width="847" height="201" />
+<img class="size-full wp-image-274 aligncenter" src="http://blog.igluonline.com/images/uploads/2016/12/imagem.gif" alt="" width="847" height="201" />
 
 Fonte do artigo de referência: [Scotch.io][7]
 

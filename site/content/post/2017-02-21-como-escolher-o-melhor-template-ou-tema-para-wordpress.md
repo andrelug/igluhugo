@@ -49,7 +49,7 @@ Todo template premium acompanha um site demonstrativo para você ver como ele ap
 
 Eu já cometi o erro de comprar um template porque era muito bonito e no momento que fui adicionar o meu conteúdo ele não funcionou bem. **O que você deve olhar em um template em primeiro lugar é sua estrutura e como os seus elementos conversam**. Abstraia das imagens e tente imaginar como ele ficaria com as cores do seu projeto ou empresa.
 
-<img class=" wp-image-527 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/02/Screenshot_1-1.jpg" alt="" width="1052" height="557" srcset="https://www.igluonline.com/wp-content/uploads/2017/02/Screenshot_1-1.jpg 1422w, https://www.igluonline.com/wp-content/uploads/2017/02/Screenshot_1-1-300x159.jpg 300w, https://www.igluonline.com/wp-content/uploads/2017/02/Screenshot_1-1-768x407.jpg 768w, https://www.igluonline.com/wp-content/uploads/2017/02/Screenshot_1-1-1024x542.jpg 1024w" sizes="(max-width: 1052px) 100vw, 1052px" />
+<img class=" wp-image-527 aligncenter" src="http://igluonline.com/images/uploads/2017/02/Screenshot_1-1.jpg" alt="" width="1052" height="557" srcset="/images/uploads/2017/02/Screenshot_1-1.jpg 1422w, /images/uploads/2017/02/Screenshot_1-1-300x159.jpg 300w, /images/uploads/2017/02/Screenshot_1-1-768x407.jpg 768w, /images/uploads/2017/02/Screenshot_1-1-1024x542.jpg 1024w" sizes="(max-width: 1052px) 100vw, 1052px" />
 
 ## Design Moderno e Agradável
 
@@ -75,7 +75,7 @@ Isso nem sempre é visto como algo tão bom pois se você quiser trocar o visual
 
 Agora, em outros momentos esse tipo de funcionalidade pode ser interessante. Quando os templates oferecem funcionalidades importantes para determinados nichos, podem representar um investimento muito adequado. Por exemplo, temas para hotéis podem vir funcionalidades de criação de tipos de quartos e agendamento nesses quartos sem a necessidade de um plugin externo. Só é preciso ficar atento pois se um dia quiser trocar perderá também essa ferramenta.
 
-<img class=" wp-image-526 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/02/pexels-photo-265667.jpeg" alt="" width="1037" height="669" srcset="https://www.igluonline.com/wp-content/uploads/2017/02/pexels-photo-265667.jpeg 1280w, https://www.igluonline.com/wp-content/uploads/2017/02/pexels-photo-265667-300x194.jpeg 300w, https://www.igluonline.com/wp-content/uploads/2017/02/pexels-photo-265667-768x496.jpeg 768w, https://www.igluonline.com/wp-content/uploads/2017/02/pexels-photo-265667-1024x661.jpeg 1024w" sizes="(max-width: 1037px) 100vw, 1037px" />
+<img class=" wp-image-526 aligncenter" src="http://igluonline.com/images/uploads/2017/02/pexels-photo-265667.jpeg" alt="" width="1037" height="669" srcset="/images/uploads/2017/02/pexels-photo-265667.jpeg 1280w, /images/uploads/2017/02/pexels-photo-265667-300x194.jpeg 300w, /images/uploads/2017/02/pexels-photo-265667-768x496.jpeg 768w, /images/uploads/2017/02/pexels-photo-265667-1024x661.jpeg 1024w" sizes="(max-width: 1037px) 100vw, 1037px" />
 
 ## Segurança e Performance
 

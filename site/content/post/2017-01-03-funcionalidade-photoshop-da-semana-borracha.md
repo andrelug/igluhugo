@@ -36,7 +36,7 @@ A borracha é uma das ferramentas mais usadas no Photoshop. Tudo bem que é só 
 
 A borracha está localizada na barra de ferramentas da esquerda de sua tela no Photoshop.
 
-<img class=" wp-image-341 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/01/Screenshot_5.jpg" alt="" width="895" height="709" srcset="https://www.igluonline.com/wp-content/uploads/2017/01/Screenshot_5.jpg 927w, https://www.igluonline.com/wp-content/uploads/2017/01/Screenshot_5-300x238.jpg 300w, https://www.igluonline.com/wp-content/uploads/2017/01/Screenshot_5-768x608.jpg 768w" sizes="(max-width: 895px) 100vw, 895px" />
+<img class=" wp-image-341 aligncenter" src="http://igluonline.com/images/uploads/2017/01/Screenshot_5.jpg" alt="" width="895" height="709" srcset="/images/uploads/2017/01/Screenshot_5.jpg 927w, /images/uploads/2017/01/Screenshot_5-300x238.jpg 300w, /images/uploads/2017/01/Screenshot_5-768x608.jpg 768w" sizes="(max-width: 895px) 100vw, 895px" />
 
 Você também pode a acessar através de seu atalho clicando na tecla E do seu teclado.
 
@@ -62,13 +62,13 @@ Essa ferramenta é uma daquelas que vai te economizar tempo infinito. Quando voc
 
 Para usar a ferramenta de borracha de plano de funco, clique e segure no ícone da borracha na barra de ferramentas até que apareça o menu de seleção. Aí é só clicar na ferramenta de &#8220;Borracha de plano de fundo&#8221;.
 
-<img class="size-full wp-image-342 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/01/Screenshot_6.jpg" alt="" width="379" height="176" srcset="https://www.igluonline.com/wp-content/uploads/2017/01/Screenshot_6.jpg 379w, https://www.igluonline.com/wp-content/uploads/2017/01/Screenshot_6-300x139.jpg 300w" sizes="(max-width: 379px) 100vw, 379px" />
+<img class="size-full wp-image-342 aligncenter" src="http://igluonline.com/images/uploads/2017/01/Screenshot_6.jpg" alt="" width="379" height="176" srcset="/images/uploads/2017/01/Screenshot_6.jpg 379w, /images/uploads/2017/01/Screenshot_6-300x139.jpg 300w" sizes="(max-width: 379px) 100vw, 379px" />
 
 &nbsp;
 
 Agora você está pronto para apagar os backgrounds sem problemas. Ajuste o tamanho da sua borracha e simplesmente clique na cor que você gostaria de deletar da camada selecionada. lembre-se de conferir se a camada que está selecionada é a camada com a cor que você deseja deletar.
 
-<img class="size-full wp-image-343 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/01/Screenshot_7.jpg" alt="" width="1334" height="897" srcset="https://www.igluonline.com/wp-content/uploads/2017/01/Screenshot_7.jpg 1334w, https://www.igluonline.com/wp-content/uploads/2017/01/Screenshot_7-300x202.jpg 300w, https://www.igluonline.com/wp-content/uploads/2017/01/Screenshot_7-768x516.jpg 768w, https://www.igluonline.com/wp-content/uploads/2017/01/Screenshot_7-1024x689.jpg 1024w" sizes="(max-width: 1334px) 100vw, 1334px" />
+<img class="size-full wp-image-343 aligncenter" src="http://igluonline.com/images/uploads/2017/01/Screenshot_7.jpg" alt="" width="1334" height="897" srcset="/images/uploads/2017/01/Screenshot_7.jpg 1334w, /images/uploads/2017/01/Screenshot_7-300x202.jpg 300w, /images/uploads/2017/01/Screenshot_7-768x516.jpg 768w, /images/uploads/2017/01/Screenshot_7-1024x689.jpg 1024w" sizes="(max-width: 1334px) 100vw, 1334px" />
 
 &nbsp;
 

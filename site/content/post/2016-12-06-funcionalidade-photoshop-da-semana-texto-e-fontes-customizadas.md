@@ -33,17 +33,17 @@ A ferramenta de texto no Photoshop é muito poderosa e nos dá a possibilidade d
 
 ## Onde está localizada
 
-Para acessar a ferramenta, basta clicar no ícone <img class="alignnone size-full wp-image-162" src="http://blog.igluonline.com/wp-content/uploads/2016/12/Screenshot_2.png" alt="screenshot_2" width="29" height="27" /> localizado na barra de ferramentas no canto esquerdo da tela do Photoshop. O ícone está entre as últimas ferramentas dessa barra.
+Para acessar a ferramenta, basta clicar no ícone <img class="alignnone size-full wp-image-162" src="http://blog.igluonline.com/images/uploads/2016/12/Screenshot_2.png" alt="screenshot_2" width="29" height="27" /> localizado na barra de ferramentas no canto esquerdo da tela do Photoshop. O ícone está entre as últimas ferramentas dessa barra.
 
-<img class="size-full wp-image-163 aligncenter" src="http://blog.igluonline.com/wp-content/uploads/2016/12/Screenshot_1.png" alt="screenshot_1" width="353" height="304" srcset="https://www.igluonline.com/wp-content/uploads/2016/12/Screenshot_1.png 353w, https://www.igluonline.com/wp-content/uploads/2016/12/Screenshot_1-300x258.png 300w" sizes="(max-width: 353px) 100vw, 353px" />
+<img class="size-full wp-image-163 aligncenter" src="http://blog.igluonline.com/images/uploads/2016/12/Screenshot_1.png" alt="screenshot_1" width="353" height="304" srcset="/images/uploads/2016/12/Screenshot_1.png 353w, /images/uploads/2016/12/Screenshot_1-300x258.png 300w" sizes="(max-width: 353px) 100vw, 353px" />
 
 Assim que clicar no botão a barra de controle de opções das ferramentas, localizada logo abaixo do menu superior, irá se transformar para mostrar as opções mais básicas de criação de texto. Esses controles permitem a alteração de fontes, tamanho da fonte, espaçamento entre os caracteres, altura, largura, cor e estilo.
 
-<img class="size-full wp-image-164 aligncenter" src="http://blog.igluonline.com/wp-content/uploads/2016/12/Screenshot_3.png" alt="screenshot_3" width="940" height="116" srcset="https://www.igluonline.com/wp-content/uploads/2016/12/Screenshot_3.png 940w, https://www.igluonline.com/wp-content/uploads/2016/12/Screenshot_3-300x37.png 300w, https://www.igluonline.com/wp-content/uploads/2016/12/Screenshot_3-768x95.png 768w" sizes="(max-width: 940px) 100vw, 940px" />
+<img class="size-full wp-image-164 aligncenter" src="http://blog.igluonline.com/images/uploads/2016/12/Screenshot_3.png" alt="screenshot_3" width="940" height="116" srcset="/images/uploads/2016/12/Screenshot_3.png 940w, /images/uploads/2016/12/Screenshot_3-300x37.png 300w, /images/uploads/2016/12/Screenshot_3-768x95.png 768w" sizes="(max-width: 940px) 100vw, 940px" />
 
 Além disso, existem dois painéis avançados para a customização do texto que podem ser acessadas clicando no menu superior principal em Janela e em seguida em Caractere e, em seguida repedindo o início do processo, em Parágrafo. Esse painel aparecerá no cando direito do canvas de trabalho por padrão e possui muitas formas de trabalhar o estilo dos textos.
 
-<img class="size-full wp-image-165 aligncenter" src="http://blog.igluonline.com/wp-content/uploads/2016/12/Screenshot_4.png" alt="screenshot_4" width="296" height="291" />
+<img class="size-full wp-image-165 aligncenter" src="http://blog.igluonline.com/images/uploads/2016/12/Screenshot_4.png" alt="screenshot_4" width="296" height="291" />
 
 ## Funcionalidades
 
@@ -51,7 +51,7 @@ Há duas formas de adicionar texto a um projeto no Photoshop. Você pode apenas 
 
 Toda vez que criar um elemento de texto ele aparecerá como uma nova camada e cada elemento pode ter seus estilos, fontes, cores e qualquer outra transformação aplicada singularmente.
 
-<img class=" wp-image-167 aligncenter" src="http://blog.igluonline.com/wp-content/uploads/2016/12/Screenshot_5.jpg" alt="screenshot_5" width="1057" height="558" srcset="https://www.igluonline.com/wp-content/uploads/2016/12/Screenshot_5.jpg 1744w, https://www.igluonline.com/wp-content/uploads/2016/12/Screenshot_5-300x158.jpg 300w, https://www.igluonline.com/wp-content/uploads/2016/12/Screenshot_5-768x405.jpg 768w, https://www.igluonline.com/wp-content/uploads/2016/12/Screenshot_5-1024x540.jpg 1024w" sizes="(max-width: 1057px) 100vw, 1057px" />
+<img class=" wp-image-167 aligncenter" src="http://blog.igluonline.com/images/uploads/2016/12/Screenshot_5.jpg" alt="screenshot_5" width="1057" height="558" srcset="/images/uploads/2016/12/Screenshot_5.jpg 1744w, /images/uploads/2016/12/Screenshot_5-300x158.jpg 300w, /images/uploads/2016/12/Screenshot_5-768x405.jpg 768w, /images/uploads/2016/12/Screenshot_5-1024x540.jpg 1024w" sizes="(max-width: 1057px) 100vw, 1057px" />
 
 ## Dicas para lembrar
 

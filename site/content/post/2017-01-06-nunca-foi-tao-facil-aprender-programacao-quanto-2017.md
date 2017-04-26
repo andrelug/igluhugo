@@ -33,7 +33,7 @@ Passei cerca de dois anos pesquisando e aprendendo na internet a programar, mas 
 
 ## <a href="https://www.codecademy.com/" target="_blank">Codeacademy</a>
 
-<a href="https://www.codecademy.com/" target="_blank"><img class="size-full wp-image-349 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/01/codeacademy.jpg" alt="" width="600" height="200" srcset="https://www.igluonline.com/wp-content/uploads/2017/01/codeacademy.jpg 600w, https://www.igluonline.com/wp-content/uploads/2017/01/codeacademy-300x100.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a>
+<a href="https://www.codecademy.com/" target="_blank"><img class="size-full wp-image-349 aligncenter" src="http://igluonline.com/images/uploads/2017/01/codeacademy.jpg" alt="" width="600" height="200" srcset="/images/uploads/2017/01/codeacademy.jpg 600w, /images/uploads/2017/01/codeacademy-300x100.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a>
 
 Esse provavelmente é hoje uma das opções mais procuradas. Os cursos são bem estruturados e as explicações são simples e diretas para aprender. Mais do que isso, os cursos são interativos, **proporcionando uma experiência de realmente aprender fazendo**. Enquanto você pratica o sistema aponta os erros e vai te dando dicas de como consertar o código.
 
@@ -41,7 +41,7 @@ Se você não tem nenhum conhecimento de programação, uma boa dica é começar
 
 ## <a href="http://treehouse.7eer.net/c/364685/228915/3944" target="_blank">Treehouse</a>
 
-<a href="http://treehouse.7eer.net/c/364685/228915/3944" target="_blank"><img class="size-full wp-image-350 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/01/treehouse.jpg" alt="" width="600" height="200" srcset="https://www.igluonline.com/wp-content/uploads/2017/01/treehouse.jpg 600w, https://www.igluonline.com/wp-content/uploads/2017/01/treehouse-300x100.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a>
+<a href="http://treehouse.7eer.net/c/364685/228915/3944" target="_blank"><img class="size-full wp-image-350 aligncenter" src="http://igluonline.com/images/uploads/2017/01/treehouse.jpg" alt="" width="600" height="200" srcset="/images/uploads/2017/01/treehouse.jpg 600w, /images/uploads/2017/01/treehouse-300x100.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a>
 
 Talvez até mais do que o Codeacademy, o foco dos cursos no Treehouse é na prática. As aulas são orientadas à criação de projetos reais então qualquer pessoa que deseja criar um website ou aplicativo pode focar diretamente no objetivo sem precisar delongar muito em partes do aprendizado de programador que não precisam naquele momento. **Os cursos são muito variados e você pode realmente se desenvolver muito nessa plataforma que possui vídeos de ótima qualidade para todos esses cursos**.
 
@@ -51,7 +51,7 @@ Vale a dica para assistir no YouTube o <a href="https://www.youtube.com/user/got
 
 ## <a href="https://www.codeavengers.com/" target="_blank">Code Avengers</a>
 
-<a href="https://www.codeavengers.com/" target="_blank"><img class="size-full wp-image-351 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/01/codeavengers.jpg" alt="" width="600" height="200" srcset="https://www.igluonline.com/wp-content/uploads/2017/01/codeavengers.jpg 600w, https://www.igluonline.com/wp-content/uploads/2017/01/codeavengers-300x100.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a>
+<a href="https://www.codeavengers.com/" target="_blank"><img class="size-full wp-image-351 aligncenter" src="http://igluonline.com/images/uploads/2017/01/codeavengers.jpg" alt="" width="600" height="200" srcset="/images/uploads/2017/01/codeavengers.jpg 600w, /images/uploads/2017/01/codeavengers-300x100.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a>
 
 Esse site é muito bacana e divertido. O pessoal que fez esse site &#8216;tem a manha&#8217; de transformar a parte chata e lenta do aprendizado de código em algo bem legal e interativo. No presente momento eles não possuem cursos em todas as linguagens, mas é **ótimo para aprender o básico da criação de websites, APPs e games**. O site está disponível em português!
 
@@ -59,7 +59,7 @@ São três levels de treinamento em cada linguagem e cada uma dura cerca de 10h 
 
 ## <a href="https://www.codeschool.com/" target="_blank">Code School</a>
 
-<a href="https://www.codeschool.com/" target="_blank"><img class="size-full wp-image-352 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/01/codeschool.jpg" alt="" width="600" height="200" srcset="https://www.igluonline.com/wp-content/uploads/2017/01/codeschool.jpg 600w, https://www.igluonline.com/wp-content/uploads/2017/01/codeschool-300x100.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a>
+<a href="https://www.codeschool.com/" target="_blank"><img class="size-full wp-image-352 aligncenter" src="http://igluonline.com/images/uploads/2017/01/codeschool.jpg" alt="" width="600" height="200" srcset="/images/uploads/2017/01/codeschool.jpg 600w, /images/uploads/2017/01/codeschool-300x100.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a>
 
 Provavelmente um dos que eu mais gosto dessa lista. Aprendi tanta coisa com esse pessoal que já os tenho na minha lista de recomendações obrigatórias. No entanto esse é um site que eu sugiro você ir depois que já tiver passado ou pelo Codeacademy ou pelo Code Avengers. Você conseguirá aproveitar dele muito mais se já tiver algum conhecimento, então recomendo ainda mais se você já estiver no &#8220;nível intermediário&#8221;. Você consegue ir bem a fundo através dos &#8220;caminhos&#8221; que eles possuem, que são sequências de cursos destinados para o aprendizado completo de determinada habilidade.
 
@@ -67,7 +67,7 @@ As aulas são em vídeo e em seguida você tem um ambiente virtual para treinar 
 
 ## <a href="https://www.udacity.com/" target="_blank">Udacity</a>
 
-<a href="https://www.udacity.com/" target="_blank"><img class="size-full wp-image-353 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/01/udacity.jpg" alt="" width="600" height="200" srcset="https://www.igluonline.com/wp-content/uploads/2017/01/udacity.jpg 600w, https://www.igluonline.com/wp-content/uploads/2017/01/udacity-300x100.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a>
+<a href="https://www.udacity.com/" target="_blank"><img class="size-full wp-image-353 aligncenter" src="http://igluonline.com/images/uploads/2017/01/udacity.jpg" alt="" width="600" height="200" srcset="/images/uploads/2017/01/udacity.jpg 600w, /images/uploads/2017/01/udacity-300x100.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a>
 
 Altamente indicado para quem também está um pouco na frente no aprendizado &#8211; intermediários e avançados. As aulas são lecionadas por professores excelentes e renomados na indústria, incluindo funcionários da Google por exemplo. As aulas não são tão interativas e possuem apenas alguns quizes para testar os conhecimentos, por isso ser uma pessoa com boa autodidata é importante.
 
@@ -75,7 +75,7 @@ O site possui mais vídeos do que a maioria dos outros mencionados aqui e passam
 
 ## <a href="https://www.coursera.org" target="_blank">Coursera</a>
 
-<a href="https://www.coursera.org" target="_blank"><img class="size-full wp-image-354 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/01/coursera.jpg" alt="" width="600" height="200" srcset="https://www.igluonline.com/wp-content/uploads/2017/01/coursera.jpg 600w, https://www.igluonline.com/wp-content/uploads/2017/01/coursera-300x100.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a>
+<a href="https://www.coursera.org" target="_blank"><img class="size-full wp-image-354 aligncenter" src="http://igluonline.com/images/uploads/2017/01/coursera.jpg" alt="" width="600" height="200" srcset="/images/uploads/2017/01/coursera.jpg 600w, /images/uploads/2017/01/coursera-300x100.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a>
 
 Muito parecido com o Udacity, o Coursera traz uma experiência mais acadêmica para você sem custos. **Ele providencia cursos inteiros gravados em universidades no mundo todo e em várias línguas**. É uma boa oportunidade de aprender com os melhores professores!
 
@@ -83,19 +83,19 @@ Grande parte dos cursos são gratuitos, mas para obter certificados e acesso a a
 
 ## <a href="https://www.khanacademy.org/computing" target="_blank">Khan Academy</a>
 
-<a href="https://www.khanacademy.org/computing" target="_blank"><img class="size-full wp-image-355 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/01/khanacademy.jpg" alt="" width="600" height="200" srcset="https://www.igluonline.com/wp-content/uploads/2017/01/khanacademy.jpg 600w, https://www.igluonline.com/wp-content/uploads/2017/01/khanacademy-300x100.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a>
+<a href="https://www.khanacademy.org/computing" target="_blank"><img class="size-full wp-image-355 aligncenter" src="http://igluonline.com/images/uploads/2017/01/khanacademy.jpg" alt="" width="600" height="200" srcset="/images/uploads/2017/01/khanacademy.jpg 600w, /images/uploads/2017/01/khanacademy-300x100.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a>
 
 Naturalmente esse site aqui já é tão esperado nesse tipo de lista que tive que colocar aqui também. Apesar de não utilizar ele muito, não posso negar a quantidade de conteúdo gratuito e de **ótima qualidade** que ele oferece. São excelentes tutoriais em vídeo no estilo que você encontra no YouTube. É uma boa fonte para iniciantes, principalmente se você é uma pessoa autodidata.
 
 ## <a href="https://click.linksynergy.com/fs-bin/click?id=ZGcF5BzwZ*g&offerid=323058.1897&type=3&subid=0" target="_blank">Udemy</a>
 
-<a href="https://click.linksynergy.com/fs-bin/click?id=ZGcF5BzwZ*g&offerid=323058.1897&type=3&subid=0" target="_blank"><img class="size-full wp-image-356 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/01/udemy.jpg" alt="" width="600" height="200" srcset="https://www.igluonline.com/wp-content/uploads/2017/01/udemy.jpg 600w, https://www.igluonline.com/wp-content/uploads/2017/01/udemy-300x100.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a>
+<a href="https://click.linksynergy.com/fs-bin/click?id=ZGcF5BzwZ*g&offerid=323058.1897&type=3&subid=0" target="_blank"><img class="size-full wp-image-356 aligncenter" src="http://igluonline.com/images/uploads/2017/01/udemy.jpg" alt="" width="600" height="200" srcset="/images/uploads/2017/01/udemy.jpg 600w, /images/uploads/2017/01/udemy-300x100.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a>
 
 Esse site é, na minha opinião, o **melhor mercado de cursos pagos hoje**. Você pode escolher o curso que quiser de quem quiser e existe uma variedade enorme de preços e tamanhos disponíveis. Não há como falar se um ou outro é bom pois eu não apenas fiz um curso de programação pelo Udemy. Em geral procure os cursos que mais possuem avaliações positivas ou então algum novo que você ache que vale a pena arriscar.
 
 ## <a href="http://stackoverflow.com/" target="_blank">Stackoverflow</a>
 
-<a href="http://stackoverflow.com/" target="_blank"><img class="size-full wp-image-357 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/01/stackoverflow.jpg" alt="" width="600" height="200" srcset="https://www.igluonline.com/wp-content/uploads/2017/01/stackoverflow.jpg 600w, https://www.igluonline.com/wp-content/uploads/2017/01/stackoverflow-300x100.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a>
+<a href="http://stackoverflow.com/" target="_blank"><img class="size-full wp-image-357 aligncenter" src="http://igluonline.com/images/uploads/2017/01/stackoverflow.jpg" alt="" width="600" height="200" srcset="/images/uploads/2017/01/stackoverflow.jpg 600w, /images/uploads/2017/01/stackoverflow-300x100.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a>
 
 Esse é o site que você provavelmente irá parar após qualquer pesquisa de problemas em seu código no Google. Esse sites de perguntas e respostas é o **maior comunidade de programadores que eu conheço** e sua versão em português está muito boa também &#8211; mas para algumas coisas mais específicas provavelmente você só vai achar em inglês.
 

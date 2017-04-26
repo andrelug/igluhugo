@@ -36,7 +36,7 @@ Não deixe de conferir  também essas fontes incríveis e gratuitas para usar e
 
 ## <a href="http://ink.chrometaphore.com/" target="_blank">1- Ink</a>
 
-<a href="http://ink.chrometaphore.com/" target="_blank"><img class=" wp-image-396 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/01/plugin_ink_photoshop.jpg" alt="" width="727" height="414" srcset="https://www.igluonline.com/wp-content/uploads/2017/01/plugin_ink_photoshop.jpg 977w, https://www.igluonline.com/wp-content/uploads/2017/01/plugin_ink_photoshop-300x171.jpg 300w, https://www.igluonline.com/wp-content/uploads/2017/01/plugin_ink_photoshop-768x437.jpg 768w" sizes="(max-width: 727px) 100vw, 727px" /></a>
+<a href="http://ink.chrometaphore.com/" target="_blank"><img class=" wp-image-396 aligncenter" src="http://igluonline.com/images/uploads/2017/01/plugin_ink_photoshop.jpg" alt="" width="727" height="414" srcset="/images/uploads/2017/01/plugin_ink_photoshop.jpg 977w, /images/uploads/2017/01/plugin_ink_photoshop-300x171.jpg 300w, /images/uploads/2017/01/plugin_ink_photoshop-768x437.jpg 768w" sizes="(max-width: 727px) 100vw, 727px" /></a>
 
 Ink é uma ferramenta para quem quer trabalhar em grupo. As vezes as pessoas para quem você envia os designs não são tão experientes no Photoshop como você. Então esse plugin ajuda a incluir informações contextuais no seu documento. Você pode adicionar algumas especificações essenciais como formatação de texto, estilos das camadas, efeitos e tamanhos com facilidade. Em seguida todas as informações são juntadas em uma pasta para ficarem bem organizadas.
 
@@ -50,7 +50,7 @@ Ink é uma ferramenta para quem quer trabalhar em grupo. As vezes as pessoas par
 
 ## <a href="http://www.painterartist.com/en/product/particleshop/" target="_blank">2- ParticleShop</a>
 
-<a href="http://www.painterartist.com/en/product/particleshop/" target="_blank"><img class=" wp-image-397 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/01/particleshop_plugin_photoshop.jpg" alt="" width="751" height="436" srcset="https://www.igluonline.com/wp-content/uploads/2017/01/particleshop_plugin_photoshop.jpg 875w, https://www.igluonline.com/wp-content/uploads/2017/01/particleshop_plugin_photoshop-300x174.jpg 300w, https://www.igluonline.com/wp-content/uploads/2017/01/particleshop_plugin_photoshop-768x446.jpg 768w" sizes="(max-width: 751px) 100vw, 751px" /></a>
+<a href="http://www.painterartist.com/en/product/particleshop/" target="_blank"><img class=" wp-image-397 aligncenter" src="http://igluonline.com/images/uploads/2017/01/particleshop_plugin_photoshop.jpg" alt="" width="751" height="436" srcset="/images/uploads/2017/01/particleshop_plugin_photoshop.jpg 875w, /images/uploads/2017/01/particleshop_plugin_photoshop-300x174.jpg 300w, /images/uploads/2017/01/particleshop_plugin_photoshop-768x446.jpg 768w" sizes="(max-width: 751px) 100vw, 751px" /></a>
 
 Para aqueles fãs do Corel Painter, agora você pode usar as tecnologias de pinceis deles também no Photoshop. Os pincéis podem fazer uma grande diferença na sua produtividade como artista digital e esse plugin oferece sua funcionalidade não destrutiva com suporte para camadas no Photoshop. Além disso ele acompanha 11 pincéis como Debris, Fine Art, Fur, Hair, Space e outros.
 
@@ -62,7 +62,7 @@ Para aqueles fãs do Corel Painter, agora você pode usar as tecnologias de pinc
 
 ## <a href="https://www.google.com/nikcollection/" target="_blank">3- Google Nik Collection</a>
 
-<a href="https://www.google.com/nikcollection/" target="_blank"><img class=" wp-image-398 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/01/nik_collection_plugin_photoshop.jpg" alt="" width="765" height="448" srcset="https://www.igluonline.com/wp-content/uploads/2017/01/nik_collection_plugin_photoshop.jpg 1025w, https://www.igluonline.com/wp-content/uploads/2017/01/nik_collection_plugin_photoshop-300x176.jpg 300w, https://www.igluonline.com/wp-content/uploads/2017/01/nik_collection_plugin_photoshop-768x450.jpg 768w, https://www.igluonline.com/wp-content/uploads/2017/01/nik_collection_plugin_photoshop-1024x599.jpg 1024w" sizes="(max-width: 765px) 100vw, 765px" /></a>
+<a href="https://www.google.com/nikcollection/" target="_blank"><img class=" wp-image-398 aligncenter" src="http://igluonline.com/images/uploads/2017/01/nik_collection_plugin_photoshop.jpg" alt="" width="765" height="448" srcset="/images/uploads/2017/01/nik_collection_plugin_photoshop.jpg 1025w, /images/uploads/2017/01/nik_collection_plugin_photoshop-300x176.jpg 300w, /images/uploads/2017/01/nik_collection_plugin_photoshop-768x450.jpg 768w, /images/uploads/2017/01/nik_collection_plugin_photoshop-1024x599.jpg 1024w" sizes="(max-width: 765px) 100vw, 765px" /></a>
 
 Entusiastas fotográficos ficaram muito felizes há quase um ano quando a Google comprou o Nik Collection. Antes os plugins não só eram muito bons, mas bem carinhos. Agora todos são gratuitos e disponíveis para melhorar fotos de qualquer um. Esses plugins para o Photoshop são muito versáteis e feitos para automaticamente aplicar efeitos profissionais em suas fotos. Altamente recomendado para quem gosta de fotografia.
 
@@ -74,7 +74,7 @@ Entusiastas fotográficos ficaram muito felizes há quase um ano quando a Google
 
 ## <a href="http://www.gettyimages.com/resources/plugins#" target="_blank">4- Getty Images</a>
 
-<a href="http://www.gettyimages.com/resources/plugins#" target="_blank"><img class=" wp-image-399 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/01/getty_images_plugin_photoshop.jpg" alt="" width="782" height="518" srcset="https://www.igluonline.com/wp-content/uploads/2017/01/getty_images_plugin_photoshop.jpg 868w, https://www.igluonline.com/wp-content/uploads/2017/01/getty_images_plugin_photoshop-300x199.jpg 300w, https://www.igluonline.com/wp-content/uploads/2017/01/getty_images_plugin_photoshop-768x509.jpg 768w" sizes="(max-width: 782px) 100vw, 782px" /></a>
+<a href="http://www.gettyimages.com/resources/plugins#" target="_blank"><img class=" wp-image-399 aligncenter" src="http://igluonline.com/images/uploads/2017/01/getty_images_plugin_photoshop.jpg" alt="" width="782" height="518" srcset="/images/uploads/2017/01/getty_images_plugin_photoshop.jpg 868w, /images/uploads/2017/01/getty_images_plugin_photoshop-300x199.jpg 300w, /images/uploads/2017/01/getty_images_plugin_photoshop-768x509.jpg 768w" sizes="(max-width: 782px) 100vw, 782px" /></a>
 
 Eventualmente no processo de criação precisamos de acesso a um banco de imagens (_stock photos_) para compor os projetos. Para facilitar esse processo, o site Getty Images fez um plugin que possibilita a pesquisa e download não só para o Photoshop mas também para o IdDesign e Illustrator. Se você possui uma conta no Getty Images, tem a facilidade também de buscar seu histórico de downloads.
 
@@ -86,7 +86,7 @@ Eventualmente no processo de criação precisamos de acesso a um banco de imagen
 
 ## <a href="http://www.cs-extensions.com/products/contrastica/" target="_blank">5- Fixel Contrastica 2</a>
 
-<a href="http://www.cs-extensions.com/products/contrastica/" target="_blank"><img class=" wp-image-400 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/01/fixel_plugin_photoshop.jpg" alt="" width="799" height="531" srcset="https://www.igluonline.com/wp-content/uploads/2017/01/fixel_plugin_photoshop.jpg 829w, https://www.igluonline.com/wp-content/uploads/2017/01/fixel_plugin_photoshop-300x199.jpg 300w, https://www.igluonline.com/wp-content/uploads/2017/01/fixel_plugin_photoshop-768x510.jpg 768w" sizes="(max-width: 799px) 100vw, 799px" /></a>
+<a href="http://www.cs-extensions.com/products/contrastica/" target="_blank"><img class=" wp-image-400 aligncenter" src="http://igluonline.com/images/uploads/2017/01/fixel_plugin_photoshop.jpg" alt="" width="799" height="531" srcset="/images/uploads/2017/01/fixel_plugin_photoshop.jpg 829w, /images/uploads/2017/01/fixel_plugin_photoshop-300x199.jpg 300w, /images/uploads/2017/01/fixel_plugin_photoshop-768x510.jpg 768w" sizes="(max-width: 799px) 100vw, 799px" /></a>
 
 O Fixel Contrastica 2 está disponível tanto para o Photoshop quanto para o programa After Effects. Esse plugin é um intensificador de contraste inteligente. A empresa Fixel Algorithms é reconhecida por produzir algoritmos inteligentes para o processamento de imagem e vídeo. No Photoshop o Fixel é usado como um filtro bem fácil de se alterar para alcançar os efeitos desejados com precisão. Ele afeta tanto o contraste local quanto o global no mesmo tempo, fazendo a manipulação de imagens ser bem mais rápida e objetiva.
 
@@ -98,7 +98,7 @@ O Fixel Contrastica 2 está disponível tanto para o Photoshop quanto para o pro
 
 ## <a href="https://kubotamarket.com/shop/bundles/texture-tools-industrial" target="_blank">6- Kubota Texture Tools Industrial</a>
 
-<a href="https://kubotamarket.com/shop/bundles/texture-tools-industrial" target="_blank"><img class=" wp-image-401 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/01/kubota_plugin_photoshop.jpg" alt="" width="793" height="501" srcset="https://www.igluonline.com/wp-content/uploads/2017/01/kubota_plugin_photoshop.jpg 883w, https://www.igluonline.com/wp-content/uploads/2017/01/kubota_plugin_photoshop-300x190.jpg 300w, https://www.igluonline.com/wp-content/uploads/2017/01/kubota_plugin_photoshop-768x485.jpg 768w" sizes="(max-width: 793px) 100vw, 793px" /></a>
+<a href="https://kubotamarket.com/shop/bundles/texture-tools-industrial" target="_blank"><img class=" wp-image-401 aligncenter" src="http://igluonline.com/images/uploads/2017/01/kubota_plugin_photoshop.jpg" alt="" width="793" height="501" srcset="/images/uploads/2017/01/kubota_plugin_photoshop.jpg 883w, /images/uploads/2017/01/kubota_plugin_photoshop-300x190.jpg 300w, /images/uploads/2017/01/kubota_plugin_photoshop-768x485.jpg 768w" sizes="(max-width: 793px) 100vw, 793px" /></a>
 
 O pessoal dessa empresa Kubota se descrevem como a &#8216;Mecca&#8217; para ferramentas de melhora de imagens. Esse &#8216;pack&#8217; acompanha então sua extensa linha de texturas, bordas e templates. Você pode testar os filtros no site deles antes de comprar, então não tem muito erro ao se comprometer com essa compra.
 
@@ -110,7 +110,7 @@ O pessoal dessa empresa Kubota se descrevem como a &#8216;Mecca&#8217; para ferr
 
 ## <a href="http://psdcleaner.madebysource.com/" target="_blank">7- PSD Cleaner</a>
 
-<a href="http://psdcleaner.madebysource.com/" target="_blank"><img class=" wp-image-402 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/01/psdcleaner_plugin_photoshop.jpg" alt="" width="783" height="486" srcset="https://www.igluonline.com/wp-content/uploads/2017/01/psdcleaner_plugin_photoshop.jpg 860w, https://www.igluonline.com/wp-content/uploads/2017/01/psdcleaner_plugin_photoshop-300x186.jpg 300w, https://www.igluonline.com/wp-content/uploads/2017/01/psdcleaner_plugin_photoshop-768x477.jpg 768w" sizes="(max-width: 783px) 100vw, 783px" /></a>
+<a href="http://psdcleaner.madebysource.com/" target="_blank"><img class=" wp-image-402 aligncenter" src="http://igluonline.com/images/uploads/2017/01/psdcleaner_plugin_photoshop.jpg" alt="" width="783" height="486" srcset="/images/uploads/2017/01/psdcleaner_plugin_photoshop.jpg 860w, /images/uploads/2017/01/psdcleaner_plugin_photoshop-300x186.jpg 300w, /images/uploads/2017/01/psdcleaner_plugin_photoshop-768x477.jpg 768w" sizes="(max-width: 783px) 100vw, 783px" /></a>
 
 Organizar, alterar e buscar camadas em um projeto grande no Photoshop é uma tarefa hercúlea e muitas vezes chata. Contudo é algo que grande parte dos designers tem que lidar constantemente. O plugin PSD Cleaner então vem para facilitar esse processo todo. Em um simples painel você pode identificar as camadas não nomeadas, recriar efeitos do Photoshop em CSS, deletar camadas em branco, descobrir quais camadas estão para fora do seu canvas e muito mais.
 
@@ -122,7 +122,7 @@ Bom para: Designers gráficos e web designers
 
 ## <a href="http://dandkagency.com/extensions/velositey-v2/" target="_blank">8- Velositey</a>
 
-<a href="http://dandkagency.com/extensions/velositey-v2/" target="_blank"><img class=" wp-image-403 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/01/velositey_plugin_photoshop.jpg" alt="" width="800" height="406" srcset="https://www.igluonline.com/wp-content/uploads/2017/01/velositey_plugin_photoshop.jpg 1126w, https://www.igluonline.com/wp-content/uploads/2017/01/velositey_plugin_photoshop-300x152.jpg 300w, https://www.igluonline.com/wp-content/uploads/2017/01/velositey_plugin_photoshop-768x389.jpg 768w, https://www.igluonline.com/wp-content/uploads/2017/01/velositey_plugin_photoshop-1024x519.jpg 1024w" sizes="(max-width: 800px) 100vw, 800px" /></a>
+<a href="http://dandkagency.com/extensions/velositey-v2/" target="_blank"><img class=" wp-image-403 aligncenter" src="http://igluonline.com/images/uploads/2017/01/velositey_plugin_photoshop.jpg" alt="" width="800" height="406" srcset="/images/uploads/2017/01/velositey_plugin_photoshop.jpg 1126w, /images/uploads/2017/01/velositey_plugin_photoshop-300x152.jpg 300w, /images/uploads/2017/01/velositey_plugin_photoshop-768x389.jpg 768w, /images/uploads/2017/01/velositey_plugin_photoshop-1024x519.jpg 1024w" sizes="(max-width: 800px) 100vw, 800px" /></a>
 
 Para aqueles que querem criar templates de websites com mais facilidade e velocidade, esse plugin do Photoshop é sensacional. Com mais de 60 templates disponíveis gratuitamente (eles apenas pedem um compartilhamento numa rede social), Velositey é uma ferramenta bem interessante para web designers e desenvolvedores.
 
@@ -136,7 +136,7 @@ Você pode simplesmente baixar um dos templates, carregar no Photoshop e alterar
 
 ## <a href="http://plugin.subtlepatterns.com/" target="_blank">9- Subtle Patterns</a>
 
-<a href="http://plugin.subtlepatterns.com/" target="_blank"><img class=" wp-image-404 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/01/subtle_patterns_plugin_photoshop.jpg" alt="" width="814" height="391" srcset="https://www.igluonline.com/wp-content/uploads/2017/01/subtle_patterns_plugin_photoshop.jpg 1090w, https://www.igluonline.com/wp-content/uploads/2017/01/subtle_patterns_plugin_photoshop-300x144.jpg 300w, https://www.igluonline.com/wp-content/uploads/2017/01/subtle_patterns_plugin_photoshop-768x368.jpg 768w, https://www.igluonline.com/wp-content/uploads/2017/01/subtle_patterns_plugin_photoshop-1024x491.jpg 1024w" sizes="(max-width: 814px) 100vw, 814px" /></a>
+<a href="http://plugin.subtlepatterns.com/" target="_blank"><img class=" wp-image-404 aligncenter" src="http://igluonline.com/images/uploads/2017/01/subtle_patterns_plugin_photoshop.jpg" alt="" width="814" height="391" srcset="/images/uploads/2017/01/subtle_patterns_plugin_photoshop.jpg 1090w, /images/uploads/2017/01/subtle_patterns_plugin_photoshop-300x144.jpg 300w, /images/uploads/2017/01/subtle_patterns_plugin_photoshop-768x368.jpg 768w, /images/uploads/2017/01/subtle_patterns_plugin_photoshop-1024x491.jpg 1024w" sizes="(max-width: 814px) 100vw, 814px" /></a>
 
 Subtle Patterns já é uma reconhecida biblioteca de texturas e padrões gratuitos. O plugin que eles possuem faz com que você possa carregar toda sua biblioteca diretamente no seu Photoshop em um painel dedicado. Basta clicar no thumbnail e a textura é aplicada a uma camada como um estilo de camada. Bem eficiente e ajuda a economizar alguns minutos ao longo do dia para quem está constantemente mexendo com padrões e texturas.
 
@@ -148,7 +148,7 @@ Subtle Patterns já é uma reconhecida biblioteca de texturas e padrões gratuit
 
 ## <a href="http://csshat.com/" target="_blank">10 &#8211; CSS Hat</a>
 
-<a href="http://csshat.com/" target="_blank"><img class=" wp-image-405 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/01/csshat_plugin_photoshop.jpg" alt="" width="800" height="494" srcset="https://www.igluonline.com/wp-content/uploads/2017/01/csshat_plugin_photoshop.jpg 901w, https://www.igluonline.com/wp-content/uploads/2017/01/csshat_plugin_photoshop-300x185.jpg 300w, https://www.igluonline.com/wp-content/uploads/2017/01/csshat_plugin_photoshop-768x475.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></a>
+<a href="http://csshat.com/" target="_blank"><img class=" wp-image-405 aligncenter" src="http://igluonline.com/images/uploads/2017/01/csshat_plugin_photoshop.jpg" alt="" width="800" height="494" srcset="/images/uploads/2017/01/csshat_plugin_photoshop.jpg 901w, /images/uploads/2017/01/csshat_plugin_photoshop-300x185.jpg 300w, /images/uploads/2017/01/csshat_plugin_photoshop-768x475.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></a>
 
 Esse plugin é especialmente dedicado aos web designers e desenvolvedores. Ele possibilita transformar os estilos no Photoshop em CSS3 prontos para serem usados nos websites. Basta clicar em uma camada e o código aparece instantaneamente pronto para ser copiado e colado na folha de estilos.
 
@@ -160,7 +160,7 @@ Esse plugin é especialmente dedicado aos web designers e desenvolvedores. Ele p
 
 ## <a href="http://www.flaticon.com/apps/adobe-extension" target="_blank">11- Flaticon</a>
 
-<a href="http://www.flaticon.com/apps" target="_blank"><img class=" wp-image-407 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/01/flaticon_plugin_photoshop.jpg" alt="" width="784" height="477" srcset="https://www.igluonline.com/wp-content/uploads/2017/01/flaticon_plugin_photoshop.jpg 916w, https://www.igluonline.com/wp-content/uploads/2017/01/flaticon_plugin_photoshop-300x182.jpg 300w, https://www.igluonline.com/wp-content/uploads/2017/01/flaticon_plugin_photoshop-768x467.jpg 768w, https://www.igluonline.com/wp-content/uploads/2017/01/flaticon_plugin_photoshop-150x90.jpg 150w" sizes="(max-width: 784px) 100vw, 784px" /></a>
+<a href="http://www.flaticon.com/apps" target="_blank"><img class=" wp-image-407 aligncenter" src="http://igluonline.com/images/uploads/2017/01/flaticon_plugin_photoshop.jpg" alt="" width="784" height="477" srcset="/images/uploads/2017/01/flaticon_plugin_photoshop.jpg 916w, /images/uploads/2017/01/flaticon_plugin_photoshop-300x182.jpg 300w, /images/uploads/2017/01/flaticon_plugin_photoshop-768x467.jpg 768w, /images/uploads/2017/01/flaticon_plugin_photoshop-150x90.jpg 150w" sizes="(max-width: 784px) 100vw, 784px" /></a>
 
 Se você está buscando baixar ícones gratuitos, a Freepik lançou uma ferramenta dedicada para esse fim. Eles possuem um banco de dados enorme com vários ícones em vetor para serem baixados de graça nos mais variados formatos (svg, psd, png). Esse plugin no Photoshop ainda facilita mais o processo por proporcionar um painel com a pesquisa e aplicação dos ícones sem precisar sair do programa.
 
@@ -172,7 +172,7 @@ Se você está buscando baixar ícones gratuitos, a Freepik lançou uma ferramen
 
 ## <a href="http://www.autofx.com/" target="_blank">12- Dream Suite Ultimate</a>
 
-<a href="http://www.autofx.com/" target="_blank"><img class=" wp-image-406 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/01/dream_suite_ultimate_plugin_photoshop.jpg" alt="" width="771" height="519" srcset="https://www.igluonline.com/wp-content/uploads/2017/01/dream_suite_ultimate_plugin_photoshop.jpg 906w, https://www.igluonline.com/wp-content/uploads/2017/01/dream_suite_ultimate_plugin_photoshop-300x202.jpg 300w, https://www.igluonline.com/wp-content/uploads/2017/01/dream_suite_ultimate_plugin_photoshop-768x517.jpg 768w" sizes="(max-width: 771px) 100vw, 771px" /></a>
+<a href="http://www.autofx.com/" target="_blank"><img class=" wp-image-406 aligncenter" src="http://igluonline.com/images/uploads/2017/01/dream_suite_ultimate_plugin_photoshop.jpg" alt="" width="771" height="519" srcset="/images/uploads/2017/01/dream_suite_ultimate_plugin_photoshop.jpg 906w, /images/uploads/2017/01/dream_suite_ultimate_plugin_photoshop-300x202.jpg 300w, /images/uploads/2017/01/dream_suite_ultimate_plugin_photoshop-768x517.jpg 768w" sizes="(max-width: 771px) 100vw, 771px" /></a>
 
 Esse plugin é o mais caro dessa nossa lista, mas quis mencionar pois é um dos mais poderosos para a criação e aplicação de efeitos pseudo-3D, bordas, correção de tons e texturas. As ferramentas são amplas, fáceis de usar e geram efeitos incríveis.
 

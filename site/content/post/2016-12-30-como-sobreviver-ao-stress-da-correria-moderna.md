@@ -37,7 +37,7 @@ A primeira etapa do processo é reconhecer que estamos estressados através dos 
 
 O stress afeta cada um de nós de forma diferente. Algumas pessoas possuem tolerância maior em determinados tipos de situações ou stresses, mas todos também temos um ponto que não conseguimos mais aguentar. Reconhecer esse limite que você começa a perder o controle do seu corpo e mente é o mais importante pois é antes desse momento que você terá que agir.
 
-<img class=" wp-image-322 aligncenter" src="http://blog.igluonline.com/wp-content/uploads/2016/12/startup-photos-1.jpg" alt="" width="1049" height="699" srcset="https://www.igluonline.com/wp-content/uploads/2016/12/startup-photos-1.jpg 1280w, https://www.igluonline.com/wp-content/uploads/2016/12/startup-photos-1-300x200.jpg 300w, https://www.igluonline.com/wp-content/uploads/2016/12/startup-photos-1-768x512.jpg 768w, https://www.igluonline.com/wp-content/uploads/2016/12/startup-photos-1-1024x682.jpg 1024w" sizes="(max-width: 1049px) 100vw, 1049px" />
+<img class=" wp-image-322 aligncenter" src="http://blog.igluonline.com/images/uploads/2016/12/startup-photos-1.jpg" alt="" width="1049" height="699" srcset="/images/uploads/2016/12/startup-photos-1.jpg 1280w, /images/uploads/2016/12/startup-photos-1-300x200.jpg 300w, /images/uploads/2016/12/startup-photos-1-768x512.jpg 768w, /images/uploads/2016/12/startup-photos-1-1024x682.jpg 1024w" sizes="(max-width: 1049px) 100vw, 1049px" />
 
 Existe também o stress pontual ou aquele crônico. Quando o stress se torna crônico e presente quase que o tempo você precisa tomar atitudes mais drásticas e realmente mudar, mas antes de chegar nesse ponto temos muitas formas de trabalhar com o stress para que ele não evolua para uma situação mais extrema.
 
@@ -51,7 +51,7 @@ Naturalmente não há apenas um tipo de stress ou de situações que causam stre
 
 Uma excelente técnica é manter um gráfico do seu humor.
 
-<img class="size-full wp-image-320 aligncenter" src="http://blog.igluonline.com/wp-content/uploads/2016/12/Mood-Chart2.png" alt="" width="582" height="544" srcset="https://www.igluonline.com/wp-content/uploads/2016/12/Mood-Chart2.png 582w, https://www.igluonline.com/wp-content/uploads/2016/12/Mood-Chart2-300x280.png 300w" sizes="(max-width: 582px) 100vw, 582px" />
+<img class="size-full wp-image-320 aligncenter" src="http://blog.igluonline.com/images/uploads/2016/12/Mood-Chart2.png" alt="" width="582" height="544" srcset="/images/uploads/2016/12/Mood-Chart2.png 582w, /images/uploads/2016/12/Mood-Chart2-300x280.png 300w" sizes="(max-width: 582px) 100vw, 582px" />
 
 O gráfico de humor pode ser feito por horas ou mesmo por dias. Nesse exemplo tirado do site [Lifehack][1] podemos ver que há alguns eventos no dia que colocaram o humor dessa pessoa pra baixo no meio do dia, mas houveram outros eventos que balancearam. Esse gráfico não precisa ser complicado nem desenhado com extrema precisão. O que você quer descobrir com ele é o que fez você ficar pra baixo, estressado ou feliz.
 
@@ -65,7 +65,7 @@ Levante-se e distancie do que está acontecendo. Se estiver dirigindo, arrume um
 
 Quando você tem a chance, você deve procurar criar um espaço físico que distancia você do gatilho que está lhe causando stress. A ideia aqui é quebrar o ciclo o mais rápido que conseguir e quanto mais você faz isso melhor irá ficar em já criar essa barreira invisível entre você e seu stress.
 
-<img class=" wp-image-323 aligncenter" src="http://blog.igluonline.com/wp-content/uploads/2016/12/ache-adult-depression-expression-41253.jpeg" alt="" width="348" height="522" srcset="https://www.igluonline.com/wp-content/uploads/2016/12/ache-adult-depression-expression-41253.jpeg 1280w, https://www.igluonline.com/wp-content/uploads/2016/12/ache-adult-depression-expression-41253-200x300.jpeg 200w, https://www.igluonline.com/wp-content/uploads/2016/12/ache-adult-depression-expression-41253-768x1152.jpeg 768w, https://www.igluonline.com/wp-content/uploads/2016/12/ache-adult-depression-expression-41253-683x1024.jpeg 683w" sizes="(max-width: 348px) 100vw, 348px" />
+<img class=" wp-image-323 aligncenter" src="http://blog.igluonline.com/images/uploads/2016/12/ache-adult-depression-expression-41253.jpeg" alt="" width="348" height="522" srcset="/images/uploads/2016/12/ache-adult-depression-expression-41253.jpeg 1280w, /images/uploads/2016/12/ache-adult-depression-expression-41253-200x300.jpeg 200w, /images/uploads/2016/12/ache-adult-depression-expression-41253-768x1152.jpeg 768w, /images/uploads/2016/12/ache-adult-depression-expression-41253-683x1024.jpeg 683w" sizes="(max-width: 348px) 100vw, 348px" />
 
 ### Mas e se eu não puder correr?
 
@@ -82,7 +82,7 @@ Assim como fazer exercício físico melhora progressiva e continuamente a condi�
 
 Esses exercícios são ótimos inclusive para quando você não pode fujir muito dos seus gatilhos de stress.
 
-<img class=" wp-image-325 aligncenter" src="http://blog.igluonline.com/wp-content/uploads/2016/12/person-woman-summer-girl.jpg" alt="" width="995" height="663" srcset="https://www.igluonline.com/wp-content/uploads/2016/12/person-woman-summer-girl.jpg 1280w, https://www.igluonline.com/wp-content/uploads/2016/12/person-woman-summer-girl-300x200.jpg 300w, https://www.igluonline.com/wp-content/uploads/2016/12/person-woman-summer-girl-768x512.jpg 768w, https://www.igluonline.com/wp-content/uploads/2016/12/person-woman-summer-girl-1024x682.jpg 1024w" sizes="(max-width: 995px) 100vw, 995px" />
+<img class=" wp-image-325 aligncenter" src="http://blog.igluonline.com/images/uploads/2016/12/person-woman-summer-girl.jpg" alt="" width="995" height="663" srcset="/images/uploads/2016/12/person-woman-summer-girl.jpg 1280w, /images/uploads/2016/12/person-woman-summer-girl-300x200.jpg 300w, /images/uploads/2016/12/person-woman-summer-girl-768x512.jpg 768w, /images/uploads/2016/12/person-woman-summer-girl-1024x682.jpg 1024w" sizes="(max-width: 995px) 100vw, 995px" />
 
 ## Esteja fisicamente preparado(a)
 
@@ -100,7 +100,7 @@ Devemos mencionar que a partir do momento que você está com o corpo e mente ma
 
 Se nada acima te ajudou a ter uma visão mais clara de como não ficar muito mais estressado, então talvez seja o momento de buscar uma ajuda. Isso não é uma falha ou erro de sua parte. Não há nada de errado em buscar ajuda profissional. Eu já passei por meses de acompanhamento psicológico e posso dizer que é uma experiência muito bacana. Se você tentou e testou as ideias acima, deverá ter uma noção melhor do que realmente te causa stress, então um profissional poderá ir até direto ao ponto em desconstruir esse gatilho até o ponto que você não se deixe levar pelos momentos estressantes mais.
 
-<img class=" wp-image-324 aligncenter" src="http://blog.igluonline.com/wp-content/uploads/2016/12/pexels-photo-1-1.jpg" alt="" width="950" height="712" srcset="https://www.igluonline.com/wp-content/uploads/2016/12/pexels-photo-1-1.jpg 1280w, https://www.igluonline.com/wp-content/uploads/2016/12/pexels-photo-1-1-300x225.jpg 300w, https://www.igluonline.com/wp-content/uploads/2016/12/pexels-photo-1-1-768x576.jpg 768w, https://www.igluonline.com/wp-content/uploads/2016/12/pexels-photo-1-1-1024x768.jpg 1024w" sizes="(max-width: 950px) 100vw, 950px" />
+<img class=" wp-image-324 aligncenter" src="http://blog.igluonline.com/images/uploads/2016/12/pexels-photo-1-1.jpg" alt="" width="950" height="712" srcset="/images/uploads/2016/12/pexels-photo-1-1.jpg 1280w, /images/uploads/2016/12/pexels-photo-1-1-300x225.jpg 300w, /images/uploads/2016/12/pexels-photo-1-1-768x576.jpg 768w, /images/uploads/2016/12/pexels-photo-1-1-1024x768.jpg 1024w" sizes="(max-width: 950px) 100vw, 950px" />
 
 Acima de tudo, lembre que você não está sozinho. Seja sua família, amigos, psicólogos ou mesmo em grupos online e offline, você pode contar com o suporte de outras pessoas. Nada melhor do que se expressar para outras pessoas para descobrirmos a nós mesmos.
 

@@ -45,13 +45,13 @@ Produzir, produzir, produzir. Quanto mais, melhor? Acho que a gente ta viciado d
 
 É deprimente e desmoralizante pois o tempo inteiro tem uma nova forma de lidar com a produtividade e no final, se prestarmos bastante atenção, estamos no mesmo lugar ou pior. O problema é que colocamos a responsabilidade em nós mesmos. Não somos produtivos porque não tentamos o suficiente, aí para compensar [advinha] trabalhamos várias horas extras.
 
-<img class="size-full wp-image-646 aligncenter" src="https://www.igluonline.com/wp-content/uploads/2017/03/pexels-photo-52608.jpeg" alt="" width="1280" height="855" srcset="https://www.igluonline.com/wp-content/uploads/2017/03/pexels-photo-52608.jpeg 1280w, https://www.igluonline.com/wp-content/uploads/2017/03/pexels-photo-52608-300x200.jpeg 300w, https://www.igluonline.com/wp-content/uploads/2017/03/pexels-photo-52608-768x513.jpeg 768w, https://www.igluonline.com/wp-content/uploads/2017/03/pexels-photo-52608-1024x684.jpeg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" />
+<img class="size-full wp-image-646 aligncenter" src="/images/uploads/2017/03/pexels-photo-52608.jpeg" alt="" width="1280" height="855" srcset="/images/uploads/2017/03/pexels-photo-52608.jpeg 1280w, /images/uploads/2017/03/pexels-photo-52608-300x200.jpeg 300w, /images/uploads/2017/03/pexels-photo-52608-768x513.jpeg 768w, /images/uploads/2017/03/pexels-photo-52608-1024x684.jpeg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" />
 
 ## Hábitos que não acabam mais
 
 Deixe o telefone de lado, junte tarefas repetidas, anote suas tarefas, crie listas de prioridade, se demorar menos de 5 minutos faça imediatamente, delegue tarefas, crie rituais matinais, faça reuniões breves em pé, tome mais café, faça exercícios, etc, etc&#8230;
 
-<img class="size-full wp-image-643 aligncenter" src="https://www.igluonline.com/wp-content/uploads/2017/03/habitos_produtividade.jpg" alt="" width="621" height="512" srcset="https://www.igluonline.com/wp-content/uploads/2017/03/habitos_produtividade.jpg 621w, https://www.igluonline.com/wp-content/uploads/2017/03/habitos_produtividade-300x247.jpg 300w" sizes="(max-width: 621px) 100vw, 621px" />
+<img class="size-full wp-image-643 aligncenter" src="/images/uploads/2017/03/habitos_produtividade.jpg" alt="" width="621" height="512" srcset="/images/uploads/2017/03/habitos_produtividade.jpg 621w, /images/uploads/2017/03/habitos_produtividade-300x247.jpg 300w" sizes="(max-width: 621px) 100vw, 621px" />
 
 Todo mundo hoje é expert em produtividade. Eu não falo isso sendo irônico. Se você trabalha e faz algo que funciona para você, você &#8211; pela definição de expert na internet hoje em dia &#8211; é um especialista no assunto. Como já mostrei, aqui mesmo no blog eu falo muito sobre isso. <a href="https://www.amazon.com.br/gp/product/B00A3D10JE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=iglonl-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00A3D10JE&linkId=457e6ab24f33042301b85fa0be09e90a" target="_blank">E do que que todo expert em produtividade fala? Hábitos!</a>
 
@@ -105,7 +105,7 @@ Quem nunca olhou para aquele ou aquela empreendedor(a) que consegue girar o mund
 
 <a href="http://kadavy.net/blog/archive/love-your-work/" target="_blank">Para começar ninguém cria algo grande sozinho, sem apoio psicológico de amigos e familiares, sem tempo ou sem algum tipo de problema</a>. Ser estúpido, ficar doente ou se isolar do mundo não são justificativas ou efeitos colaterais válidos para compensar a criação de algo grande. Muitas vezes endeusamos pessoas que passaram por cima de outras ou de si mesmas para conseguir fazer algo em tempo recorde ou transformar seus negócios. Mas a que custo?
 
-<img class="size-full wp-image-645 aligncenter" src="https://www.igluonline.com/wp-content/uploads/2017/03/pexels-photo.jpg" alt="" width="1280" height="854" srcset="https://www.igluonline.com/wp-content/uploads/2017/03/pexels-photo.jpg 1280w, https://www.igluonline.com/wp-content/uploads/2017/03/pexels-photo-300x200.jpg 300w, https://www.igluonline.com/wp-content/uploads/2017/03/pexels-photo-768x512.jpg 768w, https://www.igluonline.com/wp-content/uploads/2017/03/pexels-photo-1024x683.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" />
+<img class="size-full wp-image-645 aligncenter" src="/images/uploads/2017/03/pexels-photo.jpg" alt="" width="1280" height="854" srcset="/images/uploads/2017/03/pexels-photo.jpg 1280w, /images/uploads/2017/03/pexels-photo-300x200.jpg 300w, /images/uploads/2017/03/pexels-photo-768x512.jpg 768w, /images/uploads/2017/03/pexels-photo-1024x683.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" />
 
 Eu, pelo menos, não quero ter que sacrificar algo tão grande como minha saúde ou relacionamentos para deixar um legado mais rápido. **A velocidade é o problema**. Com um pouco mais de tempo tudo poder ser feito com ainda mais qualidade e sem ter que comprometer o que deveria ser mais importante.
 

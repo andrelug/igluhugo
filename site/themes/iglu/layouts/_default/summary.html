@@ -1,7 +1,11 @@
 <div class="col-masonry col-lg-6" style="position: absolute; left: 0px; top: 0px;"><article class="post-masonry post-39 post type-post status-publish format-video has-post-thumbnail hentry category-lifestyle tag-ideas tag-indie tag-long-read tag-lookbooks tag-originals tag-sweatshirts tag-video post_format-post-format-video post-visible">
 
 <div class="post-thumbnail">
-<img width="530" height="298" src="images/{{ .Param "featured_image" }}-768x512.{{ .Param "featured_image_extension" }}" class="attachment-masonry size-masonry wp-post-image" alt="" srcset="images/{{ .Param "featured_image" }}-768x512.{{ .Param "featured_image_extension" }} 530w, images/{{ .Param "featured_image" }}-300x200.{{ .Param "featured_image_extension" }} 300w, images/{{ .Param "featured_image" }}-768x512.{{ .Param "featured_image_extension" }} 768w, images/{{ .Param "featured_image" }}-1024x683.{{ .Param "featured_image_extension" }} 1100w" sizes="(max-width: 530px) 100vw, 530px">
+	 {{if .Param "hugo_image"}}
+	 	<img width="530" height="298" src="{{ .Param "hugo_image"}}" class="attachment-masonry size-masonry wp-post-image" alt="" >
+	{{ else }}
+		<img width="530" height="298" src="images/{{ .Param "featured_image" }}-768x512.{{ .Param "featured_image_extension" }}" class="attachment-masonry size-masonry wp-post-image" alt="" srcset="images/{{ .Param "featured_image" }}-768x512.{{ .Param "featured_image_extension" }} 530w, images/{{ .Param "featured_image" }}-300x200.{{ .Param "featured_image_extension" }} 300w, images/{{ .Param "featured_image" }}-768x512.{{ .Param "featured_image_extension" }} 768w, images/{{ .Param "featured_image" }}-1024x683.{{ .Param "featured_image_extension" }} 1100w" sizes="(max-width: 530px) 100vw, 530px">
+	{{ end }}
 <div class="post-more">
 <a href="{{ .Permalink }}" class="link-more">
 <span>Ler artigo</span>

@@ -35,7 +35,7 @@ O WordPress vem com uma funcionalidade chamada Auto-embed (Auto incorporação).
 
 Tudo que você precisa fazer é copiar a URL do vídeo que deseja clicando na barra de endereço e apertando **Ctrl C** para copiar e em seguida apertar **Ctrl V** na área de edição do seu post para colar. Para que isso funcione observe e faça com que o link fique na sua própria linha no editor e não seja um link (clicável). Dependendo da sua conexão com a internet, pode ser que demore alguns poucos segundos até que a URL desapareça e uma pré-visualização do vídeo apareça no editor de texto.
 
-<img class=" wp-image-503 aligncenter" src="http://igluonline.com/wp-content/uploads/2017/02/auto_embed_wordpress_incorporacao.gif" alt="" width="918" height="291" />
+<img class=" wp-image-503 aligncenter" src="http://igluonline.com/images/uploads/2017/02/auto_embed_wordpress_incorporacao.gif" alt="" width="918" height="291" />
 
 Naturalmente precisamos estar no editor visual do WordPress. Caso queira adicionar via o editor de código &#8211; clicando na aba Texto no canto superior direito da caixa de entrada de texto -, basta copiar e colar o código disponível de incorporação completo. Esse código normalmente é disponibilizado diretamente nos sites na parte de compartilhar os vídeos.
 
