@@ -11,8 +11,8 @@
 			<div class="post-archive-masonry">
 				<div class="row" style="position: relative; height: 3007px;">
 
-					{{ $paginator := .Paginate .Data.Pages }}
-				    {{ range $paginator.Pages }}
+					{{ $paginator := .Paginate .Site.Pages }}
+				    {{ range after 1 $paginator.Pages }}
 				        {{ .Render "summary" }}
 				    {{ end }}
 
