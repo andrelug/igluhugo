@@ -6,6 +6,7 @@ date: 2017-04-16T01:13:29+00:00
 url: /21-bibliotecas-javascript-e-css-que-voce-precisa-conhecer/
 featured_image: uploads/2017/04/pexels-photo-160107-1
 featured_image_extension: jpeg
+excerpt: Aqui na Iglu adoramos conhecer novas frameworks e bibliotecas JavaScript. Sempre que algo novo aparece queremos testar e ver se vale a pena compartilhar. Dessa vez, vamos trazer mais uma compilação de bibliotecas JavaScript que achamos interessante.
 mvp_post_template:
   - def
 mvp_featured_image:

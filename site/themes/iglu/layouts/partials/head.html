@@ -23,7 +23,7 @@
 	    <meta property="og:url" content="{{ .Permalink }}">
 	    {{ if $.Scratch.Get "single"}}<meta property="og:type" content="article">{{end}}
 	    <meta property="og:title" content="{{ .Title}}">
-	    <meta property="og:description" content="{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{if .Param "excerpt"}}{{ .Param "excerpt" }}{{else}}{{ .Summary }}{{end}}{{ end }}" name="description">
+	    <meta property="og:description" content="{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{ .Param "excerpt" }}{{ end }}" name="description">
 	    <meta property="og:image" content="{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}">
 	    <meta property="fb:app_id" content="187329465112652">
 
@@ -31,7 +31,7 @@
 	    <meta name="twitter:card" content="summary">
 	    <meta name="twitter:site" content="@tableless">
 	    <meta name="twitter:title" content="{{.Title}}">
-	    <meta name="twitter:description" content="{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{if .Param "excerpt"}}{{ .Param "excerpt" }}{{else}}{{ .Summary }}{{end}}{{ end }}">
+	    <meta name="twitter:description" content="{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{ .Param "excerpt" }}{{ end }}">
 	    <meta name="twitter:image" content="{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}">
 
 		<!-- Styles -->
@@ -97,7 +97,7 @@
 	        "dateCreated": "{{.Params.date}}",
 	        "dateModified": "{{.Lastmod}}",
 	        "articleBody": "{{.Content| plainify}}",
-	        "description": "{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{if .Param "excerpt"}}{{ .Param "excerpt" }}{{else}}{{ .Summary }}{{end}}{{ end }}"
+	        "description": "{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{ .Param "excerpt" }}{{ end }}"
 	      }
 	    </script>
 
