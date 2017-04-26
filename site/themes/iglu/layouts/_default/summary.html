@@ -24,9 +24,11 @@
 
 <ul class="post-categories">
 	<li>
-		{{ range first 1 .Params.categories }}
-		<a href="{{ "/category/" | relLangURL }}{{ . | urlize }}" rel="category tag">{{ . }}</a>
-	    {{ end }}
+		{{ if isset .Params "categories" }}
+			{{ range first 1 .Params.categories }}
+			<a href="{{ "/category/" | relLangURL }}{{ . | urlize }}" rel="category tag">{{ . }}</a>
+		    {{ end }}
+		{{ end }}
 
 	</li>
 </ul>
