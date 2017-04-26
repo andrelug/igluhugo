@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-br" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}</title>
+		<link rel="icon" href="images/favicon.png">
+	    <base href="{{ .Site.BaseURL }}">
+
+		{{ with .Site.Params.name }}<meta name="author" content="{{ . }}">{{ end }}
+		{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+		{{ with .Site.LanguageCode }}<meta http-equiv="content-language" content="{{ . }}" />{{ end }}
+
+
+		<link rel="canonical" href="{{ .Permalink }}">
+		{{ if .RSSLink }}
+		<link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}">
+	    <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}">
+	    {{ end }}
+
+		<!-- Facebook -->
+	    <meta property="og:url" content="{{ .RelPermalink }}">
+	    {{ if $.Scratch.Get "single"}}<meta property="og:type" content="article">{{end}}
+	    <meta property="og:title" content="{{ .Title}}">
+	    <meta property="og:description" content="{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{if .Param "excerpt"}}{{ .Param "excerpt" }}{{else}}{{ .Summary }}{{end}}{{ end }}" name="description">
+	    <meta property="og:image" content="{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}">
+	    <meta property="fb:app_id" content="187329465112652">
+
+		<!-- Twitter -->
+	    <meta name="twitter:card" content="summary">
+	    <meta name="twitter:site" content="@tableless">
+	    <meta name="twitter:title" content="{{.Title}}">
+	    <meta name="twitter:description" content="{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{if .Param "excerpt"}}{{ .Param "excerpt" }}{{else}}{{ .Summary }}{{end}}{{ end }}">
+	    <meta name="twitter:image" content="{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}">
+
+		<!-- Styles -->
+		<link rel="stylesheet" href="css/styles.css" type="text/css" media="all">
+		<link rel="stylesheet"  href="https://fonts.googleapis.com/css?family=Lato%3Aregular%7CMontserrat%3A500%2C600%2C700%2Cregular&amp;subset=latin-ext" type="text/css" media="all">
+
+		<!-- Scripts -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+		<script src="js/jquery_migrate.js"></script>
+
+		<!-- Home -->
+		{{if .IsHome}}
+	    <script type='application/ld+json'>
+	      {
+	        "@context": "http://www.schema.org",
+	        "@type": "WebSite",
+	        "name": "{{.Site.Params.siteName}}",
+	        "alternateName": "{{ .Site.Title }}",
+	        "url": "{{ .Site.BaseURL}}",
+	        "description": "Artigos e notíficas sobre desenvolvimento web e design.",
+	        "publisher": "Iglu",
+	        "potentialAction": {
+	          "@type": "SearchAction",
+	          "target": "https://duckduckgo.com/?sites=igluonline.com.br&q={search_term}&kl=br-pt&kz=1&ky=e&k8=g&k1=-1&kj=w&x=0&y=0&ia=web",
+	          "query-input": "required name=search_term" }
+	        }
+	    </script>
+	    {{end}}
+
+		<!-- Single -->
+		{{ if $.Scratch.Get "single"}}
+
+	    <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+	    <script>
+	      var googletag = googletag || {};
+	      googletag.cmd = googletag.cmd || [];
+	    </script>
+
+	    <script>
+	      googletag.cmd.push(function() {
+	        googletag.defineSlot('/7969368/RetanguloMedio-TopoSidebar', [[300, 250], [300, 300], [360, 360], [336, 280]], 'div-gpt-ad-1491747715151-0').addService(googletag.pubads());
+	        googletag.pubads().enableSingleRequest();
+	        googletag.pubads().collapseEmptyDivs();
+	        googletag.enableServices();
+	      });
+	    </script>
+
+	    <script type="application/ld+json">
+	      { "@context": "http://schema.org",
+	        "@type": "Article",
+	        "headline": "{{.Title}}",
+	        "author": "{{ .Param "author" }}",
+	        "image": "{{ with .Params.image }}{{ . }}{{ else }}/images/missing-img.png{{ end }}",
+	        "publisher": {
+	          "@type" : "Organization",
+	          "name":"{{.Site.Params.siteName}}",
+	          "logo":"http://tableless.com.br/images/logo.svg"
+	          },
+	        "url": "{{ .RelPermalink }}",
+	        "wordCount": "{{ .FuzzyWordCount }}",
+	        "keywords": "{{.Params.tags}}",
+	        "datePublished": "{{.Params.date}}",
+	        "dateCreated": "{{.Params.date}}",
+	        "dateModified": "{{.Lastmod}}",
+	        "articleBody": "{{.Content| plainify}}",
+	        "description": "{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{if .Param "excerpt"}}{{ .Param "excerpt" }}{{else}}{{ .Summary }}{{end}}{{ end }}"
+	      }
+	    </script>
+
+	    {{ end }}
+
+
+	</head>

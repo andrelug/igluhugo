@@ -11,7 +11,18 @@
 
     {{ if .Paginator.HasNext }}
         <a class="button" rel="next" href="{{ .Site.BaseURL }}{{.Paginator.Next.URL}}">
-            Older »
+            Older »>>> {{ .Paginator.PageSize 	}}
         </a>
     {{ end }}
 {{ end }}
+
+
+<nav class="navigation pagination" role="navigation">
+	<h2 class="screen-reader-text">Posts navigation</h2>
+	<div class="nav-links"><span class="page-numbers current">1</span>
+<a class="page-numbers" href="http://demo.codesupply.co/authentic/page/2/">2</a>
+<a class="page-numbers" href="http://demo.codesupply.co/authentic/page/3/">3</a>
+<span class="page-numbers dots">…</span>
+<a class="page-numbers" href="http://demo.codesupply.co/authentic/page/5/">5</a>
+<a class="next page-numbers" href="http://demo.codesupply.co/authentic/page/2/">Next</a></div>
+</nav>

@@ -1,0 +1,149 @@
+<div class="sidebar" style="position: relative; overflow: visible; box-sizing: border-box; min-height: 1px;">
+
+<div class="theiaStickySidebar" style="padding-top: 1px; padding-bottom: 1px; position: static; transform: none;"><div class="sidebar-content">
+
+
+	<div class="widget authentic_widget_social-2 authentic_widget_social"><h5 class="title-widget">Siga a Iglu</h5>    <div class="social-accounts">
+
+<ul class="social-bg-hover">
+				<li>
+	<a target="_blank" href="https://twitter.com/andrelug_">
+	  <i class="icon icon-facebook"></i>
+				</a>
+  </li>
+				<li>
+	<a target="_blank" href="https://twitter.com/andrelug_">
+	  <i class="icon icon-twitter"></i>
+				</a>
+  </li>
+				<li>
+	<a target="_blank" href="https://www.instagram.com/igluonline/">
+	  <i class="icon icon-instagram"></i>
+				</a>
+  </li>
+				<li>
+	<a target="_blank" href="https://plus.google.com/u/0/collection/0TVuZ">
+	  <i class="icon icon-google-plus"></i>
+				</a>
+  </li>
+				<li>
+	<a target="_blank" href="https://br.pinterest.com/andrelug/">
+	  <i class="icon icon-pinterest"></i>
+				</a>
+  </li>
+				<li>
+	<a target="_blank" href="https://www.linkedin.com/in/andrelug">
+	  <i class="icon icon-linkedin"></i>
+				</a>
+  </li>
+				<li>
+	<a target="_blank" href="https://www.youtube.com/channel/UCybl6LOBsIJ6R5dXUdbmmXA">
+	  <i class="icon icon-youtube"></i>
+				</a>
+  </li>
+				  </ul>
+
+</div>
+
+</div>
+<div class="widget authentic_widget_subscribe-2 authentic_widget_subscribe">
+<div class="widget-body">
+<div class="widget-content">
+
+<h5 class="title-widget">Newsletter</h5>
+
+
+
+<div id="mauticform_wrapper_blogiglu" class="mauticform_wrapper">
+    <form autocomplete="false" role="form" method="post" action="http://13.92.177.75/form/submit?formId=3" id="mauticform_blogiglu" data-mautic-form="blogiglu">
+        <div class="mauticform-error" id="mauticform_blogiglu_error"></div>
+        <div class="mauticform-message" id="mauticform_blogiglu_message"></div>
+        <div class="mauticform-innerform">
+
+		<fieldset>
+
+          <div class="mauticform-page-wrapper mauticform-page-1" data-mautic-form-page="1">
+				<p class="widget-subscribe-message">Fique atualizado com as novidades da Iglu no seu e-mail.</p>
+			<div class="form-group">
+			  <div id="mauticform_blogiglu_nome"  data-validate="nome" data-validation-type="text" class="mauticform-row mauticform-text mauticform-field-2 mauticform-required">
+                  <label id="mauticform_label_blogiglu_nome" for="mauticform_input_blogiglu_nome" class="mauticform-label">Nome</label>
+                  <input id="mauticform_input_blogiglu_nome" name="mauticform[nome]" value="" class="mauticform-input form-control" type="text" />
+                  <span class="mauticform-errormsg" style="display: none;">Isso é obrigatório.</span>
+              </div>
+
+            <div id="mauticform_blogiglu_email"  data-validate="email" data-validation-type="email" class="mauticform-row mauticform-email mauticform-field-1 mauticform-required">
+                <label id="mauticform_label_blogiglu_email" for="mauticform_input_blogiglu_email" class="mauticform-label">E-mail</label>
+                <input id="mauticform_input_blogiglu_email" name="mauticform[email]" value="" class="mauticform-input form-control" type="email" />
+                <span class="mauticform-errormsg" style="display: none;">Isso é obrigatório.</span>
+            </div>
+			</div>
+
+            <div id="mauticform_blogiglu_submit"  class="mauticform-row mauticform-button-wrapper mauticform-field-3">
+                <button type="submit" name="mauticform[submit]" id="mauticform_input_blogiglu_submit" name="mauticform[submit]" value="" class="mauticform-button btn btn-default search-submit btn btn-primary btn-effect" value="1" onClick="submited();"><span>Inscrever</span><span><i class="icon icon-mail"></i></span></button>
+            </div>
+            </div>
+	</fieldset>
+
+        </div>
+
+        <input type="hidden" name="mauticform[formId]" id="mauticform_blogiglu_id" value="3"/>
+        <input type="hidden" name="mauticform[return]" id="mauticform_blogiglu_return" value=""/>
+        <input type="hidden" name="mauticform[formName]" id="mauticform_blogiglu_name" value="blogiglu"/>
+</form>
+</div>
+
+</div>
+</div>
+
+</div>
+{{if not .IsHome}}
+<div class="widget authentic_widget_posts-4 authentic_widget_posts"><h5 class="title-widget">Artigos Populares</h5>
+
+  <ul class="numbered">
+
+
+	  {{ range $index, $element := first 4 (where .Site.Pages "Type" "post") | shuffle }}
+		  <li>
+			  <article class="media">
+				  <div class="d-flex mr-3">
+					  <a href="{{ .Permalink }}" class="post-thumbnail">
+						  {{if .Param "hugo_image"}}
+							<img width="100" height="100" src="{{ .Param "hugo_image"}}" class="attachment-mini size-mini wp-post-image" alt="">
+					  	{{else}}
+						  	<img width="100" height="100" src="images/{{ .Param "featured_image" }}-1024x683.{{ .Param "featured_image_extension" }}" class="attachment-mini size-mini wp-post-image" alt="" srcset="images/{{ .Param "featured_image" }}-1024x683.{{ .Param "featured_image_extension" }} 100w, http://demo.codesupply.co/authentic/wp-content/uploads/2016/05/authentic-demo-image-085-1100x1100.jpg 1100w" sizes="(max-width: 100px) 100vw, 100px">
+						{{ end }}
+						  <span class="post-number-wrap">
+							  <span class="post-number">
+								  <span>{{ add $index 1 }}</span>
+								  <span><i class="icon icon-arrow-right"></i></span>
+							  </span>
+						  </span>
+					  </a>
+				  </div>
+				  <div class="media-body">
+					  <h4 class="mb-0">
+						  <a href="{{ .Permalink }}">{{ .Title }}</a>
+					  </h4>
+					  <ul class="post-meta">
+						  <li class="meta-date">
+							  <time class="entry-date published updated" datetime="{{ .Date.Format "02/01/2006" }}">
+								  {{ .Date.Format "02/01/2006" }}
+							  </time>
+						  </li>
+						  <li class="meta-views">
+						  </li>
+					  </ul>
+				  </div>
+			  </article>
+		  </li>
+	  {{end}}
+
+
+		  </ul>
+
+
+</div>
+{{ end }}
+</div>
+</div>
+</div>

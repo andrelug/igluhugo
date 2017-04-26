@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+	{{if .IsHome}}
+		<div class="post-archive">
+			{{ if not .Site.Params.featured.hide }}
+				{{ range first 1 (where .Site.Pages "Type" "post")}}
+					{{ partial "featured" . }}
+				{{ end }}
+			{{ end }}
+
+			<div class="post-archive-masonry">
+				<div class="row" style="position: relative; height: 3007px;">
+					{{ $paginator := .Paginate .Data.Pages }}
+				    {{ range $paginator.Pages }}
+				        {{ .Render "summary" }}
+				    {{ end }}
+
+				</div>
+			</div>
+			{{ partial "pagination" . }}
+		</div>
+	{{ end }}
+
+{{ end }}

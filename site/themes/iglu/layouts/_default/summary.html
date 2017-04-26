@@ -1,0 +1,41 @@
+<div class="col-masonry col-lg-6" style="position: absolute; left: 0px; top: 0px;"><article class="post-masonry post-39 post type-post status-publish format-video has-post-thumbnail hentry category-lifestyle tag-ideas tag-indie tag-long-read tag-lookbooks tag-originals tag-sweatshirts tag-video post_format-post-format-video post-visible">
+
+<div class="post-thumbnail">
+<img width="530" height="298" src="images/{{ .Param "featured_image" }}-768x512.{{ .Param "featured_image_extension" }}" class="attachment-masonry size-masonry wp-post-image" alt="" srcset="images/{{ .Param "featured_image" }}-768x512.{{ .Param "featured_image_extension" }} 530w, images/{{ .Param "featured_image" }}-300x200.{{ .Param "featured_image_extension" }} 300w, images/{{ .Param "featured_image" }}-768x512.{{ .Param "featured_image_extension" }} 768w, images/{{ .Param "featured_image" }}-1024x683.{{ .Param "featured_image_extension" }} 1100w" sizes="(max-width: 530px) 100vw, 530px">
+<div class="post-more">
+<a href="{{ .Permalink }}" class="link-more">
+<span>Ler artigo</span>
+	  </a>
+</div>
+
+  <ul class="post-meta">      <li class="meta-reading-time">
+		2        <span> minute read</span>      </li>
+  <li class="meta-views">
+				{{ .Param "post_views_count" }}         visualizações      </li>
+</ul>      <a href="{{ .Permalink }}"></a>
+</div>
+
+<ul class="post-categories">
+<li><a href="{{ .Param "categories" }}" rel="category tag">{{ .Param "categories" }}</a></li></ul>  <h2 class="entry-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+<ul class="post-meta">      <li class="meta-date">
+<time class="entry-date published updated" datetime="{{ .Date.Format "02/01/2006" }}">
+  {{ .Date.Format "02/01/2006" }}        </time>
+</li>
+  <li class="meta-author author vcard">
+	  <span>por</span>
+	  		{{ .Param "author" }}
+</li>
+  <li class="meta-comments">
+		<a href="http://demo.codesupply.co/authentic/exclusive-get-a-first-look-at-the-fall-collection/#comments" class="comments-link">5 comments</a>      </li>
+</ul>  <div class="post-excerpt">{{ .Summary }}</div>
+
+<div class="post-more">
+<a href="{{ .Permalink }}" class="btn btn-primary btn-effect">
+<span>Ler artigo</span>
+		  <span><i class="icon icon-arrow-right"></i></span>
+	  </a>
+</div>
+
+
+</article>
+</div>
