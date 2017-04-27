@@ -84,13 +84,13 @@
 			<div class="post-share post-share-vertical">
 				<ul class="share-buttons">
 					<li>
-						<a target="_blank" rel="nofollow" href="http://www.facebook.com/sharer.php?u={{ .RelPermalink }}"><i class="icon icon-facebook"></i></a>
+						<a target="_blank" rel="nofollow" href="http://www.facebook.com/sharer.php?u={{.Site.BaseURL}}{{ .RelPermalink }}"><i class="icon icon-facebook"></i></a>
 					</li>
 					<li>
-						<a target="_blank" rel="nofollow" href="https://twitter.com/share?text=The+Look%3A+Perfect+Balance&amp;url={{ .RelPermalink }}"><i class="icon icon-twitter"></i></a>
+						<a target="_blank" rel="nofollow" href="https://twitter.com/share?text={{ .Title }};url={{.Site.BaseURL}}{{ .RelPermalink }}"><i class="icon icon-twitter"></i></a>
 					</li>
 					<li>
-						<a target="_blank" rel="nofollow" href="https://pinterest.com/pin/create/bookmarklet/?media=http://demo.codesupply.co/authentic/wp-content/uploads/2016/05/authentic-demo-image-085.jpg&amp;url={{ .RelPermalink }}"><i class="icon icon-pinterest"></i>
+						<a target="_blank" rel="nofollow" href="https://pinterest.com/pin/create/bookmarklet/?media={{.Site.BaseURL}}images/{{ .Param "featured_image" }}.{{ .Param "featured_image_extension" }}&url={{.Site.BaseURL}}{{ .RelPermalink }}"><i class="icon icon-pinterest"></i>
 						</a>
 					</li>
 				</ul>
@@ -102,7 +102,7 @@
 		<div class="content">
 		    {{ .Content }}
 			<div class="fb-like"
-			    data-href="{{ .RelPermalink }}"
+			    data-href="{{.Site.BaseURL}}{{ .RelPermalink }}"
 			    data-layout="standard"
 			    data-action="like"
 			    data-show-faces="true">
@@ -116,7 +116,7 @@
 	   {{ $tagsLen := len .Params.tags }}
 	   {{ if gt $tagsLen 0 }}
 	       {{ range $k, $v := .Params.tags }}
-		   <a href="{{ $.Site.BaseURL }}tags/{{ . | urlize | lower }}" rel="tag">{{ . }}</a>
+		   <a href="{{ $.Site.BaseURL }}/tags/{{ . | urlize | lower }}" rel="tag">{{ . }}</a>
 	       {{ if lt $k (sub $tagsLen 1) }}&middot;{{ end }}
 	       {{ end }}
 	   {{ end }}
@@ -230,8 +230,7 @@
 		Comentários
 	</h3>
 	<div class="fb-comment-embed"
-	   data-href="{{ .RelPermalink }}"
-	   data-width="500"></div>
+	   data-href="{{.Site.BaseURL}}{{ .RelPermalink }}"></div>
 </div>
 
 

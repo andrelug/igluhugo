@@ -17,7 +17,7 @@
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}</title>
-		<link rel="icon" href="images/favicon.png">
+		<link rel="icon" href="/images/favicon.png">
 	    <base href="{{ .Site.BaseURL }}">
 
 		{{ with .Site.Params.name }}<meta name="author" content="{{ . }}">{{ end }}
@@ -33,10 +33,10 @@
 
 		<!-- Facebook -->
 	    <meta property="og:url" content="{{ .Permalink }}">
-	    {{ if $.Scratch.Get "single"}}<meta property="og:type" content="article">{{end}}
+	    {{if not .IsHome}}<meta property="og:type" content="article">{{end}}
 	    <meta property="og:title" content="{{ .Title}}">
 	    <meta property="og:description" content="{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{ .Param "excerpt" }}{{ end }}" name="description">
-	    <meta property="og:image" content="images/{{.Params.featured_image }}.{{ .Param "featured_image_extension" }}">
+	    <meta property="og:image" content="/images/{{.Param "featured_image" }}.{{ .Param "featured_image_extension" }}">
 		<meta property="og:locale" content="pt_BR">
 		<meta property="og:site_name" content="Iglu">
 
@@ -59,7 +59,7 @@
 	    <meta name="twitter:site" content="@andrelug_">
 	    <meta name="twitter:title" content="{{.Title}}">
 	    <meta name="twitter:description" content="{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{ .Param "excerpt" }}{{ end }}">
-	    <meta name="twitter:image" content="images/{{.Params.featured_image }}.{{ .Param "featured_image_extension" }}">
+	    <meta name="twitter:image" content="/images/{{.Param "featured_image" }}.{{ .Param "featured_image_extension" }}">
 
 		<!-- Styles -->
 		<link rel="stylesheet" href="css/styles.css" type="text/css" media="all">
@@ -115,7 +115,7 @@
 	        "publisher": {
 	          "@type" : "Organization",
 	          "name":"{{.Site.Params.siteName}}",
-	          "logo":"http://tableless.com.br/images/logo.svg"
+	          "logo":"https://www.igluonline.com.br/images/logo_iglu.png"
 	          },
 	        "url": "{{ .Permalink }}",
 	        "wordCount": "{{ .FuzzyWordCount }}",

@@ -1,4 +1,4 @@
-baseurl = "http://igluonline.netlify.com/"
+baseurl = "http://igluonline.netlify.com"
 languageCode = "pt-br"
 title = "Iglu"
 theme = "iglu"
