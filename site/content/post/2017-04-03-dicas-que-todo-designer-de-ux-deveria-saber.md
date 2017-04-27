@@ -31,7 +31,7 @@ Parte da razão por trás de tanta confusão com os designers de UX (User Experi
 
 Um design bonito mas pouco funcional não terá um bom resultado. Nesse artigo vou listar algumas características a respeito do design de UX para que alguns mitos possam ser quebrados e o termo utilizado com mais propriedade com seus clientes e colegas de trabalho.
 
-<a href="https://www.igluonline.com/category/design/" target="_blank">Aproveite para conferir também nossa seleção de artigos sobre design.</a>
+<a href="https://www.igluonline.com/categories/design/" target="_blank">Aproveite para conferir também nossa seleção de artigos sobre design.</a>
 
 ## UX não é só para a web
 

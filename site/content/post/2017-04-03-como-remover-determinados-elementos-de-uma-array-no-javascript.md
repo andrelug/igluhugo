@@ -18,7 +18,7 @@ Imagine que você criou sua Array no JavaScript e agora precisa remover um deter
 
 Depois que utilizamos algo como o `.push(elemento)` para adicionar elementos na Array, infelizmente não há algo como `.remove(elemento)` para tirar ele depois a não ser que esteja ou no início `.shift()` ou no final `.pop()`
 
-<a href="https://www.igluonline.com/category/desenvolvimento-web/" target="_blank">Confira também nossos outros artigos sobre desenvolvimento web e programação.</a>
+<a href="https://www.igluonline.com/categories/desenvolvimento-web/" target="_blank">Confira também nossos outros artigos sobre desenvolvimento web e programação.</a>
 
 ## Navegadores Modernos
 

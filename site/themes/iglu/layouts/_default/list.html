@@ -1,8 +1,20 @@
 {{ define "main" }}
-    {{ $paginator := .Paginate .Data.Pages }}
-    {{ range $paginator.Pages }}
-        {{ .Render "summary" }}
-    {{ end }}
 
-    {{ partial "pagination" . }}
+
+		<div class="post-archive">
+
+
+			<div class="post-archive-masonry">
+				<div class="row" style="position: relative; height: 3007px;">
+
+					{{ $paginator := .Paginate .Data.Pages }}
+				    {{ range $paginator.Pages }}
+				        {{ .Render "summary" }}
+				    {{ end }}
+
+				</div>
+			</div>
+			{{ partial "pagination" . }}
+		</div>
+
 {{ end }}

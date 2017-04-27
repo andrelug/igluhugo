@@ -47,7 +47,7 @@ Antigamente apenas fotógrafos e alguns tipos de designers precisavam saber mani
 
 Seja para <a href="https://www.igluonline.com/funcionalidade-photoshop-da-semana-ferramenta-de-corte/" target="_blank">cortar</a>, <a href="https://www.igluonline.com/funcionalidade-photoshop-da-semana-texto-e-fontes-customizadas/" target="_blank">adicionar texto</a>s, fazer uma montagem ou <a href="https://www.igluonline.com/funcionalidade-photoshop-da-semana-ferramenta-de-cor/" target="_blank">melhorar as cores</a> o conhecimento nessa área está muito requerido. Afinal boas imagens na web ajudam a causar boas impressões para os visitantes de qualquer tipo de site. Navegantes da web hoje são muito mais exigentes com a qualidade das imagens do que jamais foram.
 
-Você não precisa ser um expert e fazer edições profissionais para revistas, mas precisa pelo menos saber manipular, cortar e tratar fotos e imagens. O que não faltam são <a href="https://www.igluonline.com/category/design/ferramentas-photoshop/" target="_blank">tutorais aqui na Iglu sobre Photoshop</a> e até estamos lançando um <a href="http://cursos.igluonline.com" target="_blank">curso de Photoshop básico</a>.
+Você não precisa ser um expert e fazer edições profissionais para revistas, mas precisa pelo menos saber manipular, cortar e tratar fotos e imagens. O que não faltam são <a href="https://www.igluonline.com/categories/ferramentas-photoshop/" target="_blank">tutorais aqui na Iglu sobre Photoshop</a> e até estamos lançando um <a href="http://cursos.igluonline.com" target="_blank">curso de Photoshop básico</a>.
 
 ## Escrever títulos e apresentações
 

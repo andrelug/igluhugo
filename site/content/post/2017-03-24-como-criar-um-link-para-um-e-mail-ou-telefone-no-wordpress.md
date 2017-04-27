@@ -30,7 +30,7 @@ Adicionar um link para e-mail ou telefone no WordPress é algo muito simples e �
 
 Em geral os links começam com algum tipo de protocolo, como http:// ou https://. Em seguida vem o endereço e diretórios do arquivo ou página a ser buscada. Muitas vezes chamamos esses links de URLs. Se você quiser saber a <a href="https://www.igluonline.com/qual-diferenca-entre-url-uri-e-urn/" target="_blank">diferença entre URL, URI e URN, confira nosso artigo a respeito</a>.
 
-**<a href="https://www.igluonline.com/category/wordpress/" target="_blank">Não deixe de conferir nossos outros tutoriais de WordPress.</a>**
+**<a href="https://www.igluonline.com/categories/wordpress/" target="_blank">Não deixe de conferir nossos outros tutoriais de WordPress.</a>**
 
 ## Adicionando links
 

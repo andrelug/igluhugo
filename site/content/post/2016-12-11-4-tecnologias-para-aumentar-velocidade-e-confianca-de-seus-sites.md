@@ -37,7 +37,7 @@ HTTP/1 era (e ainda é) mais eficiente quando carregando uma imagem ou arquivo g
 
 HTTP/2 também compacta os dados da transferência (headeres) antes do request ser enviado, o que simplifica o seu transporte. Por último, a nova versão é binária e não textual como a anterior. **O resultado é um aumento de performance de até 50%**. Você pode testar a diferença [nesse link][1].
 
-<img class=" wp-image-195 aligncenter" src="http://blog.igluonline.com/images/uploads/2016/12/Screenshot_1-1.png" alt="" width="1140" height="691" srcset="/images/uploads/2016/12/Screenshot_1-1.png 1575w, /images/uploads/2016/12/Screenshot_1-1-300x182.png 300w, /images/uploads/2016/12/Screenshot_1-1-768x466.png 768w, /images/uploads/2016/12/Screenshot_1-1-1024x621.png 1024w, /images/uploads/2016/12/Screenshot_1-1-150x90.png 150w" sizes="(max-width: 1140px) 100vw, 1140px" />
+<img class=" wp-image-195 aligncenter" src="/images/uploads/2016/12/Screenshot_1-1.png" alt="" width="1140" height="691" srcset="/images/uploads/2016/12/Screenshot_1-1.png 1575w, /images/uploads/2016/12/Screenshot_1-1-300x182.png 300w, /images/uploads/2016/12/Screenshot_1-1-768x466.png 768w, /images/uploads/2016/12/Screenshot_1-1-1024x621.png 1024w, /images/uploads/2016/12/Screenshot_1-1-150x90.png 150w" sizes="(max-width: 1140px) 100vw, 1140px" />
 
 A maior dificuldade hoje com relação à mudança para o novo protocolo não é o próprio HTTP/2, mas sim o suporte dos navegadores pois esses apenas estão suportando a nova conexão via SSL, isto é, apenas sites com o certificado de segurança mesmo que o novo protocolo, assim como o antigo, aceitem conexões sem SSL.
 
@@ -61,7 +61,7 @@ Brotli é um novo algoritmo de compressão [introduzido pela Google][4] recentem
 
 Nenhum servidor oferece o algoritmo como padrão no momento, mas os mais populares como Nginx, Apache e Node.js já possuem pacotes (packeges) para sua instalação.
 
-<img class=" wp-image-198 aligncenter" src="http://blog.igluonline.com/images/uploads/2016/12/Screenshot_2-1.png" alt="" width="1088" height="517" srcset="/images/uploads/2016/12/Screenshot_2-1.png 1330w, /images/uploads/2016/12/Screenshot_2-1-300x143.png 300w, /images/uploads/2016/12/Screenshot_2-1-768x365.png 768w, /images/uploads/2016/12/Screenshot_2-1-1024x487.png 1024w" sizes="(max-width: 1088px) 100vw, 1088px" />
+<img class=" wp-image-198 aligncenter" src="/images/uploads/2016/12/Screenshot_2-1.png" alt="" width="1088" height="517" srcset="/images/uploads/2016/12/Screenshot_2-1.png 1330w, /images/uploads/2016/12/Screenshot_2-1-300x143.png 300w, /images/uploads/2016/12/Screenshot_2-1-768x365.png 768w, /images/uploads/2016/12/Screenshot_2-1-1024x487.png 1024w" sizes="(max-width: 1088px) 100vw, 1088px" />
 
 &nbsp;
 

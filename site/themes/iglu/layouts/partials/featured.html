@@ -4,7 +4,7 @@
 <ul class="post-categories">
 	<li>
 		{{ range .Params.categories }}
-		<a href="{{ "/category/" | relLangURL }}{{ . | urlize }}" rel="category tag">{{ . }}</a>
+		<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" rel="category tag">{{ . }}</a>
 	    {{ end }}
 	</li>
 </ul>

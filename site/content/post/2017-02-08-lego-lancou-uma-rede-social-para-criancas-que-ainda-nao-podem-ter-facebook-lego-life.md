@@ -75,7 +75,7 @@ Tudo que é postado deve ser relacionado diretamente com LEGO. Cada conteúdo pa
 
 Para que a comunicação e identidade do serviço seja completa, o time da LEGO criou uma série de emojis com os bonequinhos e outros elementos mais inocentes.
 
-<img class="size-full wp-image-472 aligncenter" src="http://igluonline.com/images/uploads/2017/02/LEGOLIFE_Content_Language.gif" alt="" width="720" height="405" />
+<img class="size-full wp-image-472 aligncenter" src="/images/uploads/2017/02/LEGOLIFE_Content_Language.gif" alt="" width="720" height="405" />
 
 ## Negócios
 
@@ -83,7 +83,7 @@ Como a empresa não é boba, o aplicativo tem como objetivo colocar desafios par
 
 A ideia é utilizar as noções de <a href="https://medium.com/@andrelug/afinal-o-que-%C3%A9-gamifica%C3%A7%C3%A3o-8239cd6be71d#.mzo2osfag" target="_blank">Gamificação de progressão e prêmios</a> para que as crianças fiquem tanto grudadas no aplicativo quanto nos tijolinhos de verdade. &#8220;**É um tanto quanto arriscado**&#8221; como disse Lowe.
 
-<img class="wp-image-475 aligncenter" src="http://igluonline.com/images/uploads/2017/02/LEGOLife_Square_App_BuildingChallenge_01.jpg" alt="" width="490" height="490" srcset="/images/uploads/2017/02/LEGOLife_Square_App_BuildingChallenge_01.jpg 1488w, /images/uploads/2017/02/LEGOLife_Square_App_BuildingChallenge_01-150x150.jpg 150w, /images/uploads/2017/02/LEGOLife_Square_App_BuildingChallenge_01-300x300.jpg 300w, /images/uploads/2017/02/LEGOLife_Square_App_BuildingChallenge_01-768x768.jpg 768w, /images/uploads/2017/02/LEGOLife_Square_App_BuildingChallenge_01-1024x1024.jpg 1024w" sizes="(max-width: 490px) 100vw, 490px" />
+<img class="wp-image-475 aligncenter" src="/images/uploads/2017/02/LEGOLife_Square_App_BuildingChallenge_01.jpg" alt="" width="490" height="490" srcset="/images/uploads/2017/02/LEGOLife_Square_App_BuildingChallenge_01.jpg 1488w, /images/uploads/2017/02/LEGOLife_Square_App_BuildingChallenge_01-150x150.jpg 150w, /images/uploads/2017/02/LEGOLife_Square_App_BuildingChallenge_01-300x300.jpg 300w, /images/uploads/2017/02/LEGOLife_Square_App_BuildingChallenge_01-768x768.jpg 768w, /images/uploads/2017/02/LEGOLife_Square_App_BuildingChallenge_01-1024x1024.jpg 1024w" sizes="(max-width: 490px) 100vw, 490px" />
 
 <a href="https://www.lego.com/en-us/life" target="_blank">LEGO Life</a> foi lançado no início desse mês de Fevereiro e está disponível para Android e iOS. De acordo com um <a href="https://www.fastcodesign.com/3067082/the-artificially-intelligent-body-hacking-branding-of-2022" target="_blank">artigo da Fastcodesign</a>, aparentemente eles perguntaram e pessoas com mais de 13 anos podem entrar no aplicativo.
 

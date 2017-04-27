@@ -35,13 +35,13 @@ Na procura por novas formas de organização, descobri a [Harpoon][1]. A empresa
 
 O que me chamou atenção inicialmente foi a capacidade de visualizar vários relatórios de forma simplificada logo na entrada do sistema.
 
-<img class="size-full wp-image-131 aligncenter" src="http://blog.igluonline.com/images/uploads/2016/11/intro-dashboard.png" alt="intro-dashboard" width="949" height="353" srcset="/images/uploads/2016/11/intro-dashboard.png 949w, /images/uploads/2016/11/intro-dashboard-300x112.png 300w, /images/uploads/2016/11/intro-dashboard-768x286.png 768w" sizes="(max-width: 949px) 100vw, 949px" />
+<img class="size-full wp-image-131 aligncenter" src="/images/uploads/2016/11/intro-dashboard.png" alt="intro-dashboard" width="949" height="353" srcset="/images/uploads/2016/11/intro-dashboard.png 949w, /images/uploads/2016/11/intro-dashboard-300x112.png 300w, /images/uploads/2016/11/intro-dashboard-768x286.png 768w" sizes="(max-width: 949px) 100vw, 949px" />
 
 &nbsp;
 
 Contudo, aquilo que realmente chamou minha atenção foi poder ver meu ano em forma de um calendário para fazer planejamentos anuais e não só mais mensais, como antes. A plataforma busca todos os seus faturamentos e, principalmente, previsão de faturamentos futuros (seja por pagamentos parcelados ou mesmo orçamentos já aprovados) e monta um calendário de precisões muito intuitivo para que possamos nos planejar financeiramente.
 
-<img class="size-full wp-image-132 aligncenter" src="http://blog.igluonline.com/images/uploads/2016/11/Screenshot_1.jpg" alt="screenshot_1" width="1203" height="475" srcset="/images/uploads/2016/11/Screenshot_1.jpg 1203w, /images/uploads/2016/11/Screenshot_1-300x118.jpg 300w, /images/uploads/2016/11/Screenshot_1-768x303.jpg 768w, /images/uploads/2016/11/Screenshot_1-1024x404.jpg 1024w" sizes="(max-width: 1203px) 100vw, 1203px" />
+<img class="size-full wp-image-132 aligncenter" src="/images/uploads/2016/11/Screenshot_1.jpg" alt="screenshot_1" width="1203" height="475" srcset="/images/uploads/2016/11/Screenshot_1.jpg 1203w, /images/uploads/2016/11/Screenshot_1-300x118.jpg 300w, /images/uploads/2016/11/Screenshot_1-768x303.jpg 768w, /images/uploads/2016/11/Screenshot_1-1024x404.jpg 1024w" sizes="(max-width: 1203px) 100vw, 1203px" />
 
 Para completar, o sistema integra um contador de horas de trabalho para simplificar o gerenciamento das horas trabalhadas em cada projeto. Para quem cobra por hora esse recurso é sensacional, pois você pode automaticamente já adicionar as horas contadas direto na própria fatura para o cliente.
 
@@ -65,13 +65,13 @@ Na procura por novas formas de organização, descobri a [Harpoon][1]. A empresa
 
 O que me chamou atenção inicialmente foi a capacidade de visualizar vários relatórios de forma simplificada logo na entrada do sistema.
 
-<img class="size-full wp-image-131 aligncenter" src="http://blog.igluonline.com/images/uploads/2016/11/intro-dashboard.png" alt="intro-dashboard" width="949" height="353" srcset="/images/uploads/2016/11/intro-dashboard.png 949w, /images/uploads/2016/11/intro-dashboard-300x112.png 300w, /images/uploads/2016/11/intro-dashboard-768x286.png 768w" sizes="(max-width: 949px) 100vw, 949px" />
+<img class="size-full wp-image-131 aligncenter" src="/images/uploads/2016/11/intro-dashboard.png" alt="intro-dashboard" width="949" height="353" srcset="/images/uploads/2016/11/intro-dashboard.png 949w, /images/uploads/2016/11/intro-dashboard-300x112.png 300w, /images/uploads/2016/11/intro-dashboard-768x286.png 768w" sizes="(max-width: 949px) 100vw, 949px" />
 
 &nbsp;
 
 Contudo, aquilo que realmente chamou minha atenção foi poder ver meu ano em forma de um calendário para fazer planejamentos anuais e não só mais mensais, como antes. A plataforma busca todos os seus faturamentos e, principalmente, previsão de faturamentos futuros (seja por pagamentos parcelados ou mesmo orçamentos já aprovados) e monta um calendário de precisões muito intuitivo para que possamos nos planejar financeiramente.
 
-<img class="size-full wp-image-132 aligncenter" src="http://blog.igluonline.com/images/uploads/2016/11/Screenshot_1.jpg" alt="screenshot_1" width="1203" height="475" srcset="/images/uploads/2016/11/Screenshot_1.jpg 1203w, /images/uploads/2016/11/Screenshot_1-300x118.jpg 300w, /images/uploads/2016/11/Screenshot_1-768x303.jpg 768w, /images/uploads/2016/11/Screenshot_1-1024x404.jpg 1024w" sizes="(max-width: 1203px) 100vw, 1203px" />
+<img class="size-full wp-image-132 aligncenter" src="/images/uploads/2016/11/Screenshot_1.jpg" alt="screenshot_1" width="1203" height="475" srcset="/images/uploads/2016/11/Screenshot_1.jpg 1203w, /images/uploads/2016/11/Screenshot_1-300x118.jpg 300w, /images/uploads/2016/11/Screenshot_1-768x303.jpg 768w, /images/uploads/2016/11/Screenshot_1-1024x404.jpg 1024w" sizes="(max-width: 1203px) 100vw, 1203px" />
 
 Para completar, o sistema integra um contador de horas de trabalho para simplificar o gerenciamento das horas trabalhadas em cada projeto. Para quem cobra por hora esse recurso é sensacional, pois você pode automaticamente já adicionar as horas contadas direto na própria fatura para o cliente.
 
@@ -99,13 +99,13 @@ Na procura por novas formas de organização, descobri a [Harpoon][1]. A empresa
 
 O que me chamou atenção inicialmente foi a capacidade de visualizar vários relatórios de forma simplificada logo na entrada do sistema.
 
-<img class="size-full wp-image-131 aligncenter" src="http://blog.igluonline.com/images/uploads/2016/11/intro-dashboard.png" alt="intro-dashboard" width="949" height="353" srcset="/images/uploads/2016/11/intro-dashboard.png 949w, /images/uploads/2016/11/intro-dashboard-300x112.png 300w, /images/uploads/2016/11/intro-dashboard-768x286.png 768w" sizes="(max-width: 949px) 100vw, 949px" />
+<img class="size-full wp-image-131 aligncenter" src="/images/uploads/2016/11/intro-dashboard.png" alt="intro-dashboard" width="949" height="353" srcset="/images/uploads/2016/11/intro-dashboard.png 949w, /images/uploads/2016/11/intro-dashboard-300x112.png 300w, /images/uploads/2016/11/intro-dashboard-768x286.png 768w" sizes="(max-width: 949px) 100vw, 949px" />
 
 &nbsp;
 
 Contudo, aquilo que realmente chamou minha atenção foi poder ver meu ano em forma de um calendário para fazer planejamentos anuais e não só mais mensais, como antes. A plataforma busca todos os seus faturamentos e, principalmente, previsão de faturamentos futuros (seja por pagamentos parcelados ou mesmo orçamentos já aprovados) e monta um calendário de precisões muito intuitivo para que possamos nos planejar financeiramente.
 
-<img class="size-full wp-image-132 aligncenter" src="http://blog.igluonline.com/images/uploads/2016/11/Screenshot_1.jpg" alt="screenshot_1" width="1203" height="475" srcset="/images/uploads/2016/11/Screenshot_1.jpg 1203w, /images/uploads/2016/11/Screenshot_1-300x118.jpg 300w, /images/uploads/2016/11/Screenshot_1-768x303.jpg 768w, /images/uploads/2016/11/Screenshot_1-1024x404.jpg 1024w" sizes="(max-width: 1203px) 100vw, 1203px" />
+<img class="size-full wp-image-132 aligncenter" src="/images/uploads/2016/11/Screenshot_1.jpg" alt="screenshot_1" width="1203" height="475" srcset="/images/uploads/2016/11/Screenshot_1.jpg 1203w, /images/uploads/2016/11/Screenshot_1-300x118.jpg 300w, /images/uploads/2016/11/Screenshot_1-768x303.jpg 768w, /images/uploads/2016/11/Screenshot_1-1024x404.jpg 1024w" sizes="(max-width: 1203px) 100vw, 1203px" />
 
 Para completar, o sistema integra um contador de horas de trabalho para simplificar o gerenciamento das horas trabalhadas em cada projeto. Para quem cobra por hora esse recurso é sensacional, pois você pode automaticamente já adicionar as horas contadas direto na própria fatura para o cliente.
 
@@ -129,13 +129,13 @@ Na procura por novas formas de organização, descobri a [Harpoon][1]. A empresa
 
 O que me chamou atenção inicialmente foi a capacidade de visualizar vários relatórios de forma simplificada logo na entrada do sistema.
 
-<img class="size-full wp-image-131 aligncenter" src="http://blog.igluonline.com/images/uploads/2016/11/intro-dashboard.png" alt="intro-dashboard" width="949" height="353" srcset="/images/uploads/2016/11/intro-dashboard.png 949w, /images/uploads/2016/11/intro-dashboard-300x112.png 300w, /images/uploads/2016/11/intro-dashboard-768x286.png 768w" sizes="(max-width: 949px) 100vw, 949px" />
+<img class="size-full wp-image-131 aligncenter" src="/images/uploads/2016/11/intro-dashboard.png" alt="intro-dashboard" width="949" height="353" srcset="/images/uploads/2016/11/intro-dashboard.png 949w, /images/uploads/2016/11/intro-dashboard-300x112.png 300w, /images/uploads/2016/11/intro-dashboard-768x286.png 768w" sizes="(max-width: 949px) 100vw, 949px" />
 
 &nbsp;
 
 Contudo, aquilo que realmente chamou minha atenção foi poder ver meu ano em forma de um calendário para fazer planejamentos anuais e não só mais mensais, como antes. A plataforma busca todos os seus faturamentos e, principalmente, previsão de faturamentos futuros (seja por pagamentos parcelados ou mesmo orçamentos já aprovados) e monta um calendário de precisões muito intuitivo para que possamos nos planejar financeiramente.
 
-<img class="size-full wp-image-132 aligncenter" src="http://blog.igluonline.com/images/uploads/2016/11/Screenshot_1.jpg" alt="screenshot_1" width="1203" height="475" srcset="/images/uploads/2016/11/Screenshot_1.jpg 1203w, /images/uploads/2016/11/Screenshot_1-300x118.jpg 300w, /images/uploads/2016/11/Screenshot_1-768x303.jpg 768w, /images/uploads/2016/11/Screenshot_1-1024x404.jpg 1024w" sizes="(max-width: 1203px) 100vw, 1203px" />
+<img class="size-full wp-image-132 aligncenter" src="/images/uploads/2016/11/Screenshot_1.jpg" alt="screenshot_1" width="1203" height="475" srcset="/images/uploads/2016/11/Screenshot_1.jpg 1203w, /images/uploads/2016/11/Screenshot_1-300x118.jpg 300w, /images/uploads/2016/11/Screenshot_1-768x303.jpg 768w, /images/uploads/2016/11/Screenshot_1-1024x404.jpg 1024w" sizes="(max-width: 1203px) 100vw, 1203px" />
 
 Para completar, o sistema integra um contador de horas de trabalho para simplificar o gerenciamento das horas trabalhadas em cada projeto. Para quem cobra por hora esse recurso é sensacional, pois você pode automaticamente já adicionar as horas contadas direto na própria fatura para o cliente.
 

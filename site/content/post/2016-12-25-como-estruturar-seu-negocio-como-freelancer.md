@@ -51,7 +51,7 @@ A primeira coisa que você deverá fazer é definir sua marca e discurso e o que
 
 Para quem está começando é importante focar nas suas habilidades e esforços. O que no seu jeito de trabalhar é bom? Você pode prometer que irá se dedicar completamente e entregar um bom serviço mais cedo? Você tem o conhecimento necessário para terminar o trabalho sem problemas? Providenciará suporte e garantia de sua presença se houver algum problema? Como um iniciante, inclusive, você pode começar com um preço menor e isso sim pode ser um diferencial!
 
-<img class="size-full wp-image-284 aligncenter" src="http://blog.igluonline.com/images/uploads/2016/12/pexels-photo-216490.jpeg" alt="" width="1280" height="959" srcset="/images/uploads/2016/12/pexels-photo-216490.jpeg 1280w, /images/uploads/2016/12/pexels-photo-216490-300x225.jpeg 300w, /images/uploads/2016/12/pexels-photo-216490-768x575.jpeg 768w, /images/uploads/2016/12/pexels-photo-216490-1024x767.jpeg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" />
+<img class="size-full wp-image-284 aligncenter" src="/images/uploads/2016/12/pexels-photo-216490.jpeg" alt="" width="1280" height="959" srcset="/images/uploads/2016/12/pexels-photo-216490.jpeg 1280w, /images/uploads/2016/12/pexels-photo-216490-300x225.jpeg 300w, /images/uploads/2016/12/pexels-photo-216490-768x575.jpeg 768w, /images/uploads/2016/12/pexels-photo-216490-1024x767.jpeg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" />
 
 Para quem já está no mercado há mais tempo, talvez mostrar trabalhos anteriores e um portfólio bem estruturado faça ainda mais diferença para a legitimação. **Aí sim você pode cobrar um valor maior com a justificativa que é bom no que faz, já fez para outras pessoas esse serviço e possui depoimentos e avaliações positivas de seu trabalho.**
 
@@ -97,7 +97,7 @@ Todos nós possuímos uma agenda cheia, mas se quisermos crescer e fortalecer no
 
 Se você quiser algumas dicas de como melhor gerenciar seu tempo, [esse artigo possui muitas boas dicas para organizar seu tempo][2] ou [esse outro sobre como ser mais produtivo][3].
 
-<img class="size-full wp-image-285 aligncenter" src="http://blog.igluonline.com/images/uploads/2016/12/pexels-photo-28094.jpg" alt="" width="1280" height="853" srcset="/images/uploads/2016/12/pexels-photo-28094.jpg 1280w, /images/uploads/2016/12/pexels-photo-28094-300x200.jpg 300w, /images/uploads/2016/12/pexels-photo-28094-768x512.jpg 768w, /images/uploads/2016/12/pexels-photo-28094-1024x682.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" />
+<img class="size-full wp-image-285 aligncenter" src="/images/uploads/2016/12/pexels-photo-28094.jpg" alt="" width="1280" height="853" srcset="/images/uploads/2016/12/pexels-photo-28094.jpg 1280w, /images/uploads/2016/12/pexels-photo-28094-300x200.jpg 300w, /images/uploads/2016/12/pexels-photo-28094-768x512.jpg 768w, /images/uploads/2016/12/pexels-photo-28094-1024x682.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" />
 
 Para ser mais sucinto, pense mais ou menos quantos minutos você acredita que consegue dedicar a esse fim por semana e reserve esses minutos para apenas trabalhar com isso sem distrações. Considere, por exemplo, que não é só uma questão de postar coisas online, mas também de responder comentários e e-mails mais rapidamente, monitorar as estatísticas de suas redes e sites e atualizar seus materiais de divulgação ou venda.
 
@@ -132,7 +132,7 @@ Então, se você quer ser visto como autoridade em sua área de trabalho precisa
 
 **Basicamente, você precisa criar conteúdo relevante para que não só potenciais clientes te achem online através de você demonstrando sabedoria em um assunto mas também para que tenha mais um elemento de venda que o coloque na frente dos concorrentes em uma reunião com clientes.**
 
-<img class="size-full wp-image-286 aligncenter" src="http://blog.igluonline.com/images/uploads/2016/12/pexels-photo-2.jpg" alt="" width="1280" height="853" srcset="/images/uploads/2016/12/pexels-photo-2.jpg 1280w, /images/uploads/2016/12/pexels-photo-2-300x200.jpg 300w, /images/uploads/2016/12/pexels-photo-2-768x512.jpg 768w, /images/uploads/2016/12/pexels-photo-2-1024x682.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" />
+<img class="size-full wp-image-286 aligncenter" src="/images/uploads/2016/12/pexels-photo-2.jpg" alt="" width="1280" height="853" srcset="/images/uploads/2016/12/pexels-photo-2.jpg 1280w, /images/uploads/2016/12/pexels-photo-2-300x200.jpg 300w, /images/uploads/2016/12/pexels-photo-2-768x512.jpg 768w, /images/uploads/2016/12/pexels-photo-2-1024x682.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" />
 
 Você pode criar seu próprio blog ou mesmo fazer &#8216;guest posts&#8217; (criar um artigo que é publicado em um outro blog, normalmente mais bem estabelecidos). Recentemente até as publicações no LinkedIn estão ficando mais populares e são uma boa opção pela simplicidade e acesso já a sua base de conexões na rede.
 
@@ -157,5 +157,5 @@ Se você gostou desse artigo, considere compartilhar e deixar seu e-mail para re
 Divirta-se!
 
  [1]: http://julianasaldanha.com.br/
- [2]: http://blog.igluonline.com/como-trabalhar-menos-e-produzir-mais-com-gerenciamento-do-seu-tempo/
- [3]: http://blog.igluonline.com/8-dicas-para-ser-mais-produtivo/
+ [2]: /como-trabalhar-menos-e-produzir-mais-com-gerenciamento-do-seu-tempo/
+ [3]: /8-dicas-para-ser-mais-produtivo/

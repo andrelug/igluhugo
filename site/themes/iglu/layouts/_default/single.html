@@ -1,5 +1,5 @@
 {{ define "main" }}
-<article class="post-31 post type-post status-publish format-standard has-post-thumbnail hentry category-style tag-ideas tag-indie tag-long-read tag-lookbooks tag-originals tag-sweatshirts tag-video" style="transform: none;">
+<article class="post type-post status-publish format-standard has-post-thumbnail hentry category-style tag-ideas tag-indie tag-long-read tag-lookbooks tag-originals tag-sweatshirts tag-video" style="transform: none;">
 {{ if .Param "featured_image"}}
 
 	<div class="page-header page-header-bg overlay overlay-ratio overlay-ratio-horizontal parallax" style="background-image: url({{if .Param "hugo_image"}}{{ .Param "hugo_image"}}{{else}}images/{{ .Param "featured_image" }}.{{ .Param "featured_image_extension" }}{{end}})">
@@ -11,7 +11,7 @@
 			<ul class="post-categories">
 				<li>
 					{{ range .Params.categories }}
-					<a href="{{ "/category/" | relLangURL }}{{ . | urlize }}" rel="category tag">{{ . }}</a>
+					<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" rel="category tag">{{ . }}</a>
 				    {{ end }}
 
 				</li>
@@ -36,7 +36,7 @@
 			<ul class="post-categories">
 <li>
 	{{ range .Params.categories }}
-	<a href="{{ "/category/" | relLangURL }}{{ . | urlize }}" rel="category tag">{{ . }}</a>
+	<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" rel="category tag">{{ . }}</a>
 	{{ end }}
 </li>
 </ul>                <h1>{{ .Title }}</h1>
