@@ -1,36 +1,25 @@
 baseurl = "https://www.igluonline.com"
 languageCode = "pt-br"
-title = "Iglu"
-theme = "iglu"
-# Define how many posts should appear on a site
 paginate = 10
-
+theme = "iglu"
+title = "Iglu"
 [params]
-	# To provide some metadata for search engines feel free to add a few
-    # information about you and your website.
-	name = "Iglu"
-	description = "Iglu é o melhor lugar para tutoriais sobre Design, Photoshop, Programação, Markegin Digital e Freelance"
-	insta_link = "{{link}}"
-	insta_img = "{{image}}"
-	insta_caption = "{{caption}}"
-	insta_likes = "{{likes}}"
-	insta_comments = "{{comments}}"
-
-	# Format dates with Go's time formatting
-	date_format = "02-01-2006"
-
-
-	[params.featured]
-		hide  = false
-
-	[params.recentposts]
-		hide  = false
-
+date_format = "0002-01-20T00:00:00+00:00"
+description = "Iglu é o melhor lugar para tutoriais sobre Design, Photoshop, Programação, Markegin Digital e Freelance"
+insta_caption = "{{caption}}"
+insta_comments = "{{comments}}"
+insta_img = "{{image}}"
+insta_likes = "{{likes}}"
+insta_link = "{{link}}"
+name = "Iglu: Design, Freelancers, Programação e Marketing Digital"
+[params.featured]
+hide = false
+[params.recentposts]
+hide = false
 [permalinks]
-    posts = "/:filename"
-    pages = "/:filename"
-
+pages = "/:filename"
+posts = "/:filename"
 [taxonomies]
-    tag = "tags"
-    category = "categories"
-    author = "author"
+author = "author"
+category = "categories"
+tag = "tags"

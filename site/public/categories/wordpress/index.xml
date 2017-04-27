@@ -6,10 +6,19 @@
     <description>Recent content in Wordpress on Iglu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sat, 25 Mar 2017 01:06:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Apr 2017 15:04:44 +0000</lastBuildDate>
     
 	<atom:link href="https://www.igluonline.com/categories/wordpress/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>teste 3</title>
+      <link>https://www.igluonline.com/teste-3/</link>
+      <pubDate>Thu, 27 Apr 2017 15:04:44 +0000</pubDate>
+      
+      <guid>https://www.igluonline.com/teste-3/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Como criar um link para um e-mail ou telefone no WordPress</title>
