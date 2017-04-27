@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Links Wordpress on Iglu</title>
+    <link>https://www.igluonline.com/tags/links-wordpress/</link>
+    <description>Recent content in Links Wordpress on Iglu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 25 Mar 2017 01:06:45 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.igluonline.com/tags/links-wordpress/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Como criar um link para um e-mail ou telefone no WordPress</title>
+      <link>https://www.igluonline.com/como-criar-um-link-para-um-e-mail-ou-telefone-no-wordpress/</link>
+      <pubDate>Sat, 25 Mar 2017 01:06:45 +0000</pubDate>
+      
+      <guid>https://www.igluonline.com/como-criar-um-link-para-um-e-mail-ou-telefone-no-wordpress/</guid>
+      <description>Links para e-mails e telefones são elementos que todo site hoje tem que ter. Não só facilita o contato entre o cliente e a empresa ou projeto como também indica para os mecanismos de busca qual o e-mail e telefone relacionados ou principais com o website.
+Adicionar um link para e-mail ou telefone no WordPress é algo muito simples e é bem similar ao processo de adicionar qualquer tipo de link.</description>
+    </item>
+    
+  </channel>
+</rss>

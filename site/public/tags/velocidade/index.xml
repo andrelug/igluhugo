@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Velocidade on Iglu</title>
+    <link>https://www.igluonline.com/tags/velocidade/</link>
+    <description>Recent content in Velocidade on Iglu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 22 Mar 2017 20:33:21 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.igluonline.com/tags/velocidade/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Você não é a sua produtividade. Diminua a velocidade</title>
+      <link>https://www.igluonline.com/voce-nao-e-sua-produtividade-diminua-velocidade/</link>
+      <pubDate>Wed, 22 Mar 2017 20:33:21 +0000</pubDate>
+      
+      <guid>https://www.igluonline.com/voce-nao-e-sua-produtividade-diminua-velocidade/</guid>
+      <description>Parte da cultura empreendedora que temos hoje supervaloriza quem coloca o trabalho na frente de todo o resto da vida. Se você não trabalhar o tempo todo e dedicar sua vida ao seu sonho provavelmente não será bem sucedido.
+Você provavelmente ou conhece alguém assim ou se identifica com o que eu falei. Quantas vezes você já disse que não tem tempo para cuidar de você mesmo? Ou então conhece alguém que dorme menos de 5 horas por noite porque tem muita coisa pra fazer?</description>
+    </item>
+    
+    <item>
+      <title>4 tecnologias para aumentar a velocidade e confiança de seus sites</title>
+      <link>https://www.igluonline.com/4-tecnologias-para-aumentar-velocidade-e-confianca-de-seus-sites/</link>
+      <pubDate>Sun, 11 Dec 2016 03:34:54 +0000</pubDate>
+      
+      <guid>https://www.igluonline.com/4-tecnologias-para-aumentar-velocidade-e-confianca-de-seus-sites/</guid>
+      <description>Cada vez mais a velocidade dos nossos sites é um fator que pode determinar seu sucesso na web. Clientes estão mais exigentes e a maior parte das pessoas tem acessado via aparelhos móveis, esses que normalmente não possuem uma internet tão boa.
+De acordo com alguns artigos da Google, 2 segundos é o tempo de carregamento máximo para um site e-commerce por exemplo. É um tempo bem pequeno e se formos analisar a maior parte dos sites não consegue bater esse padrão, ainda mais se forem sites feitos com o WordPress, que é o caso do nosso blog aqui.</description>
+    </item>
+    
+  </channel>
+</rss>

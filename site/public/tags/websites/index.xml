@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Websites on Iglu</title>
+    <link>https://www.igluonline.com/tags/websites/</link>
+    <description>Recent content in Websites on Iglu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 23 Mar 2017 22:13:31 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.igluonline.com/tags/websites/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Todo website quebra, tem bugs e uma hora ou outra para de funcionar</title>
+      <link>https://www.igluonline.com/todo-website-quebra-tem-bugs-e-uma-hora-ou-outra-para-de-funcionar/</link>
+      <pubDate>Thu, 23 Mar 2017 22:13:31 +0000</pubDate>
+      
+      <guid>https://www.igluonline.com/todo-website-quebra-tem-bugs-e-uma-hora-ou-outra-para-de-funcionar/</guid>
+      <description>Falar que todo website para de funcionar e quebra eventualmente é um pouco baixo astral. Mas já há muitos anos que venho repetindo essa frase para clientes e colegas de trabalho.
+Para quem contrata ou compra um website eu imagino que não deva ser uma das frases mais interessantes para se ler. Para quem faz websites, é algo que pode dar um desânimo, mas fica tranquilo que tem seu lado positivo também.</description>
+    </item>
+    
+    <item>
+      <title>Ideias comuns e erradas sobre desenvolvimento de websites</title>
+      <link>https://www.igluonline.com/ideias-comuns-e-erradas-sobre-desenvolvimento-de-websites/</link>
+      <pubDate>Mon, 09 Jan 2017 17:40:38 +0000</pubDate>
+      
+      <guid>https://www.igluonline.com/ideias-comuns-e-erradas-sobre-desenvolvimento-de-websites/</guid>
+      <description>Toda empresa ou negócio hoje precisa de um website de qualidade e está cada vez mais dependente de uma presença online forte. A pressão para ter um bom site é enorme. Contudo, alguns empreendedores possuem noções um pouco erradas sobre como funciona o desenvolvimento e design de websites. Além disso nunca foi tão fácil aprender websites e qualquer um hoje pode começar com pouca orientação.
+Esse artigo irá explorar algumas questões que pessoas não muito próximas da tecnologia podem ter a respeito de processo.</description>
+    </item>
+    
+    <item>
+      <title>8 razões para dar preferência a sites feitos na mão</title>
+      <link>https://www.igluonline.com/8-razoes-para-dar-preferencia-sites-feitos-na-mao/</link>
+      <pubDate>Thu, 15 Dec 2016 13:18:34 +0000</pubDate>
+      
+      <guid>https://www.igluonline.com/8-razoes-para-dar-preferencia-sites-feitos-na-mao/</guid>
+      <description>Mais intensamente nos últimos 3 anos os famosos construtores de sites (site builders) se tornaram a preferência de muitas empresas, blogueiros/blogueiras e basicamente qualquer pessoa que quer um site rápido sem pagar muito. WYSIWYG (O que você vê é o que você tem) e drag n drop (arrasta e solta) são termos que ficaram mais populares por prometer uma simplicidade e eficácia no desenvolvimento de websites.
+Contudo, nem tudo são flores e mesmo e a realidade é que em muitos casos os seus problemas serão bem melhor solucionados com um site totalmente desenvolvido por um programador ou mesmo com um administrador de conteúdo, como o WordPress.</description>
+    </item>
+    
+    <item>
+      <title>4 tecnologias para aumentar a velocidade e confiança de seus sites</title>
+      <link>https://www.igluonline.com/4-tecnologias-para-aumentar-velocidade-e-confianca-de-seus-sites/</link>
+      <pubDate>Sun, 11 Dec 2016 03:34:54 +0000</pubDate>
+      
+      <guid>https://www.igluonline.com/4-tecnologias-para-aumentar-velocidade-e-confianca-de-seus-sites/</guid>
+      <description>Cada vez mais a velocidade dos nossos sites é um fator que pode determinar seu sucesso na web. Clientes estão mais exigentes e a maior parte das pessoas tem acessado via aparelhos móveis, esses que normalmente não possuem uma internet tão boa.
+De acordo com alguns artigos da Google, 2 segundos é o tempo de carregamento máximo para um site e-commerce por exemplo. É um tempo bem pequeno e se formos analisar a maior parte dos sites não consegue bater esse padrão, ainda mais se forem sites feitos com o WordPress, que é o caso do nosso blog aqui.</description>
+    </item>
+    
+  </channel>
+</rss>

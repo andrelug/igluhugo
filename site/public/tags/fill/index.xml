@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fill on Iglu</title>
+    <link>https://www.igluonline.com/tags/fill/</link>
+    <description>Recent content in Fill on Iglu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 18 Jan 2017 03:28:55 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.igluonline.com/tags/fill/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Funcionalidade Photoshop da Semana: Ferramenta de Preenchimento</title>
+      <link>https://www.igluonline.com/funcionalidade-photoshop-da-semana-ferramenta-de-preenchimento/</link>
+      <pubDate>Wed, 18 Jan 2017 03:28:55 +0000</pubDate>
+      
+      <guid>https://www.igluonline.com/funcionalidade-photoshop-da-semana-ferramenta-de-preenchimento/</guid>
+      <description>Não perca os outros artigos da coleção Funcionalidade Photoshop da Semana!
+O que faz Existem duas formas e duas ferramentas diferentes para preencher uma área de um projeto no Photoshop. Temos as camadas de preenchimento e a opção de preencher em uma seleção criada.
+A ferramenta de camada de preenchimento, antigamente conhecida como Lata de Tinta*, preenche qualquer área sólida com qualquer cor de escolha. É excelente para preencher planos de fundo com cores sólidas ou colorir grandes áreas.</description>
+    </item>
+    
+  </channel>
+</rss>
