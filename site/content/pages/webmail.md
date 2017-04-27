@@ -2,7 +2,7 @@
 url: /.tools/webmail/
 title: Webmail
 author: André Lucas
-type: tools
+type: page
 date: 2017-04-17T03:29:35+00:00
 
 ---
