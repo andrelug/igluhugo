@@ -3,6 +3,7 @@ languageCode = "pt-br"
 paginate = 10
 theme = "iglu"
 title = "Iglu: Design, Freelancers, Programação e Marketing Digital"
+enableRobotsTXT = true
 [params]
 date_format = "0002-01-20T00:00:00+00:00"
 description = "Iglu é o melhor lugar para tutoriais sobre Design, Photoshop, Programação, Markegin Digital e Freelance"
