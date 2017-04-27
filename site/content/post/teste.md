@@ -2,7 +2,6 @@
 author = ["André Lucas"]
 categories = ["WordPress"]
 date = "2017-04-27T04:23:00-03:00"
-draft = true
 featured_image = ""
 featured_image_extension = ""
 hugo_image = "/uploads/2017/04/27/youtube.jpg"
