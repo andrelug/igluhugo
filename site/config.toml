@@ -20,7 +20,6 @@ hide = false
 [permalinks]
 pages = "/:filename"
 posts = "/:filename"
-tools = "/.tools/:filename"
 [taxonomies]
 author = "author"
 category = "categories"

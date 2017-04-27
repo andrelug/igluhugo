@@ -1,5 +1,5 @@
 ---
-url: /webmail/
+url: /.tools/webmail/
 title: Webmail
 author: André Lucas
 type: page
