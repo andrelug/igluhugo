@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2016-12-12T14:16:03+00:00
 url: /funcionalidade-photoshop-da-semana-ferramentas-de-selecao/
+featured_image: uploads/2016/12/funcionalidade-da-semana_selecao
+featured_image_extension: jpg
 mvp_post_template:
   - def
 mvp_featured_image:

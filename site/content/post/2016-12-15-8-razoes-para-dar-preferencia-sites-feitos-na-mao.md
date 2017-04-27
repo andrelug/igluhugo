@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2016-12-15T13:18:34+00:00
 url: /8-razoes-para-dar-preferencia-sites-feitos-na-mao/
+featured_image: uploads/2016/12/pexels-photo-1
+featured_image_extension: jpg
 onesignal_meta_box_present:
   - 1
 mvp_post_template:

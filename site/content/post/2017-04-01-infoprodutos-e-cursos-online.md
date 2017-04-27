@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2017-04-01T23:10:49+00:00
 url: /infoprodutos-e-cursos-online/
+featured_image: uploads/2017/04/produtos_digitais
+featured_image_extension: jpg
 mvp_post_template:
   - def
 mvp_featured_image:
@@ -241,7 +243,7 @@ O efeito que isso tem é similar ao do tripwire, mencionado no ponto anterior de
 
 <div id="attachment_705" style="width: 735px" class="wp-caption aligncenter">
   <a href="https://courses.chalenejohnson.com/p/2017-open?affiliate_token=9GvJoAzIpTKENH0g" target="_blank"><img class="wp-image-705 size-full" src="/images/uploads/2017/04/venda_produtos_digitais.jpg" alt="Marketing Impact Academy" width="725" height="254" srcset="/images/uploads/2017/04/venda_produtos_digitais.jpg 725w, /images/uploads/2017/04/venda_produtos_digitais-300x105.jpg 300w" sizes="(max-width: 725px) 100vw, 725px" /></a>
-  
+
   <p class="wp-caption-text">
     Marketing Impact Academy
   </p>
@@ -297,7 +299,7 @@ Grande parte dos vídeos no processo da fórmula de lançamento contém depoimen
 
 <div id="attachment_706" style="width: 847px" class="wp-caption aligncenter">
   <img class="wp-image-706" src="/images/uploads/2017/04/depoimentos_cursos_online.jpg" alt="Fórmula de Lançamento - Érico Rocha" width="837" height="319" srcset="/images/uploads/2017/04/depoimentos_cursos_online.jpg 1139w, /images/uploads/2017/04/depoimentos_cursos_online-300x114.jpg 300w, /images/uploads/2017/04/depoimentos_cursos_online-768x293.jpg 768w, /images/uploads/2017/04/depoimentos_cursos_online-1024x390.jpg 1024w" sizes="(max-width: 837px) 100vw, 837px" />
-  
+
   <p class="wp-caption-text">
     Fórmula de Lançamento &#8211; Érico Rocha
   </p>
@@ -313,7 +315,7 @@ Da mesma forma que a prova social, muitos usuários não querem comprar algo ou 
 
 <div id="attachment_707" style="width: 697px" class="wp-caption aligncenter">
   <a href="http://www.hsacademy.com.br/hsweek/action/" target="_blank"><img class="wp-image-707" src="/images/uploads/2017/04/Screenshot_3.jpg" alt="High Stakes Academy" width="687" height="226" srcset="/images/uploads/2017/04/Screenshot_3.jpg 797w, /images/uploads/2017/04/Screenshot_3-300x99.jpg 300w, /images/uploads/2017/04/Screenshot_3-768x252.jpg 768w" sizes="(max-width: 687px) 100vw, 687px" /></a>
-  
+
   <p class="wp-caption-text">
     High Stakes Academy
   </p>

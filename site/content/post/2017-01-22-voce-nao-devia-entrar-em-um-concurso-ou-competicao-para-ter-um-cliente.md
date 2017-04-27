@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2017-01-22T20:29:52+00:00
 url: /voce-nao-devia-entrar-em-um-concurso-ou-competicao-para-ter-um-cliente/
+featured_image: uploads/2017/01/pexels-photo-200303
+featured_image_extension: jpeg
 mvp_post_template:
   - def
 mvp_featured_image:

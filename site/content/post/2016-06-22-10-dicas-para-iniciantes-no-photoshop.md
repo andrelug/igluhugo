@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2016-06-22T04:43:29+00:00
 url: /10-dicas-para-iniciantes-no-photoshop/
+featured_image: uploads/2016/06/10_dicas_photoshop-1
+featured_image_extension: jpg
 mvp_post_template:
   - def
 mvp_featured_image:
@@ -12,8 +14,7 @@ post_views_count:
   - 1380
 onesignal_meta_box_present:
   - 1
-mvp_video_embed:
-  - '<iframe width="1280" height="720" src="https://www.youtube.com/embed/oakAFa5QYrc" frameborder="0" allowfullscreen></iframe>'
+youtube: https://www.youtube.com/embed/oakAFa5QYrc
 instant_articles_submission_id:
   - 1352585001489154
 categories:

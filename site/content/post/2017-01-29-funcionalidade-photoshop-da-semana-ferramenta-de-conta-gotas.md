@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2017-01-30T00:10:26+00:00
 url: /funcionalidade-photoshop-da-semana-ferramenta-de-conta-gotas/
+featured_image: uploads/2017/01/funcionalidade-da-semana_conta-gotas
+featured_image_extension: jpg
 mvp_post_template:
   - def
 mvp_featured_image:

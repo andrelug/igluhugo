@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2016-11-28T23:44:54+00:00
 url: /8-dicas-para-ser-mais-produtivo/
+featured_image: uploads/2016/11/people-coffee-tea-meeting
+featured_image_extension: jpg
 mvp_post_template:
   - def
 mvp_featured_image:

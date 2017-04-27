@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2017-02-03T20:00:01+00:00
 url: /funcionalidade-photoshop-da-semana-ferramentas-de-desenho-e-pintura-pincel-e-lapis/
+featured_image: uploads/2017/02/funcionalidade-da-semana_pincel
+featured_image_extension: jpg
 mvp_post_template:
   - def
 mvp_featured_image:

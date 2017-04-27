@@ -4,6 +4,9 @@ author: André Lucas
 type: post
 date: 2017-02-12T19:01:31+00:00
 url: /qual-diferenca-entre-url-uri-e-urn/
+featured_image: uploads/2017/02/iglu_diferenca_url_uri_urn
+featured_image_extension: jpg
+youtube: https://www.youtube.com/embed/vHa_cKryvnM
 mvp_post_template:
   - def
 mvp_featured_image:
@@ -83,7 +86,7 @@ Esse é um localizador, que também é um identificador para uma determinada loc
 
 O termo URL é muito usado incorretamente por sua popularidade em determinados serviços e produtos, então muitas vezes é preciso tomar cuidado para que não se use URL no lugar de URI.
 
-## 
+##
 
 Se você gostou então aproveite para se inscrever em nosso <a href="https://www.youtube.com/channel/UCybl6LOBsIJ6R5dXUdbmmXA" target="_blank">canal no YouTube</a> para mais tutoriais como esse. Também estamos ativos no <a href="https://www.facebook.com/igluonline" target="_blank">Facebook</a> e no [Google +][1]!
 

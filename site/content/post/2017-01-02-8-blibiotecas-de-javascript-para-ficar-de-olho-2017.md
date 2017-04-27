@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2017-01-02T19:15:57+00:00
 url: /8-blibiotecas-de-javascript-para-ficar-de-olho-2017/
+featured_image: uploads/2017/01/JavaScript_AprendaOnline-1050x600
+featured_image_extension: jpg
 mvp_post_template:
   - def
 mvp_featured_image:
@@ -28,7 +30,7 @@ Nesse artigo vamos ver alguma das bibliotecas que imaginamos que não só cresce
 
 <div id="attachment_333" style="width: 1035px" class="wp-caption aligncenter">
   <img class=" wp-image-333" src="/images/uploads/2017/01/jstips-header-blog.gif" alt="" width="1025" height="448" />
-  
+
   <p class="wp-caption-text">
     Fonte da imagem: <a href="http://dinki.com.br/blog/index.php/2016/07/08/entendendo-a-criacao-e-instanciacao-de-variaveis-no-javascript/" target="_blank">dinki</a>
   </p>

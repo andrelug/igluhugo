@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2016-12-30T19:57:03+00:00
 url: /como-sobreviver-ao-stress-da-correria-moderna/
+featured_image: uploads/2016/12/pexels-photo-60778
+featured_image_extension: jpg
 mvp_post_template:
   - def
 mvp_featured_image:

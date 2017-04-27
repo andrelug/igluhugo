@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2016-12-30T03:43:17+00:00
 url: /funcionalidade-photoshop-da-semana-ferramentas-de-zoom/
+featured_image: uploads/2016/12/funcionalidade-da-semana_zoom
+featured_image_extension: jpg
 mvp_post_template:
   - def
 mvp_featured_image:

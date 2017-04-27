@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2017-03-10T19:17:30+00:00
 url: /fontes-gratis-para-baixar-e-usar-no-photoshop-e-word-um-guia-completo/
+featured_image: uploads/2017/03/type-anatomy
+featured_image_extension: jpg
 mvp_post_template:
   - def
 mvp_featured_image:

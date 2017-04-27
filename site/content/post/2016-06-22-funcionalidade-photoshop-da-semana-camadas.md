@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2016-06-22T23:57:52+00:00
 url: /funcionalidade-photoshop-da-semana-camadas/
+featured_image: uploads/2016/06/Funcionalidade-photoshop-camadas-capa-1
+featured_image_extension: jpg
 mvp_post_template:
   - def
 mvp_featured_image:
@@ -12,8 +14,7 @@ post_views_count:
   - 562
 onesignal_meta_box_present:
   - 1
-mvp_video_embed:
-  - '<iframe width="1280" height="720" src="https://www.youtube.com/embed/pwm9C5vwR8I" frameborder="0" allowfullscreen></iframe>'
+youtube: https://www.youtube.com/embed/pwm9C5vwR8I
 categories:
   - Design
   - Ferramentas Photoshop

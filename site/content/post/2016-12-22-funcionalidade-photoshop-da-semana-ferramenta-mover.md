@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2016-12-23T01:52:07+00:00
 url: /funcionalidade-photoshop-da-semana-ferramenta-mover/
+featured_image: uploads/2016/12/funcionalidade-da-semana_mover
+featured_image_extension: jpg
 mvp_post_template:
   - def
 mvp_featured_image:

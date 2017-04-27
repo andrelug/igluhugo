@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2016-11-05T17:46:03+00:00
 url: /organizar-as-financas-para-freelancers-ficou-mais-facil-com-harpoon/
+featured_image: uploads/2016/11/feature-showcase-schedule
+featured_image_extension: png
 mvp_post_template:
   - def
 mvp_featured_image:

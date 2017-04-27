@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2017-03-07T22:16:22+00:00
 url: /nao-vale-pena-utilizar-servicos-brasileiros-de-hospedagem-de-sites/
+featured_image: uploads/2017/03/iglu_hospedagem_de_sites_brasileiros
+featured_image_extension: jpg
 mvp_post_template:
   - def
 mvp_featured_image:
@@ -158,67 +160,67 @@ Vou colocar aqui uma rápida tabela comparativa de preços para você ter uma id
     <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Hospedagem&quot;}">
       <strong>Hospedagem</strong>
     </td>
-    
+
     <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Valor&quot;}">
       <strong>Valor</strong>
     </td>
   </tr>
-  
+
   <tr>
     <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;UOL Host&quot;}">
       <a href="https://click.afiliados.uol.com.br/Clique?affRedir=http%3A%2F%2Fwww.uolhost.com.br%2Fpromocao-hospedagem-anual.html&url=www.igluonline.com&type=link&idtUrl=311091&source=10&caf=80ebc788894d478f9407cb21606351ab&idtLabel=82053" target="_blank">UOL Host</a>
     </td>
-    
+
     <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:26.9}" data-sheets-numberformat="{&quot;1&quot;:4,&quot;2&quot;:&quot;\&quot;R$\&quot;#,##0.00&quot;,&quot;3&quot;:1}">
       R$26,90
     </td>
   </tr>
-  
+
   <tr>
     <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Terra&quot;}">
       <a href="https://www.terraempresas.com.br/hospedagem/promo/seguranca-e-estabilidade/?cdConvenio=CVTR00001843&gclid=CLCeypOjxdICFQKBkQodY1EGVw" target="_blank">Terra</a>
     </td>
-    
+
     <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:24.9}" data-sheets-numberformat="{&quot;1&quot;:4,&quot;2&quot;:&quot;\&quot;R$\&quot;#,##0.00&quot;,&quot;3&quot;:1}">
       R$24,90
     </td>
   </tr>
-  
+
   <tr>
     <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Localweb&quot;}">
       <a href="https://www.locaweb.com.br/hospedagem-de-sites/#especificacoes" target="_blank">Localweb</a>
     </td>
-    
+
     <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:35.9}" data-sheets-numberformat="{&quot;1&quot;:4,&quot;2&quot;:&quot;\&quot;R$\&quot;#,##0.00&quot;,&quot;3&quot;:1}">
       R$35,90
     </td>
   </tr>
-  
+
   <tr>
     <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Superdom\u00ednios&quot;}">
       <a href="https://www.superdominios.org/hospedagem-de-sites.html" target="_blank">Superdomínios</a>
     </td>
-    
+
     <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:14.95}" data-sheets-numberformat="{&quot;1&quot;:4,&quot;2&quot;:&quot;\&quot;R$\&quot;#,##0.00&quot;,&quot;3&quot;:1}">
       R$14,95
     </td>
   </tr>
-  
+
   <tr>
     <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Hostnet&quot;}">
       <a href="https://www.hostnet.com.br/hospedagem-economica/" target="_blank">Hostnet</a>
     </td>
-    
+
     <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:14.9}" data-sheets-numberformat="{&quot;1&quot;:4,&quot;2&quot;:&quot;\&quot;R$\&quot;#,##0.00&quot;,&quot;3&quot;:1}">
       R$14,90
     </td>
   </tr>
-  
+
   <tr>
     <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Kinghost&quot;}">
       <a href="https://www.kinghost.com.br/hospedagem-de-sites#vantagens" target="_blank">Kinghost</a>
     </td>
-    
+
     <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:15.3}" data-sheets-numberformat="{&quot;1&quot;:4,&quot;2&quot;:&quot;\&quot;R$\&quot;#,##0.00&quot;,&quot;3&quot;:1}">
       R$15,30
     </td>
@@ -232,47 +234,47 @@ Vou colocar aqui uma rápida tabela comparativa de preços para você ter uma id
     <td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Hospedagem&quot;}">
       <strong>Hospedagem</strong>
     </td>
-    
+
     <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Valor&quot;}">
       <strong>Valor</strong>
     </td>
   </tr>
-  
+
   <tr>
     <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;GoDaddy&quot;}">
       <a href="https://br.godaddy.com/hosting/web-hosting" target="_blank">GoDaddy</a>
     </td>
-    
+
     <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:8.99}" data-sheets-numberformat="{&quot;1&quot;:4,&quot;2&quot;:&quot;\&quot;R$\&quot;#,##0.00&quot;,&quot;3&quot;:1}">
       R$8,99
     </td>
   </tr>
-  
+
   <tr>
     <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Dreamhost&quot;}">
       <a href="http://mbsy.co/gWDv6" target="_blank">Dreamhost</a>
     </td>
-    
+
     <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;US$ 7.95&quot;}" data-sheets-numberformat="{&quot;1&quot;:4,&quot;2&quot;:&quot;\&quot;R$\&quot;#,##0.00&quot;,&quot;3&quot;:1}">
       US$ 7.95
     </td>
   </tr>
-  
+
   <tr>
     <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;HostGator&quot;}">
       <a href="https://www.hostgator.com.br/24430.html" target="_blank">HostGator</a>
     </td>
-    
+
     <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:15.99}" data-sheets-numberformat="{&quot;1&quot;:4,&quot;2&quot;:&quot;\&quot;R$\&quot;#,##0.00&quot;,&quot;3&quot;:1}">
       R$15,99
     </td>
   </tr>
-  
+
   <tr>
     <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Bluehost&quot;}">
       <a href="https://br.bluehost.com/hospedagem-de-sites.php" target="_blank">Bluehost</a>
     </td>
-    
+
     <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;US$12,9&quot;}">
       R$12,90
     </td>
@@ -288,47 +290,47 @@ Resolvi colocar esses aqui também para comparar uma vez que não são tão mais
     <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Hospedagem&quot;}">
       <strong>Hospedagem</strong>
     </td>
-    
+
     <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Valor&quot;}">
       <strong>Valor</strong>
     </td>
   </tr>
-  
+
   <tr>
     <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Digital Ocean&quot;}">
       <a href="https://m.do.co/c/896ce2aab5ed" target="_blank">Digital Ocean</a>
     </td>
-    
+
     <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;US$5&quot;}">
       US$5
     </td>
   </tr>
-  
+
   <tr>
     <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mediatemple&quot;}">
       <a href="http://www.kqzyfj.com/click-8287922-12535344" target="_blank">Mediatemple</a>
     </td>
-    
+
     <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;US$20&quot;}">
       US$20
     </td>
   </tr>
-  
+
   <tr>
     <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;WP Engine&quot;}">
       <a href="http://www.shareasale.com/r.cfm?B=779590&U=1467937&M=41388&urllink=" target="_blank">WP Engine</a>
     </td>
-    
+
     <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;US$29&quot;}">
       US$29
     </td>
   </tr>
-  
+
   <tr>
     <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Liquidweb&quot;}">
       <a href="http://www.tkqlhce.com/click-8287922-12513200" target="_blank">Liquidweb</a>
     </td>
-    
+
     <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;US$119&quot;}">
       US$119
     </td>

@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2017-01-18T03:28:55+00:00
 url: /funcionalidade-photoshop-da-semana-ferramenta-de-preenchimento/
+featured_image: uploads/2017/01/funcionalidade-da-semana_preenchimento
+featured_image_extension: jpg
 mvp_post_template:
   - def
 mvp_featured_image:

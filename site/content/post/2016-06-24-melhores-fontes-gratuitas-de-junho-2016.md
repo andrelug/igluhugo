@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2016-06-24T03:01:43+00:00
 url: /melhores-fontes-gratuitas-de-junho-2016/
+featured_image: uploads/2016/06/fonte_gratuita_junho_09
+featured_image_extension: jpg
 mvp_post_template:
   - def
 mvp_featured_image:

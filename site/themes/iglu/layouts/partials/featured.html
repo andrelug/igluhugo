@@ -39,7 +39,7 @@
 	{{if .Param "hugo_image"}}
 		<img width="1100" height="925" src="{{ .Param "hugo_image"}}" class="attachment-large size-large wp-post-image" alt="">
 	{{else}}
-  		<img width="1100" height="925" src="images/{{ .Param "featured_image" }}-1024x683.{{ .Param "featured_image_extension" }}" class="attachment-large size-large wp-post-image" alt="" srcset="images/{{ .Param "featured_image" }}-1024x683.{{ .Param "featured_image_extension" }} 1100w, images/{{ .Param "featured_image" }}-300x200.{{ .Param "featured_image_extension" }} 300w, images/{{ .Param "featured_image" }}-1024x683.{{ .Param "featured_image_extension" }} 768w, images/{{ .Param "featured_image" }}-450x270.{{ .Param "featured_image_extension" }} 530w" sizes="(max-width: 1100px) 100vw, 1100px">
+  		<img width="1100" height="925" src="images/{{ .Param "featured_image" }}.{{ .Param "featured_image_extension" }}" class="attachment-large size-large wp-post-image" alt="">
 	{{ end }}
 </a>
 </div>

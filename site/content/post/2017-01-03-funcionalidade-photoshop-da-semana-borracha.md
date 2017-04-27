@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2017-01-03T13:05:06+00:00
 url: /funcionalidade-photoshop-da-semana-borracha/
+featured_image: uploads/2017/01/funcionalidade-da-semana_borracha
+featured_image_extension: jpg
 mvp_post_template:
   - def
 mvp_featured_image:

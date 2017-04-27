@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2016-06-27T01:33:15+00:00
 url: /como-mudar-cor-dos-olhos-no-photoshop/
+featured_image: uploads/2016/06/como_trocar_cor_olhos_photoshop_01
+featured_image_extension: jpg
 mvp_post_template:
   - def
 mvp_featured_image:
@@ -38,14 +40,14 @@ Esse primeiro método funciona mas dependendo da foto fica um pouco difícil de 
 <a href="https://www.igluonline.com/funcionalidade-photoshop-da-semana-camadas/" target="_blank"><strong>Aproveite para conferir nosso tutorial completo sobre as camadas no Photoshop.</strong></a>
 
   1. Abra a imagem no Photoshop
-  2. Crie uma nova camada vazia e a selecione 
+  2. Crie uma nova camada vazia e a selecione
       1. Vá no menu principal em **Camada** e em seguida **Nova** e depois **Camada&#8230;**
-  3. Mude o modo de mesclagem para _Cor_ 
+  3. Mude o modo de mesclagem para _Cor_
       1. Na caixa de seleção acima das camadas onde normalmente está escrito **Normal**, clique e mude para **Cor**
-  4. Selecione a ferramenta de pincel 
+  4. Selecione a ferramenta de pincel
       1. No menu de ferramentas do lado direito da tela do Photoshop, escolha a ferramenta do Pincel
       2. Procure ajustar o tamanho do pincel para que não fique muito grande e difícil de pintar em cima dos olhos
-  5. Escolha a cor que deseja (ex: Azul) 
+  5. Escolha a cor que deseja (ex: Azul)
       1. Com a ferramenta selecionada, clique no quadradinho abaixo das ferramentas <img class="alignnone size-full wp-image-85" src="/images/uploads/2016/06/ferramenta_escolha_cor_photoshop.jpg" alt="ferramenta_escolha_cor_photoshop" width="36" height="31" /> e escolha a cor desejada
   6. Pinte o olho da cor
 
@@ -56,21 +58,21 @@ Esse primeiro método funciona mas dependendo da foto fica um pouco difícil de 
 Naturalmente o método que nos dá o melhor efeito é aquele que é um pouco mais complexo e também subjetivo, ou seja, nos dá mais controle sobre a imagem para que o efeito seja aplicado de forma melhor para as condições de luz, tom e outros da imagem que queremos. **Uma das características mais marcantes do Photoshop é que ele possibilita realizarmos a mesma coisa de diversas formas. **Então vamos lá:
 
   1. Abra a imagem no Photoshop
-  2. Crie uma camada de ajuste de curvas 
+  2. Crie uma camada de ajuste de curvas
       1. No painel de camadas, vamos na parte inferior clicar no botão de criar uma camada de ajustes <img class="alignnone size-full wp-image-87" src="/images/uploads/2016/06/photoshop_camada_ajustes.jpg" alt="photoshop_camada_ajustes" width="37" height="31" /> e selecionar **Curvas&#8230;**
   3. Uma nova camada será criada com o ajuste de curvas. Vamos então clicar no retângulo branco dessa camada, chamado de máscara, e um painel irá aparecer com algumas configurações.
-  4. Procure pelo botão **Inverter&#8230;** e clique nele 
+  4. Procure pelo botão **Inverter&#8230;** e clique nele
       1. Isso fará a máscara ser pintada de preto.
       2. Para explicar um pouco mais sobre máscaras, ela funciona de forma com que tudo que está em preto fica escondido e tudo que está em branco visível.
-  5. Selecione a ferramenta de pincel 
+  5. Selecione a ferramenta de pincel
       1. No menu de ferramentas do lado direito da tela do Photoshop, escolha a ferramenta do Pincel
       2. Procure ajustar o tamanho do pincel para que não fique muito grande e difícil de pintar em cima dos olhos
   6. Escolha a cor **branca**
-  7. Pinte a área do olho 
+  7. Pinte a área do olho
       1. Lembre de não pintar nem o branco do olho nem o centro que é preto
-  8. Agora que vem a parte mais complicada. Clicando novamente na camada de ajuste, agora mais especificamente no ícone do ajuste de Curvas ao lado do retângulo preto, aparecerá um gráfico com uma reta. 
+  8. Agora que vem a parte mais complicada. Clicando novamente na camada de ajuste, agora mais especificamente no ícone do ajuste de Curvas ao lado do retângulo preto, aparecerá um gráfico com uma reta.
       1. <img class=" wp-image-89 aligncenter" src="/images/uploads/2016/06/como_trocar_cor_olhos_photoshop_03-1.jpg" alt="como_trocar_cor_olhos_photoshop_03" width="580" height="446" srcset="/images/uploads/2016/06/como_trocar_cor_olhos_photoshop_03-1.jpg 736w, /images/uploads/2016/06/como_trocar_cor_olhos_photoshop_03-1-300x231.jpg 300w" sizes="(max-width: 580px) 100vw, 580px" />
-  9. Observe o campo de seleção que está escrito **RGB**. Clique nele e agora vamos selecionar a cor que desejamos alterar. 
+  9. Observe o campo de seleção que está escrito **RGB**. Clique nele e agora vamos selecionar a cor que desejamos alterar.
       1. Para esse exemplo, clique no **Azul**
       2. Clique no meio da reta que está no gráfico e suba ela apenas um pouco e verá o efeito já se tomando forma
       3. Volte para o canal **RGB**

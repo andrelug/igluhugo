@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2017-02-21T21:43:43+00:00
 url: /como-escolher-o-melhor-template-ou-tema-para-wordpress/
+featured_image: uploads/2017/02/iglu_wordpress2
+featured_image_extension: jpg
 mvp_post_template:
   - def
 mvp_featured_image:

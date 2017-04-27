@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2016-12-09T04:39:44+00:00
 url: /como-trabalhar-menos-e-produzir-mais-com-gerenciamento-do-seu-tempo/
+featured_image: uploads/2016/12/pexels-photo-53918
+featured_image_extension: jpeg
 mvp_post_template:
   - def
 mvp_featured_image:

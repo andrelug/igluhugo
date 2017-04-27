@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2016-12-14T22:10:55+00:00
 url: /melhores-fontes-gratuitas-para-comecar-2017/
+featured_image: uploads/2016/12/buffalo
+featured_image_extension: jpg
 onesignal_meta_box_present:
   - 1
 mvp_post_template:

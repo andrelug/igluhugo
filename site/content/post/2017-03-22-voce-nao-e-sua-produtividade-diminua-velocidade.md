@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2017-03-22T20:33:21+00:00
 url: /voce-nao-e-sua-produtividade-diminua-velocidade/
+featured_image: uploads/2017/03/pexels-photo-127627
+featured_image_extension: jpeg
 mvp_post_template:
   - def
 mvp_featured_image:
@@ -59,7 +61,7 @@ Todo mundo hoje é expert em produtividade. Eu não falo isso sendo irônico. Se
 
 Tem algo estranho nessa situação toda, não é?
 
-## 
+##
 
 ## Uma mudança de paradigma
 

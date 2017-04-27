@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2016-12-23T19:52:34+00:00
 url: /yarn-package-manager-sera-que-e-melhor-do-que-npm/
+featured_image: uploads/2016/12/Screenshot_1-2
+featured_image_extension: jpg
 mvp_post_template:
   - def
 mvp_featured_image:

@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2016-12-25T17:38:01+00:00
 url: /como-estruturar-seu-negocio-como-freelancer/
+featured_image: uploads/2016/12/coffee-cup-mug-apple
+featured_image_extension: jpg
 mvp_post_template:
   - def
 mvp_featured_image:
@@ -12,8 +14,7 @@ post_views_count:
   - 883
 instant_articles_submission_id:
   - 1938665793031027
-mvp_video_embed:
-  - '<iframe width="1280" height="720" src="https://www.youtube.com/embed/yDuvh1oAyZc" frameborder="0" allowfullscreen></iframe>'
+youtube: https://www.youtube.com/embed/yDuvh1oAyZc
 categories:
   - Lifestyle
 tags:

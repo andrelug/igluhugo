@@ -4,14 +4,15 @@ author: André Lucas
 type: post
 date: 2016-12-01T01:31:00+00:00
 url: /funcionalidade-photoshop-da-semana-ferramenta-de-cor/
+featured_image: uploads/2016/11/color-paint-palette-wall-painting
+featured_image_extension: jpg
 mvp_post_template:
   - def
 mvp_featured_image:
   - hide
 post_views_count:
   - 539
-mvp_video_embed:
-  - '<iframe width="1280" height="720" src="https://www.youtube.com/embed/mr3U6DfA2uw" frameborder="0" allowfullscreen></iframe>'
+youtube: https://www.youtube.com/embed/mr3U6DfA2uw
 instant_articles_submission_id:
   - 274466396332976
 categories:

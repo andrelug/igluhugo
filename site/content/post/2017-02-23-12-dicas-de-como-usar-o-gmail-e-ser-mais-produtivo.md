@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2017-02-23T21:13:55+00:00
 url: /12-dicas-de-como-usar-o-gmail-e-ser-mais-produtivo/
+featured_image: uploads/2017/02/iglu_gmail_produtivo-1
+featured_image_extension: jpg
 mvp_post_template:
   - def
 mvp_featured_image:

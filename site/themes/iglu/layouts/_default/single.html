@@ -1,6 +1,30 @@
 {{ define "main" }}
 <article class="post type-post status-publish format-standard has-post-thumbnail hentry category-style tag-ideas tag-indie tag-long-read tag-lookbooks tag-originals tag-sweatshirts tag-video" style="transform: none;">
-{{ if .Param "featured_image"}}
+
+{{ if .Param "youtube"}}
+<div class="page-header page-header-standard">
+			<ul class="post-categories">
+<li>
+	{{ range .Params.categories }}
+	<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" rel="category tag">{{ . }}</a>
+	{{ end }}
+</li>
+</ul>                <h1>{{ .Title }}</h1>
+			<ul class="post-meta">      <li class="meta-date">
+	<time class="entry-date published updated" datetime="{{ .Date.Format "02/01/2006" }}">
+	  {{ .Date.Format "02/01/2006" }}        </time>
+  </li>
+  <!--
+	  <li class="meta-views">
+					4.8K         views      </li>
+	  <li class="meta-reading-time">
+			2        <span> minute read</span>      </li> -->
+</ul>              </div>
+
+<div class="post-media">
+        <div class="embed-responsive embed-responsive-16by9"><iframe width="200" height="113" src="{{ .Param "youtube" }}?feature=oembed" frameborder="0" allowfullscreen=""></iframe></div>
+      </div>
+{{ else if .Param "featured_image"}}
 
 	<div class="page-header page-header-bg overlay overlay-ratio overlay-ratio-horizontal parallax" style="background-image: url({{if .Param "hugo_image"}}{{ .Param "hugo_image"}}{{else}}images/{{ .Param "featured_image" }}.{{ .Param "featured_image_extension" }}{{end}})">
 
@@ -77,6 +101,12 @@
 	<div class="post-content">
 		<div class="content">
 		    {{ .Content }}
+			<div class="fb-like"
+			    data-href="{{ .RelPermalink }}"
+			    data-layout="standard"
+			    data-action="like"
+			    data-show-faces="true">
+			  </div>
 		</div>
 	</div>
 </div>
@@ -157,7 +187,7 @@
 						  {{if .Param "hugo_image"}}
 						    <img width="530" height="640" src="{{ .Param "hugo_image"}}" class="attachment-list size-list wp-post-image" alt="">
 						  {{else}}
-						    <img width="530" height="640" src="images/{{ .Param "featured_image" }}-768x432.{{ .Param "featured_image_extension" }}" class="attachment-list size-list wp-post-image" alt="">
+						    <img width="530" height="640" src="images/{{ .Param "featured_image" }}.{{ .Param "featured_image_extension" }}" class="attachment-list size-list wp-post-image" alt="">
 						  {{ end }}
 						  <div class="post-more">
 							  <a href="{{ .Permalink }}" class="link-more">
@@ -194,6 +224,16 @@
 
   </div>
 </div>
+
+<div id="comments" class="post-comments">
+	<h3 class="title-comments">
+		Comentários
+	</h3>
+	<div class="fb-comment-embed"
+	   data-href="{{ .RelPermalink }}"
+	   data-width="500"></div>
+</div>
+
 
 
 

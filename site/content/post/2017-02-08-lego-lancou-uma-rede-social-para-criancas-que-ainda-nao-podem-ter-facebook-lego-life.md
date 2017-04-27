@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2017-02-08T02:31:31+00:00
 url: /lego-lancou-uma-rede-social-para-criancas-que-ainda-nao-podem-ter-facebook-lego-life/
+featured_image: uploads/2017/02/lego_life
+featured_image_extension: jpg
 mvp_post_template:
   - def
 mvp_featured_image:
@@ -41,19 +43,19 @@ LEGO Lifer não é um aplicativo que busca substituir os tijolos de verdade da m
       <img width="576" height="1024" src="/images/uploads/2017/02/Screenshot_20170207-235450-576x1024.png" class="attachment-large size-large" alt="" srcset="/images/uploads/2017/02/Screenshot_20170207-235450-576x1024.png 576w, /images/uploads/2017/02/Screenshot_20170207-235450-169x300.png 169w, /images/uploads/2017/02/Screenshot_20170207-235450-768x1365.png 768w, /images/uploads/2017/02/Screenshot_20170207-235450.png 1080w" sizes="(max-width: 576px) 100vw, 576px" />
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
       <img width="576" height="1024" src="/images/uploads/2017/02/Screenshot_20170207-235457-576x1024.png" class="attachment-large size-large" alt="" srcset="/images/uploads/2017/02/Screenshot_20170207-235457-576x1024.png 576w, /images/uploads/2017/02/Screenshot_20170207-235457-169x300.png 169w, /images/uploads/2017/02/Screenshot_20170207-235457-768x1365.png 768w, /images/uploads/2017/02/Screenshot_20170207-235457.png 1080w" sizes="(max-width: 576px) 100vw, 576px" />
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
       <img width="576" height="1024" src="/images/uploads/2017/02/Screenshot_20170207-235338-576x1024.png" class="attachment-large size-large" alt="" srcset="/images/uploads/2017/02/Screenshot_20170207-235338-576x1024.png 576w, /images/uploads/2017/02/Screenshot_20170207-235338-169x300.png 169w, /images/uploads/2017/02/Screenshot_20170207-235338-768x1365.png 768w, /images/uploads/2017/02/Screenshot_20170207-235338.png 1080w" sizes="(max-width: 576px) 100vw, 576px" />
     </dt>
   </dl>
-  
+
   <br style="clear: both" />
 </div>
 

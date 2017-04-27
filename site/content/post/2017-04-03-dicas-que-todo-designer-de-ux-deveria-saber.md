@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2017-04-03T16:10:59+00:00
 url: /dicas-que-todo-designer-de-ux-deveria-saber/
+featured_image: uploads/2017/04/hands-people-woman-working
+featured_image_extension: jpg
 mvp_post_template:
   - def
 mvp_featured_image:

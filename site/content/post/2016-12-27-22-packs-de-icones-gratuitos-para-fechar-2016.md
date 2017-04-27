@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2016-12-28T00:50:16+00:00
 url: /22-packs-de-icones-gratuitos-para-fechar-2016/
+featured_image: uploads/2016/12/pollutioniconset
+featured_image_extension: jpg
 mvp_post_template:
   - def
 mvp_featured_image:

@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2016-12-08T04:17:31+00:00
 url: /o-que-ha-de-novo-no-photoshop-2017/
+featured_image: uploads/2016/12/Sem-Título-1
+featured_image_extension: jpg
 onesignal_meta_box_present:
   - 1
 mvp_post_template:

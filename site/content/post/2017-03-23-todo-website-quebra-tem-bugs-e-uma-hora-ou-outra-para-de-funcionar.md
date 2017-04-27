@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2017-03-23T22:13:31+00:00
 url: /todo-website-quebra-tem-bugs-e-uma-hora-ou-outra-para-de-funcionar/
+featured_image: uploads/2017/03/pexels-photo-270700
+featured_image_extension: jpeg
 mvp_post_template:
   - def
 mvp_featured_image:

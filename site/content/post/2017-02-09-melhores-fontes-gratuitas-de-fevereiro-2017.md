@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2017-02-09T19:44:13+00:00
 url: /melhores-fontes-gratuitas-de-fevereiro-2017/
+featured_image: uploads/2017/02/fonte_gratuita_2017_3.png
+featured_image_extension: jpg
 mvp_post_template:
   - def
 mvp_featured_image:

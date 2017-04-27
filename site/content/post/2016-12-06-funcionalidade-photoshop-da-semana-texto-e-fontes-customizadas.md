@@ -4,14 +4,15 @@ author: André Lucas
 type: post
 date: 2016-12-06T04:37:30+00:00
 url: /funcionalidade-photoshop-da-semana-texto-e-fontes-customizadas/
+featured_image: uploads/2016/12/Screenshot_5
+featured_image_extension: jpg
 mvp_post_template:
   - def
 mvp_featured_image:
   - show
 post_views_count:
   - 406
-mvp_video_embed:
-  - '<iframe width="1280" height="720" src="https://www.youtube.com/embed/5i6xydjDANI" frameborder="0" allowfullscreen></iframe>'
+youtube: https://www.youtube.com/embed/5i6xydjDANI
 instant_articles_submission_id:
   - 157724494754535
 categories:

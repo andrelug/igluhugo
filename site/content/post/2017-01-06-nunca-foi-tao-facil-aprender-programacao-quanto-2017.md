@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2017-01-06T19:18:33+00:00
 url: /nunca-foi-tao-facil-aprender-programacao-quanto-2017/
+featured_image: uploads/2017/01/pexels-photo-214221
+featured_image_extension: jpeg
 mvp_post_template:
   - def
 mvp_featured_image:

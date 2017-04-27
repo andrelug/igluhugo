@@ -4,6 +4,8 @@ author: André Lucas
 type: post
 date: 2017-02-09T20:21:02+00:00
 url: /os-melhores-templates-e-temas-gratuitos-em-html-para-comecar-2017/
+featured_image: uploads/2017/02/template_gratuito_html_2
+featured_image_extension: jpg
 mvp_post_template:
   - def
 mvp_featured_image:
