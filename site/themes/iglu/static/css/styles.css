@@ -4074,3 +4074,15 @@ body{font-family:Lato, Helvetica, Arial, sans-serif;font-weight:400;font-style:n
 .post-categories a + a:before {
 	content: " / ";
 }
+
+pre {
+    background-color: #eff0f1;
+    padding: 5px;
+}
+code {
+    background-color: #eff0f1;
+    padding: 1px 5px;
+}
+.content-main code {
+    font-size: 15px !important;
+}

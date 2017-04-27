@@ -37,9 +37,9 @@ Podemos utilizar o método `indexOf()` para descobrir em qual lugar a array est�
 Em seguida podemos utilizar o método `splice()` para remover o elemento.
 
     if ( index > -1) {
-    
+
       array.splice(index, 1);
-    
+
     }
 
 Note que primeiro adicionamos uma condicional para determinar que o elemento buscado existe de fato na Array.
@@ -52,22 +52,21 @@ Se o seu projeto necessitar o suporte a browsers antigos, sugiro o uso de `Polyf
 
 Seguindo <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf#Polyfill" target="_blank">esse artigo</a>, temos o seguinte prototype para criar a função desse método.
 
-    <span class="typ">Array</span><span class="pun">.</span><span class="pln">prototype</span><span class="pun">.</span><span class="pln">indexOf </span><span class="pun">||</span> <span class="pun">(</span><span class="typ">Array</span><span class="pun">.</span><span class="pln">prototype</span><span class="pun">.</span><span class="pln">indexOf </span><span class="pun">=</span> <span class="kwd">function</span><span class="pun">(</span><span class="pln">d</span><span class="pun">,</span><span class="pln"> e</span><span class="pun">)</span> <span class="pun">{</span>
-        <span class="kwd">var</span><span class="pln"> a</span><span class="pun">;</span>
-        <span class="kwd">if</span> <span class="pun">(</span><span class="kwd">null</span> <span class="pun">==</span> <span class="kwd">this</span><span class="pun">)</span> <span class="kwd">throw</span> <span class="kwd">new</span> <span class="typ">TypeError</span><span class="pun">(</span><span class="str">'"this" is null or not defined'</span><span class="pun">);</span>
-        <span class="kwd">var</span><span class="pln"> c </span><span class="pun">=</span> <span class="typ">Object</span><span class="pun">(</span><span class="kwd">this</span><span class="pun">),</span><span class="pln">
-            b </span><span class="pun">=</span><span class="pln"> c</span><span class="pun">.</span><span class="pln">length </span><span class="pun">>>></span> <span class="lit">0</span><span class="pun">;</span>
-        <span class="kwd">if</span> <span class="pun">(</span><span class="lit">0</span> <span class="pun">===</span><span class="pln"> b</span><span class="pun">)</span> <span class="kwd">return</span> <span class="pun">-</span><span class="lit">1</span><span class="pun">;</span><span class="pln">
-        a </span><span class="pun">=</span> <span class="pun">+</span><span class="pln">e </span><span class="pun">||</span> <span class="lit">0</span><span class="pun">;</span>
-        <span class="kwd">Infinity</span> <span class="pun">===</span> <span class="typ">Math</span><span class="pun">.</span><span class="pln">abs</span><span class="pun">(</span><span class="pln">a</span><span class="pun">)</span> <span class="pun">&&</span> <span class="pun">(</span><span class="pln">a </span><span class="pun">=</span> <span class="lit">0</span><span class="pun">);</span>
-        <span class="kwd">if</span> <span class="pun">(</span><span class="pln">a </span><span class="pun">>=</span><span class="pln"> b</span><span class="pun">)</span> <span class="kwd">return</span> <span class="pun">-</span><span class="lit">1</span><span class="pun">;</span>
-        <span class="kwd">for</span> <span class="pun">(</span><span class="pln">a </span><span class="pun">=</span> <span class="typ">Math</span><span class="pun">.</span><span class="pln">max</span><span class="pun">(</span><span class="lit">0</span> <span class="pun"><=</span><span class="pln"> a </span><span class="pun">?</span><span class="pln"> a </span><span class="pun">:</span><span class="pln"> b </span><span class="pun">-</span> <span class="typ">Math</span><span class="pun">.</span><span class="pln">abs</span><span class="pun">(</span><span class="pln">a</span><span class="pun">),</span> <span class="lit">0</span><span class="pun">);</span><span class="pln"> a </span><span class="pun"><</span><span class="pln"> b</span><span class="pun">;)</span> <span class="pun">{</span>
-            <span class="kwd">if</span> <span class="pun">(</span><span class="pln">a </span><span class="kwd">in</span><span class="pln"> c </span><span class="pun">&&</span><span class="pln"> c</span><span class="pun">[</span><span class="pln">a</span><span class="pun">]</span> <span class="pun">===</span><span class="pln"> d</span><span class="pun">)</span> <span class="kwd">return</span><span class="pln"> a</span><span class="pun">;</span><span class="pln">
-            a</span><span class="pun">++</span>
-        <span class="pun">}</span>
-        <span class="kwd">return</span> <span class="pun">-</span><span class="lit">1</span>
-    <span class="pun">});
-    </span>
+	Array.prototype.indexOf || (Array.prototype.indexOf = function(d, e) {
+	var a;
+	if (null == this) throw new TypeError('"this" is null or not defined');
+	var c = Object(this),
+		b = c.length >>> 0;
+	if (0 === b) return -1;
+	a = +e || 0;
+	Infinity === Math.abs(a) && (a = 0);
+	if (a >= b) return -1;
+	for (a = Math.max(0 <= a ? a : b - Math.abs(a), 0); a < b;) {
+		if (a in c && c[a] === d) return a;
+		a++
+	}
+	return -1
+	});
 
 Dessa forma os navegadores antigos conseguem suportar algumas funções mais novas.
 
