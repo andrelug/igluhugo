@@ -1,6 +1,6 @@
 ---
-url: /.tools/webmail/
-title: Webmail Iglu
+url: /webmail/
+title: Webmail
 author: André Lucas
 type: page
 date: 2017-04-17T03:29:35+00:00
