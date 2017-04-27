@@ -132,11 +132,9 @@
 
             </div>
             <div class="footer-sidebar">
+				<!--
                     <div class="widget authentic_widget_posts-5 authentic_widget_posts"><h5 class="title-widget">Recent Articles</h5>
-
-        <ul class="list">
-                  <li>
-
+						<ul class="list">
 					  {{ range $index, $element := (where .Site.Pages "Type" "post") | shuffle }}
 					  	{{ if le $index 3}}
 						  <li>
@@ -168,12 +166,10 @@
 						  </li>
 					  {{ end }}
 					  {{end}}
-
-
                 </ul>
-
-
       </div>
+
+  -->
   </div>
 </div>
             </div>
@@ -231,8 +227,11 @@
 </div>
 
 <a href="#top" class="scroll-to-top hidden-sm-down" style="opacity: 0;"></a>
-<script type="text/javascript" src="js/scripts.js"></script>
-<script type="text/javascript" src="js/instagram.js"></script>
+
+<!-- Scripts -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+
+<script type="text/javascript" src="js/mini.js"></script>
 
 <script type="text/javascript">
     var feed = new Instafeed({

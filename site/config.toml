@@ -1,6 +1,6 @@
 baseurl = "https://www.igluonline.com"
 languageCode = "pt-br"
-paginate = 10
+paginate = 4
 theme = "iglu"
 title = "Iglu: Design, Freelancers, Programação e Marketing Digital"
 enableRobotsTXT = true
