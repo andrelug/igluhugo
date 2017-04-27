@@ -1,9 +1,12 @@
 ---
 url: /.tools/webmail/
-title: Webmais
+title: Webmail Iglu
 author: André Lucas
 type: page
 date: 2017-04-17T03:29:35+00:00
 
 ---
-<script>window.location.replace("http://blog.igluonline.com/.tools/webmail/");</script>
+
+## Olá Cliente Iglu ##
+
+<a href="http://blog.igluonline.com/.tools/webmail/">Clique para acessar o Webmail</a>
