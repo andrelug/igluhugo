@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Texto on Iglu</title>
+    <link>https://www.igluonline.com/tags/texto/</link>
+    <description>Recent content in Texto on Iglu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 06 Dec 2016 04:37:30 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.igluonline.com/tags/texto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Funcionalidade Photoshop da Semana: Texto e Fontes Customizadas</title>
+      <link>https://www.igluonline.com/funcionalidade-photoshop-da-semana-texto-e-fontes-customizadas/</link>
+      <pubDate>Tue, 06 Dec 2016 04:37:30 +0000</pubDate>
+      
+      <guid>https://www.igluonline.com/funcionalidade-photoshop-da-semana-texto-e-fontes-customizadas/</guid>
+      <description>Não perca os outros artigos da coleção Funcionalidade Photoshop da Semana!
+O que faz A ferramenta de texto no Photoshop é muito poderosa e nos dá a possibilidade de escolher fontes em nosso banco de fontes do computador ou mesmo da web a partir do servido Typekit da Adobe. Mais do que isso, no entanto, ela é extremamente versátil e possui funcionalidades avançadas para estilizar e transformar os textos a serem adicionados nos designs e projetos.</description>
+    </item>
+    
+  </channel>
+</rss>

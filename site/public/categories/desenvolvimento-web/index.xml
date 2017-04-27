@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Desenvolvimento Web on Iglu</title>
+    <link>https://www.igluonline.com/categories/desenvolvimento-web/</link>
+    <description>Recent content in Desenvolvimento Web on Iglu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 16 Apr 2017 01:13:29 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.igluonline.com/categories/desenvolvimento-web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>21 Bibliotecas JavaScript e CSS que você precisa conhecer</title>
+      <link>https://www.igluonline.com/21-bibliotecas-javascript-e-css-que-voce-precisa-conhecer/</link>
+      <pubDate>Sun, 16 Apr 2017 01:13:29 +0000</pubDate>
+      
+      <guid>https://www.igluonline.com/21-bibliotecas-javascript-e-css-que-voce-precisa-conhecer/</guid>
+      <description>&lt;p&gt;Aqui na Iglu adoramos conhecer novas frameworks e bibliotecas JavaScript. Sempre que algo novo aparece queremos testar e ver se vale a pena compartilhar. Dessa vez, vamos trazer mais uma compilação de bibliotecas JavaScript que achamos interessante.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>8 habilidades que todo web designer e desenvolvedor precisa ter</title>
+      <link>https://www.igluonline.com/8-habilidades-que-todo-web-designer-e-desenvolvedor-precisa-ter/</link>
+      <pubDate>Sat, 15 Apr 2017 00:47:59 +0000</pubDate>
+      
+      <guid>https://www.igluonline.com/8-habilidades-que-todo-web-designer-e-desenvolvedor-precisa-ter/</guid>
+      <description>Existem algumas habilidades que quem aspira ser ou já é desenvolvedor(a) web ou web designer tem que saber. Essas habilidades são tão importantes e cruciais para a prática da profissão que você praticamente tem que saber executá-las dormindo.
+Mesmo que você não seja um web designer, essa habilidades são cada vez mais importantes para todos que estão em posições de desenvolvimento de sites ou design. Esse artigo explica com certo detalhe o por quê cada uma é importante e também como você pode fazer para se aperfeiçoar mais.</description>
+    </item>
+    
+    <item>
+      <title>Como remover determinados elementos de uma array no JavaScript</title>
+      <link>https://www.igluonline.com/como-remover-determinados-elementos-de-uma-array-no-javascript/</link>
+      <pubDate>Mon, 03 Apr 2017 19:53:16 +0000</pubDate>
+      
+      <guid>https://www.igluonline.com/como-remover-determinados-elementos-de-uma-array-no-javascript/</guid>
+      <description>Imagine que você criou sua Array no JavaScript e agora precisa remover um determinado elemento dessa Array. Nesse breve artigo vamos ver como remover um determinado elemento de uma Array sabendo apenas qual elemento e não aonde ele está.
+Depois que utilizamos algo como o .push(elemento) para adicionar elementos na Array, infelizmente não há algo como .remove(elemento) para tirar ele depois a não ser que esteja ou no início .</description>
+    </item>
+    
+    <item>
+      <title>Todo website quebra, tem bugs e uma hora ou outra para de funcionar</title>
+      <link>https://www.igluonline.com/todo-website-quebra-tem-bugs-e-uma-hora-ou-outra-para-de-funcionar/</link>
+      <pubDate>Thu, 23 Mar 2017 22:13:31 +0000</pubDate>
+      
+      <guid>https://www.igluonline.com/todo-website-quebra-tem-bugs-e-uma-hora-ou-outra-para-de-funcionar/</guid>
+      <description>Falar que todo website para de funcionar e quebra eventualmente é um pouco baixo astral. Mas já há muitos anos que venho repetindo essa frase para clientes e colegas de trabalho.
+Para quem contrata ou compra um website eu imagino que não deva ser uma das frases mais interessantes para se ler. Para quem faz websites, é algo que pode dar um desânimo, mas fica tranquilo que tem seu lado positivo também.</description>
+    </item>
+    
+    <item>
+      <title>Não vale a pena utilizar serviços brasileiros de hospedagem de sites</title>
+      <link>https://www.igluonline.com/nao-vale-pena-utilizar-servicos-brasileiros-de-hospedagem-de-sites/</link>
+      <pubDate>Tue, 07 Mar 2017 22:16:22 +0000</pubDate>
+      
+      <guid>https://www.igluonline.com/nao-vale-pena-utilizar-servicos-brasileiros-de-hospedagem-de-sites/</guid>
+      <description>Quando procuramos por um serviço de hospedagem no Google temos diversos serviços brasileiros logo entre os primeiros resultados. UOL Host, Localweb, Sempihost, Superdomínios, Terra e Hostnet são alguns do que logo pipocam e atraem os cliques. Contudo, sendo bem direto, todos são ruins.
+Em primeiro lugar quero deixar claro que eu não conheço TODOS os serviços de hospedagem no Brasil, mas já passei por pelo menos uns 15. Quando comparamos mais simples e baratos serviços de hospedagem dos Estados Unidos com qualquer um desses nacionais a diferença é tão grande que estou até tendo dificuldades de achar uma analogia que tenha tamanha disparidade.</description>
+    </item>
+    
+    <item>
+      <title>Qual a diferença entre URL, URI e URN</title>
+      <link>https://www.igluonline.com/qual-diferenca-entre-url-uri-e-urn/</link>
+      <pubDate>Sun, 12 Feb 2017 19:01:31 +0000</pubDate>
+      
+      <guid>https://www.igluonline.com/qual-diferenca-entre-url-uri-e-urn/</guid>
+      <description>Se você está constantemente navegando na internet já deve ter encontrado os termos URL, URI e URN por aí. Seja para copiar o endereço de um site para depois compartilhar ou mesmo no processo de criação de um website, acabamos vendo esses termos sendo usados. Mas qual será a real diferença entre eles? Em um lugar vemos URL. Outro URI. De vez em quando até o URN aparece.</description>
+    </item>
+    
+    <item>
+      <title>Os melhores templates e temas gratuitos em HTML para começar 2017</title>
+      <link>https://www.igluonline.com/os-melhores-templates-e-temas-gratuitos-em-html-para-comecar-2017/</link>
+      <pubDate>Thu, 09 Feb 2017 20:21:02 +0000</pubDate>
+      
+      <guid>https://www.igluonline.com/os-melhores-templates-e-temas-gratuitos-em-html-para-comecar-2017/</guid>
+      <description>2017 já está por aqui e agora temos uma seleção com os melhores templates e temas gratuitos em HTML para ajudar você baixar e colocar seu website no ar. Os templates em HTML servem para inspiração, para aproveitar um pedaço deles no seu próprio site ou mesmo para os adaptar em algo com a identidade visual do seu projeto.
+Não é possível garantir a boa qualidade de todos os templates online, mas os que estou publicando aqui foram selecionados não só pela sua beleza mas também pelas suas fontes e recomendações de qualidade.</description>
+    </item>
+    
+    <item>
+      <title>Ideias comuns e erradas sobre desenvolvimento de websites</title>
+      <link>https://www.igluonline.com/ideias-comuns-e-erradas-sobre-desenvolvimento-de-websites/</link>
+      <pubDate>Mon, 09 Jan 2017 17:40:38 +0000</pubDate>
+      
+      <guid>https://www.igluonline.com/ideias-comuns-e-erradas-sobre-desenvolvimento-de-websites/</guid>
+      <description>Toda empresa ou negócio hoje precisa de um website de qualidade e está cada vez mais dependente de uma presença online forte. A pressão para ter um bom site é enorme. Contudo, alguns empreendedores possuem noções um pouco erradas sobre como funciona o desenvolvimento e design de websites. Além disso nunca foi tão fácil aprender websites e qualquer um hoje pode começar com pouca orientação.
+Esse artigo irá explorar algumas questões que pessoas não muito próximas da tecnologia podem ter a respeito de processo.</description>
+    </item>
+    
+    <item>
+      <title>Nunca foi tão fácil aprender programação quanto 2017</title>
+      <link>https://www.igluonline.com/nunca-foi-tao-facil-aprender-programacao-quanto-2017/</link>
+      <pubDate>Fri, 06 Jan 2017 19:18:33 +0000</pubDate>
+      
+      <guid>https://www.igluonline.com/nunca-foi-tao-facil-aprender-programacao-quanto-2017/</guid>
+      <description>Há uns anos atrás eu devagar fui me inclinando para a área de desenvolvimento de softwares. Eu já era formado em Relações Internacionais e estava passando por um momento de indecisão sobre o que eu gostaria de fazer na minha vida. O que eu já sabia é que eu não queria ser um analista internacional mais.
+Comecei um segundo curso de graduação em Ciência da Computação, mas logo no início do segundo semestre eu percebi que lá eu não iria aprender o que eu gostaria na velocidade que eu gostaria.</description>
+    </item>
+    
+    <item>
+      <title>8 blibiotecas de Javascript para ficar de olho 2017</title>
+      <link>https://www.igluonline.com/8-blibiotecas-de-javascript-para-ficar-de-olho-2017/</link>
+      <pubDate>Mon, 02 Jan 2017 19:15:57 +0000</pubDate>
+      
+      <guid>https://www.igluonline.com/8-blibiotecas-de-javascript-para-ficar-de-olho-2017/</guid>
+      <description>JavaScript é a linguagem da web e cada vez mais está se tornando um dos recursos mais importantes de programadores web e até mobile &amp;#8211; mesmo com os inúmeros problemas de estruturas e, principalmente, de achar bugs.
+Com milhares de bibliotecas disponíveis, entre elas algumas clássicas como jQuery, fica difícil hoje escolher algum recurso para aprendermos com receio que outro se tornará mais requisitado no mercado ou que o que você escolheu irá ser obsoleto em alguns poucos meses.</description>
+    </item>
+    
+    <item>
+      <title>Yarn Package Manager: Será que é melhor do que NPM?</title>
+      <link>https://www.igluonline.com/yarn-package-manager-sera-que-e-melhor-do-que-npm/</link>
+      <pubDate>Fri, 23 Dec 2016 19:52:34 +0000</pubDate>
+      
+      <guid>https://www.igluonline.com/yarn-package-manager-sera-que-e-melhor-do-que-npm/</guid>
+      <description>Se você programa em NODE.js, provavelmente tem uma relação bem próxima com o gerenciador de pacotes (Package Manager) NPM. Desde o início da criação do NODE o NPM teve um papel central e em alguns casos determinante no sucesso da tecnologia. A facilidade de gerenciar bibliotecas e pedaços de códigos com o NPM fez a comunidade de NODE ser ativa da mesma maneira que as gemas (Gems) no Ruby on Rails.</description>
+    </item>
+    
+    <item>
+      <title>8 razões para dar preferência a sites feitos na mão</title>
+      <link>https://www.igluonline.com/8-razoes-para-dar-preferencia-sites-feitos-na-mao/</link>
+      <pubDate>Thu, 15 Dec 2016 13:18:34 +0000</pubDate>
+      
+      <guid>https://www.igluonline.com/8-razoes-para-dar-preferencia-sites-feitos-na-mao/</guid>
+      <description>Mais intensamente nos últimos 3 anos os famosos construtores de sites (site builders) se tornaram a preferência de muitas empresas, blogueiros/blogueiras e basicamente qualquer pessoa que quer um site rápido sem pagar muito. WYSIWYG (O que você vê é o que você tem) e drag n drop (arrasta e solta) são termos que ficaram mais populares por prometer uma simplicidade e eficácia no desenvolvimento de websites.
+Contudo, nem tudo são flores e mesmo e a realidade é que em muitos casos os seus problemas serão bem melhor solucionados com um site totalmente desenvolvido por um programador ou mesmo com um administrador de conteúdo, como o WordPress.</description>
+    </item>
+    
+    <item>
+      <title>4 tecnologias para aumentar a velocidade e confiança de seus sites</title>
+      <link>https://www.igluonline.com/4-tecnologias-para-aumentar-velocidade-e-confianca-de-seus-sites/</link>
+      <pubDate>Sun, 11 Dec 2016 03:34:54 +0000</pubDate>
+      
+      <guid>https://www.igluonline.com/4-tecnologias-para-aumentar-velocidade-e-confianca-de-seus-sites/</guid>
+      <description>Cada vez mais a velocidade dos nossos sites é um fator que pode determinar seu sucesso na web. Clientes estão mais exigentes e a maior parte das pessoas tem acessado via aparelhos móveis, esses que normalmente não possuem uma internet tão boa.
+De acordo com alguns artigos da Google, 2 segundos é o tempo de carregamento máximo para um site e-commerce por exemplo. É um tempo bem pequeno e se formos analisar a maior parte dos sites não consegue bater esse padrão, ainda mais se forem sites feitos com o WordPress, que é o caso do nosso blog aqui.</description>
+    </item>
+    
+  </channel>
+</rss>

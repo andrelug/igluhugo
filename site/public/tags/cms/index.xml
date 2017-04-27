@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cms on Iglu</title>
+    <link>https://www.igluonline.com/tags/cms/</link>
+    <description>Recent content in Cms on Iglu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 02 Jan 2017 19:15:57 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.igluonline.com/tags/cms/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>8 blibiotecas de Javascript para ficar de olho 2017</title>
+      <link>https://www.igluonline.com/8-blibiotecas-de-javascript-para-ficar-de-olho-2017/</link>
+      <pubDate>Mon, 02 Jan 2017 19:15:57 +0000</pubDate>
+      
+      <guid>https://www.igluonline.com/8-blibiotecas-de-javascript-para-ficar-de-olho-2017/</guid>
+      <description>JavaScript é a linguagem da web e cada vez mais está se tornando um dos recursos mais importantes de programadores web e até mobile &amp;#8211; mesmo com os inúmeros problemas de estruturas e, principalmente, de achar bugs.
+Com milhares de bibliotecas disponíveis, entre elas algumas clássicas como jQuery, fica difícil hoje escolher algum recurso para aprendermos com receio que outro se tornará mais requisitado no mercado ou que o que você escolheu irá ser obsoleto em alguns poucos meses.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mover on Iglu</title>
+    <link>https://www.igluonline.com/tags/mover/</link>
+    <description>Recent content in Mover on Iglu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 23 Dec 2016 01:52:07 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.igluonline.com/tags/mover/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Funcionalidade Photoshop da Semana: Ferramenta Mover</title>
+      <link>https://www.igluonline.com/funcionalidade-photoshop-da-semana-ferramenta-mover/</link>
+      <pubDate>Fri, 23 Dec 2016 01:52:07 +0000</pubDate>
+      
+      <guid>https://www.igluonline.com/funcionalidade-photoshop-da-semana-ferramenta-mover/</guid>
+      <description>O que faz Possivelmente a ferramenta de mover no Photoshop é a que eu mais uso e mesmo sendo bem simples muitas vezes ela é subestimada e pouco explorada. Ela serve para movimentar desde camadas individuais ou elementos gráficos a conjuntos de imagens além de ajudar a organizar e a espaçar elementos.
+Onde está localizada A ferramenta de mover está localizada no topo da barra de ferramentas do Photoshop na lateral esquerda.</description>
+    </item>
+    
+  </channel>
+</rss>
