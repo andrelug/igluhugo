@@ -90,7 +90,7 @@
 						<a target="_blank" rel="nofollow" href="https://twitter.com/share?text={{ .Title }};url={{.Site.BaseURL}}{{ .RelPermalink }}"><i class="icon icon-twitter"></i></a>
 					</li>
 					<li>
-						<a target="_blank" rel="nofollow" href="https://pinterest.com/pin/create/bookmarklet/?media={{.Site.BaseURL}}images/{{ .Param "featured_image" }}.{{ .Param "featured_image_extension" }}&url={{.Site.BaseURL}}{{ .RelPermalink }}"><i class="icon icon-pinterest"></i>
+						<a target="_blank" rel="nofollow" href="https://pinterest.com/pin/create/bookmarklet/?media={{.Site.BaseURL}}/images/{{ .Param "featured_image" }}.{{ .Param "featured_image_extension" }}&url={{.Site.BaseURL}}{{ .RelPermalink }}"><i class="icon icon-pinterest"></i>
 						</a>
 					</li>
 				</ul>
@@ -229,9 +229,9 @@
 	<h3 class="title-comments">
 		Comentários
 	</h3>
-	<div class="fb-comment-embed"
-	   data-href="{{.Site.BaseURL}}{{ .RelPermalink }}"></div>
+	   <div class="fb-comment-embed" data-href="{{.Site.BaseURL}}{{ .RelPermalink }}" data-width="560" data-include-parent="false"></div>
 </div>
+
 
 
 
