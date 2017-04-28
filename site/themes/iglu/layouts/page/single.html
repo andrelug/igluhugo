@@ -23,16 +23,16 @@
 
 						  </li>
 					  </ul>                      <h1 class="entry-title">{{ .Title }}</h1>
-					  <ul class="post-meta">      <li class="meta-date">
+					 <!-- <ul class="post-meta">      <li class="meta-date">
 			  <time class="entry-date published updated" datetime="{{ .Date.Format "02/01/2006" }}">
 			  {{ .Date.Format "02/01/2006" }}        </time>
 			  </li>
-			  <!--
+
 			  <li class="meta-views">
 						12.1K         views      </li>
 			  <li class="meta-reading-time">
-				2        <span> minute read</span>      </li> -->
-			  </ul>                    </div>
+				2        <span> minute read</span>      </li>
+			  </ul>           -->         </div>
 				  </div>
 				</div>
 
@@ -47,16 +47,16 @@
 			  {{ end }}
 		  </li>
 		  </ul>                <h1>{{ .Title }}</h1>
-					  <ul class="post-meta">      <li class="meta-date">
+				<!--  <ul class="post-meta">      <li class="meta-date">
 			  <time class="entry-date published updated" datetime="{{ .Date.Format "02/01/2006" }}">
 				{{ .Date.Format "02/01/2006" }}        </time>
 			</li>
-			<!--
+
 				<li class="meta-views">
 							  4.8K         views      </li>
 				<li class="meta-reading-time">
-					  2        <span> minute read</span>      </li> -->
-		  </ul>              </div>
+					  2        <span> minute read</span>      </li>
+		  </ul>       -->       </div>
 
 		  {{ end }}
 
@@ -146,61 +146,6 @@
 		  </div>
 
 		  </article>
-
-
-		  <div class="posts-related post-archive">
-			<div class="post-archive-related">
-			  <h3 class="title-related" >Alguns outros artigos legais</h3>
-
-			  <div class="owl-container owl-loop" data-slides="3">
-				<div class="owl-carousel">
-
-					{{ range $index, $element := (where .Site.Pages "Type" "post") | shuffle }}
-					  {{ if le $index 2}}
-
-						  <div class="owl-slide">
-							<article class="post-related post-list">
-								<div class="post-thumbnail">
-									{{if .Param "hugo_image"}}
-									  <img width="530" height="640" src="{{ .Param "hugo_image"}}" class="attachment-list size-list wp-post-image" alt="">
-									{{else}}
-									  <img width="530" height="640" src="images/{{ .Param "featured_image" }}-768x432.{{ .Param "featured_image_extension" }}" class="attachment-list size-list wp-post-image" alt="">
-									{{ end }}
-									<div class="post-more">
-										<a href="{{ .Permalink }}" class="link-more">
-										  <span>View Post</span>
-									  </a>
-								  </div>
-								  <ul class="post-meta">
-									  <li class="meta-reading-time">
-										  <i class="icon icon-clock"></i>
-										  <time class="entry-date published updated" datetime="{{ .Date.Format "02/01/2006" }}">
-											{{ .Date.Format "02/01/2006" }}
-										</time>
-									  </li>
-									  <!--
-									  <li class="meta-views">
-										  <i class="icon icon-eye"></i>172
-									  </li>
-								  -->
-								  </ul>
-								  <a href="{{ .Permalink }}"></a>
-							  </div>
-							  <h4>
-								  <a href="{{ .Permalink }}">{{ .Title }}</a>
-							  </h4>
-							</article>
-						  </div>
-
-				  {{ end }}
-				{{ end }}
-
-				</div>
-				<div class="owl-dots"></div>
-			  </div>
-
-			</div>
-		  </div>
 
       </div>
       {{ partial "sidebar" . }}

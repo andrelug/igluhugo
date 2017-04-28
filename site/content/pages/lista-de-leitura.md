@@ -9,7 +9,8 @@ Eu sou um grande fã de livros. Sou fascinado pelos diferentes estilos de escrit
 
 Sou daquelas pessoas que começaram a ler muitos livros quando criança. Meus pais não sabiam <a href="https://medium.com/@andrelug/afinal-o-que-%C3%A9-gamifica%C3%A7%C3%A3o-8239cd6be71d" target="_blank">o que era gamificação</a>, mas me davam pontos fictícios para cada novo livro lido. No final de um período de tempo eu podia trocar esses pontos por algum presente ou brinquedo. Além disso dois de meus avós são escritores, então nunca houve escassez de livros e influências.
 
-Ao longo da vida tive momentos mais frenéticos de leitura e outros nem tanto. Acho que Magia, Sociologia, Ficção Científica e Melhora Pessoal foram os quatro grandes momentos de intensidade &#8211; eu com meus 12, 19, 22 e 27 anos respectivamente. À medida que o tempo foi passando eu acabei trocando o papel pelo audio na maior parte do meu consumo de livros. Hoje praticamente eu só escuto livros. Escuto no transporte, na corrida, ao lavar louças, na academia, enquanto estou esperando algo e por aí vai.
+<div class="lead content-block block-border-all block-float-left">Ao longo da vida tive momentos mais frenéticos de leitura e outros nem tanto.</div>
+Acho que Magia, Sociologia, Ficção Científica e Melhora Pessoal foram os quatro grandes momentos de intensidade &#8211; eu com meus 12, 19, 22 e 27 anos respectivamente. À medida que o tempo foi passando eu acabei trocando o papel pelo audio na maior parte do meu consumo de livros. Hoje praticamente eu só escuto livros. Escuto no transporte, na corrida, ao lavar louças, na academia, enquanto estou esperando algo e por aí vai.
 
 Eu continuo ainda na onda de melhora pessoal. Cada vez com mais intensidade, então resolvi compartilhar com você minhas percepções sobre as leituras. Nessa página vou sempre atualizar qual o livro que estou lendo juntamente com a lista das minhas últimas experiências literárias. A página está dividida por tópicos, mas a leitura inicial sempre ficará em primeiro lugar. Se você gostou de algum livro, considere comprá-lo através dos links que disponibilizo, pois assim você ajuda a Iglu se manter firme e forte!
 
@@ -19,7 +20,7 @@ Eu continuo ainda na onda de melhora pessoal. Cada vez com mais intensidade, ent
 
 ### <a href="http://amzn.to/2oBX3HZ" target="_blank">O Otimista Racional: Por que o mundo melhora</a> &#8211; **Matt Ridley**
 
-<a href="http://amzn.to/2oBX3HZ" target="_blank"><img class="wp-image-912 aligncenter" src="https://www.igluonline.com/wp-content/uploads/2017/04/O_otimista_racional_livro-679x1024.jpg" alt="" width="289" height="435" srcset="https://www.igluonline.com/wp-content/uploads/2017/04/O_otimista_racional_livro-679x1024.jpg 679w, https://www.igluonline.com/wp-content/uploads/2017/04/O_otimista_racional_livro-199x300.jpg 199w, https://www.igluonline.com/wp-content/uploads/2017/04/O_otimista_racional_livro-768x1158.jpg 768w, https://www.igluonline.com/wp-content/uploads/2017/04/O_otimista_racional_livro.jpg 1000w" sizes="(max-width: 289px) 100vw, 289px" /></a>
+<a href="http://amzn.to/2oBX3HZ" target="_blank"><img class="wp-image-912 aligncenter" src="images/uploads/2017/04/O_otimista_racional_livro-679x1024.jpg" alt="" width="289" height="435" srcset="images/uploads/2017/04/O_otimista_racional_livro-679x1024.jpg 679w, images/uploads/2017/04/O_otimista_racional_livro-199x300.jpg 199w, images/uploads/2017/04/O_otimista_racional_livro-768x1158.jpg 768w, images/uploads/2017/04/O_otimista_racional_livro.jpg 1000w" sizes="(max-width: 289px) 100vw, 289px" /></a>
 
 Eu cheguei até esse livro por ser uma grande recomendação de empresários e influenciadores nas listas do Scribd. Apesar de já ter estudado bastante sobre o assunto com o livro <a href="http://amzn.to/2p8PAmU" target="_blank">O Mundo Pós-Americano do internacionalista Fareed Zakaria</a>, o tópico me interessou bastante.
 
@@ -44,7 +45,7 @@ Um exemplo para comparar é que após a Segunda Guerra Mundial, <a href="https:/
 
 ### <a href="http://amzn.to/2oldp5R" target="_blank">Our Final Invention: Artificial Intelligence and the End of the Human Era</a> &#8211; James Barrat
 
-<a href="http://amzn.to/2oldp5R" target="_blank"><img class=" wp-image-913 aligncenter" src="https://www.igluonline.com/wp-content/uploads/2017/04/Our_Final_Invention_Artificial_Intelligence_and_the_End_of_the_Human_Era.jpg" alt="" width="299" height="449" srcset="https://www.igluonline.com/wp-content/uploads/2017/04/Our_Final_Invention_Artificial_Intelligence_and_the_End_of_the_Human_Era.jpg 333w, https://www.igluonline.com/wp-content/uploads/2017/04/Our_Final_Invention_Artificial_Intelligence_and_the_End_of_the_Human_Era-200x300.jpg 200w" sizes="(max-width: 299px) 100vw, 299px" /></a>
+<a href="http://amzn.to/2oldp5R" target="_blank"><img class=" wp-image-913 aligncenter" src="images/uploads/2017/04/Our_Final_Invention_Artificial_Intelligence_and_the_End_of_the_Human_Era.jpg" alt="" width="299" height="449" srcset="images/uploads/2017/04/Our_Final_Invention_Artificial_Intelligence_and_the_End_of_the_Human_Era.jpg 333w, images/uploads/2017/04/Our_Final_Invention_Artificial_Intelligence_and_the_End_of_the_Human_Era-200x300.jpg 200w" sizes="(max-width: 299px) 100vw, 299px" /></a>
 
 O livro Our Final Inention ( Nossa Última Invenção ) infelizmente não chegou a ser traduzido para o Português ainda. Contudo, se você fala Inglês e gosta da área de Inteligência Artificial vai amar. James Barrat conta sobre os perigos da Inteligência Artificial e como que ela poderá levar ao fim da era dos humanos.
 
