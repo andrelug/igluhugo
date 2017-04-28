@@ -233,8 +233,14 @@
 
 <script type="text/javascript" src="js/mini.js"></script>
 
-<script type="text/javascript">
-    var feed = new Instafeed({
+<script>
+	function loadAPI() {
+		var js = document.createElement('script');
+		js.src = '//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9&appId=253873004991221';
+		document.body.appendChild(js);
+	}
+
+	var feed = new Instafeed({
         get: 'user',
 		accessToken: '11215896.1677ed0.cf6c38ef9be749e99e4fd0615375dc8a',
         clientId: '91a39dcacd4f41ecbcd0f9755febd719',
@@ -243,7 +249,15 @@
 		resolution: 'standard_resolution',
 		template: '<li class=""><a href="{{.Site.Params.insta_link}}" target="_blank" class=""><img src="{{.Site.Params.insta_img}}" class="" alt="{{.Site.Params.insta_caption}}"><span class="instagram-meta"><span class="instagram-likes"><i class="icon icon-heart"></i> {{.Site.Params.insta_likes}}</span><span class="instagram-comments"><i class="icon icon-speech-bubble"></i>{{.Site.Params.insta_comments}}</span></span></a></li>'
     });
-    feed.run();
+
+	window.onscroll = function () {
+		var rect = document.getElementById('faceLikes').getBoundingClientRect();
+		if (rect.top < window.innerHeight) {
+			loadAPI();
+			feed.run();
+			window.onscroll = null;
+		}
+	}
 </script>
 
 </body>
