@@ -37,7 +37,7 @@
 		<div class="post-media">
 <a href="{{ .RelPermalink }}">
 	{{if .Param "hugo_image"}}
-		<img width="1100" height="925" src="images/{{ .Param "hugo_image"}}" class="attachment-large size-large wp-post-image" alt="">
+		<img width="1100" height="925" src="{{ .Param "hugo_image"}}" class="attachment-large size-large wp-post-image" alt="">
 	{{else}}
   		<img width="1100" height="925" src="images/{{ .Param "featured_image" }}.{{ .Param "featured_image_extension" }}" class="attachment-large size-large wp-post-image" alt="">
 	{{ end }}

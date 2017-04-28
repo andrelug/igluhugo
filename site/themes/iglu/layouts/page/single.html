@@ -9,7 +9,7 @@
 		  <article class="post type-post status-publish format-standard has-post-thumbnail hentry category-style tag-ideas tag-indie tag-long-read tag-lookbooks tag-originals tag-sweatshirts tag-video" style="transform: none;">
 		  {{ if .Param "featured_image"}}
 
-			  <div class="page-header page-header-bg overlay overlay-ratio overlay-ratio-horizontal parallax" style="background-image: url({{if .Param "hugo_image"}}images/{{ .Param "hugo_image"}}{{else}}images/{{ .Param "featured_image" }}.{{ .Param "featured_image_extension" }}{{end}})">
+			  <div class="page-header page-header-bg overlay overlay-ratio overlay-ratio-horizontal parallax" style="background-image: url({{if .Param "hugo_image"}}{{ .Param "hugo_image"}}{{else}}images/{{ .Param "featured_image" }}.{{ .Param "featured_image_extension" }}{{end}})">
 
 
 				<div class="overlay-container">
@@ -162,7 +162,7 @@
 							<article class="post-related post-list">
 								<div class="post-thumbnail">
 									{{if .Param "hugo_image"}}
-									  <img width="530" height="640" src="images/{{ .Param "hugo_image"}}" class="attachment-list size-list wp-post-image" alt="">
+									  <img width="530" height="640" src="{{ .Param "hugo_image"}}" class="attachment-list size-list wp-post-image" alt="">
 									{{else}}
 									  <img width="530" height="640" src="images/{{ .Param "featured_image" }}-768x432.{{ .Param "featured_image_extension" }}" class="attachment-list size-list wp-post-image" alt="">
 									{{ end }}
