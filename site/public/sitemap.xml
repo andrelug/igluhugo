@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.igluonline.com/post-2/</loc>
+    <lastmod>2017-04-27T23:44:28+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.igluonline.com/teste/</loc>
     <lastmod>2017-04-27T23:23:44+00:00</lastmod>
   </url>
@@ -353,7 +358,7 @@
   
   <url>
     <loc>https://www.igluonline.com/author/andr%C3%A9-lucas/</loc>
-    <lastmod>2017-04-27T23:23:44+00:00</lastmod>
+    <lastmod>2017-04-27T23:44:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -395,7 +400,7 @@
   
   <url>
     <loc>https://www.igluonline.com/author/</loc>
-    <lastmod>2017-04-27T23:23:44+00:00</lastmod>
+    <lastmod>2017-04-27T23:44:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -615,26 +620,26 @@
   </url>
   
   <url>
-    <loc>https://www.igluonline.com/tags/desenvolvimento-web/</loc>
-    <lastmod>2017-04-15T00:47:59+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.igluonline.com/categories/desenvolvimento-web/</loc>
     <lastmod>2017-04-16T01:13:29+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.igluonline.com/tags/design/</loc>
-    <lastmod>2017-04-03T16:10:59+00:00</lastmod>
+    <loc>https://www.igluonline.com/tags/desenvolvimento-web/</loc>
+    <lastmod>2017-04-15T00:47:59+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.igluonline.com/categories/design/</loc>
     <lastmod>2017-04-15T00:47:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.igluonline.com/tags/design/</loc>
+    <lastmod>2017-04-03T16:10:59+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -976,7 +981,7 @@
   
   <url>
     <loc>https://www.igluonline.com/</loc>
-    <lastmod>2017-04-27T23:23:44+00:00</lastmod>
+    <lastmod>2017-04-27T23:44:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1041,14 +1046,14 @@
   </url>
   
   <url>
-    <loc>https://www.igluonline.com/tags/lifestyle/</loc>
-    <lastmod>2016-12-30T19:57:03+00:00</lastmod>
+    <loc>https://www.igluonline.com/categories/lifestyle/</loc>
+    <lastmod>2017-04-01T23:10:49+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.igluonline.com/categories/lifestyle/</loc>
-    <lastmod>2017-04-01T23:10:49+00:00</lastmod>
+    <loc>https://www.igluonline.com/tags/lifestyle/</loc>
+    <lastmod>2016-12-30T19:57:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1155,14 +1160,14 @@
   </url>
   
   <url>
-    <loc>https://www.igluonline.com/tags/novidades/</loc>
-    <lastmod>2016-12-08T04:17:31+00:00</lastmod>
+    <loc>https://www.igluonline.com/categories/novidades/</loc>
+    <lastmod>2017-02-08T02:31:31+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.igluonline.com/categories/novidades/</loc>
-    <lastmod>2017-02-08T02:31:31+00:00</lastmod>
+    <loc>https://www.igluonline.com/tags/novidades/</loc>
+    <lastmod>2016-12-08T04:17:31+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1258,7 +1263,7 @@
   
   <url>
     <loc>https://www.igluonline.com/post/</loc>
-    <lastmod>2017-04-27T23:23:44+00:00</lastmod>
+    <lastmod>2017-04-27T23:44:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1275,13 +1280,13 @@
   </url>
   
   <url>
-    <loc>https://www.igluonline.com/tags/produtividade/</loc>
+    <loc>https://www.igluonline.com/categories/produtividade/</loc>
     <lastmod>2017-03-22T20:33:21+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.igluonline.com/categories/produtividade/</loc>
+    <loc>https://www.igluonline.com/tags/produtividade/</loc>
     <lastmod>2017-03-22T20:33:21+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1467,14 +1472,14 @@
   </url>
   
   <url>
-    <loc>https://www.igluonline.com/tags/teste/</loc>
-    <lastmod>2017-04-27T23:23:44+00:00</lastmod>
+    <loc>https://www.igluonline.com/categories/teste/</loc>
+    <lastmod>2017-04-27T23:44:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.igluonline.com/categories/teste/</loc>
-    <lastmod>2017-04-27T23:23:44+00:00</lastmod>
+    <loc>https://www.igluonline.com/tags/teste/</loc>
+    <lastmod>2017-04-27T23:44:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1491,14 +1496,14 @@
   </url>
   
   <url>
-    <loc>https://www.igluonline.com/tags/trabalho/</loc>
-    <lastmod>2017-03-22T20:33:21+00:00</lastmod>
+    <loc>https://www.igluonline.com/categories/trabalho/</loc>
+    <lastmod>2017-01-22T20:29:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.igluonline.com/categories/trabalho/</loc>
-    <lastmod>2017-01-22T20:29:52+00:00</lastmod>
+    <loc>https://www.igluonline.com/tags/trabalho/</loc>
+    <lastmod>2017-03-22T20:33:21+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1617,14 +1622,14 @@
   </url>
   
   <url>
-    <loc>https://www.igluonline.com/tags/wordpress/</loc>
-    <lastmod>2017-02-21T21:43:43+00:00</lastmod>
+    <loc>https://www.igluonline.com/categories/wordpress/</loc>
+    <lastmod>2017-03-25T01:06:45+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.igluonline.com/categories/wordpress/</loc>
-    <lastmod>2017-03-25T01:06:45+00:00</lastmod>
+    <loc>https://www.igluonline.com/tags/wordpress/</loc>
+    <lastmod>2017-02-21T21:43:43+00:00</lastmod>
     <priority>0</priority>
   </url>
   
