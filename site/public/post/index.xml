@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Iglu: Design, Freelancers, Programação e Marketing Digital</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sun, 16 Apr 2017 01:13:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Apr 2017 23:23:44 +0000</lastBuildDate>
     
 	<atom:link href="https://www.igluonline.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Teste</title>
+      <link>https://www.igluonline.com/teste/</link>
+      <pubDate>Thu, 27 Apr 2017 23:23:44 +0000</pubDate>
+      
+      <guid>https://www.igluonline.com/teste/</guid>
+      <description>Esse é meu texto massa!</description>
+    </item>
     
     <item>
       <title>21 Bibliotecas JavaScript e CSS que você precisa conhecer</title>

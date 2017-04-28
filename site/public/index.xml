@@ -6,10 +6,19 @@
     <description>Recent content on Iglu: Design, Freelancers, Programação e Marketing Digital</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Mon, 17 Apr 2017 03:29:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Apr 2017 23:23:44 +0000</lastBuildDate>
     
 	<atom:link href="https://www.igluonline.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Teste</title>
+      <link>https://www.igluonline.com/teste/</link>
+      <pubDate>Thu, 27 Apr 2017 23:23:44 +0000</pubDate>
+      
+      <guid>https://www.igluonline.com/teste/</guid>
+      <description>Esse é meu texto massa!</description>
+    </item>
     
     <item>
       <title>Lista de leitura</title>
