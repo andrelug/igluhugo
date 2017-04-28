@@ -250,7 +250,7 @@
 		template: '<li class=""><a href="{{.Site.Params.insta_link}}" target="_blank" class=""><img src="{{.Site.Params.insta_img}}" class="" alt="{{.Site.Params.insta_caption}}"><span class="instagram-meta"><span class="instagram-likes"><i class="icon icon-heart"></i> {{.Site.Params.insta_likes}}</span><span class="instagram-comments"><i class="icon icon-speech-bubble"></i>{{.Site.Params.insta_comments}}</span></span></a></li>'
     });
 
-	{{if eq .Section "posts"}}
+	{{if eq .Section "post"}}
 		window.onscroll = function () {
 
 			var rect = document.getElementById('faceLikes').getBoundingClientRect();
