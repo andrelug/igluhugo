@@ -1,9 +1,10 @@
-# Victor Hugo
+# Iglu Online
 
-**A [Hugo](https://gohugo.io/) boilerplate for creating truly epic websites**
+**A [Hugo](https://gohugo.io/) template for great websites**
 
-This is a boilerplate for using Hugo as a static site generator and Gulp + Webpack as your
-asset pipeline.
+This boilerplate and template are based on [Victor Hugo](https://github.com/netlify/victor-hugo). Please check them out for the boilerplate only.
+
+This is base for using Hugo as a static site generator and Gulp + Webpack as your asset pipeline.
 
 It's setup to use post-css and babel for CSS and JavaScript.
 
@@ -41,15 +42,16 @@ npm run build
 
 ```
 |--site                // Everything in here will be built with hugo
-|  |--content          // Pages and collections - ask if you need extra pages
+|  |--content          // Pages and collections
 |  |--data             // YAML data files with any data for use in examples
-|  |--layouts          // This is where all templates go
-|  |  |--partials      // This is where includes live
-|  |  |--index.html    // The index page
-|  |--static           // Files in here ends up in the public folder
-|--src                 // Files that will pass through the asset pipeline
-|  |--css              // CSS files in the root of this folder will end up in /css/...
-|  |--js               // app.js will be compiled to /app.js with babel
+|  |--layouts          // This is where all layouts can go
+|  |--themes           // This is where all themes go
+|  |  |--hugo-strada   // This is simple basic theme
+|  |  |--iglu          // This is the Iglu theme
+|  |  |  |--layouts    // This where all layouts should go
+|  |  |  |--static     // This is where the public folders are
+|  |--static           // Files in here ends up also in the public folder
+|--src                 // Files that will also pass through the asset pipeline
 ```
 
 ## Basic Concepts
@@ -81,10 +83,6 @@ to `/dist/css/{filename}.css`. Import statements will be resolved as part of the
 - [Create a new site on Netlify](https://app.netlify.com/start) and link the repository.
 
 Now netlify will build and deploy your site whenever you push to git.
-
-You can also click this button:
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/eliwilliamson/victor-hugo)
 
 
 
