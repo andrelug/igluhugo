@@ -92,8 +92,8 @@ Para ajudar eu vou listar alguns recursos que utilizo para manter meus controles
   * <a href="https://www.hacksplaining.com/#_=_" target="_blank">Hacksplaining</a>: Esse site é muito bacana e explica de forma simples como são os principais tipos de ataques na web.
   * <a href="https://visualping.io/" target="_blank">Visual Ping</a>: Esse site irá monitorar o seu site por mudanças. Se algo mudou em seu site sem que você saiba, provavelmente tem um problema.
   * <a href="https://themeforest.net/?ref=andrelug" target="_blank">Themeforest</a>: Se você for comprar templates ou plugins para seu website, esse serviço oferece opções que são muito bem testadas e de boa qualidade.
-  * <a href="https://www.igluonline.com/link/hostgator/" target="_blank">Hostgator</a>: Serviço de hospedagem mais barato mas que é de boa qualidade e segurança.
-  * <a href="https://www.igluonline.com/link/mediatemple/" target="_blank">MediaTemple</a>: Serviço de hospedagem premium de excelente qualidade e segurança.
+  * <a href="https://www.hostgator.com.br/24430.html" target="_blank">Hostgator</a>: Serviço de hospedagem mais barato mas que é de boa qualidade e segurança.
+  * <a href="http://www.jdoqocy.com/click-8287922-12535344" target="_blank">MediaTemple</a>: Serviço de hospedagem premium de excelente qualidade e segurança.
 
 &nbsp;
 

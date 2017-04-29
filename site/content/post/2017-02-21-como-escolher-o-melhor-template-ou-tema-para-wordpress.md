@@ -90,7 +90,7 @@ Uma vez que você pode não saber como determinar se algum template segue as mel
   * <a href="https://themeforest.net/?ref=andrelug" target="_blank">Themeforest</a>
   * <a href="https://themify.me/member/aff/go/andrelug" target="_blank">Themify</a>
   * <a href="http://www.shareasale.com/r.cfm?B=281077&U=1467937&M=28169&urllink=" target="_blank">StudioPress</a>
-  * <a href="https://www.igluonline.com/link/elegant/" target="_blank">Elegant Themes</a>
+  * <a href="http://www.elegantthemes.com/affiliates/idevaffiliate.php?id=40401" target="_blank">Elegant Themes</a>
   * <a href="https://www.wpbeaverbuilder.com/?fla=1250" target="_blank">Beaver Builder</a>
 
 Além disso, é muito importante buscar por avaliações antes de comprar um template. Veja quem mais está utilizando temas criados por esse desenvolvedor escolhido. Muitas vezes nos próprios sites existem áreas de comentários em que os clientes que já compraram deixam suas avaliações. Ou então procure no Google mesmo que grande parte terão avaliações e reviews em vários websites.
