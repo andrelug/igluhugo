@@ -2,13 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.igluonline.com/post-2/</loc>
-    <lastmod>2017-04-27T23:44:28+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.igluonline.com/teste/</loc>
-    <lastmod>2017-04-27T23:23:44+00:00</lastmod>
+    <loc>https://www.igluonline.com/contato/</loc>
+    <lastmod>2017-04-27T21:06:01+00:00</lastmod>
   </url>
   
   <url>
@@ -358,7 +353,7 @@
   
   <url>
     <loc>https://www.igluonline.com/author/andr%C3%A9-lucas/</loc>
-    <lastmod>2017-04-27T23:44:28+00:00</lastmod>
+    <lastmod>2017-04-27T21:06:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -400,7 +395,7 @@
   
   <url>
     <loc>https://www.igluonline.com/author/</loc>
-    <lastmod>2017-04-27T23:44:28+00:00</lastmod>
+    <lastmod>2017-04-27T21:06:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -981,7 +976,7 @@
   
   <url>
     <loc>https://www.igluonline.com/</loc>
-    <lastmod>2017-04-27T23:44:28+00:00</lastmod>
+    <lastmod>2017-04-27T21:06:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1215,7 +1210,7 @@
   
   <url>
     <loc>https://www.igluonline.com/pages/</loc>
-    <lastmod>2017-04-17T03:29:35+00:00</lastmod>
+    <lastmod>2017-04-27T21:06:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1263,7 +1258,7 @@
   
   <url>
     <loc>https://www.igluonline.com/post/</loc>
-    <lastmod>2017-04-27T23:44:28+00:00</lastmod>
+    <lastmod>2017-04-16T01:13:29+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1468,18 +1463,6 @@
   <url>
     <loc>https://www.igluonline.com/tags/tempo/</loc>
     <lastmod>2016-12-09T04:39:44+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.igluonline.com/categories/teste/</loc>
-    <lastmod>2017-04-27T23:44:28+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.igluonline.com/tags/teste/</loc>
-    <lastmod>2017-04-27T23:44:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   
