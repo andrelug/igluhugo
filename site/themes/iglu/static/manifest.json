@@ -1,0 +1,15 @@
+{
+  "short_name": "Iglu",
+  "name": "Iglu Online",
+  "icons": [
+    {
+      "src":"images/logo.png",
+      "sizes": "240x240",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#fff",
+  "Theme_color": "#3590ad",
+  "display": "fullscreen"
+}
