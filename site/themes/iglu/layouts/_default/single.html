@@ -26,7 +26,7 @@
       </div>
 {{ else if .Param "featured_image"}}
 
-	<div class="page-header page-header-bg overlay overlay-ratio overlay-ratio-horizontal parallax" style="background-image: url({{if .Param "hugo_image"}}{{ .Param "hugo_image"}}{{else}}images/{{ .Param "featured_image" }}.{{ .Param "featured_image_extension" }}{{end}})">
+	<div class="page-header page-header-bg overlay overlay-ratio overlay-ratio-horizontal parallax" style="background-image: url(images/{{ .Param "featured_image" }}.{{ .Param "featured_image_extension" }})">
 
 
 	  <div class="overlay-container">
@@ -54,7 +54,35 @@
 	  </div>
 
 	</div>
+{{ else if .Param "hugo_image"}}
+	<div class="page-header page-header-bg overlay overlay-ratio overlay-ratio-horizontal parallax" style="background-image: url({{ .Param "hugo_image"}})">
 
+
+		<div class="overlay-container">
+		<div class="container">
+			<div class="overlay-content">
+			<ul class="post-categories">
+				<li>
+					{{ range .Params.categories }}
+					<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" rel="category tag">{{ . }}</a>
+						{{ end }}
+
+				</li>
+			</ul>                      <h1 class="entry-title">{{ .Title }}</h1>
+			<ul class="post-meta">      <li class="meta-date">
+	<time class="entry-date published updated" datetime="{{ .Date.Format "02/01/2006" }}">
+	{{ .Date.Format "02/01/2006" }}        </time>
+	</li>
+	<!--
+	<li class="meta-views">
+				12.1K         views      </li>
+	<li class="meta-reading-time">
+		2        <span> minute read</span>      </li> -->
+	</ul>                    </div>
+		</div>
+		</div>
+
+	</div>
 {{ else }}
 <div class="page-header page-header-standard">
 			<ul class="post-categories">
