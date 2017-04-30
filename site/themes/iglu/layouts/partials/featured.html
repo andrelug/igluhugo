@@ -37,9 +37,9 @@
 		<div class="post-media">
 <a href="{{ .RelPermalink }}">
 	{{if .Param "hugo_image"}}
-		<img width="1100" height="925" src="{{ .Param "hugo_image"}}" class="attachment-large size-large wp-post-image" alt="">
+		<img width="1100" height="925" src="{{ .Param "hugo_image"}}" class="attachment-large size-large wp-post-image" alt="imagem do artigo">
 	{{else}}
-  		<img width="1100" height="925" src="images/{{ .Param "featured_image" }}.{{ .Param "featured_image_extension" }}" class="attachment-large size-large wp-post-image" alt="">
+  		<img width="1100" height="925" src="images/{{ .Param "featured_image" }}.{{ .Param "featured_image_extension" }}" class="attachment-large size-large wp-post-image" alt="imagem do artigo">
 	{{ end }}
 </a>
 </div>
@@ -60,7 +60,7 @@
 <div class="post-share post-share-horizontal">
 <h6 class="title-share">Compartilhe</h6>
 <ul class="share-buttons">
-<li><a target="_blank" rel="nofollow" href="http://www.facebook.com/sharer.php?u={{.Site.BaseURL}}{{ .RelPermalink }}"><i class="icon icon-facebook"></i></a></li><li><a target="_blank" rel="nofollow" href="https://twitter.com/share?text={{ .Title }};url={{.Site.BaseURL}}{{ .RelPermalink }}"><i class="icon icon-twitter"></i></a></li><li><a target="_blank" rel="nofollow" href="https://pinterest.com/pin/create/bookmarklet/?media={{.Site.BaseURL}}/images/{{ .Param "featured_image" }}.{{ .Param "featured_image_extension" }}&url={{.Site.BaseURL}}{{ .RelPermalink }}"><i class="icon icon-pinterest"></i></a></li>
+<li><a target="_blank" rel="noopener" rel="nofollow" href="http://www.facebook.com/sharer.php?u={{.Site.BaseURL}}{{ .RelPermalink }}"><i class="icon icon-facebook"></i></a></li><li><a target="_blank" rel="noopener" rel="nofollow" href="https://twitter.com/share?text={{ .Title }};url={{.Site.BaseURL}}{{ .RelPermalink }}"><i class="icon icon-twitter"></i></a></li><li><a target="_blank" rel="noopener" rel="nofollow" href="https://pinterest.com/pin/create/bookmarklet/?media={{.Site.BaseURL}}/images/{{ .Param "featured_image" }}.{{ .Param "featured_image_extension" }}&url={{.Site.BaseURL}}{{ .RelPermalink }}"><i class="icon icon-pinterest"></i></a></li>
 </ul>
 </div>
 

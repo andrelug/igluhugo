@@ -73,7 +73,7 @@ Em seguida, selecione esse círculo, faça uma subtração de uns poucos pixels 
 
 Faça mais um círculo com a ferramenta de seleção elíptica um pouco menor do que esse círculo central e o alinhe no centro. Agora vamos fazer o gradiente marrom. Se você quiser, pode criar seu próprio gradiente, mas disponibilizei para download no material da aula um gradiente que criei para só jogar no seu Photoshop e usar. Vamos utilizar esse gradiente para fazer o café!
 
-<a href="https://www.igluonline.com/funcionalidade-photoshop-da-semana-camadas/" target="_blank"><strong>Aproveite para conferir nosso tutorial completo sobre a ferramenta de camadas no Photoshop.</strong></a>
+<a href="https://www.igluonline.com/funcionalidade-photoshop-da-semana-camadas/" target="_blank" rel="noopener"><strong>Aproveite para conferir nosso tutorial completo sobre a ferramenta de camadas no Photoshop.</strong></a>
 
 <img class="size-full wp-image-102 aligncenter" src="/images/uploads/2016/06/photoshop_criar_xicara_com_cafe_08.jpg" alt="photoshop_criar_xicara_com_cafe_08" width="797" height="606" srcset="/images/uploads/2016/06/photoshop_criar_xicara_com_cafe_08.jpg 797w, /images/uploads/2016/06/photoshop_criar_xicara_com_cafe_08-300x228.jpg 300w, /images/uploads/2016/06/photoshop_criar_xicara_com_cafe_08-768x584.jpg 768w" sizes="(max-width: 797px) 100vw, 797px" />
 

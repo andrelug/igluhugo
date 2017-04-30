@@ -26,7 +26,7 @@ tags:
   - tutorial
 
 ---
-<a href="https://www.igluonline.com/categories/ferramentas-photoshop/" target="_blank"><strong>Não perca os outros artigos da coleção Funcionalidade Photoshop da Semana!</strong></a>
+<a href="https://www.igluonline.com/categories/ferramentas-photoshop/" target="_blank" rel="noopener"><strong>Não perca os outros artigos da coleção Funcionalidade Photoshop da Semana!</strong></a>
 
 ## O que faz
 
@@ -48,7 +48,7 @@ Essa ferramenta é a mais importante para a organização de seu trabalho no Pho
   <img class="size-full wp-image-38" src="/images/uploads/2016/06/photoshop-layers.png" alt="Créditos da imagem: StackExchange" width="400" height="250" srcset="/images/uploads/2016/06/photoshop-layers.png 400w, /images/uploads/2016/06/photoshop-layers-300x188.png 300w" sizes="(max-width: 400px) 100vw, 400px" />
 
   <p class="wp-caption-text">
-    Créditos da imagem: <a href="http://graphicdesign.stackexchange.com/questions/27507/how-can-i-create-and-batch-this-3d-planes-effect" target="_blank">StackExchange</a>
+    Créditos da imagem: <a href="http://graphicdesign.stackexchange.com/questions/27507/how-can-i-create-and-batch-this-3d-planes-effect" target="_blank" rel="noopener">StackExchange</a>
   </p>
 </div>
 

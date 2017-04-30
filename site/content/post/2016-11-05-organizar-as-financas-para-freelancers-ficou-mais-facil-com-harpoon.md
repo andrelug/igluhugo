@@ -25,7 +25,7 @@ tags:
 ---
 Já há alguns anos eu crio, faço manutenção e modifico sites para diversos clientes como Freelancer, mas esse artigo vai ajudar qualquer tipo de profissional autônomo que esteja procurando uma forma mais efetiva de organizar suas finanças.
 
-<a href="https://www.igluonline.com/8-dicas-para-ser-mais-produtivo/" target="_blank"><strong>Aproveite para conferir nosso artigo sobre como ser mais produtivo no seu trabalho.</strong></a>
+<a href="https://www.igluonline.com/8-dicas-para-ser-mais-produtivo/" target="_blank" rel="noopener"><strong>Aproveite para conferir nosso artigo sobre como ser mais produtivo no seu trabalho.</strong></a>
 
 ## Como era
 
@@ -55,7 +55,7 @@ Uma última funcionalidade que é interessante comentar é a de controlar os gas
 
 Estou gostando bastante do [Já há alguns anos eu crio, faço manutenção e modifico sites para diversos clientes como Freelancer, mas esse artigo vai ajudar qualquer tipo de profissional autônomo que esteja procurando uma forma mais efetiva de organizar suas finanças.
 
-<a href="https://www.igluonline.com/8-dicas-para-ser-mais-produtivo/" target="_blank"><strong>Aproveite para conferir nosso artigo sobre como ser mais produtivo no seu trabalho.</strong></a>
+<a href="https://www.igluonline.com/8-dicas-para-ser-mais-produtivo/" target="_blank" rel="noopener"><strong>Aproveite para conferir nosso artigo sobre como ser mais produtivo no seu trabalho.</strong></a>
 
 ## Como era
 
@@ -89,7 +89,7 @@ O sistema está em inglês no momento, mas em breve já oferecerão o sistema de
 
 Espero que gostaram dessa avaliação do serviço [Já há alguns anos eu crio, faço manutenção e modifico sites para diversos clientes como Freelancer, mas esse artigo vai ajudar qualquer tipo de profissional autônomo que esteja procurando uma forma mais efetiva de organizar suas finanças.
 
-<a href="https://www.igluonline.com/8-dicas-para-ser-mais-produtivo/" target="_blank"><strong>Aproveite para conferir nosso artigo sobre como ser mais produtivo no seu trabalho.</strong></a>
+<a href="https://www.igluonline.com/8-dicas-para-ser-mais-produtivo/" target="_blank" rel="noopener"><strong>Aproveite para conferir nosso artigo sobre como ser mais produtivo no seu trabalho.</strong></a>
 
 ## Como era
 
@@ -119,7 +119,7 @@ Uma última funcionalidade que é interessante comentar é a de controlar os gas
 
 Estou gostando bastante do [Já há alguns anos eu crio, faço manutenção e modifico sites para diversos clientes como Freelancer, mas esse artigo vai ajudar qualquer tipo de profissional autônomo que esteja procurando uma forma mais efetiva de organizar suas finanças.
 
-<a href="https://www.igluonline.com/8-dicas-para-ser-mais-produtivo/" target="_blank"><strong>Aproveite para conferir nosso artigo sobre como ser mais produtivo no seu trabalho.</strong></a>
+<a href="https://www.igluonline.com/8-dicas-para-ser-mais-produtivo/" target="_blank" rel="noopener"><strong>Aproveite para conferir nosso artigo sobre como ser mais produtivo no seu trabalho.</strong></a>
 
 ## Como era
 

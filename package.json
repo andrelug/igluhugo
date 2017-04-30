@@ -5,10 +5,11 @@
   "main": "index.js",
   "scripts": {
     "hugo": "gulp hugo",
-    "build": "gulp build",
+    "build": "gulp build & npm run sw",
     "build-preview": "gulp build-preview",
     "start": "gulp server",
-    "lint": "eslint src"
+    "lint": "eslint src",
+    "sw": "sw-precache --root=dist --config=sw-precache-config.js --verbose"
   },
   "author": "",
   "license": "MIT",
@@ -36,6 +37,7 @@
     "postcss-cssnext": "^2.7.0",
     "postcss-import": "^8.1.2",
     "postcss-loader": "^0.9.1",
+    "sw-precache": "^5.1.0",
     "url-loader": "^0.5.7",
     "webpack": "^1.13.1",
     "whatwg-fetch": "^1.0.0"

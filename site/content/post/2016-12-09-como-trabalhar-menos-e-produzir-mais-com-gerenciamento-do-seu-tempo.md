@@ -31,7 +31,7 @@ Inicialmente eu achei que isso era impossível e dado o volume de trabalho que e
 
 Abaixo vou descrever como foi meu processo e como acho que você também pode conseguir chegar a esse ponto.
 
-<a href="https://www.igluonline.com/8-dicas-para-ser-mais-produtivo/" target="_blank">Aproveite também para conferir essas dicas rápidas de como ser mais produtivo.</a>
+<a href="https://www.igluonline.com/8-dicas-para-ser-mais-produtivo/" target="_blank" rel="noopener">Aproveite também para conferir essas dicas rápidas de como ser mais produtivo.</a>
 
 ## Entender para onde vai o tempo
 
@@ -41,7 +41,7 @@ Antes mesmo de tentar qualquer mudança em nossos horários, precisamos primeiro
 
 Então, o **melhor método para medir o tempo** é utilizar um software de gerenciamento de tempo. Minha recomendação é o [Toggl][1] pois ele é gratuito, simples de usar e possui um aplicativo. Existem inúmeros outros e até mesmo uma planilha no excel ou google spreadsheet funciona. Em breve farei um tutorial de como utilizar o Toggle, mas eventualmente seu relatório ficará algo tipo assim:
 
-<img class=" wp-image-182 aligncenter" src="/images/uploads/2016/12/Screenshot_1-1.jpg" alt="" width="978" height="385" srcset="/images/uploads/2016/12/Screenshot_1-1.jpg 1177w, /images/uploads/2016/12/Screenshot_1-1-300x118.jpg 300w, /images/uploads/2016/12/Screenshot_1-1-768x302.jpg 768w, /images/uploads/2016/12/Screenshot_1-1-1024x403.jpg 1024w" sizes="(max-width: 978px) 100vw, 978px" />
+<img class=" wp-image-182 aligncenter" src="/images/uploads/2016/12/Screenshot_1-1.jpg" alt="otimizar tempo no trabalho" width="978" height="385" srcset="/images/uploads/2016/12/Screenshot_1-1.jpg 1177w, /images/uploads/2016/12/Screenshot_1-1-300x118.jpg 300w, /images/uploads/2016/12/Screenshot_1-1-768x302.jpg 768w, /images/uploads/2016/12/Screenshot_1-1-1024x403.jpg 1024w" sizes="(max-width: 978px) 100vw, 978px" />
 
 Você pode dividir suas tarefas em categorias, como trabalho, pessoal, exercício, lazer, etc. Da forma que achar mais interessante.
 
@@ -49,7 +49,7 @@ No começo é chato e até difícil lembrar de colocar o relógio para contar su
 
 30 horas em apenas um tipo de atividade que eu estava fazendo ao longo do dia de pouquinho em pouquinho. Agora, mais do que isso percebi tempo gasto ao longo do dia &#8220;viajando/pensando na vida&#8221;, vendo vídeos no YouTube, transporte, alimentação e lanches, conversa fiada, preparando ou bebendo café e por aí vai. São pequenas coisas e muitas delas são realmente necessárias ou desejáveis, mas o importante é saber exatamente aonde o tempo está indo para pode otimizar.
 
-<img class=" wp-image-187 aligncenter" src="/images/uploads/2016/12/ipad-tablet-technology-touch.jpg" alt="" width="975" height="650" srcset="/images/uploads/2016/12/ipad-tablet-technology-touch.jpg 1920w, /images/uploads/2016/12/ipad-tablet-technology-touch-300x200.jpg 300w, /images/uploads/2016/12/ipad-tablet-technology-touch-768x512.jpg 768w, /images/uploads/2016/12/ipad-tablet-technology-touch-1024x683.jpg 1024w" sizes="(max-width: 975px) 100vw, 975px" />
+<img class=" wp-image-187 aligncenter" src="/images/uploads/2016/12/ipad-tablet-technology-touch.jpg" alt="como trabalhar menos" width="975" height="650" srcset="/images/uploads/2016/12/ipad-tablet-technology-touch.jpg 1920w, /images/uploads/2016/12/ipad-tablet-technology-touch-300x200.jpg 300w, /images/uploads/2016/12/ipad-tablet-technology-touch-768x512.jpg 768w, /images/uploads/2016/12/ipad-tablet-technology-touch-1024x683.jpg 1024w" sizes="(max-width: 975px) 100vw, 975px" />
 
 ## Otimizar o tempo
 
@@ -63,13 +63,13 @@ A melhor forma de começar a mudar é através de ações simples que te ou bloq
 
 **Algo que eu realmente tive dificuldade, e ainda tenho, é de não olhar e-mails nos momentos do trabalho.** Novamente pensando na cultura do trabalho que temos hoje parece que esperamos as respostas imediatamente das pessoas e temos que agir da mesma forma. O ideal é escolher um ou dois momentos do dia para olhar e responder todos os e-mails, mas realmente não é tão simples. [Nesse artigo aqui na Iglu temos algumas dicas sobre essa administração de e-mails e produtividade que podem ajudar.][2]
 
-<a href="https://www.igluonline.com/12-dicas-de-como-usar-o-gmail-e-ser-mais-produtivo/" target="_blank">Aproveite para conferir essas dicas de como usar o Gmail e ser mais produtivo.</a>
+<a href="https://www.igluonline.com/12-dicas-de-como-usar-o-gmail-e-ser-mais-produtivo/" target="_blank" rel="noopener">Aproveite para conferir essas dicas de como usar o Gmail e ser mais produtivo.</a>
 
 Minha sugestão para esse período é realmente colocar sua cabeça no comprometimento das ações e não somente no objetivo final. É muito fácil nos boicotar e voltar para um estado de &#8220;perda crônica de tempo&#8221;.
 
 <span style="text-decoration: underline;">Importante também ressaltar que quando falo em perda de tempo, não quer dizer que estamos perdendo nosso tempo, mas sim que acredito que podemos reorganizá-lo para melhor aproveitar.</span>
 
-<img class="wp-image-188 aligncenter" src="/images/uploads/2016/12/pexels-photo-52608.jpeg" alt="" width="1027" height="686" srcset="/images/uploads/2016/12/pexels-photo-52608.jpeg 1280w, /images/uploads/2016/12/pexels-photo-52608-300x200.jpeg 300w, /images/uploads/2016/12/pexels-photo-52608-768x513.jpeg 768w, /images/uploads/2016/12/pexels-photo-52608-1024x684.jpeg 1024w" sizes="(max-width: 1027px) 100vw, 1027px" />
+<img class="wp-image-188 aligncenter" src="/images/uploads/2016/12/pexels-photo-52608.jpeg" alt="otimizar tempo e trabalhar menos" width="1027" height="686" srcset="/images/uploads/2016/12/pexels-photo-52608.jpeg 1280w, /images/uploads/2016/12/pexels-photo-52608-300x200.jpeg 300w, /images/uploads/2016/12/pexels-photo-52608-768x513.jpeg 768w, /images/uploads/2016/12/pexels-photo-52608-1024x684.jpeg 1024w" sizes="(max-width: 1027px) 100vw, 1027px" />
 
 ### Para onde o tempo vai
 
@@ -81,7 +81,7 @@ Parece óbvio, mas todo esse trabalho deve ser orientado à criação de um ambi
 
 Pegando meu exemplo, por exemplo, algumas vezes eu demorava 20 horas ou mais para fazer um site simples. Hoje muitas vezes consigo terminar com menos de 7 horas o mesmo volume de trabalho. Com certeza a experiência também exerce um peso nesse aumento de produtividade, mas o fato de me colocar todos os dias no hábito de concentrar em uma tarefa de cada vez fez a real diferença. **Antes para cada X linhas de código eu olhava meu e-mail e respondia uns dois, conferia as notificações do Facebook, levantava para pegar um café e conferia o whatsapp. Já imaginou o tempo que demorava para me concentrar depois?**
 
-<img class="wp-image-189 aligncenter" src="/images/uploads/2016/12/startup-photos.jpg" alt="" width="1034" height="689" srcset="/images/uploads/2016/12/startup-photos.jpg 1280w, /images/uploads/2016/12/startup-photos-300x200.jpg 300w, /images/uploads/2016/12/startup-photos-768x512.jpg 768w, /images/uploads/2016/12/startup-photos-1024x682.jpg 1024w" sizes="(max-width: 1034px) 100vw, 1034px" />
+<img class="wp-image-189 aligncenter" src="/images/uploads/2016/12/startup-photos.jpg" alt="gastar menos tempo trabalhando" width="1034" height="689" srcset="/images/uploads/2016/12/startup-photos.jpg 1280w, /images/uploads/2016/12/startup-photos-300x200.jpg 300w, /images/uploads/2016/12/startup-photos-768x512.jpg 768w, /images/uploads/2016/12/startup-photos-1024x682.jpg 1024w" sizes="(max-width: 1034px) 100vw, 1034px" />
 
 ## E agora?
 
@@ -91,11 +91,11 @@ Está então na hora de preencher os horários vagos com atividades pessoais, so
 
 > Vão ter aqueles que ao perceber que conseguem fazer mais trabalho no dia vão pegar a &#8220;oportunidade&#8221; para se destacar, pegar mais clientes ou quem sabe crescer em seus empregos. Eu entendo e posso dizer que já fiz e ainda faço isso de tempos em tempos, mas não é o que eu considero ideal. A ideia de uma vida escravo do trabalho não me atrai mais e prefiro gastar 2 horas a mais do meu tempo socializando, fazendo exercícios ou até dormindo para fazer da minha experiência de vida algo incrível.
 
-<img class=" wp-image-190 aligncenter" src="/images/uploads/2016/12/woman-jogger-jogging-sport.jpg" alt="" width="1043" height="695" srcset="/images/uploads/2016/12/woman-jogger-jogging-sport.jpg 1280w, /images/uploads/2016/12/woman-jogger-jogging-sport-300x200.jpg 300w, /images/uploads/2016/12/woman-jogger-jogging-sport-768x512.jpg 768w, /images/uploads/2016/12/woman-jogger-jogging-sport-1024x682.jpg 1024w" sizes="(max-width: 1043px) 100vw, 1043px" />
+<img class=" wp-image-190 aligncenter" src="/images/uploads/2016/12/woman-jogger-jogging-sport.jpg" alt="otimizar tempo no trabalho" width="1043" height="695" srcset="/images/uploads/2016/12/woman-jogger-jogging-sport.jpg 1280w, /images/uploads/2016/12/woman-jogger-jogging-sport-300x200.jpg 300w, /images/uploads/2016/12/woman-jogger-jogging-sport-768x512.jpg 768w, /images/uploads/2016/12/woman-jogger-jogging-sport-1024x682.jpg 1024w" sizes="(max-width: 1043px) 100vw, 1043px" />
 
 Tentei colocar aqui nesse artigo os princípios básicos que me levaram ao meu programa de 5 horas de trabalho por dia mas existem muitos detalhes que são interessantes e que vou aos poucos complementando com outros artigos aqui no blog. Então se você ainda não é inscrito em nossa lista de e-mails não deixe de se inscrever aqui do lado!
 
-Agora, se você <a href="https://www.igluonline.com/voce-nao-e-sua-produtividade-diminua-velocidade/" target="_blank"><strong>quer uma visão um pouco diferente sobre produtividade, recomendo esse artigo.</strong></a>
+Agora, se você <a href="https://www.igluonline.com/voce-nao-e-sua-produtividade-diminua-velocidade/" target="_blank" rel="noopener"><strong>quer uma visão um pouco diferente sobre produtividade, recomendo esse artigo.</strong></a>
 
 Se você gostou, concordou, discordou ou possui alguma opinião deixe um comentário abaixo e vamos continuar essa conversa.
 

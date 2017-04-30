@@ -26,11 +26,11 @@ Bem vindo(a) à nossa série de fontes bacanas para download gratuito que estão
 
 Não deixe de conferir essas outras fontes:
 
-<a href="https://www.igluonline.com/fontes-gratis-para-baixar-e-usar-no-photoshop-e-word-um-guia-completo/" target="_blank">Fontes gratis para baixar e usar no Photoshop e Word &#8211; Um guia completo</a>
+<a href="https://www.igluonline.com/fontes-gratis-para-baixar-e-usar-no-photoshop-e-word-um-guia-completo/" target="_blank" rel="noopener">Fontes gratis para baixar e usar no Photoshop e Word &#8211; Um guia completo</a>
 
-<a href="https://www.igluonline.com/melhores-fontes-gratuitas-de-fevereiro-2017/" target="_blank">Melhores fontes gratuitas de Fevereiro 2017</a>
+<a href="https://www.igluonline.com/melhores-fontes-gratuitas-de-fevereiro-2017/" target="_blank" rel="noopener">Melhores fontes gratuitas de Fevereiro 2017</a>
 
-<a href="https://www.igluonline.com/melhores-fontes-gratuitas-para-comecar-2017/" target="_blank">A melhores fontes gratuitas para começar 2017</a>
+<a href="https://www.igluonline.com/melhores-fontes-gratuitas-para-comecar-2017/" target="_blank" rel="noopener">A melhores fontes gratuitas para começar 2017</a>
 
 Não quero seguir aqui muitas linhas de tendências e coisas do tipo. Vou apenas adicionar algumas fontes que vi por aí e que são bonitas e interessantes para serem usadas em projetos reais. Convenhamos que existem umas fontes que não são tão&#8230;aplicáveis tirando aquele 0,001% de casos especiais.
 

@@ -39,7 +39,7 @@ Vamos utilizar a seguinte imagem ao longo do texto. Ela é uma imagem gratuita r
 
 A primeira coisa que recomendo fazer é duplicar a camada de fundo de sua imagem. Na aba de Camadas, clique na camada de fundo com o botão direito e selecione **Duplicar Camada**. Também podemos usar os atalhos do teclado **Ctrl + J** no Windows ou **Cmd + J** no Mac.
 
-<a href="https://www.igluonline.com/funcionalidade-photoshop-da-semana-camadas/" target="_blank"><strong>Confira nosso tutorial completo sobre camadas no Photoshop.</strong></a>
+<a href="https://www.igluonline.com/funcionalidade-photoshop-da-semana-camadas/" target="_blank" rel="noopener"><strong>Confira nosso tutorial completo sobre camadas no Photoshop.</strong></a>
 
 <img class="wp-image-7 aligncenter" src="/images/uploads/2016/06/10_dicas_photoshop_1.jpg" alt="10_dicas_photoshop_1" width="636" height="457" srcset="/images/uploads/2016/06/10_dicas_photoshop_1.jpg 777w, /images/uploads/2016/06/10_dicas_photoshop_1-300x215.jpg 300w, /images/uploads/2016/06/10_dicas_photoshop_1-768x552.jpg 768w" sizes="(max-width: 636px) 100vw, 636px" />
 
@@ -59,7 +59,7 @@ Ao clicar em **Contraste Automático**, você verá que o ajuste irá aumentar,
 
 ## 3- Camadas e mais camadas
 
-Grande parte do poder de um editor de imagens está no uso das camadas. Elas servem para organizar nosso trabalho, para possibilitar juntar várias imagens em uma só, para aplicar efeitos e muito mais. Como exemplo mais simples, vamos revisitar nossa imagem original clicando no **olho** ao lado de nossa **Camada 1**. <a href="https://www.igluonline.com/funcionalidade-photoshop-da-semana-camadas/" target="_blank">Confira nosso tutorial completo sobre camadas no Photoshop.</a>
+Grande parte do poder de um editor de imagens está no uso das camadas. Elas servem para organizar nosso trabalho, para possibilitar juntar várias imagens em uma só, para aplicar efeitos e muito mais. Como exemplo mais simples, vamos revisitar nossa imagem original clicando no **olho** ao lado de nossa **Camada 1**. <a href="https://www.igluonline.com/funcionalidade-photoshop-da-semana-camadas/" target="_blank" rel="noopener">Confira nosso tutorial completo sobre camadas no Photoshop.</a>
 
 <img class=" wp-image-10 aligncenter" src="/images/uploads/2016/06/10_dicas_photoshop_3.jpg" alt="10_dicas_photoshop_3" width="619" height="503" srcset="/images/uploads/2016/06/10_dicas_photoshop_3.jpg 831w, /images/uploads/2016/06/10_dicas_photoshop_3-300x244.jpg 300w, /images/uploads/2016/06/10_dicas_photoshop_3-768x624.jpg 768w" sizes="(max-width: 619px) 100vw, 619px" />
 
@@ -70,7 +70,7 @@ Dessa forma conseguimos observar o que está por trás dela, ou seja, nossa imag
 Algo muito comum que precisamos fazer ao editar uma imagem é cortá-la. As vezes queremos apenas um pedaço da imagem, então o que fazemos é clicar ferramenta Corte na barra lateral da esquerda (também acessível via o atalho do teclado apertando a letra **C**).
 
 <p style="text-align: left;">
-  <a href="https://www.igluonline.com/funcionalidade-photoshop-da-semana-ferramenta-de-corte/" target="_blank"><strong>Confira nosso tutorial completo sobre a ferramenta de corte no Photoshop.</strong></a>
+  <a href="https://www.igluonline.com/funcionalidade-photoshop-da-semana-ferramenta-de-corte/" target="_blank" rel="noopener"><strong>Confira nosso tutorial completo sobre a ferramenta de corte no Photoshop.</strong></a>
 </p>
 
 <img class="size-full wp-image-11 aligncenter" src="/images/uploads/2016/06/10_dicas_photoshop_4.jpg" alt="10_dicas_photoshop_4" width="501" height="547" srcset="/images/uploads/2016/06/10_dicas_photoshop_4.jpg 501w, /images/uploads/2016/06/10_dicas_photoshop_4-275x300.jpg 275w" sizes="(max-width: 501px) 100vw, 501px" />
@@ -103,7 +103,7 @@ Podemos observar duas coisas com isso. Em primeiro lugar, nossa imagem original 
 
 Muitas vezes queremos adicionar algum texto em nossa composição. Para fazer isso no Photoshop é muito simples, basta clicar na ferramenta de Texto no menu lateral da esquerda que possui a letra T como ícone. Em seguida clique na imagem aonde quer que o texto vá.
 
-<a href="https://www.igluonline.com/funcionalidade-photoshop-da-semana-texto-e-fontes-customizadas/" target="_blank"><strong>Confira nosso tutorial completo sobre a ferramenta de texto no Photoshop.</strong></a>
+<a href="https://www.igluonline.com/funcionalidade-photoshop-da-semana-texto-e-fontes-customizadas/" target="_blank" rel="noopener"><strong>Confira nosso tutorial completo sobre a ferramenta de texto no Photoshop.</strong></a>
 
 <img class="size-full wp-image-16 aligncenter" src="/images/uploads/2016/06/10_dicas_photoshop_9.jpg" alt="10_dicas_photoshop_9" width="627" height="380" srcset="/images/uploads/2016/06/10_dicas_photoshop_9.jpg 627w, /images/uploads/2016/06/10_dicas_photoshop_9-300x182.jpg 300w, /images/uploads/2016/06/10_dicas_photoshop_9-150x90.jpg 150w" sizes="(max-width: 627px) 100vw, 627px" />
 

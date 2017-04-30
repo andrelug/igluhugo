@@ -37,7 +37,7 @@ Vamos utilizar a seguinte imagem para nossos testes. Você pode baixar essa imag
 
 Esse primeiro método funciona mas dependendo da foto fica um pouco difícil de parecer real. Ele é bem simples e rápido, então vamos lá:
 
-<a href="https://www.igluonline.com/funcionalidade-photoshop-da-semana-camadas/" target="_blank"><strong>Aproveite para conferir nosso tutorial completo sobre as camadas no Photoshop.</strong></a>
+<a href="https://www.igluonline.com/funcionalidade-photoshop-da-semana-camadas/" target="_blank" rel="noopener"><strong>Aproveite para conferir nosso tutorial completo sobre as camadas no Photoshop.</strong></a>
 
   1. Abra a imagem no Photoshop
   2. Crie uma nova camada vazia e a selecione

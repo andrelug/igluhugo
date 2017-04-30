@@ -84,13 +84,13 @@
 			<div class="post-share post-share-vertical">
 				<ul class="share-buttons">
 					<li>
-						<a target="_blank" rel="nofollow" href="http://www.facebook.com/sharer.php?u={{.Site.BaseURL}}{{ .RelPermalink }}"><i class="icon icon-facebook"></i></a>
+						<a target="_blank" rel="noopener" rel="nofollow" href="http://www.facebook.com/sharer.php?u={{.Site.BaseURL}}{{ .RelPermalink }}"><i class="icon icon-facebook"></i></a>
 					</li>
 					<li>
-						<a target="_blank" rel="nofollow" href="https://twitter.com/share?text={{ .Title }};url={{.Site.BaseURL}}{{ .RelPermalink }}"><i class="icon icon-twitter"></i></a>
+						<a target="_blank" rel="noopener" rel="nofollow" href="https://twitter.com/share?text={{ .Title }};url={{.Site.BaseURL}}{{ .RelPermalink }}"><i class="icon icon-twitter"></i></a>
 					</li>
 					<li>
-						<a target="_blank" rel="nofollow" href="https://pinterest.com/pin/create/bookmarklet/?media={{.Site.BaseURL}}/images/{{ .Param "featured_image" }}.{{ .Param "featured_image_extension" }}&url={{.Site.BaseURL}}{{ .RelPermalink }}"><i class="icon icon-pinterest"></i>
+						<a target="_blank" rel="noopener" rel="nofollow" href="https://pinterest.com/pin/create/bookmarklet/?media={{.Site.BaseURL}}/images/{{ .Param "featured_image" }}.{{ .Param "featured_image_extension" }}&url={{.Site.BaseURL}}{{ .RelPermalink }}"><i class="icon icon-pinterest"></i>
 						</a>
 					</li>
 				</ul>
@@ -127,44 +127,44 @@
 {{ end }}
 
 <div class="post-author author vcard">
-	<img alt="" src="images/perfil.jpg" class="avatar avatar-120 photo rounded-circle" height="120" width="120">
+	<img alt="avatar andre lucas" src="images/perfil.jpg" class="avatar avatar-120 photo rounded-circle" height="120" width="120">
 	<h4 class="fn">
 		<a href="/author/andre-lucas" title="Artigos do André" rel="author">{{ .Param "author" }}</a>
 	</h4>
 	<p>Apaixonado por design e desenvolvimento de websites. De vez em quando gosta de escrever sobre produtividade, como é ser um freelancer e algumas reflexões da vida.</p>
 	<ul class="list-social list-social-compact post-author-social">
 		<li class="menu-item">
-<a target="_blank" href="https://www.facebook.com/igluonline/">
+<a target="_blank" rel="noopener" href="https://www.facebook.com/igluonline/">
 <i class="icon icon-facebook"></i>
 	  </a>
 </li>
 	  <li>
-<a target="_blank" href="https://twitter.com/andrelug_">
+<a target="_blank" rel="noopener" href="https://twitter.com/andrelug_">
 <i class="icon icon-twitter"></i>
 	  </a>
 </li>
 	  <li>
-<a target="_blank" href="https://www.instagram.com/igluonline/">
+<a target="_blank" rel="noopener" href="https://www.instagram.com/igluonline/">
 <i class="icon icon-instagram"></i>
 	  </a>
 </li>
 	  <li>
-<a target="_blank" href="https://plus.google.com/u/0/collection/0TVuZ">
+<a target="_blank" rel="noopener" href="https://plus.google.com/u/0/collection/0TVuZ">
 <i class="icon icon-google-plus"></i>
 	  </a>
 </li>
 	  <li>
-<a target="_blank" href="https://br.pinterest.com/andrelug/">
+<a target="_blank" rel="noopener" href="https://br.pinterest.com/andrelug/">
 <i class="icon icon-pinterest"></i>
 	  </a>
 </li>
 	  <li>
-<a target="_blank" href="https://www.linkedin.com/in/andrelug">
+<a target="_blank" rel="noopener" href="https://www.linkedin.com/in/andrelug">
 <i class="icon icon-linkedin"></i>
 	  </a>
 </li>
 	  <li>
-<a target="_blank" href="https://www.youtube.com/channel/UCybl6LOBsIJ6R5dXUdbmmXA">
+<a target="_blank" rel="noopener" href="https://www.youtube.com/channel/UCybl6LOBsIJ6R5dXUdbmmXA">
 <i class="icon icon-youtube"></i>
 	  </a>
 </li>
@@ -188,9 +188,9 @@
 				  <article class="post-related post-list">
 					  <div class="post-thumbnail">
 						  {{if .Param "hugo_image"}}
-						    <img width="530" height="640" src="{{ .Param "hugo_image"}}" class="attachment-list size-list wp-post-image" alt="">
+						    <img width="530" height="640" src="{{ .Param "hugo_image"}}" class="attachment-list size-list wp-post-image" alt="imagem destacada">
 						  {{else}}
-						    <img width="530" height="640" src="images/{{ .Param "featured_image" }}.{{ .Param "featured_image_extension" }}" class="attachment-list size-list wp-post-image" alt="">
+						    <img width="530" height="640" src="images/{{ .Param "featured_image" }}.{{ .Param "featured_image_extension" }}" class="attachment-list size-list wp-post-image" alt="imagem destacada">
 						  {{ end }}
 						  <div class="post-more">
 							  <a href="{{ .Permalink }}" class="link-more">

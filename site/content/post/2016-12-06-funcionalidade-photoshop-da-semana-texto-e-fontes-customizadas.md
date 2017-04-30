@@ -26,7 +26,7 @@ tags:
   - tutorial
 
 ---
-<a href="https://www.igluonline.com/categories/ferramentas-photoshop/" target="_blank"><strong>Não perca os outros artigos da coleção Funcionalidade Photoshop da Semana!</strong></a>
+<a href="https://www.igluonline.com/categories/ferramentas-photoshop/" target="_blank" rel="noopener"><strong>Não perca os outros artigos da coleção Funcionalidade Photoshop da Semana!</strong></a>
 
 ## O que faz
 

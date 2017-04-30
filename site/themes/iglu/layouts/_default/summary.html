@@ -2,9 +2,9 @@
 
 <div class="post-thumbnail">
 	 {{if .Param "hugo_image"}}
-	 	<img width="530" height="298" src="{{ .Param "hugo_image"}}" class="attachment-masonry size-masonry wp-post-image" alt="" >
+	 	<img width="530" height="298" src="{{ .Param "hugo_image"}}" class="attachment-masonry size-masonry wp-post-image" alt="imagem destacada" >
 	{{ else }}
-		<img width="530" height="298" src="images/{{ .Param "featured_image" }}.{{ .Param "featured_image_extension" }}" class="attachment-masonry size-masonry wp-post-image" alt="">
+		<img width="530" height="298" src="images/{{ .Param "featured_image" }}.{{ .Param "featured_image_extension" }}" class="attachment-masonry size-masonry wp-post-image" alt="imagem destacada">
 	{{ end }}
 <div class="post-more">
 <a href="{{ .Permalink }}" class="link-more">

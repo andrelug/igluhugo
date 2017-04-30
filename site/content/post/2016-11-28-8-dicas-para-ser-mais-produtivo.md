@@ -37,7 +37,7 @@ Se hoje somos pressionados pela velocidade da vida ou pela constante pressão e 
 
 Aqui estão as 8 dicas para ser mais produtivo e, com isso, construir autoestima. 7 boas práticas e 3 considerações.
 
-Agora, se você está <a href="https://www.igluonline.com/voce-nao-e-sua-produtividade-diminua-velocidade/" target="_blank">buscando uma nova visão sobre a produtividade, sugiro conferir esse outro artigo.</a>
+Agora, se você está <a href="https://www.igluonline.com/voce-nao-e-sua-produtividade-diminua-velocidade/" target="_blank" rel="noopener">buscando uma nova visão sobre a produtividade, sugiro conferir esse outro artigo.</a>
 
 ## 1- Deixe o smartphone um pouco de lado
 
@@ -71,7 +71,7 @@ Para algumas pessoas eu acho que os e-mails servem mais para registrar em redes 
 
 Independentemente de qual cliente de e-mail você utiliza, provavelmente a funcionalidade de criação de pastas deve estar presente. As pastas funcionam igual as pastas em seu computador e dividir seus e-mails em tópicos pode ajudar bastante. Além disso o recurso de Tags funciona muito bem para criar outra camada de organização. Caso utilize o Gmail e alguns outros programas de e-mail mais poderosos também pode fazer uso de automação dessa categorização.
 
-<a href="https://www.igluonline.com/12-dicas-de-como-usar-o-gmail-e-ser-mais-produtivo/" target="_blank"><strong>Aproveite para conferir essas dicas de como ser mais produtivo no seu Gmail.</strong></a>
+<a href="https://www.igluonline.com/12-dicas-de-como-usar-o-gmail-e-ser-mais-produtivo/" target="_blank" rel="noopener"><strong>Aproveite para conferir essas dicas de como ser mais produtivo no seu Gmail.</strong></a>
 
 Por fim, uma dica que tem me ajudado muito vem com o [Unroll.me][2]. Coneca seu e-mail nesse sistema e ele irá buscar todas as newsletters, propagandas e outros e-mails não pessoais. A partir daí você pode ou desisinscrever com facilidade ou mesmo criar um resumo diário de vários e-mails em um só e simplificar a vida.
 
