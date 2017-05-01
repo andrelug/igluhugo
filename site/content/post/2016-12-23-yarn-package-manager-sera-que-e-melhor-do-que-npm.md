@@ -75,7 +75,7 @@ Se um request de um pacote qualquer falhar, não vai causar o erro na instalaç�
 
 Há duas formas hoje para instalar o Yarn no seu computador. O primeiro método é utilizar o próprio NPM &#8211; é tipo instalar o Chrome baixando ele no Internet Explorer).
 
-<pre class=" language-javascript" data-title="javascript"><code class=" language-javascript">npm install &lt;span class="token operator">-&lt;/span>g yarn</code></pre>
+<pre class=" language-javascript" data-title="javascript"><code class=" language-javascript">npm install -g yarn</code></pre>
 
 Esse comando instala o Yarn globalmente e faz o comando yarn ficar disponível no terminal ou prompt de comando.
 
@@ -88,8 +88,7 @@ O segundo método é ir ao [site oficial][2] e baixar o instalador para o seu s
 O Yarn não substitui o NPM, mas sim o melhora. ele utiliza o mesmo arquivo **package.json** e salva as dependências na pasta **node_modules/**. Para testar, vamos ver um exemplo de um arquivo package.json de um projeto.
 
 <pre class=" language-json" data-title="json"><code class=" language-json">
-  &lt;span class="token property">"private"&lt;/span>&lt;span class="token operator">:&lt;/span> &lt;span class="token boolean">true&lt;/span>&lt;span class="token punctuation">,&lt;/span>
-  &lt;span class="token property">"dependencies"&lt;/span>&lt;span class="token operator">:&lt;/span> &lt;span class="token punctuation">{&lt;/span>
+  "dependencies": {
     "agenda": "^0.8.1",
     "agendash": "^0.3.1",
     "bcrypt-nodejs": "*",
@@ -125,8 +124,7 @@ O Yarn não substitui o NPM, mas sim o melhora. ele utiliza o mesmo arquivo **p
     "response-time": "^2.3.1",
     "sendgrid": "^2.0.0",
     "stylus": "^0.54.2"
-  &lt;span class="token punctuation">}&lt;/span>
-&lt;span class="token punctuation">}&lt;/span></code></pre>
+  }</code></pre>
 
 Em seguida, podemos criar uma pasta chamada yarn e copiar o arquivo package.json para lá. Para instalar as dependências vá pelo terminal ou prompt de comando até a raiz desse diretório e rode o comando `yarn` ou `yarn install`.
 
@@ -136,11 +134,11 @@ Se você ainda não tiver um arquivo package.json, basta rodar o comando `yarn 
 
 Para adicionar uma dependência, o comando é:
 
-<pre class=" language-bash" data-title="bash"><code class=" language-bash">yarn add &lt;span class="token punctuation">[&lt;/span>package-name&lt;span class="token punctuation">]&lt;/span></code></pre>
+<pre class=" language-bash" data-title="bash"><code class=" language-bash">yarn add [package-name]</code></pre>
 
 Se você quiser uma versão ou tag específica, pode fazer da seguinte forma:
 
-<pre class=" language-bash" data-title="bash"><code class=" language-bash">yarn add &lt;span class="token punctuation">[&lt;/span>package&lt;span class="token punctuation">]&lt;/span>@&lt;span class="token punctuation">[&lt;/span>version-or-tag&lt;span class="token punctuation">]&lt;/span></code></pre>
+<pre class=" language-bash" data-title="bash"><code class=" language-bash">yarn add [package]@[versão-ou-tag]</code></pre>
 
 Para dependências de desenvolvimento (dev dependencies), opcionais ou peer, pode usar os comandos `--dev` `--peer` `--optional`.
 
@@ -148,10 +146,10 @@ Para dependências de desenvolvimento (dev dependencies), opcionais ou peer, pod
 
 Isso irá salvar o gulp no bloco de `devDependencies`. Para atualizar ou remover um pacote, precisamos apenas trocar  o comando `add` para ou `upgrade` ou `remove` seguido do nome do pacote.
 
-<pre class=" language-bash" data-title="bash"><code class=" language-bash">&lt;span class="token comment" spellcheck="true"># atualizar o gulp de 3.9.1 para a versão 4&lt;/span>
+<pre class=" language-bash" data-title="bash"><code class=" language-bash"># atualizar o gulp de 3.9.1 para a versão 4
 yarn upgrade gulp@4.0
 
-&lt;span class="token comment" spellcheck="true"># remover o gulp&lt;/span>
+# remover o gulp
 yarn remove gulp</code></pre>
 
 ## O arquivo yarn.lock
