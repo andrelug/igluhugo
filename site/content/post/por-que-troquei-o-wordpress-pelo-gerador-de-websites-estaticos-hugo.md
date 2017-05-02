@@ -1,7 +1,7 @@
 +++
 author = "André Lucas"
-categories = ["WordPress", "Web Development"]
-date = "2017-04-29T13:44:11+00:00"
+categories = ["WordPress", "desenvolvimento web"]
+date = "2017-04-29T13:44:11Z"
 hugo_image = "images/uploads/2017/04/29/gerador_website_estatico_hugo.jpg"
 tags = ["hugo", "wordpress", "web development", "gerador de sites estáticos"]
 title = "Por que troquei o WordPress pelo gerador de websites estáticos Hugo"
@@ -9,8 +9,6 @@ url = "/por-que-troquei-o-wordpress-pelo-gerador-de-websites-estaticos-hugo/"
 youtube = ""
 
 +++
-
-
 Já há um bom tempo que estou acompanhando de longe o desenvolvimento da nova geração de geradores de websites estáticos, como o [Hugo](https://gohugo.io/), [Jenkins ](https://jenkins.io/)ou [Middlemen](https://middlemanapp.com/). Mas até essa última semana eu não tinha considerado de fato tirar o tempo para aprender e aplicar em algum projeto.
 
 Eu estava passeando por alguns blogs que gosto e vi que o [Tableless estava de cara nova e aderiu ao gerador de sites estáticos Hugo](https://tableless.com.br/site-tableless-estatico/). Tive vontade então de me aprofundar e agora esse site aqui da Iglu também é estático e utiliza o Hugo.
