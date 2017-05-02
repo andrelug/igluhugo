@@ -1,6 +1,6 @@
 +++
 author = "André Lucas"
-categories = ["WordPress", "desenvolvimento web"]
+categories = ["WordPress", "Desenvolvimento Web"]
 date = "2017-04-29T13:44:11Z"
 hugo_image = "images/uploads/2017/04/29/gerador_website_estatico_hugo.jpg"
 tags = ["hugo", "wordpress", "web development", "gerador de sites estáticos"]
