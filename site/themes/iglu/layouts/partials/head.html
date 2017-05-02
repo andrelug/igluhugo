@@ -98,7 +98,7 @@
 	        "datePublished": "{{.Params.date}}",
 	        "dateCreated": "{{.Params.date}}",
 	        "dateModified": "{{.Lastmod}}",
-	        "articleBody": "{{.Content| plainify}}",
+	        "articleBody": "{{.Content}}",
 	        "description": "{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{ .Param "excerpt" }}{{ end }}"
 	      }
 	    </script>
