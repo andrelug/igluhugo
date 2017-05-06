@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.igluonline.com/como-se-tornar-um-desenvolvedor-web-em-2017/</loc>
+    <lastmod>2017-05-02T14:56:57+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.igluonline.com/6-documentarios-sobre-design/</loc>
     <lastmod>2017-04-30T15:10:02+00:00</lastmod>
   </url>
@@ -303,7 +308,7 @@
   
   <url>
     <loc>https://www.igluonline.com/tags/2017/</loc>
-    <lastmod>2016-12-08T04:17:31+00:00</lastmod>
+    <lastmod>2017-05-02T14:56:57+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -363,7 +368,7 @@
   
   <url>
     <loc>https://www.igluonline.com/author/andr%C3%A9-lucas/</loc>
-    <lastmod>2017-04-30T15:10:02+00:00</lastmod>
+    <lastmod>2017-05-02T14:56:57+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -405,7 +410,7 @@
   
   <url>
     <loc>https://www.igluonline.com/author/</loc>
-    <lastmod>2017-04-30T15:10:02+00:00</lastmod>
+    <lastmod>2017-05-02T14:56:57+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -589,6 +594,12 @@
   </url>
   
   <url>
+    <loc>https://www.igluonline.com/tags/curr%C3%ADculo/</loc>
+    <lastmod>2017-05-02T14:56:57+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.igluonline.com/tags/curso-online/</loc>
     <lastmod>2017-04-01T23:10:49+00:00</lastmod>
     <priority>0</priority>
@@ -625,8 +636,14 @@
   </url>
   
   <url>
+    <loc>https://www.igluonline.com/tags/desenvolvimento-de-websites/</loc>
+    <lastmod>2017-05-02T14:56:57+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.igluonline.com/categories/desenvolvimento-web/</loc>
-    <lastmod>2017-04-16T01:13:29+00:00</lastmod>
+    <lastmod>2017-05-02T14:56:57+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1004,7 +1021,7 @@
   
   <url>
     <loc>https://www.igluonline.com/</loc>
-    <lastmod>2017-04-30T15:10:02+00:00</lastmod>
+    <lastmod>2017-05-02T14:56:57+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1286,7 +1303,7 @@
   
   <url>
     <loc>https://www.igluonline.com/post/</loc>
-    <lastmod>2017-04-30T15:10:02+00:00</lastmod>
+    <lastmod>2017-05-02T14:56:57+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1340,7 +1357,7 @@
   
   <url>
     <loc>https://www.igluonline.com/tags/programa%C3%A7%C3%A3o/</loc>
-    <lastmod>2017-04-15T00:47:59+00:00</lastmod>
+    <lastmod>2017-05-02T14:56:57+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1377,6 +1394,12 @@
   <url>
     <loc>https://www.igluonline.com/tags/review/</loc>
     <lastmod>2016-11-05T17:46:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.igluonline.com/tags/roadmap/</loc>
+    <lastmod>2017-05-02T14:56:57+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1466,7 +1489,7 @@
   
   <url>
     <loc>https://www.igluonline.com/tags/</loc>
-    <lastmod>2016-12-08T04:17:31+00:00</lastmod>
+    <lastmod>2017-05-02T14:56:57+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1617,12 +1640,6 @@
   <url>
     <loc>https://www.igluonline.com/tags/web-design/</loc>
     <lastmod>2017-04-15T00:47:59+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.igluonline.com/categories/web-development/</loc>
-    <lastmod>2017-04-29T13:44:11+00:00</lastmod>
     <priority>0</priority>
   </url>
   

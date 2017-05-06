@@ -6,10 +6,30 @@
     <description>Recent content in Desenvolvimento Web on Iglu: Design, Freelancers, Programação e Marketing Digital</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sun, 16 Apr 2017 01:13:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 May 2017 14:56:57 +0000</lastBuildDate>
     
 	<atom:link href="https://www.igluonline.com/categories/desenvolvimento-web/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Como se tornar um desenvolvedor web em 2017</title>
+      <link>https://www.igluonline.com/como-se-tornar-um-desenvolvedor-web-em-2017/</link>
+      <pubDate>Tue, 02 May 2017 14:56:57 +0000</pubDate>
+      
+      <guid>https://www.igluonline.com/como-se-tornar-um-desenvolvedor-web-em-2017/</guid>
+      <description>Como se tornar um desenvolvedor web em 2017 é uma pergunta cada vez mais complicada de responder. De um lado temos a universidade e os cursos da ciência da computação, de outro os autodidatas que se aventuram online para aprender esse ofício.
+Nesse artigo trago tanto minha experiência quanto recursos de outras pesquisas para ajudar a responder essa questão. Me inspirei muito no artigo de Kamran Ahmed e também do vídeo do Leancode.</description>
+    </item>
+    
+    <item>
+      <title>Por que troquei o WordPress pelo gerador de websites estáticos Hugo</title>
+      <link>https://www.igluonline.com/por-que-troquei-o-wordpress-pelo-gerador-de-websites-estaticos-hugo/</link>
+      <pubDate>Sat, 29 Apr 2017 13:44:11 +0000</pubDate>
+      
+      <guid>https://www.igluonline.com/por-que-troquei-o-wordpress-pelo-gerador-de-websites-estaticos-hugo/</guid>
+      <description>Já há um bom tempo que estou acompanhando de longe o desenvolvimento da nova geração de geradores de websites estáticos, como o Hugo, Jenkins ou Middlemen. Mas até essa última semana eu não tinha considerado de fato tirar o tempo para aprender e aplicar em algum projeto.
+Eu estava passeando por alguns blogs que gosto e vi que o Tableless estava de cara nova e aderiu ao gerador de sites estáticos Hugo.</description>
+    </item>
     
     <item>
       <title>21 Bibliotecas JavaScript e CSS que você precisa conhecer</title>
