@@ -263,12 +263,12 @@
 			if (rect.top < window.innerHeight) {
 
 				loadAPI();
-				feed.run();
+			//	feed.run();
 				window.onscroll = null;
 			}
 		}
 		{{ else }}
-			feed.run();
+			// feed.run();
 		{{ end }}
 
 		if ('serviceWorker' in navigator) {
