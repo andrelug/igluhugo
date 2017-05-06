@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.igluonline.com/introducao-ao-sass-um-guia-para-iniciantes/</loc>
+    <lastmod>2017-05-05T21:54:20+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.igluonline.com/como-se-tornar-um-desenvolvedor-web-em-2017/</loc>
     <lastmod>2017-05-02T14:56:57+00:00</lastmod>
   </url>
@@ -368,7 +373,7 @@
   
   <url>
     <loc>https://www.igluonline.com/author/andr%C3%A9-lucas/</loc>
-    <lastmod>2017-05-02T14:56:57+00:00</lastmod>
+    <lastmod>2017-05-05T21:54:20+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -410,7 +415,7 @@
   
   <url>
     <loc>https://www.igluonline.com/author/</loc>
-    <lastmod>2017-05-02T14:56:57+00:00</lastmod>
+    <lastmod>2017-05-05T21:54:20+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -583,13 +588,19 @@
   
   <url>
     <loc>https://www.igluonline.com/tags/css/</loc>
-    <lastmod>2017-04-16T01:13:29+00:00</lastmod>
+    <lastmod>2017-05-05T21:54:20+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.igluonline.com/tags/css-frameworks/</loc>
     <lastmod>2017-04-16T01:13:29+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.igluonline.com/tags/css-preprocessors/</loc>
+    <lastmod>2017-05-05T21:54:20+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -643,7 +654,7 @@
   
   <url>
     <loc>https://www.igluonline.com/categories/desenvolvimento-web/</loc>
-    <lastmod>2017-05-02T14:56:57+00:00</lastmod>
+    <lastmod>2017-05-05T21:54:20+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1021,7 +1032,7 @@
   
   <url>
     <loc>https://www.igluonline.com/</loc>
-    <lastmod>2017-05-02T14:56:57+00:00</lastmod>
+    <lastmod>2017-05-05T21:54:20+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1303,7 +1314,7 @@
   
   <url>
     <loc>https://www.igluonline.com/post/</loc>
-    <lastmod>2017-05-02T14:56:57+00:00</lastmod>
+    <lastmod>2017-05-05T21:54:20+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1362,6 +1373,12 @@
   </url>
   
   <url>
+    <loc>https://www.igluonline.com/tags/pr%C3%A9-processador-de-css/</loc>
+    <lastmod>2017-05-05T21:54:20+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.igluonline.com/tags/psd/</loc>
     <lastmod>2017-02-09T20:21:02+00:00</lastmod>
     <priority>0</priority>
@@ -1400,6 +1417,12 @@
   <url>
     <loc>https://www.igluonline.com/tags/roadmap/</loc>
     <lastmod>2017-05-02T14:56:57+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.igluonline.com/tags/sass/</loc>
+    <lastmod>2017-05-05T21:54:20+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1460,6 +1483,12 @@
   <url>
     <loc>https://www.igluonline.com/tags/stress/</loc>
     <lastmod>2017-03-22T20:33:21+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.igluonline.com/tags/stylesheet/</loc>
+    <lastmod>2017-05-05T21:54:20+00:00</lastmod>
     <priority>0</priority>
   </url>
   

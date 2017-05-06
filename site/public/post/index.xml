@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Iglu: Design, Freelancers, Programação e Marketing Digital</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 02 May 2017 14:56:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 May 2017 21:54:20 +0000</lastBuildDate>
     
 	<atom:link href="https://www.igluonline.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introdução ao Sass - Um guia para iniciantes</title>
+      <link>https://www.igluonline.com/introducao-ao-sass-um-guia-para-iniciantes/</link>
+      <pubDate>Fri, 05 May 2017 21:54:20 +0000</pubDate>
+      
+      <guid>https://www.igluonline.com/introducao-ao-sass-um-guia-para-iniciantes/</guid>
+      <description>Sass - Syntactically Awesome Stylesheets - é uma forma diferente e sensacional de escrever o CSS. Além de trazer conceitos de linguagens de programação para a criação das folhas de estilo, o Sass simplifica bastante o processo. Se você ainda não usou algum pré-processador de CSS como Sass, LESS ou Stylus, está na hora de transformar o jeito que você escreve CSS.
+Nesse artigo vou contar um pouco sobre o que é um pré-processador de CSS, como funciona o Sass e algumas dicas também de melhorar e facilitar a criação de folhas de estilo.</description>
+    </item>
     
     <item>
       <title>Como se tornar um desenvolvedor web em 2017</title>
