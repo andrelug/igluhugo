@@ -115,7 +115,7 @@
 						<a target="_blank" rel="noopener" rel="nofollow" href="https://twitter.com/share?text={{ .Title }};url={{.Site.BaseURL}}{{ .RelPermalink }}"><i class="icon icon-twitter"></i></a>
 					</li>
 					<li>
-						<a target="_blank" rel="noopener" rel="nofollow" href="https://pinterest.com/pin/create/bookmarklet/?media={{ .Site.BaseURL }}/images/{{ if .Param "hugo_image"}}{{ .Param "hugo_image"}}{{else}}{{.Param "featured_image" }}.{{ .Param "featured_image_extension" }}{{end}}&url={{.Site.BaseURL}}{{ .RelPermalink }}"><i class="icon icon-pinterest"></i>
+						<a target="_blank" rel="noopener" rel="nofollow" href="https://pinterest.com/pin/create/bookmarklet/?media={{ .Site.BaseURL }}/{{ if .Param "hugo_image"}}{{ .Param "hugo_image"}}{{else}}images/{{.Param "featured_image" }}.{{ .Param "featured_image_extension" }}{{end}}&url={{.Site.BaseURL}}{{ .RelPermalink }}"><i class="icon icon-pinterest"></i>
 						</a>
 					</li>
 				</ul>
