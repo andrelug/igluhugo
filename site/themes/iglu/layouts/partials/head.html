@@ -32,7 +32,7 @@
 	    {{if not .IsHome}}<meta property="og:type" content="article">{{end}}
 	    <meta property="og:title" content="{{ .Title}}">
 	    <meta property="og:description" content="{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{ .Param "excerpt" }}{{ end }}" name="description">
-	    <meta property="og:image" content="{{ .Site.BaseURL }}/images/{{ if .Param "hugo_image"}}{{ .Param "hugo_image"}}{{else}}{{.Param "featured_image" }}.{{ .Param "featured_image_extension" }}{{end}}">
+	    <meta property="og:image" content="{{ .Site.BaseURL }}/{{ if .Param "hugo_image"}}{{ .Param "hugo_image"}}{{else}}images/{{.Param "featured_image" }}.{{ .Param "featured_image_extension" }}{{end}}">
 		<meta property="og:locale" content="pt_BR">
 		<meta property="og:site_name" content="Iglu">
 
@@ -55,7 +55,7 @@
 	    <meta name="twitter:site" content="@andrelug_">
 	    <meta name="twitter:title" content="{{.Title}}">
 	    <meta name="twitter:description" content="{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{ .Param "excerpt" }}{{ end }}">
-	    <meta name="twitter:image" content="{{ .Site.BaseURL }}/images/{{ if .Param "hugo_image"}}{{ .Param "hugo_image"}}{{else}}{{.Param "featured_image" }}.{{ .Param "featured_image_extension" }}{{end}}">
+	    <meta name="twitter:image" content="{{ .Site.BaseURL }}/{{ if .Param "hugo_image"}}{{ .Param "hugo_image"}}{{else}}images/{{.Param "featured_image" }}.{{ .Param "featured_image_extension" }}{{end}}">
 
 		<!-- Styles -->
 		<link rel="stylesheet" href="css/mini.css" type="text/css" media="all">
@@ -87,7 +87,7 @@
 	        "@type": "Article",
 	        "headline": "{{.Title}}",
 	        "author": "{{ .Param "author" }}",
-	        "image": "{{ .Site.BaseURL }}/images/{{ if .Param "hugo_image"}}{{ .Param "hugo_image"}}{{else}}{{.Param "featured_image" }}.{{ .Param "featured_image_extension" }}{{end}}",
+	        "image": "{{ .Site.BaseURL }}/{{ if .Param "hugo_image"}}{{ .Param "hugo_image"}}{{else}}images/{{.Param "featured_image" }}.{{ .Param "featured_image_extension" }}{{end}}",
 	        "publisher": {
 	          "@type" : "Organization",
 	          "name":"{{.Site.Params.siteName}}",
