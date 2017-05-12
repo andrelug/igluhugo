@@ -22,8 +22,8 @@
 </ul>              </div>
 
 <div class="post-media">
-        <div class="embed-responsive embed-responsive-16by9"><iframe width="200" height="113" src="{{ .Param "youtube" }}?feature=oembed" frameborder="0" allowfullscreen=""></iframe></div>
-      </div>
+		<div class="embed-responsive embed-responsive-16by9"><iframe width="200" height="113" src="{{ .Param "youtube" }}?feature=oembed" frameborder="0" allowfullscreen=""></iframe></div>
+	  </div>
 {{ else if .Param "featured_image"}}
 
 	<div class="page-header page-header-bg overlay overlay-ratio overlay-ratio-horizontal parallax" style="background-image: url(images/{{ .Param "featured_image" }}.{{ .Param "featured_image_extension" }})">
@@ -36,7 +36,7 @@
 				<li>
 					{{ range .Params.categories }}
 					<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" rel="category tag">{{ . }}</a>
-				    {{ end }}
+					{{ end }}
 
 				</li>
 			</ul>                      <h1 class="entry-title">{{ .Title }}</h1>
@@ -123,16 +123,16 @@
 
 	</div>
 	<div class="post-content">
-		<!-- <div style="width:100%;text-align:center;">
+		<div style="width:100%;text-align:center;max-height:200px;">
 			<ins class="adsbygoogle"
-			     style="display:block"
-			     data-ad-client="ca-pub-2532350215540740"
-			     data-ad-slot="2631794717"
-			     data-ad-format="auto"></ins>
+				 style="display:block"
+				 data-ad-client="ca-pub-2532350215540740"
+				 data-ad-slot="2631794717"
+				 data-ad-format="auto"></ins>
 			<script>
 			(adsbygoogle = window.adsbygoogle || []).push({});
 			</script>
-		</div> -->
+		</div>
 		<div class="content">
 			{{ .Content }}
 
@@ -153,10 +153,10 @@
 	<ul class="post-tags">
 	   {{ $tagsLen := len .Params.tags }}
 	   {{ if gt $tagsLen 0 }}
-	       {{ range $k, $v := .Params.tags }}
+		   {{ range $k, $v := .Params.tags }}
 		   <a href="{{ $.Site.BaseURL }}/tags/{{ . | urlize | lower }}" rel="tag">{{ . }}</a>
-	       {{ if lt $k (sub $tagsLen 1) }}&middot;{{ end }}
-	       {{ end }}
+		   {{ if lt $k (sub $tagsLen 1) }}&middot;{{ end }}
+		   {{ end }}
 	   {{ end }}
    </ul>
 {{ end }}
@@ -217,27 +217,27 @@
 	  <div class="owl-carousel">
 
 		  {{ range $index, $element := (where .Site.Pages "Type" "post") | shuffle }}
-		  	{{ if le $index 2}}
+			  {{ if le $index 2}}
 
 				<div class="owl-slide">
 				  <article class="post-related post-list">
 					  <div class="post-thumbnail">
 						  {{if .Param "hugo_image"}}
-						    <img width="530" height="640" src="{{ .Param "hugo_image"}}" class="attachment-list size-list wp-post-image" alt="imagem destacada">
+							<img width="530" height="640" src="{{ .Param "hugo_image"}}" class="attachment-list size-list wp-post-image" alt="imagem destacada">
 						  {{else}}
-						    <img width="530" height="640" src="images/{{ .Param "featured_image" }}.{{ .Param "featured_image_extension" }}" class="attachment-list size-list wp-post-image" alt="imagem destacada">
+							<img width="530" height="640" src="images/{{ .Param "featured_image" }}.{{ .Param "featured_image_extension" }}" class="attachment-list size-list wp-post-image" alt="imagem destacada">
 						  {{ end }}
 						  <div class="post-more">
 							  <a href="{{ .Permalink }}" class="link-more">
-							  	<span>View Post</span>
+								  <span>View Post</span>
 							</a>
 						</div>
 						<ul class="post-meta">
 							<li class="meta-reading-time">
 								<i class="icon icon-clock"></i>
 								<time class="entry-date published updated" datetime="{{ .Date.Format "02/01/2006" }}">
-   								  {{ .Date.Format "02/01/2006" }}
-   							  </time>
+									 {{ .Date.Format "02/01/2006" }}
+								 </time>
 							</li>
 							<!--
 							<li class="meta-views">
