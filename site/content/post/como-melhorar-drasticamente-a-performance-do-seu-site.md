@@ -49,9 +49,9 @@ Compactar os arquivos é algo bem direto e fácil de se fazer, mas frequentement
 
 ```
 
-<span class="hljs-keyword">var</span> funcionalidadeSomaDeParametros = <span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-params">(parametro1, parametro2)</span> {</span>
+var funcionalidadeSomaDeParametros = function (parametro1, parametro2) {
 
-<span class="hljs-keyword">return</span> parametro1 + parametro2;
+return parametro1 + parametro2;
 
 }
 
@@ -61,7 +61,7 @@ passa a ser
 
 ```
 
-<span class="hljs-keyword">var</span> a=<span class="hljs-function"><span class="hljs-keyword">function</span><span class="hljs-params">(b,c)</span>{</span><span class="hljs-keyword">return</span> b+c}
+var a=function(b,c){return b+c}
 
 ```
 
