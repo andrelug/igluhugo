@@ -18,8 +18,7 @@ Essa então é a minha lista impossível!
 *   Correr uma Meia Maratona
 *   1000 Inscritos no Canal de Vlog no YouTube
 *   Meditar 10 minutos por dia durante 1 ano
-*   Fazer uma segunda Mini-vida
-*   Lançar um curso online (progresso: 30%)
+*   Lançar um curso online (progresso: 45%)
 *   Ouvir um audiobook por mês durante um ano (progresso: 3 meses e contando)
 
 ## Fitness / Saúde
@@ -63,8 +62,8 @@ Essa então é a minha lista impossível!
 ## Hábitos
 
 *   Meditar 10 minutos todos os dias por 1 ano
-*   Gravar 5 vídeos no YouTube por semana por 1 ano
-*   Escrever 3 artigos por semana por 1 ano
+*   Gravar 1 vídeo no YouTube por semana por 1 ano
+*   Escrever 1 artigo por semana por 1 ano
 *   Ouvir um audiobook por mês durante um ano
 
 ## Criativos
@@ -135,7 +134,7 @@ Essa então é a minha lista impossível!
 *   Visitar Salvador
 *   Visitar mais de 10 países
 *   <del>Fazer uma mini-vida em outro país</del> (Outubro, 2016 – Chicado, EUA)
-    *   Mais uma
+    *   <del>Segunda mini vida</del> (Em execução em Florianópolis - BR)
 
 ## Vida
 
