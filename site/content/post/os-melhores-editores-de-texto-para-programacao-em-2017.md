@@ -10,6 +10,10 @@ url = "os-melhores-editores-de-texto-para-programacao-gratuitos-em-2017"
 youtube = ""
 
 +++
+
+
+http://blog.liveedu.tv/10-best-text-editors-programming-2016/
+
 Um dos primeiros passos para quem está começando a programar é a escolha do melhor editor de texto ou IDE (Integrated Development Environment). Contudo, seja por um layout mais bonito ou mais funcionalidades tanto iniciantes quanto programadores mais experientes buscam ferramentas melhores, mais leves e mais poderosas para trabalhar.
 
 Eu gosto muito de testar novas ferramentas e não tenho muito apego a uma única ferramenta, então vou compartilhar nesse artigo os melhores editores de texto para programação gratuitos de 2017.
@@ -26,8 +30,6 @@ O Notepad++ foi o primeiro editor de texto que usei para programar quando estava
 <img src="images/uploads/2017/09/06/melhores_editores_de_texto_2017_atom.jpg" class=" forestry--none" style="float: none;">
 
 <img src="images/uploads/2017/09/06/melhores_editores_de_texto_2017_brackets.jpg" class=" forestry--none" style="float: none;">
-
-
 
 <img src="images/uploads/2017/09/06/melhores_editores_de_texto_2017_sublime_text_3.jpg" alt="" class=" forestry--none" style="float: none;">
 
