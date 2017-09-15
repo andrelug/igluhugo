@@ -6,7 +6,6 @@ draft = true
 hugo_image = "images/uploads/2017/09/14/background.jpg"
 tags = ["criar site gratis", "criar site de graça", "websites", "wix", "programação"]
 title = "As melhores formas de criar seu site de graça em 2017"
-type = ""
 url = "as-melhores-formas-de-criar-seu-site-de-graca-em-2017"
 youtube = ""
 
