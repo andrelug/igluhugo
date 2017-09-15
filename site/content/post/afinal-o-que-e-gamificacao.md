@@ -5,7 +5,6 @@ date = "2017-09-15T20:37:40+00:00"
 hugo_image = "images/uploads/2017/09/15/gamification.jpg"
 tags = ["gamificação", "o que é gamification", "gamification", "o que é gamificação", "games"]
 title = "Afinal, o que é Gamificação?!"
-type = ""
 url = "/afinal-o-que-é-gamificacao/"
 youtube = ""
 
