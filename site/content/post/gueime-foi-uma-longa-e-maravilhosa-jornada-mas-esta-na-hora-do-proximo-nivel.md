@@ -2,7 +2,6 @@
 author = "André Lucas"
 categories = ["Reflexões", "Trabalho"]
 date = "2017-09-15T23:01:21-03:00"
-draft = true
 hugo_image = "images/uploads/2017/09/16/Gueime-1.jpg"
 tags = ["Gueime", "games", "video games", "startup", "jogos digitais"]
 title = "GG Gueime - Foi uma longa e maravilhosa jornada, mas está na hora do próximo nível"
