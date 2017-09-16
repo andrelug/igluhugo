@@ -1,6 +1,0 @@
-+++
-author = "André Lucas"
-date = "2017-09-16T01:04:11+00:00"
-title = "GG Gueime - Foi uma longa e maravilhosa jornada, mas está na hora do próximo nível"
-
-+++
