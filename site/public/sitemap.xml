@@ -2,12 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.igluonline.com/gueime-foi-uma-longa-e-maravilhosa-jornada-mas-esta-na-hora-do-proximo-nivel/</loc>
+    <lastmod>2017-09-15T23:01:21-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.igluonline.com/obsolescencia-programada/</loc>
+    <lastmod>2017-09-15T20:54:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.igluonline.com/afinal-o-que-e-gamificacao/</loc>
+    <lastmod>2017-09-15T20:37:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.igluonline.com/as-melhores-formas-de-criar-seu-site-de-graca-em-2017/</loc>
+    <lastmod>2017-09-14T16:21:04+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.igluonline.com/as-melhores-fontes-gratuitas-de-setembro-de-2017/</loc>
     <lastmod>2017-07-11T14:22:47+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.igluonline.com/post/os-melhores-editores-de-texto-para-programacao-em-2017/</loc>
+    <loc>https://www.igluonline.com/os-melhores-editores-de-texto-para-programacao-gratuitos-em-2017/</loc>
     <lastmod>2017-05-29T18:04:24+00:00</lastmod>
   </url>
   
@@ -398,7 +418,7 @@
   
   <url>
     <loc>https://www.igluonline.com/author/andr%C3%A9-lucas/</loc>
-    <lastmod>2017-07-11T14:22:47+00:00</lastmod>
+    <lastmod>2017-09-15T23:01:21-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -440,7 +460,7 @@
   
   <url>
     <loc>https://www.igluonline.com/author/</loc>
-    <lastmod>2017-07-11T14:22:47+00:00</lastmod>
+    <lastmod>2017-09-15T23:01:21-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -612,6 +632,18 @@
   </url>
   
   <url>
+    <loc>https://www.igluonline.com/tags/criar-site-de-gra%C3%A7a/</loc>
+    <lastmod>2017-09-14T16:21:04+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.igluonline.com/tags/criar-site-gratis/</loc>
+    <lastmod>2017-09-14T16:21:04+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.igluonline.com/tags/css/</loc>
     <lastmod>2017-05-05T21:54:20+00:00</lastmod>
     <priority>0</priority>
@@ -678,26 +710,26 @@
   </url>
   
   <url>
-    <loc>https://www.igluonline.com/categories/desenvolvimento-web/</loc>
-    <lastmod>2017-05-15T00:53:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.igluonline.com/tags/desenvolvimento-web/</loc>
     <lastmod>2017-04-15T00:47:59+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.igluonline.com/categories/design/</loc>
-    <lastmod>2017-07-11T14:22:47+00:00</lastmod>
+    <loc>https://www.igluonline.com/categories/desenvolvimento-web/</loc>
+    <lastmod>2017-09-14T16:21:04+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.igluonline.com/tags/design/</loc>
     <lastmod>2017-04-03T16:10:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.igluonline.com/categories/design/</loc>
+    <lastmod>2017-07-11T14:22:47+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -769,7 +801,7 @@
   
   <url>
     <loc>https://www.igluonline.com/tags/document%C3%A1rio/</loc>
-    <lastmod>2017-04-30T15:10:02+00:00</lastmod>
+    <lastmod>2017-09-15T20:54:10+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -960,6 +992,24 @@
   </url>
   
   <url>
+    <loc>https://www.igluonline.com/tags/games/</loc>
+    <lastmod>2017-09-15T23:01:21-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.igluonline.com/tags/gamification/</loc>
+    <lastmod>2017-09-15T20:37:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.igluonline.com/tags/gamifica%C3%A7%C3%A3o/</loc>
+    <lastmod>2017-09-15T20:37:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.igluonline.com/tags/gerador-de-sites-est%C3%A1ticos/</loc>
     <lastmod>2017-04-29T13:44:11+00:00</lastmod>
     <priority>0</priority>
@@ -1004,6 +1054,12 @@
   <url>
     <loc>https://www.igluonline.com/tags/gr%C3%A1tis/</loc>
     <lastmod>2017-05-09T01:30:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.igluonline.com/tags/gueime/</loc>
+    <lastmod>2017-09-15T23:01:21-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1069,7 +1125,7 @@
   
   <url>
     <loc>https://www.igluonline.com/</loc>
-    <lastmod>2017-07-11T14:22:47+00:00</lastmod>
+    <lastmod>2017-09-15T23:01:21-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1116,6 +1172,12 @@
   </url>
   
   <url>
+    <loc>https://www.igluonline.com/tags/jogos-digitais/</loc>
+    <lastmod>2017-09-15T23:01:21-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.igluonline.com/tags/la%C3%A7o/</loc>
     <lastmod>2016-12-12T14:16:03+00:00</lastmod>
     <priority>0</priority>
@@ -1134,14 +1196,14 @@
   </url>
   
   <url>
-    <loc>https://www.igluonline.com/categories/lifestyle/</loc>
-    <lastmod>2017-05-09T18:25:35+00:00</lastmod>
+    <loc>https://www.igluonline.com/tags/lifestyle/</loc>
+    <lastmod>2016-12-30T19:57:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.igluonline.com/tags/lifestyle/</loc>
-    <lastmod>2016-12-30T19:57:03+00:00</lastmod>
+    <loc>https://www.igluonline.com/categories/lifestyle/</loc>
+    <lastmod>2017-05-09T18:25:35+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1248,14 +1310,14 @@
   </url>
   
   <url>
-    <loc>https://www.igluonline.com/categories/novidades/</loc>
-    <lastmod>2017-02-08T02:31:31+00:00</lastmod>
+    <loc>https://www.igluonline.com/tags/novidades/</loc>
+    <lastmod>2016-12-08T04:17:31+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.igluonline.com/tags/novidades/</loc>
-    <lastmod>2016-12-08T04:17:31+00:00</lastmod>
+    <loc>https://www.igluonline.com/categories/novidades/</loc>
+    <lastmod>2017-02-08T02:31:31+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1278,8 +1340,32 @@
   </url>
   
   <url>
+    <loc>https://www.igluonline.com/tags/o-que-%C3%A9-gamification/</loc>
+    <lastmod>2017-09-15T20:37:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.igluonline.com/tags/o-que-%C3%A9-gamifica%C3%A7%C3%A3o/</loc>
+    <lastmod>2017-09-15T20:37:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.igluonline.com/tags/o-que-%C3%A9-ux/</loc>
     <lastmod>2017-04-03T16:10:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.igluonline.com/tags/obsolesc%C3%AAncia-programada/</loc>
+    <lastmod>2017-09-15T20:54:10+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.igluonline.com/tags/oep-electrics/</loc>
+    <lastmod>2017-09-15T20:54:10+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1357,7 +1443,7 @@
   
   <url>
     <loc>https://www.igluonline.com/post/</loc>
-    <lastmod>2017-07-11T14:22:47+00:00</lastmod>
+    <lastmod>2017-09-15T23:01:21-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1374,14 +1460,14 @@
   </url>
   
   <url>
-    <loc>https://www.igluonline.com/categories/produtividade/</loc>
-    <lastmod>2017-03-22T20:33:21+00:00</lastmod>
+    <loc>https://www.igluonline.com/tags/produtividade/</loc>
+    <lastmod>2017-05-09T18:25:35+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.igluonline.com/tags/produtividade/</loc>
-    <lastmod>2017-05-09T18:25:35+00:00</lastmod>
+    <loc>https://www.igluonline.com/categories/produtividade/</loc>
+    <lastmod>2017-03-22T20:33:21+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1411,7 +1497,7 @@
   
   <url>
     <loc>https://www.igluonline.com/tags/programa%C3%A7%C3%A3o/</loc>
-    <lastmod>2017-05-02T14:56:57+00:00</lastmod>
+    <lastmod>2017-09-14T16:21:04+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1441,7 +1527,7 @@
   
   <url>
     <loc>https://www.igluonline.com/categories/reflex%C3%B5es/</loc>
-    <lastmod>2017-04-09T21:15:07+00:00</lastmod>
+    <lastmod>2017-09-15T23:01:21-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1524,6 +1610,12 @@
   </url>
   
   <url>
+    <loc>https://www.igluonline.com/tags/startup/</loc>
+    <lastmod>2017-09-15T23:01:21-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.igluonline.com/tags/stress/</loc>
     <lastmod>2017-03-22T20:33:21+00:00</lastmod>
     <priority>0</priority>
@@ -1596,20 +1688,26 @@
   </url>
   
   <url>
+    <loc>https://www.igluonline.com/tags/thrive/</loc>
+    <lastmod>2017-09-15T20:54:10+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.igluonline.com/tags/tipografia/</loc>
     <lastmod>2017-02-09T19:44:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.igluonline.com/categories/trabalho/</loc>
-    <lastmod>2017-05-09T18:25:35+00:00</lastmod>
+    <loc>https://www.igluonline.com/tags/trabalho/</loc>
+    <lastmod>2017-03-22T20:33:21+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.igluonline.com/tags/trabalho/</loc>
-    <lastmod>2017-03-22T20:33:21+00:00</lastmod>
+    <loc>https://www.igluonline.com/categories/trabalho/</loc>
+    <lastmod>2017-09-15T23:01:21-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1710,6 +1808,12 @@
   </url>
   
   <url>
+    <loc>https://www.igluonline.com/tags/video-games/</loc>
+    <lastmod>2017-09-15T23:01:21-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.igluonline.com/tags/web-design/</loc>
     <lastmod>2017-04-15T00:47:59+00:00</lastmod>
     <priority>0</priority>
@@ -1729,18 +1833,24 @@
   
   <url>
     <loc>https://www.igluonline.com/tags/websites/</loc>
-    <lastmod>2017-05-15T00:53:15+00:00</lastmod>
+    <lastmod>2017-09-14T16:21:04+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.igluonline.com/categories/wordpress/</loc>
-    <lastmod>2017-04-29T13:44:11+00:00</lastmod>
+    <loc>https://www.igluonline.com/tags/wix/</loc>
+    <lastmod>2017-09-14T16:21:04+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.igluonline.com/tags/wordpress/</loc>
+    <lastmod>2017-04-29T13:44:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.igluonline.com/categories/wordpress/</loc>
     <lastmod>2017-04-29T13:44:11+00:00</lastmod>
     <priority>0</priority>
   </url>

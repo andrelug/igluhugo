@@ -9,6 +9,8 @@ url = "/gueime-foi-uma-longa-e-maravilhosa-jornada-mas-esta-na-hora-do-proximo-n
 youtube = ""
 
 +++
+
+
 Em 2012 eu e mais 5 amigos criamos um site de games chamado Gueime. Assim contávamos a nossa história:
 
 <pre style="white-space: normal;">Em uma conversa de nerds, surgiu a ideia de fazer um site de jogos. A ideia era criar um portal brasileiro que trouxesse informações confiáveis e atualizadas, análises precisas e uma comunidade envolvente e igualmente apaixonada pelos jogos como nós. Daí surgiu o Gueime.<br><br>
@@ -38,7 +40,7 @@ O modelo de crescimento do Gueime era totalmente baseado num seleto grupo de esc
 
 Desdo o início buscamos pessoas sensacionais na redação do nosso site. Entrevistamos, qualificamos e até criamos manuais e tutoriais para ajudar a equipe. **Mas no fundo quem realmente aprendeu muito com o processo foi eu e acredito que o resto da equipe.**
 
-Cirilo, Adília, Gabriel, Nikolas, Roger, Allyson, Thiago, Johnatan e tantos outros que passaram pelo Gueime: Muito obrigado!
+Cirilo, Adília, Gabriel, Nikolas, Roger, Allyson, Thiago, Johnatan, Lucas e tantos outros que passaram pelo Gueime: Muito obrigado!
 
 <img src="images/uploads/2017/09/16/parceiros.jpg" class=" forestry--none" style="float: none;">
 
