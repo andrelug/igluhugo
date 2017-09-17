@@ -1,5 +1,6 @@
 ---
 pages:
+- pages/sobre.md
 - pages/contato.md
 - pages/lista-de-leitura.md
 - pages/minha-lista-impossivel.md
