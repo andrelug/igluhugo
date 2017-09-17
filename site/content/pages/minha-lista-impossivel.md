@@ -1,8 +1,15 @@
 ---
-title: Minha Lista Impossível
 author: André Lucas
-type: page
 date: 2017-01-21 21:38:38 +0000
+title: Minha Lista Impossível
+type: page
+tags:
+- Lista impossível
+- resoluções
+- objetivos de vida
+- thomas frank
+- impossible list
+hugo_image: ''
 
 ---
 Muito mais do que uma simples lista de coisas que eu gostaria de fazer nessa vida, a “Lista Impossível” (Impossible List) é um [tipo de lista criado pelo Joel Runyon](https://impossiblehq.com/impossible-list/) (apesar de que a conheci por meio desse outro cara: [Thomas Frank](https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/)). A lista impossível é um desafio contendo todas aquelas coisas que eu já pensei que poderiam ser impossíveis pra mim em algum momento. Como o Joel mesmo fala elas são “aqueles tipo de coisas que você acha que só as pessoas legais na TV tem a chance de fazer”.
