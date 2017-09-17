@@ -31,7 +31,7 @@ fields:
   label: Type
   type: text
   hidden: false
-  default: ''
+  default: post
 - name: date
   label: Date
   type: datetime
