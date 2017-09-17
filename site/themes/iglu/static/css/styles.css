@@ -3485,6 +3485,8 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover, .gsc-input-box-focus {
 .authentic_widget_posts .list img,
 .authentic_widget_posts .numbered img {
   max-width: none;
+  height: 100px;
+    width: auto;
 }
 
 .authentic_widget_posts .list > li + li,
@@ -3514,6 +3516,9 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover, .gsc-input-box-focus {
 .authentic_widget_posts .numbered .post-thumbnail {
   position: relative;
   display: block;
+  height: 100px;
+  width: 100px;
+  overflow: hidden;
 }
 
 .authentic_widget_posts .numbered .post-number-wrap {
