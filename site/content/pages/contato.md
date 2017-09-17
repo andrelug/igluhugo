@@ -2,7 +2,11 @@
 title: Contato
 author: André Lucas
 type: page
-date: 2017-04-27T21:06:01+00:00
+date: 2017-04-27 21:06:01 +0000
+tags:
+- Entrar em contato
+- contato
+hugo_image: ''
 
 ---
 <div class="row"><div class=" col-md-4">
