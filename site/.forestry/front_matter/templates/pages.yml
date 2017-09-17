@@ -6,23 +6,25 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: author
+- type: text
+  name: author
   label: Author
-  type: tag_list
-  hidden: false
-  default: ''
+  default: andre
 - name: type
   label: Type
   type: text
   hidden: false
-  default: ''
+  default: page
 - name: date
   label: Date
   type: datetime
   hidden: false
-  default: ''
+  default: Invalid date
 - name: tags
   label: Tags
   type: tag_list
   hidden: false
   default: ''
+- type: file
+  name: hugo_image
+  label: Imagem destacada
