@@ -2,7 +2,12 @@
 title: Lista de leitura
 author: André Lucas
 type: page
-date: 2017-04-17T03:29:35+00:00
+date: 2017-04-17 03:29:35 +0000
+tags:
+- lista de leitura
+- livros bons
+- livros para empreendedores
+hugo_image: ''
 
 ---
 Eu sou um grande fã de livros. Sou fascinado pelos diferentes estilos de escrita, a beleza de um mundo que não existe e o conhecimento que é passado. Mas mais do que tudo isso eu adoro quando as ideias me fazem abrir a cabeça. **Aquela expansão de consciência que ao mesmo tempo que dá um nó nos neurônios gera quase que um orgasmo na mente**.
