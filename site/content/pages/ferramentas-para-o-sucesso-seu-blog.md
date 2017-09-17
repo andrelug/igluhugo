@@ -1,13 +1,13 @@
 ---
 author: André Lucas
 date: 2017-04-10 21:06:01 +0000
-title: Ferramentas para o sucesso do seu Blog
-type: page
 tags:
 - Ferramentas para blog
 - blog
 - freelancer
-hugo_image: ''
+title: Ferramentas para o sucesso do seu Blog
+type: page
+hugo_image: images/uploads/2017/09/17/pexels-photo-251225.jpeg
 
 ---
 Ao longo dos últimos anos eu testei centenas de serviços online para entender quais são os melhores, mais baratos, mais interessantes, mais robustos, mais divertidos e por aí vai. Para cada funcionalidade que você precisa hoje para rodar um negócio digital, blog ou empresa temos dezenas de concorrentes brigando pela sua atenção. Então não é realmente muito fácil determinar quais são as melhores opções.

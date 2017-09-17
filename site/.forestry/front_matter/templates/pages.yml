@@ -1,11 +1,11 @@
 ---
 pages:
-- pages/materiais-para-baixar.md
-- pages/obrigado-por-se-cadastrar.md
 - pages/sobre.md
-- pages/contato.md
 - pages/lista-de-leitura.md
 - pages/minha-lista-impossivel.md
+- pages/materiais-para-baixar.md
+- pages/obrigado-por-se-cadastrar.md
+- pages/contato.md
 - pages/ferramentas-para-o-sucesso-seu-blog.md
 hide_body: false
 fields:
@@ -17,7 +17,7 @@ fields:
 - type: text
   name: author
   label: Author
-  default: andre
+  default: André Lucas
 - name: type
   label: Type
   type: text
