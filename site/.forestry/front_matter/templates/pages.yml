@@ -18,7 +18,7 @@ fields:
 - type: text
   name: author
   label: Author
-  default: andre
+  default: André Lucas
 - name: type
   label: Type
   type: text
