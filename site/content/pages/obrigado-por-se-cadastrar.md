@@ -2,7 +2,11 @@
 title: Obrigado por se cadastrar!
 author: André Lucas
 type: page
-date: 2016-12-15T21:28:35+00:00
+date: 2016-12-15 21:28:35 +0000
+tags:
+- Obrigado por cadastrar
+- Lista de e-mail
+hugo_image: ''
 
 ---
 <h1 style="text-align: center;">
