@@ -21,7 +21,7 @@ type: page
 </div><div class=" col-md-8">
 <div role="form" lang="en-US" dir="ltr">
 <div class="screen-reader-response"></div>
-<form action="obrigado-pelo-contato" netlify name="Contato Iglu" method="post">
+<form action="obrigado-pelo-contato" netlify name="Contato Iglu" netlify-honeypot="bot-field">
 <input type="hidden" name="_next" value="http://www.igluonline.com" />
 <input type="hidden" name="_subject" value="E-mail Blog" />
 <div style="display: none;">
