@@ -1,12 +1,12 @@
 ---
-title: Contato
 author: André Lucas
-type: page
 date: 2017-04-27 21:06:01 +0000
+hugo_image: images/uploads/2017/09/17/pexels-photo.jpg
 tags:
 - Entrar em contato
 - contato
-hugo_image: ''
+title: Contato
+type: page
 
 ---
 <div class="row"><div class=" col-md-4">
