@@ -1,8 +1,7 @@
 +++
 author = "André Lucas"
 categories = ["desenvolvimento-web"]
-date = "2017-09-14T16:21:04+00:00"
-draft = true
+date = "2017-09-14T16:21:04Z"
 hugo_image = "images/uploads/2017/09/14/background.jpg"
 tags = ["criar site gratis", "criar site de graça", "websites", "wix", "programação"]
 title = "As melhores formas de criar seu site de graça em 2017"
@@ -12,7 +11,7 @@ youtube = ""
 +++
 
 
-Algo que sempre nos perguntam aqui na Iglu é quais são as melhores formas de criar um site de graça. Essa é inclusive uma pergunta que aqui também buscamos pela resposta constantemente.
+Algo que sempre nos perguntam aqui na Iglu é quais são as melhores formas de criar [site de gratis](https://pt.wix.com/). Essa é inclusive uma pergunta que aqui também buscamos pela resposta constantemente.
 
 Algo que descobrimos é que, assim como tudo nessa indústria da web, essa resposta também está em constante mudança. Há alguns anos atrás a melhor forma de se criar um site grátis era usando ferramentas como o Front-page da Microsoft (o usei para fazer meu primeiro site). Hoje alguém ouve falar dessa ferramenta?
 
@@ -60,7 +59,7 @@ Eu recomendo essa opção apenas para quem ou já tem bastante velocidade na cri
 
 Cada vez mais tenho observado alguns templates e temas em HTML que estão vindo com uns construtores visuais. Aproveitando a referência ali em cima do Microsoft Front Page, esses construtores são como um Front Page 10x melhor.
 
-Um exemplo interessante é o [Stack Multi-Purpose HTML with Page Builder disponível no Themeforest.net](https://themeforest.net/item/stack-multipurpose-html-with-page-builder/19337626?ref=andrelug). Ele utiliza um construtor chamado Variant e é bem legal para criar um site com velocidade e de uma forma bem visual e simples.
+Um exemplo interessante é o Stack Multi-Purpose HTML with Page Builder disponível no Themeforest.net. Ele utiliza um construtor chamado Variant e é bem legal para criar um site com velocidade e de uma forma bem visual e simples.
 
 <img src="images/uploads/2017/09/14/construtor_html_variant.jpg" class=" forestry--none" style="float: none;">
 
@@ -70,7 +69,7 @@ Nesse caso eu até tenho uma sugestão bacana para você economizar na hospedage
 
 Aqui chegamos talvez no formato que grande parte das pessoas busca. O uso de plataformas como WordPress, Magento, Ghost, Drupal, Joomla e por aí vai são muito interessantes e bastante simples de usar.
 
-Como essas plataformas são de código aberto (open source), estão disponíveis online gratuitamente. Contudo, aqui existe um valor de hospedagem em um servidor que, mesmo que baixo, é preciso considerar. Minha sugestão é escolher um plano compartilhado da [Hostgator ](https://www.hostgator.com.br/24430.html)ou [MediaTemple ](http://www.jdoqocy.com/click-8287922-12535344)e aproveitar que eles possuem sistemas de fácil instalação dessas plataformas open source diretamente no painel administrativo.
+Como essas plataformas são de código aberto (open source), estão disponíveis online gratuitamente. Contudo, aqui existe um valor de hospedagem em um servidor que, mesmo que baixo, é preciso considerar. Minha sugestão é escolher um plano compartilhado da Hostgator ou MediaTemple e aproveitar que eles possuem sistemas de fácil instalação dessas plataformas open source diretamente no painel administrativo.
 
 Algo que é importante mencionar aqui é que apesar dessas plataformas serem gratuitas e você tem acesso a vários designs (em forma de templates ou temas) e plugins (funcionalidades extras como formulários), os melhores designs e plugins são pagos. É possível ter grande parte das funcionalidades de um site institucional com o que é oferecido de graça? Sim! Mas eu já gosto de um layout mais bonito e acabo sempre comprando pelo menos um template para customizar meus sites no WordPress, por exemplo.
 
@@ -105,4 +104,3 @@ Eu acho que no futuro o grau de evolução de soluções assim farão com que 90
 Mas aproveite que existem muitas boas formas de criar seu site de graça em 2017 e esperançosamente esse número será ainda maior na nossa próxima versão do artigo ano que vem.
 
 Divirta-se!
-
