@@ -1,7 +1,7 @@
 +++
 author = "André Lucas"
 categories = ["desenvolvimento-web"]
-date = "2017-09-14T16:21:04Z"
+date = "2017-09-14T13:21:04-03:00"
 hugo_image = "images/uploads/2017/09/14/background.jpg"
 tags = ["criar site gratis", "criar site de graça", "websites", "wix", "programação"]
 title = "As melhores formas de criar seu site de graça em 2017"
