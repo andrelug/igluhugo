@@ -11,14 +11,13 @@ youtube = ""
 +++
 
 
-Você já ouviu falar no termo **Nômade Digital**? É um conceito que está bem na moda e ser um significa aderir a um lifestyle *on the road* aproveitando de alguma forma da liberdade que a internet te proporciona.
+Você já ouviu falar no termo **Nômade Digital**? É um conceito que está bem na moda, e ser um  significa aderir a um lifestyle *on the road* axproveitando, de alguma forma, da liberdade que a internet te proporciona.
 
 Tem nômades digitais minimalistas, hippies, luxuosos, que buscam algo ou que simplesmente não querem ficar no mesmo lugar por muito tempo. Não existe bem uma regra. **O que importa é a liberdade!**
 
-Eu e minha esposa resolvemos aderir a essa vida nômade com um projeto que estamos chamando de Mini vidas. [Gratidão ao David Kadavy pelo termo!](http://kadavy.net/blog/posts/mini-lives/)
+Eu e minha esposa resolvemos aderir a essa vida nômade com um projeto que estamos chamando de Mini vidas. <a href="http://kadavy.net/blog/posts/mini-lives/" target="_blank" rel="noopener">Gratidão ao David Kadavy pelo termo!</a>
 
 Uma mini vida é definida por um tempo (algo entre 2 e 4 meses) que passamos morando em um lugar vivendo o dia a dia normalmente como se fosse nosso local definitivo.
-[](http://kadavy.net/blog/posts/mini-lives/)
 
 Para nós o que importa é **pôr sentido**. A cada lugar que vamos queremos entender mais sobre nós absorvendo o que há de melhor no mundo. É um caminho de desenvolvimento pessoal através dos desafios, belezas e culturas diversas que vivenciamos.
 
@@ -26,7 +25,7 @@ Vou contar um pouco mais sobre nossa jornada até o momento.
 
 ## Como o trabalho remoto me possibilitou a ser um nômade digital
 
-Em 2011 eu tomei uma decisão. Não queria trabalhar para ninguém e ter meu próprio negócio. Mesmo que sem saber muito bem para onde ir, eu tinha em mim uma relação muito forte com a vontade de criar meu caminho ao invés de seguir o de outra pessoa.
+Em 2011 eu tomei uma decisão. Não queria trabalhar para ninguém mas sim ter meu próprio negócio. Mesmo que sem saber muito bem para onde ir, eu tinha em mim uma relação muito forte com a vontade de criar meu caminho em vez de seguir o de outra pessoa.
 
 Abri empresas, trabalhei em diversos projetos, falhei diversas vezes, tive muitos aprendizados e, naturalmente, tive que [desenvolver a habilidade de trabalhar em casa](https://www.igluonline.com/7-dicas-de-gerenciamento-de-projetos-para-freelancers/). Uso a palavra 'habilidade' pois envolve organização, força de vontade, muito planejamento e foco para conseguir construir algo.
 
@@ -46,7 +45,7 @@ Na minha opinião o mais importante dessa viagem foi ter validado nossa proposta
 
 ### Mini vida 1 - Floripa
 
-Quase um ano depois de nossa primeira experiência nos casamos e decidimos que ao invés de seguir o caminho tradicional de buscar um lar fixo íamos morar viajando.
+Quase um ano depois de nossa primeira experiência nos casamos e decidimos que em vez de seguir o caminho tradicional de buscar um lar fixo íamos morar viajando.
 
 Na busca por um lugar no Brasil tínhamos alguns pré requisitos:
 
@@ -73,11 +72,17 @@ Lá em cima eu comentei que não importa muito qual é o estilo para ser conside
 Eu ainda não sei definir ou pôr um nome para o jeito que estou lidando com essa vida, mas consigo colocar algumas características que definem a minha vontade e intenção com relação às mini vidas. Minha e da Amanda :)
 
 * Gostamos de alimentos orgânicos e veganos
+
 * Damos preferência a lugares claros, simples, organizados e novos
+
 * A beleza dos arredores é inspiradora, então melhor que seja um lugar bonito
+
 * Não ligamos para luxo, mas ligamos para a falta de conforto
+
 * Preciso de um lugar próximo para correr
+
 * Minimalismo é um constante conceito para guiar escolhas
+
 * Só serve se tiver amor e respeito com as pessoas ao nosso redor
 
 ## O que vem por aí?
@@ -87,4 +92,3 @@ Aqui no blog da Iglu cada vez mais vamos ter informações, guias, aprendizados 
 Se você gostou comente abaixo e aproveite para curtir nossa [página no Facebook ](https://facebook.com/igluonline)para não perder nenhum post :)
 
 Divirta-se!
-
