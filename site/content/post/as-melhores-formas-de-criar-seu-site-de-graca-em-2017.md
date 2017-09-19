@@ -9,9 +9,7 @@ url = "as-melhores-formas-de-criar-seu-site-de-graca-em-2017"
 youtube = ""
 
 +++
-
-
-Algo que sempre nos perguntam aqui na Iglu é quais são as melhores formas de criar [site de gratis](https://pt.wix.com/). Essa é inclusive uma pergunta que aqui também buscamos pela resposta constantemente.
+Algo que sempre nos perguntam aqui na Iglu é quais são as melhores formas de [criar site gratis](https://pt.wix.com/). Essa é inclusive uma pergunta que aqui também buscamos pela resposta constantemente.
 
 Algo que descobrimos é que, assim como tudo nessa indústria da web, essa resposta também está em constante mudança. Há alguns anos atrás a melhor forma de se criar um site grátis era usando ferramentas como o Front-page da Microsoft (o usei para fazer meu primeiro site). Hoje alguém ouve falar dessa ferramenta?
 
