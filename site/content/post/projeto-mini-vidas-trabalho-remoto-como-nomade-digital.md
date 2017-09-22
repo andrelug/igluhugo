@@ -11,7 +11,7 @@ youtube = ""
 +++
 
 
-Você já ouviu falar no termo **Nômade Digital**? É um conceito que está bem na moda, e ser um  significa aderir a um lifestyle *on the road* axproveitando, de alguma forma, da liberdade que a internet te proporciona.
+Você já ouviu falar no termo **Nômade Digital**? É um conceito que está bem na moda, e ser um  significa aderir a um lifestyle *on the road* aproveitando, de alguma forma, da liberdade que a internet te proporciona.
 
 Tem nômades digitais minimalistas, hippies, luxuosos, que buscam algo ou que simplesmente não querem ficar no mesmo lugar por muito tempo. Não existe bem uma regra. **O que importa é a liberdade!**
 
