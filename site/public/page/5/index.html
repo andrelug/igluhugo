@@ -97,12 +97,12 @@
         var head            = document.getElementsByTagName('head')[0];
         var script          = document.createElement('script');
         script.type         = 'text/javascript';
-        script.src          = 'https://13.92.177.75/media/js/mautic-form.js';
+        script.src          = 'http://13.92.177.75/media/js/mautic-form.js';
         script.onload       = function() {
             MauticSDK.onLoad();
         };
         head.appendChild(script);
-        var MauticDomain = 'https://13.92.177.75';
+        var MauticDomain = 'http://13.92.177.75';
         var MauticLang   = {
             'submittingMessage': "Agradecemos! :)"
         }
@@ -1063,7 +1063,7 @@ Parte da razão por trás de tanta confusão com os designers de UX (User Experi
 		
 
 
-		
+
 		navigator.serviceWorker.getRegistrations().then(function (registrations) {
 				for (let registration of registrations) {
 					registration.unregister()
@@ -1075,7 +1075,6 @@ Parte da razão por trás de tanta confusão com os designers de UX (User Experi
     }
 	</script>
 
-<script type="text/javascript" src="//s.skimresources.com/js/112388X1570846.skimlinks.js"></script>
 </body>
 </html>
 
