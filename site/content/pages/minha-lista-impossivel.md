@@ -8,11 +8,13 @@ tags:
 - objetivos de vida
 - thomas frank
 - impossible list
-title: Minha Lista Impossível
+title: Nossa Lista Impossível
 type: page
 
 ---
-Muito mais do que uma simples lista de coisas que eu gostaria de fazer nessa vida, a “Lista Impossível” (Impossible List) é um [tipo de lista criado pelo Joel Runyon](https://impossiblehq.com/impossible-list/) (apesar de que a conheci por meio desse outro cara: [Thomas Frank](https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/)). A lista impossível é um desafio contendo todas aquelas coisas que eu já pensei que poderiam ser impossíveis pra mim em algum momento. Como o Joel mesmo fala elas são “aqueles tipo de coisas que você acha que só as pessoas legais na TV tem a chance de fazer”.
+
+
+Muito mais do que uma simples lista de coisas que nós gostaríamos de fazer nessa vida, a “Lista Impossível” (Impossible List) é um [tipo de lista criado pelo Joel Runyon](https://impossiblehq.com/impossible-list/) (apesar de que a conheci por meio desse outro cara: [Thomas Frank](https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/)). A lista impossível é um desafio contendo todas aquelas coisas que eu já pensei que poderiam ser impossíveis pra mim em algum momento. Como o Joel mesmo fala elas são “aqueles tipo de coisas que você acha que só as pessoas legais na TV tem a chance de fazer”.
 
 Esse tipo de lista aqui tem como objetivo trazer resultados e orientar nossas ações e hábitos. É muito mais do que aquela lista que você até já esqueceu que existe em um arquivo de texto naquele backup de 2006.
 
@@ -188,7 +190,7 @@ Essas então são nossas listas impossíveis!
 <li><p>Lançar o projeto Veg</p></li>
 <li><p>Meditar 10 minutos por dia durante 30 dias</p></li>
 </ul>  
-<h2 id="fitnesssade">Fitness / Saúde</h2></li>
+<h2 id="fitnesssade">Fitness / Saúde</h2>
 <ul>
 <li><p>Correr 5K</p></li>
 </ul>
