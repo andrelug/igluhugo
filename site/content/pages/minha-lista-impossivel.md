@@ -18,8 +18,18 @@ Esse tipo de lista aqui tem como objetivo trazer resultados e orientar nossas a�
 
 Como toda lista de objetivos que se preze, essa aqui também irá evoluir a partir do momento que eu descobrir que posso fazer ainda mais.
 
-Essa então é a minha lista impossível!
+Essas então são nossas listas impossíveis!
 
+
+
+<div class="bsc-tabs tabs-horizontal">
+  <ul class="nav nav-tabs" role="tablist">
+    <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#tab-59c1f5bacc878" aria-expanded="false">André</a></li>
+    <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#tab-59c1f5bacc8b8" aria-expanded="true">Amanda</a></li>
+  </ul>
+  <div class="tab-content">
+    <div id="tab-59c1f5bacc878" class="tab-pane fade" role="tabpanel" aria-expanded="false">
+      
 ## Focos atuais
 
 *   Correr uma Meia Maratona
@@ -49,7 +59,7 @@ Essa então é a minha lista impossível!
 
 ## Profissionais
 
-*   <del>Conseguir 100.000 visitas totais em um dos meus sites</del> (17 de Novembro, 2015 – Gueime)
+*   <del>Conseguir 100.000 visitas totais em um dos meus sites</del> (17 de Novembro, 2015 – Gueime)
     *   1.000.000 de visitas totais
 *   Ter 1.000 inscritos na lista de e-mails
 *   Escrever 25.000 palavras em um mês
@@ -122,7 +132,7 @@ Essa então é a minha lista impossível!
 
 ## Games
 
-*   <del>Rank Platinum em Overwatch</del>
+*   <del>Rank Platinum em Overwatch</del>
     *   Diamond
 *   Rank 14 em Hearthstone
 
@@ -140,7 +150,7 @@ Essa então é a minha lista impossível!
 *   Visitar Curitiba
 *   Visitar Salvador
 *   Visitar mais de 10 países
-*   <del>Fazer uma mini-vida em outro país</del> (Outubro, 2016 – Chicado, EUA)
+*   <del>Fazer uma mini-vida</del> (Outubro, 2016 – Chicado, EUA)
     *   <del>Segunda mini vida</del> (Em execução em Florianópolis - BR)
 
 ## Vida
@@ -150,3 +160,81 @@ Essa então é a minha lista impossível!
 *   Adotar um Shiba Inu
 *   Ir ao espaço
 *   Voluntariar em uma ação internacional
+      <br></div>
+    <div id="tab-59c1f5bacc8b8" class="tab-pane fade active show" role="tabpanel" aria-expanded="true">
+    
+   ## Focos atuais
+      
+   *   Fluência no Inglês
+   *   Lançar o projeto Veg
+   *   Meditar 10 minutos por dia durante 30 dias
+      
+   ## Fitness / Saúde
+      
+   *   Correr 5K
+      
+   ## Profissionais
+      
+   *   Lançar o projeto Veg
+   *   Fazer a Iglu ter 20K visualizações por mês
+   *   Escrever pelo menos 1 artigo por mês na Iglu
+   *   Investir em um projeto de outra pessoa
+      
+   ## Hábitos
+      
+   *   Meditar 10 minutos por dia durante 30 dias
+   *   Estudar Inglês por pelo menos 20 minutos todos os dias durante 33 dias consecutivos
+   *   Fazer exercício físico todos os dias durante 30 dias
+      
+   ## Criativos
+      
+   *   Aprender a cantar
+   *   Compor uma música de verdade (não de zoeira rsrs)
+   *   Aprender dança de salão
+   *   Aprender dança de rua
+      
+   ## Habilidades
+      
+   *   Fluência no Inglês
+   *   Fluência no Espanhol
+   *   Aprender Francês
+   *   Aprender Arabe
+   *   Aprender técnicas de corte na cozinha
+      
+   ## Divertidos ou Insanos
+      
+   *   Pular de paraquedas
+   *   Voar de parapente
+   *   Ir numa praia de nudismo
+   *   Fazer uma tatuagem
+   *   Correr uma maratona
+   *   Ver uma Aurora Boreal
+   *   Ler 10 livros em 1 ano
+      
+   ## Viagens
+      
+   *   Fazer uma viagem de volta ao mundo
+   *   Visitar Londres
+   *   Visitar Barcelona
+   *   Visitar Verona
+   *   Visitar Nova Iorque
+   *   Visitar Paris
+   *   Visitar a Disney
+   *   Visitar a Tailândia
+   *   Visitar o Canadá
+   *   Visitar a Grécia
+   *   Visitar mais de 7 países
+   *   Fazer uma viagem com toda a família Buscapé para a praia
+   *   Passar 1 ano vivendo nômade
+   *   Fazer uma mini-vida no Canada
+   *   Fazer uma mini-vida na Tailândia
+      
+   ## Vida
+      
+   *   Financiar os estudos de parentes
+   *   Conseguir plantar minha própria comida
+   *   Realizar um trabalho voluntário na África
+
+   <br></div>
+  </div>
+</div>
