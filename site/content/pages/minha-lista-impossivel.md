@@ -26,7 +26,7 @@ Essas então são nossas listas impossíveis!
     <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#tab-59c1f5bacc8b8" aria-expanded="true">Amanda</a></li>
   </ul>
   <div class="tab-content">
-    <div id="tab-59c1f5bacc878" class="tab-pane fade" role="tabpanel" aria-expanded="false">
+    <div id="tab-59c1f5bacc878" class="tab-pane fade active show" role="tabpanel" aria-expanded="false">
 <h2 id="focosatuais">Focos atuais</h2>
 <ul>
 <li>Correr uma Meia Maratona</li>
@@ -181,7 +181,7 @@ Essas então são nossas listas impossíveis!
 <li>Voluntariar em uma ação internacional</li>
 </ul>
 <p><br></p></div><p></p>
- <div id="tab-59c1f5bacc8b8" class="tab-pane fade active show" role="tabpanel" aria-expanded="true">
+ <div id="tab-59c1f5bacc8b8" class="tab-pane fade" role="tabpanel" aria-expanded="true">
 <h2 id="focosatuais">Focos atuais</h2>
 <ul>
 <li><p>Fluência no Inglês</p></li>
@@ -247,6 +247,7 @@ Essas então são nossas listas impossíveis!
 <li><p>Passar 1 ano vivendo nômade</p></li>
 <li><p>Fazer uma mini-vida no Canada</p></li>
 <li><p>Fazer uma mini-vida na Tailândia</p></li>
+  </ul>
       <h2 id="vida">Vida</h2>
       <ul>
 <li><p>Financiar os estudos de parentes</p></li>
