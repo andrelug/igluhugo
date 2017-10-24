@@ -1,33 +1,32 @@
 ---
 title: Como escolher o melhor template ou tema para WordPress
 author: André Lucas
-type: post
-date: 2017-02-21T21:43:43+00:00
-url: /como-escolher-o-melhor-template-ou-tema-para-wordpress/
+date: 2017-02-21 21:43:43 +0000
+url: "/como-escolher-o-melhor-template-ou-tema-para-wordpress/"
 featured_image: uploads/2017/02/iglu_wordpress2
 featured_image_extension: jpg
 mvp_post_template:
-  - def
+- def
 mvp_featured_image:
-  - show
+- show
 instant_articles_submission_id:
-  - 268727630255091
+- 268727630255091
 post_views_count:
-  - 497
+- 497
 categories:
-  - WordPress
+- WordPress
 tags:
-  - como escolher template
-  - melhores temas de wordpress
-  - melhores templates wordpress
-  - templates
-  - templates premium wordpress
-  - wordpress
+- como escolher template
+- melhores temas de wordpress
+- melhores templates wordpress
+- templates
+- templates premium wordpress
+- wordpress
 
 ---
 Podemos hoje criar um site do zero ou partir de um template ou tema no WordPress para avançar com mais rapidez e objetividade. Os templates do WordPress fazem com que o processo de criação de um blog, site corporativo ou e-commerce seja muito mais rápido e menos custoso.
 
-De um lado podemos perder em um design totalmente customizado e direcionado para o projeto, mas por outro não há necessidade da contratação de um time de desenvolvimento e design. Se optar um template ou tema um site pode sair por menos de 1/4 do valor de um com design e programação customizada &#8211; mesmo que ambos utilizando a plataforma WordPress.
+De um lado podemos perder em um design totalmente customizado e direcionado para o projeto, mas por outro não há necessidade da contratação de um time de desenvolvimento e design. Se optar um template ou tema um site pode sair por menos de 1/4 do valor de um com design e programação customizada – mesmo que ambos utilizando a plataforma WordPress.
 
 Aqui nesse artigo vou falar sobre o processo de escolha do seu template WordPress. Seja para você mesmo criar seu site ou para utilizar na criação de um site para um cliente, as dicas aqui vão ser interessantes para que o resultado final seja o melhor possível.
 
@@ -47,11 +46,11 @@ Logo de cara vou dar a principal dica desse artigo pois se você não quiser ler
 
 #### **Não se iluda com as demonstrações dos templates.**
 
-Todo template premium acompanha um site demonstrativo para você ver como ele aparenta &#8216;na vida real&#8217;. Contudo, essas demonstrações foram feitas com imagens, cores e fontes que se encaixam perfeitamente e passam uma experiência consistente e muito agradável. Contudo, quando você for fazer seu site provavelmente ele não utilizará todas aquelas imagens, tamanhos de textos, cores e, algumas vezes, fontes.
+Todo template premium acompanha um site demonstrativo para você ver como ele aparenta ‘na vida real’. Contudo, essas demonstrações foram feitas com imagens, cores e fontes que se encaixam perfeitamente e passam uma experiência consistente e muito agradável. Contudo, quando você for fazer seu site provavelmente ele não utilizará todas aquelas imagens, tamanhos de textos, cores e, algumas vezes, fontes.
 
 Eu já cometi o erro de comprar um template porque era muito bonito e no momento que fui adicionar o meu conteúdo ele não funcionou bem. **O que você deve olhar em um template em primeiro lugar é sua estrutura e como os seus elementos conversam**. Abstraia das imagens e tente imaginar como ele ficaria com as cores do seu projeto ou empresa.
 
-<img class=" wp-image-527 aligncenter" src="/images/uploads/2017/02/Screenshot_1-1.jpg" alt="" width="1052" height="557" srcset="/images/uploads/2017/02/Screenshot_1-1.jpg 1422w, /images/uploads/2017/02/Screenshot_1-1-300x159.jpg 300w, /images/uploads/2017/02/Screenshot_1-1-768x407.jpg 768w, /images/uploads/2017/02/Screenshot_1-1-1024x542.jpg 1024w" sizes="(max-width: 1052px) 100vw, 1052px" />
+<img class=" wp-image-527 aligncenter" src="/images/uploads/2017/02/Screenshot_1-1.jpg" alt="" srcset="/images/uploads/2017/02/Screenshot_1-1.jpg 1422w, /images/uploads/2017/02/Screenshot_1-1-300x159.jpg 300w, /images/uploads/2017/02/Screenshot_1-1-768x407.jpg 768w, /images/uploads/2017/02/Screenshot_1-1-1024x542.jpg 1024w" sizes="(max-width: 1052px) 100vw, 1052px" width="1052" height="557">
 
 ## Design Moderno e Agradável
 
@@ -65,7 +64,7 @@ A maior parte dos templates vem com opções de cores ilimitadas e ferramentas p
 
 Não olhe apenas na página principal. Olhe todas as páginas da demonstração. Por exemplo, se você está criando um site de portfólio, então confira a página de demonstração do portfólio do template. Se você for adicionar depoimentos, procure algum lugar na demonstração do template como que os depoimentos estão.
 
-Um template que possua várias páginas diferentes deve ter preferência pois você já consegue imaginar como o seu conteúdo aparecerá nele. **Então procure averiguar se todas as páginas &#8211; início, blog, portfólio, contato, sobre, etc &#8211; estão consistentes com a &#8220;vibe&#8221; que deseja no website**.
+Um template que possua várias páginas diferentes deve ter preferência pois você já consegue imaginar como o seu conteúdo aparecerá nele. **Então procure averiguar se todas as páginas – início, blog, portfólio, contato, sobre, etc – estão consistentes com a “vibe” que deseja no website**.
 
 ## Funcionalidades X Apresentação
 
@@ -77,7 +76,7 @@ Isso nem sempre é visto como algo tão bom pois se você quiser trocar o visual
 
 Agora, em outros momentos esse tipo de funcionalidade pode ser interessante. Quando os templates oferecem funcionalidades importantes para determinados nichos, podem representar um investimento muito adequado. Por exemplo, temas para hotéis podem vir funcionalidades de criação de tipos de quartos e agendamento nesses quartos sem a necessidade de um plugin externo. Só é preciso ficar atento pois se um dia quiser trocar perderá também essa ferramenta.
 
-<img class=" wp-image-526 aligncenter" src="/images/uploads/2017/02/pexels-photo-265667.jpeg" alt="" width="1037" height="669" srcset="/images/uploads/2017/02/pexels-photo-265667.jpeg 1280w, /images/uploads/2017/02/pexels-photo-265667-300x194.jpeg 300w, /images/uploads/2017/02/pexels-photo-265667-768x496.jpeg 768w, /images/uploads/2017/02/pexels-photo-265667-1024x661.jpeg 1024w" sizes="(max-width: 1037px) 100vw, 1037px" />
+<img class=" wp-image-526 aligncenter" src="/images/uploads/2017/02/pexels-photo-265667.jpeg" alt="" srcset="/images/uploads/2017/02/pexels-photo-265667.jpeg 1280w, /images/uploads/2017/02/pexels-photo-265667-300x194.jpeg 300w, /images/uploads/2017/02/pexels-photo-265667-768x496.jpeg 768w, /images/uploads/2017/02/pexels-photo-265667-1024x661.jpeg 1024w" sizes="(max-width: 1037px) 100vw, 1037px" width="1037" height="669">
 
 ## Segurança e Performance
 
@@ -87,11 +86,15 @@ Assim como mencionei anteriormente, o ambiente de desenvolvimento de templates �
 
 Uma vez que você pode não saber como determinar se algum template segue as melhores práticas, vou citar aqui algumas fontes de templates e temas premium que confio. Esses provavelmente não deixarão a desejar em segurança e velocidade.
 
-  * <a href="https://themeforest.net/?ref=andrelug" target="_blank">Themeforest</a>
-  * <a href="https://themify.me/member/aff/go/andrelug" target="_blank">Themify</a>
-  * <a href="http://www.shareasale.com/r.cfm?B=281077&U=1467937&M=28169&urllink=" target="_blank">StudioPress</a>
-  * <a href="http://www.elegantthemes.com/affiliates/idevaffiliate.php?id=40401" target="_blank">Elegant Themes</a>
-  * <a href="https://www.wpbeaverbuilder.com/?fla=1250" target="_blank">Beaver Builder</a>
+* <a href="https://themeforest.net/?ref=andrelug" target="_blank">Themeforest</a>
+
+* <a href="https://themify.me/member/aff/go/andrelug" target="_blank">Themify</a>
+
+* <a href="http://www.shareasale.com/r.cfm?B=281077&amp;U=1467937&amp;M=28169&amp;urllink=" target="_blank">StudioPress</a>
+
+* <a href="http://www.elegantthemes.com/affiliates/idevaffiliate.php?id=40401" target="_blank">Elegant Themes</a>
+
+* <a href="https://www.wpbeaverbuilder.com/?fla=1250" target="_blank">Beaver Builder</a>
 
 Além disso, é muito importante buscar por avaliações antes de comprar um template. Veja quem mais está utilizando temas criados por esse desenvolvedor escolhido. Muitas vezes nos próprios sites existem áreas de comentários em que os clientes que já compraram deixam suas avaliações. Ou então procure no Google mesmo que grande parte terão avaliações e reviews em vários websites.
 
@@ -101,15 +104,19 @@ Vale lembrar que a maior parte desses sites são em Inglês, mas mesmo as empres
 
 Antes de você começar a buscar por um template premium, uma boa ideia é parar por um momento e escrever todas as funcionalidades e recursos que você precisa.
 
-  * Suporte a e-commerce?
-  * Suporte a fóruns como bbPress ou BuddyPress
-  * Suporte a algum plugin que gosta ou já utiliza
-  * Google Maps
-  * Google Fontes
+* Suporte a e-commerce?
+
+* Suporte a fóruns como bbPress ou BuddyPress
+
+* Suporte a algum plugin que gosta ou já utiliza
+
+* Google Maps
+
+* Google Fontes
 
 **E o mais importante**
 
-  * **Suporte para traduções!**
+* **Suporte para traduções!**
 
 Uma grande parte dos templates atuais já possui suporte a plugins populares de e-commerce como o WooCommerce e acesso aos arquivos de tradução **.po .mo**.
 
@@ -119,16 +126,12 @@ Em caso do template que você deseja não ter alguma funcionalidade específica 
 
 ## E depois de comprar?
 
-Um bom template ou tema de WordPress premium ajudará bastante na criação de um site de alta qualidade. Mas ainda há muitas coisas que se pode fazer para deixá-lo ainda melhor.
+Um bom template ou tema de WordPress premium ajudará bastante na criação de um site de alta qualidade. Mas ainda há muitas coisas que se pode fazer para deixá-lo ainda melhor. Em especial, escolher <a href="https://www.hostinger.com.br" target="_blank" rel="noopener">uma boa hospedagem</a> fará toda a diferença na performance e velocidade do seu site.
 
 Aqui no blog da Iglu estamos começando com nossa série de artigos sobre WordPress então aproveite para deixar um comentário com alguma dúvida que tiver e toda semana temos conteúdos novos para ajudar.
 
 Espero que esse artigo tenha contribuído para a sua decisão na hora de escolher o seu template para WordPress.
 
-&nbsp;
-
-Se você gostou então aproveite para se inscrever em nosso <a href="https://www.youtube.com/channel/UCybl6LOBsIJ6R5dXUdbmmXA" target="_blank">canal no YouTube</a> para mais tutoriais como esse. Também estamos ativos no <a href="https://www.facebook.com/igluonline" target="_blank">Facebook</a> e no [Google +][1]!
+Se você gostou então aproveite para se inscrever em nosso <a href="https://www.youtube.com/channel/UCybl6LOBsIJ6R5dXUdbmmXA" target="_blank">canal no YouTube</a> para mais tutoriais como esse. Também estamos ativos no <a href="https://www.facebook.com/igluonline" target="_blank">Facebook</a> e no [Google +](http://plus.google.com/u/0/collection/0TVuZ)!
 
 Divirta-se!
-
- [1]: http://plus.google.com/u/0/collection/0TVuZ
