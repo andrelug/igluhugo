@@ -1,5 +1,6 @@
 ---
 pages:
+- post/por-que-troquei-o-wordpress-pelo-gerador-de-websites-estaticos-hugo.md
 - post/a-diferenca-entre-indie-e-aaa.md
 - post/os-10-piores-tipos-de-conquistas/trofeus.md
 - post/o-bullying-virtual-huehue.md
@@ -23,7 +24,6 @@ pages:
 - post/7-dicas-de-gerenciamento-de-projetos-para-freelancers.md
 - post/as-melhores-fontes-gratuitas-de-maio-2017.md
 - post/introducao-ao-sass-um-guia-para-iniciantes.md
-- post/por-que-troquei-o-wordpress-pelo-gerador-de-websites-estaticos-hugo.md
 - post/o-caminho-do-desenvolvedor-web-2017.md
 - post/6-documentarios-sobre-design.md
 hide_body: false

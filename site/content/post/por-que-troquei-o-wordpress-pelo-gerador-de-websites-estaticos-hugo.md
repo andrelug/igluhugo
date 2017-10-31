@@ -17,7 +17,7 @@ Mesmo que em alguns pontos minhas considerações são parecidas com as explicad
 
 ## Por que mudar?
 
-Sempre fui fã do WordPress e ainda adoro a plataforma. Utilizo ele não só para grande parte dos meus clientes quanto para muitos projetos pessoais. Contudo, recente comecei a ter que pagar pelo excesso de recursos computacionais uma vez que o blog da Iglu está aumentando a cada semana o número de visitas.
+Sempre fui fã do WordPress e ainda adoro a plataforma. Utilizo ele não só para grande parte dos meus clientes quanto para muitos projetos pessoais. Contudo, recentemente comecei a ter que pagar pelo excesso de recursos computacionais uma vez que o blog da Iglu está aumentando a cada semana o número de visitas.
 
 Além disso algo que me incomoda tremendamente no WordPress é sua velocidade.  Por mais que você otimize as imagens, configure bem seu servidor, reduza o número de plugins, utilize um sistema de cache, minifique e junte os arquivos de JS e CSS, utilize um CDN e faça outras dezenas de configurações menores, ele ainda não é rápido o suficiente.
 
