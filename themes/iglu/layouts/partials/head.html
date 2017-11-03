@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="pt-br" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+	<head>
+		<meta name="generator" content="Hugo 0.20.6">
+		<meta name="google-site-verification" content="yrpnyP410syvNRJXAoliO2yy9hPkQKLN2g7V7JE4Ubs" />
+		<meta name="p:domain_verify" content="12fdb4eafc0fc6fe7c4689bd659edd5b"/>
+		<meta name="verification" content="b56e2eb3e441cc69250129d688be5076" />
+		<meta name="flattr:id" content="nj7znr">
+		<!-- TradeDoubler site verification 2992314 -->
+
+		<meta charset="UTF-8">
+		<meta name="theme-color" content="#3590ad">
+		<link rel="manifest" href="/manifest.json">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1">
+		<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}</title>
+		<link rel="icon" href="/images/favicon.png">
+	    <base href="{{ .Site.BaseURL }}">
+
+		{{ with .Site.Params.name }}<meta name="author" content="{{ . }}">{{ end }}
+		{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+		{{ with .Site.LanguageCode }}<meta http-equiv="content-language" content="{{ . }}" />{{ end }}
+
+
+		<link rel="canonical" href="{{ .Permalink }}">
+		{{ if .RSSLink }}
+		<link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}">
+	    <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}">
+	    {{ end }}
+
+		<!-- Facebook -->
+	    <meta property="og:url" content="{{ .Permalink }}">
+	    {{if not .IsHome}}<meta property="og:type" content="article">{{end}}
+	    <meta property="og:title" content="{{ .Title}}">
+	    <meta property="og:description" content="{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{ .Param "excerpt" }}{{ end }}" name="description">
+	    <meta property="og:image" content="{{ .Site.BaseURL }}/{{ if .Param "hugo_image"}}{{ .Param "hugo_image"}}{{else}}images/{{.Param "featured_image" }}.{{ .Param "featured_image_extension" }}{{end}}">
+		<meta property="og:locale" content="pt_BR">
+		<meta property="og:site_name" content="Iglu">
+
+	    <meta property="fb:app_id" content="253873004991221">
+		<meta property="fb:pages" content="663101680495099">
+
+		<meta property="article:publisher" content="https://www.facebook.com/igluonline">
+		<meta property="article:author" content="https://www.facebook.com/igluonline/">
+		{{if .IsPage}}
+			<meta property="article:published_time" content="{{ .Date }}" />
+		{{ end }}
+		<meta property="article:modified_time" content="{{ .Lastmod }}" />
+		<meta property="article:section" content="{{ .Section }}" />
+		{{ with .Params.tags }}{{ range first 6 . }}
+			<meta property="article:tag" content="{{ . }}" />
+		{{ end }}{{ end }}
+
+		<!-- Twitter -->
+	    <meta name="twitter:card" content="summary">
+	    <meta name="twitter:site" content="@andrelug_">
+	    <meta name="twitter:title" content="{{.Title}}">
+	    <meta name="twitter:description" content="{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{ .Param "excerpt" }}{{ end }}">
+	    <meta name="twitter:image" content="{{ .Site.BaseURL }}/{{ if .Param "hugo_image"}}{{ .Param "hugo_image"}}{{else}}images/{{.Param "featured_image" }}.{{ .Param "featured_image_extension" }}{{end}}">
+
+		<!-- Styles -->
+		<link rel="stylesheet" href="css/mini.css" type="text/css" media="all">
+		<link rel="stylesheet"  href="https://fonts.googleapis.com/css?family=Lato%3Aregular%7CMontserrat%3A500%2C600%2C700%2Cregular&amp;subset=latin-ext" type="text/css" media="all">
+
+		<!-- Home -->
+		{{if .IsHome}}
+	    <script type='application/ld+json'>
+	      {
+	        "@context": "http://www.schema.org",
+	        "@type": "WebSite",
+	        "name": "{{.Site.Params.siteName}}",
+	        "alternateName": "{{ .Site.Title }}",
+	        "url": "{{ .Site.BaseURL}}",
+	        "description": "Artigos e notíficas sobre desenvolvimento web e design.",
+	        "publisher": "Iglu",
+	        "potentialAction": {
+	          "@type": "SearchAction",
+	          "target": "https://duckduckgo.com/?sites=igluonline.com.br&q={search_term}&kl=br-pt&kz=1&ky=e&k8=g&k1=-1&kj=w&x=0&y=0&ia=web",
+	          "query-input": "required name=search_term" }
+	        }
+	    </script>
+	    {{end}}
+
+		<!-- Single -->
+		{{if not .IsHome}}
+	    <script type="application/ld+json">
+	      { "@context": "http://schema.org",
+	        "@type": "Article",
+	        "headline": "{{.Title}}",
+	        "author": "{{ .Param "author" }}",
+	        "image": "{{ .Site.BaseURL }}/{{ if .Param "hugo_image"}}{{ .Param "hugo_image"}}{{else}}images/{{.Param "featured_image" }}.{{ .Param "featured_image_extension" }}{{end}}",
+	        "publisher": {
+	          "@type" : "Organization",
+	          "name":"{{.Site.Params.siteName}}",
+	          "logo":"https://www.igluonline.com.br/images/logo_iglu.png"
+	          },
+	        "url": "{{ .Permalink }}",
+	        "keywords": "{{.Params.tags}}",
+	        "datePublished": "{{.Params.date}}",
+	        "dateCreated": "{{.Params.date}}",
+	        "dateModified": "{{.Lastmod}}",
+	        "description": "{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{ .Param "excerpt" }}{{ end }}"
+	      }
+	    </script>
+
+	    {{ end }}
+
+		<script type="text/javascript">
+		function submited(){
+			setTimeout(function(){
+				window.location.href = "https://www.igluonline.com/obrigado-por-se-cadastrar/";
+			}, 1000);
+		}
+	</script>
+
+<script type="text/javascript">
+
+    /** This section is only needed once per page if manually copying **/
+    if (typeof MauticSDKLoaded == 'undefined') {
+        var MauticSDKLoaded = true;
+        var head            = document.getElementsByTagName('head')[0];
+        var script          = document.createElement('script');
+        script.type         = 'text/javascript';
+        script.src          = 'http://13.92.177.75/media/js/mautic-form.js';
+        script.onload       = function() {
+            MauticSDK.onLoad();
+        };
+        head.appendChild(script);
+        var MauticDomain = 'http://13.92.177.75';
+        var MauticLang   = {
+            'submittingMessage': "Agradecemos! :)"
+        }
+    }
+</script>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-79244441-3', {'siteSpeedSampleRate': 100});
+ga('require', 'displayfeatures');
+ga('send', 'pageview');
+
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-2532350215540740",
+    enable_page_level_ads: true
+  });
+</script>
+
+
+	</head>

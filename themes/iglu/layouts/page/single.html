@@ -1,0 +1,156 @@
+{{ partial "head" . }}
+{{ partial "header" . }}
+
+<div class="site-content">
+  <div class="container">
+    <div class="page-content">
+      <div class="main">
+
+		  <article class="post type-post status-publish format-standard has-post-thumbnail hentry category-style tag-ideas tag-indie tag-long-read tag-lookbooks tag-originals tag-sweatshirts tag-video" style="transform: none;">
+		  {{ if .Param "featured_image"}}
+
+			  <div class="page-header page-header-bg overlay overlay-ratio overlay-ratio-horizontal parallax" style="background-image: url({{if .Param "hugo_image"}}{{ .Param "hugo_image"}}{{else}}images/{{ .Param "featured_image" }}.{{ .Param "featured_image_extension" }}{{end}})">
+
+
+				<div class="overlay-container">
+				  <div class="container">
+					<div class="overlay-content">
+					  <ul class="post-categories">
+						  <li>
+							  {{ range .Params.categories }}
+							  <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" rel="category tag">{{ . }}</a>
+							  {{ end }}
+
+						  </li>
+					  </ul>                      <h1 class="entry-title">{{ .Title }}</h1>
+					 <!-- <ul class="post-meta">      <li class="meta-date">
+			  <time class="entry-date published updated" datetime="{{ .Date.Format "02/01/2006" }}">
+			  {{ .Date.Format "02/01/2006" }}        </time>
+			  </li>
+
+			  <li class="meta-views">
+						12.1K         views      </li>
+			  <li class="meta-reading-time">
+				2        <span> minute read</span>      </li>
+			  </ul>           -->         </div>
+				  </div>
+				</div>
+
+			  </div>
+
+		  {{ else }}
+		  <div class="page-header page-header-standard">
+					  <ul class="post-categories">
+		  <li>
+			  {{ range .Params.categories }}
+			  <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" rel="category tag">{{ . }}</a>
+			  {{ end }}
+		  </li>
+		  </ul>                <h1>{{ .Title }}</h1>
+				<!--  <ul class="post-meta">      <li class="meta-date">
+			  <time class="entry-date published updated" datetime="{{ .Date.Format "02/01/2006" }}">
+				{{ .Date.Format "02/01/2006" }}        </time>
+			</li>
+
+				<li class="meta-views">
+							  4.8K         views      </li>
+				<li class="meta-reading-time">
+					  2        <span> minute read</span>      </li>
+		  </ul>       -->       </div>
+
+		  {{ end }}
+
+		  <div class="post-wrap">
+
+			  <div class="post-sidebar">
+
+					  <div class="post-share post-share-vertical">
+						  <ul class="share-buttons">
+							  <li>
+								  <a target="_blank" rel="noopener" rel="nofollow" href="http://www.facebook.com/sharer.php?u={{ .RelPermalink }}"><i class="icon icon-facebook"></i></a>
+							  </li>
+							  <li>
+								  <a target="_blank" rel="noopener" rel="nofollow" href="https://twitter.com/share?text=The+Look%3A+Perfect+Balance&amp;url={{ .RelPermalink }}"><i class="icon icon-twitter"></i></a>
+							  </li>
+							  <li>
+								  <a target="_blank" rel="noopener" rel="nofollow" href="https://pinterest.com/pin/create/bookmarklet/?media=http://demo.codesupply.co/authentic/wp-content/uploads/2016/05/authentic-demo-image-085.jpg&amp;url={{ .RelPermalink }}"><i class="icon icon-pinterest"></i>
+								  </a>
+							  </li>
+						  </ul>
+					  </div>
+
+			  </div>
+
+			  <div class="post-content">
+				  <div class="content">
+					  {{ .Content }}
+				  </div>
+			  </div>
+		  </div>
+
+		  {{ if isset .Params "tags" }}
+			  <ul class="post-tags">
+				 {{ $tagsLen := len .Params.tags }}
+				 {{ if gt $tagsLen 0 }}
+					 {{ range $k, $v := .Params.tags }}
+					 <a href="{{ $.Site.BaseURL }}tags/{{ . | urlize | lower }}" rel="tag">{{ . }}</a>
+					 {{ if lt $k (sub $tagsLen 1) }}&middot;{{ end }}
+					 {{ end }}
+				 {{ end }}
+			 </ul>
+		  {{ end }}
+
+		  <div class="post-author author vcard">
+			  <img alt="avatar autor andre lucas" src="images/perfil.jpg" class="avatar avatar-120 photo rounded-circle" height="120" width="120">
+			  <h4 class="fn">
+				  <a href="/author/andre-lucas" title="Artigos do André" rel="author">{{ .Param "author" }}</a>
+			  </h4>
+			  <p>Apaixonado por design e desenvolvimento de websites. De vez em quando gosta de escrever sobre produtividade, como é ser um freelancer e algumas reflexões da vida.</p>
+			  <ul class="list-social list-social-compact post-author-social">
+				  <li class="menu-item">
+		  <a target="_blank" rel="noopener" href="https://www.facebook.com/igluonline/">
+		  <i class="icon icon-facebook"></i>
+				</a>
+		  </li>
+				<li>
+		  <a target="_blank" rel="noopener" href="https://twitter.com/andrelug_">
+		  <i class="icon icon-twitter"></i>
+				</a>
+		  </li>
+				<li>
+		  <a target="_blank" rel="noopener" href="https://www.instagram.com/igluonline/">
+		  <i class="icon icon-instagram"></i>
+				</a>
+		  </li>
+				<li>
+		  <a target="_blank" rel="noopener" href="https://plus.google.com/u/0/collection/0TVuZ">
+		  <i class="icon icon-google-plus"></i>
+				</a>
+		  </li>
+				<li>
+		  <a target="_blank" rel="noopener" href="https://br.pinterest.com/andrelug/">
+		  <i class="icon icon-pinterest"></i>
+				</a>
+		  </li>
+				<li>
+		  <a target="_blank" rel="noopener" href="https://www.linkedin.com/in/andrelug">
+		  <i class="icon icon-linkedin"></i>
+				</a>
+		  </li>
+				<li>
+		  <a target="_blank" rel="noopener" href="https://www.youtube.com/channel/UCybl6LOBsIJ6R5dXUdbmmXA">
+		  <i class="icon icon-youtube"></i>
+				</a>
+		  </li>
+			  </ul>
+		  </div>
+
+		  </article>
+
+      </div>
+      {{ partial "sidebar" . }}
+    </div>
+  </div>
+</div>
+
+{{ partial "footer" . }}

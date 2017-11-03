@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on Iglu: Design, Freelancers, Programação e Marketing Digital</title>
+    <link>https://www.igluonline.com/tags/software/</link>
+    <description>Recent content in Software on Iglu: Design, Freelancers, Programação e Marketing Digital</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 23 Dec 2016 19:52:34 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.igluonline.com/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Yarn Package Manager: Será que é melhor do que NPM?</title>
+      <link>https://www.igluonline.com/yarn-package-manager-sera-que-e-melhor-do-que-npm/</link>
+      <pubDate>Fri, 23 Dec 2016 19:52:34 +0000</pubDate>
+      
+      <guid>https://www.igluonline.com/yarn-package-manager-sera-que-e-melhor-do-que-npm/</guid>
+      <description>Se você programa em NODE.js, provavelmente tem uma relação bem próxima com o gerenciador de pacotes (Package Manager) NPM. Desde o início da criação do NODE o NPM teve um papel central e em alguns casos determinante no sucesso da tecnologia. A facilidade de gerenciar bibliotecas e pedaços de códigos com o NPM fez a comunidade de NODE ser ativa da mesma maneira que as gemas (Gems) no Ruby on Rails.</description>
+    </item>
+    
+  </channel>
+</rss>

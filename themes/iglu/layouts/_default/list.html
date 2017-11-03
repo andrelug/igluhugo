@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+
+		<div class="post-archive">
+
+
+			<div class="post-archive-masonry">
+				<h1 style="text-align: center;margin-bottom: 50px;">{{ .Title}}</h1>
+				<div class="row" style="position: relative; height: 3007px;">
+
+
+				    {{ range .Data.Pages }}
+				        {{ .Render "summarySmall" }}
+				    {{ end }}
+
+				</div>
+			</div>
+
+		</div>
+
+{{ end }}
