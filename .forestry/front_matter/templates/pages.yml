@@ -1,12 +1,12 @@
 ---
 pages:
-- pages/contato.md
-- pages/sobre.md
-- pages/lista-de-leitura.md
-- pages/minha-lista-impossivel.md
-- pages/materiais-para-baixar.md
-- pages/obrigado-por-se-cadastrar.md
 - pages/ferramentas-para-o-sucesso-seu-blog.md
+- pages/obrigado-por-se-cadastrar.md
+- pages/materiais-para-baixar.md
+- pages/minha-lista-impossivel.md
+- pages/lista-de-leitura.md
+- pages/sobre.md
+- pages/contato.md
 hide_body: false
 fields:
 - name: title
