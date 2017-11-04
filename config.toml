@@ -1,4 +1,4 @@
-baseurl = "https://www.igluonline.com/"
+baseurl = "https://www.igluonline.com"
 languageCode = "pt-br"
 paginate = 4
 theme = "iglu"
