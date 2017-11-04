@@ -113,6 +113,12 @@ Quero fechar o artigo mencionando algumas características que você pode buscar
 
 * Autodidata é o melhor jeito
 
+Vou linkar aqui também dois textos que escrevi aqui na Iglu para explorar o assunto:
+
+1. [Como estruturar seu negócio como Freelancer](https://www.igluonline.com/como-estruturar-seu-negocio-como-freelancer/)
+
+2. [Você não devia entrar em um concurso ou competição para ter um cliente](https://www.igluonline.com/voce-nao-devia-entrar-em-um-concurso-ou-competicao-para-ter-um-cliente/)
+
 Trabalhar como freelancer não é fácil, mas é um caminho sensacional para quem ou está já no mercado de trabalho ou ainda não ingressou. Acredito que as relações profissionais serão cada vez menos exploratórias e mais, como o próprio nome diz, livres.
 
 Divirta-se!
