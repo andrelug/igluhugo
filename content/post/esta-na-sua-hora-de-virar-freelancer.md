@@ -2,8 +2,7 @@
 author = "André Lucas"
 categories = ["Lifestyle", "Trabalho"]
 date = "2017-11-04T03:33:37+00:00"
-draft = true
-hugo_image = ""
+hugo_image = "images/uploads/2017/11/04/trabalhar_como_freelancer.jpg"
 tags = ["Freelancer", "Trabalho remoto", "Autônomo"]
 title = "Está na sua hora de trabalhar como freelancer?"
 url = "/esta-na-sua-hora-de-trabalhar-como-freelancer/"
@@ -52,4 +51,68 @@ Mesmo que o fim do funil seja algo egoísta como ter mais oportunidades para voc
 
 **Dica de vida:** Sempre gere valor primeiro. Isto é, se você conhecer alguém busque por algo que a pessoa precisa e que você pode ajudar. Seja uma informação, uma dica/consultoria em algum assunto ou mesmo uma conexão. Se colocar na responsabilidade de ajudar as outras pessoas sempre te colocará numa posição positiva. Duas questões que são interessantes para se ter em mente aqui:
 
-* Você não é o maior expert
+* Você não é expert em nada e evite soar pedante ou arrogante.
+
+* Não espere nada em troca.
+
+## Lidar com finanças ao trabalhar como freelancer
+
+Se você está acostumado(a) a lidar com suas finanças pessoais, sabe que já não é uma tarefa muito simples. Lidar com as pessoais ao mesmo tempo que as do seu negócio é algo realmente difícil.
+
+Querendo ou não nesse momento existe uma diferença enorme na taxa de sucesso entre freelancers que entendem sobre finanças e que não entendem. **Ser freelancer é ter uma empresa e uma empresa má gerenciada financeiramente não vai muito longe.**
+
+A notícia boa é que hoje o conhecimento está a um clique de distância no Google, consultores financeiros freelas existem aos montes e o que não falta são ferramentas para te ajudar a se organizar melhor. Aqui na Iglu, inclusive, [usamos o Harpoon App](https://www.igluonline.com/organizar-as-financas-para-freelancers-ficou-mais-facil-com-harpoon/).
+
+Minha dica aqui é tirar um dia para estudar os seguintes tópicos:
+
+* Fluxo de caixa
+
+* Custo de aquisição de cliente
+
+* Faturamento X lucro
+
+* Divisão entre contas pessoal e jurídica
+
+* Previsto X Realizado
+
+* Valor da sua hora
+
+Naturalmente exsitem mais tópicos importantes, mas esse é um bom começo. Inclusive, se você tem um conhecimento maio nessa área comente aqui no artigo se eu esqueci de algo importante na lista.
+
+![](images/uploads/2017/11/04/trabalhar_como_freelancer_2.jpg)
+
+## Você pode ter quais e quantos clientes quiser
+
+Para muitas pessoas esse ponto é o que mais motiva na transição pra trabalhar como freelancer. Consigo rapidamente relacionar a dois pontos positivos.
+
+1. Você só trabalha com empresas ou pessoas que acreditam nos mesmos propósitos, crenças e valores que você.
+
+2. Não há limite para o tanto que você pode ganhar já que não está limitado a uma só empresa ou a apenas 8h por dia.
+
+Os dois pontos são importantíssimos. Eu mesmo me identifico com ambos e grande parte das decisões profissionais que eu tomei até hoje os levaram em consideração.
+
+Aqui é importante apenas não ter ilusões. Por mais que você pode escolher sempre, muitas vezes você terá que fazer sacrifícios ou mesmo quebrar medos na hora de conseguir clientes ou pagar as contas no final do mês.
+
+Percebo que a cada dia novas soluções aparecem para estreitar o encontro de freelas e oportunidades, então aqui vejo o desafio de conseguir trabalho cada vez menor. Mas ainda assim não vamos achar que é algo simples.
+
+Minha sugestão aqui está relacionada com os dois pontos anteriores. Se você possui um controle financeiro que lhe permita liberdade de escolha e uma rede para te ajudar na busca de oportunidades, provavelmente se dará muito bem em sua jornada profissional.
+
+## Um futuro sensacional
+
+Quero fechar o artigo mencionando algumas características que você pode buscar internamente para entender se é seu momento de virar freela ou não.
+
+* Ama responsabilidade
+
+* Desafios te motivam
+
+* Trabalho e diversão são a mesma coisa
+
+* Ser expert é uma ilusão. O aprendizado constante te define
+
+* Consistência de entrega no seu trabalho é sempre o objetivo
+
+* Autodidata é o melhor jeito
+
+Trabalhar como freelancer não é fácil, mas é um caminho sensacional para quem ou está já no mercado de trabalho ou ainda não ingressou. Acredito que as relações profissionais serão cada vez menos exploratórias e mais, como o próprio nome diz, livres.
+
+Divirta-se!
