@@ -8,27 +8,18 @@ tags:
 - objetivos de vida
 - thomas frank
 - impossible list
-title: Nossa Lista Impossível
+title: Minha Lista Impossível
 type: page
 
 ---
-
-
-Muito mais do que uma simples lista de coisas que nós gostaríamos de fazer nessa vida, a “Lista Impossível” (Impossible List) é um [tipo de lista criado pelo Joel Runyon](https://impossiblehq.com/impossible-list/) (apesar de que a conhecemos por meio desse outro cara: [Thomas Frank](https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/)). A lista impossível é um desafio contendo todas aquelas coisas que eu já pensei que poderiam ser impossíveis pra mim em algum momento. Como o Joel mesmo fala elas são “aqueles tipo de coisas que você acha que só as pessoas legais na TV tem a chance de fazer”.
+Muito mais do que uma simples lista de coisas que eu gostaria de fazer nessa vida, a “Lista Impossível” (Impossible List) é um [tipo de lista criado pelo Joel Runyon](https://impossiblehq.com/impossible-list/) (apesar de que a conhecemos por meio desse outro cara: [Thomas Frank](https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/)). A lista impossível é um desafio contendo todas aquelas coisas que eu já pensei que poderiam ser impossíveis pra mim em algum momento. Como o Joel mesmo fala elas são “aqueles tipo de coisas que você acha que só as pessoas legais na TV tem a chance de fazer”.
 
 Esse tipo de lista aqui tem como objetivo trazer resultados e orientar nossas ações e hábitos. É muito mais do que aquela lista que você até já esqueceu que existe em um arquivo de texto naquele backup de 2006.
 
 Como toda lista de objetivos que se preze, essa aqui também irá evoluir a partir do momento que eu descobrir que posso fazer ainda mais.
 
-Essas então são nossas listas impossíveis!
+Essa então é minha lista impossível!
 
-<div class="bsc-tabs tabs-horizontal">
-  <ul class="nav nav-tabs" role="tablist">
-    <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#tab-59c1f5bacc878" aria-expanded="false">André</a></li>
-    <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#tab-59c1f5bacc8b8" aria-expanded="true">Amanda</a></li>
-  </ul>
-  <div class="tab-content">
-    <div id="tab-59c1f5bacc878" class="tab-pane fade active show" role="tabpanel" aria-expanded="false">
 <h2 id="focosatuais">Focos atuais</h2>
 <ul>
 <li>Correr uma Meia Maratona</li>
@@ -182,80 +173,3 @@ Essas então são nossas listas impossíveis!
 <li>Ir ao espaço</li>
 <li>Voluntariar em uma ação internacional</li>
 </ul>
-<p><br></p></div><p></p>
- <div id="tab-59c1f5bacc8b8" class="tab-pane fade" role="tabpanel" aria-expanded="true">
-<h2 id="focosatuais">Focos atuais</h2>
-<ul>
-<li><p>Fluência no Inglês</p></li>
-<li><p>Lançar o projeto Veg</p></li>
-<li><p>Meditar 10 minutos por dia durante 30 dias</p></li>
-</ul>  
-<h2 id="fitnesssade">Fitness / Saúde</h2>
-<ul>
-<li><p>Correr 5K</p></li>
-</ul>
-<h2 id="profissionais">Profissionais</h2>
-<ul>
-<li><p>Lançar o projeto Veg</p></li>
-<li><p>Fazer a Iglu ter 20K visualizações por mês</p></li>
-<li><p>Escrever pelo menos 1 artigo por mês na Iglu</p></li>
-  <li><p>Investir em um projeto de outra pessoa</p></li>
-  </ul>
-<h2 id="hbitos">Hábitos</h2>
-  <ul>
-<li><p>Meditar 10 minutos por dia durante 30 dias</p></li>
-<li><p>Estudar Inglês por pelo menos 20 minutos todos os dias durante 33 dias consecutivos</p></li>
-    <li><p>Fazer exercício físico todos os dias durante 30 dias</p></li>
-  </ul>
-<h2 id="criativos">Criativos</h2>
-  <ul>
-<li><p>Aprender a cantar</p></li>
-<li><p>Compor uma música de verdade (não de zoeira rsrs)</p></li>
-<li><p>Aprender dança de salão</p></li>
-    <li><p>Aprender dança de rua</p></li>
-  </ul>
-<h2 id="habilidades">Habilidades</h2>
-  <ul>
-<li><p>Fluência no Inglês</p></li>
-<li><p>Fluência no Espanhol</p></li>
-<li><p>Aprender Francês</p></li>
-<li><p>Aprender Arabe</p></li>
-    <li><p>Aprender técnicas de corte na cozinha</p></li>
-  </ul>
-<h2 id="divertidosouinsanos">Divertidos ou Insanos</h2>
-<ul>
-<li><p>Pular de paraquedas</p></li>
-<li><p>Voar de parapente</p></li>
-<li><p>Ir numa praia de nudismo</p></li>
-<li><p>Fazer uma tatuagem</p></li>
-<li><p>Correr uma maratona</p></li>
-<li><p>Ver uma Aurora Boreal</p></li>
-  <li><p>Ler 10 livros em 1 ano</p></li>
-    </ul>
-<h2 id="viagens">Viagens</h2>
-    <ul>
-<li><p>Fazer uma viagem de volta ao mundo</p></li>
-<li><p>Visitar Londres</p></li>
-<li><p>Visitar Barcelona</p></li>
-<li><p>Visitar Verona</p></li>
-<li><p>Visitar Nova Iorque</p></li>
-<li><p>Visitar Paris</p></li>
-<li><p>Visitar a Disney</p></li>
-<li><p>Visitar a Tailândia</p></li>
-<li><p>Visitar o Canadá</p></li>
-<li><p>Visitar a Grécia</p></li>
-<li><p>Visitar mais de 7 países</p></li>
-<li><p>Fazer uma viagem com toda a família Buscapé para a praia</p></li>
-<li><p>Passar 1 ano vivendo nômade</p></li>
-<li><p>Fazer uma mini-vida no Canada</p></li>
-<li><p>Fazer uma mini-vida na Tailândia</p></li>
-  </ul>
-      <h2 id="vida">Vida</h2>
-      <ul>
-<li><p>Financiar os estudos de parentes</p></li>
-<li><p>Conseguir plantar minha própria comida</p></li>
-<li><p>Realizar um trabalho voluntário na África</p></li>
-</ul>
-<br></div>
-  </div>
-</div>
