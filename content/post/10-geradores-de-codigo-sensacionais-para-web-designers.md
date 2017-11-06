@@ -2,9 +2,8 @@
 author = "André Lucas"
 categories = ["Design", "Desenvolvimento Web"]
 date = "2017-11-05T23:11:08+00:00"
-draft = true
 hugo_image = "images/uploads/2017/11/06/gerador_de_codigo_flexbox.jpg"
-tags = ["CSS", "programação"]
+tags = ["CSS", "programação", "jQuery", "JavaScript", "WordPress"]
 title = "8 geradores de código sensacionais para web-designers"
 url = "/8-geradores-de-codigo-sensacionais-para-web-designers/"
 youtube = ""
