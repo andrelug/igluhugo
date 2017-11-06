@@ -11,11 +11,11 @@ youtube = ""
 +++
 Trabalhar como freelancer parece que nunca foi tão legal quanto hoje em dia. E como acredito que essa será uma tendência para os próximos tempos creio que não vou precisar editar essa primeira frase para você que ler esse artigo daqui uns anos.
 
-Acompanho [vários estudos e perspectivas sobre as vantagens de se trabalhar remotamente](https://remote.co/10-stats-about-remote-work/) e o avanço de ferramentas, maior acesso a tecnologias e até preferência de algumas empresas pelo modelo para mim validam que é algo que todo estudante hoje pode considerar para sua vida.
+Acompanho [vários estudos e perspectivas sobre as vantagens de se trabalhar remotamente](https://remote.co/10-stats-about-remote-work/) e, mesmo que nem todo trabalhador autônomo seja remoto, vou direcionar uma parte do texto para quem pode escolher esse estilo de vida. O avanço de ferramentas, maior acesso a tecnologias e até preferência de algumas empresas pelo modelo para mim validam que é algo que todo estudante hoje pode considerar para sua vida.
 
 Mas calma. Mesmo que a propaganda seja boa - acordar e trabalhar na hora que quer, de onde quer e para quem quer - trabalhar como freelancer tem seus desafios complicados. **De alguma forma se você ama responsabilidade, desafios e muito trabalho estará muito bem**, mas se não for seu caso talvez seja interessante entender mais a fundo.
 
-Nesse artigo vou trazer algumas perspectivas sobre o assunto com o objetivo de te ajudar nessa decisão. Eu trabalhei como freelancer por uns bons anos, tenho vários amigos freelas e acho que é o primeiro passo do estilo de trabalho eupreendedor do futuro.
+Nesse artigo vou trazer algumas perspectivas sobre o assunto com o objetivo de te ajudar nessa decisão. Eu trabalhei como freelancer por uns bons anos, tenho vários amigos freelas e acho que é o primeiro passo do estilo de trabalho _eupreendedor_ do futuro.
 
 ## Sua rede é tudo
 
@@ -33,19 +33,19 @@ Na verdade essa é uma lição que serve para qualquer pessoa, mas foi algo que 
 
 * Gerar oportunidades para seus contatos
 
-Uma vez que, como freelancers, podemos escolher nossos clientes, ambientes e pessoas que lidamos, podemos aproveitar as comunidades e grupos que mais se aproximam do que acreditamos. Isso se reflete, por exemplo, em trabalhar em espaços de Coworking que têm a nossa cara ou que as pessoas que queremos conectar estão lá. É sempre interessante buscar também o contato físico e não só digital.
+Uma vez que podemos escolher nossos clientes, ambientes e pessoas que lidamos, podemos aproveitar também as comunidades e grupos que mais se aproximam do que acreditamos. Isso se reflete, por exemplo, em trabalhar em espaços de Coworking que têm a nossa cara ou que as pessoas que queremos conectar estão lá. É sempre interessante buscar também o contato físico e não só digital.
 
 Contudo, se seu nicho é muito específico talvez não seja fácil se relacionar fisicamente com seus grupos. Isso não impede de usar a sua vida online para conhecer pessoas, mas certamente não é tão simples no estabelecimento de confiança.
 
 Imagine sua rede de contatos como um funil:
 
-Quanto mais pessoas conhece
+1. Quanto mais pessoas conhece
 
-    Mais pessoas você pode encantar e ajudar
+2. Mais pessoas você pode encantar e ajudar
 
-        Mais pessoas vão gostar e lembrar de você
+3. Mais pessoas vão gostar e lembrar de você
 
-            Mais oportunidades aparecerão
+4. Mais oportunidades aparecerão
 
 Mesmo que o fim do funil seja algo egoísta como ter mais oportunidades para você, não se esqueça que o meio também importa muito. E nesse meio você ajudou dezenas, centenas ou até milhares de pessoas.
 
@@ -61,7 +61,7 @@ Se você está acostumado(a) a lidar com suas finanças pessoais, sabe que já n
 
 Querendo ou não nesse momento existe uma diferença enorme na taxa de sucesso entre freelancers que entendem sobre finanças e que não entendem. **Ser freelancer é ter uma empresa e uma empresa má gerenciada financeiramente não vai muito longe.**
 
-A notícia boa é que hoje o conhecimento está a um clique de distância no Google, consultores financeiros freelas existem aos montes e o que não falta são ferramentas para te ajudar a se organizar melhor. Aqui na Iglu, inclusive, [usamos o Harpoon App](https://www.igluonline.com/organizar-as-financas-para-freelancers-ficou-mais-facil-com-harpoon/).
+A notícia boa é que hoje o conhecimento está a um clique de distância no Google. Consultores financeiros freelas existem aos montes e o que não falta são ferramentas para te ajudar a se organizar melhor. Aqui na Iglu, inclusive, [usamos o Harpoon App](https://www.igluonline.com/organizar-as-financas-para-freelancers-ficou-mais-facil-com-harpoon/).
 
 Minha dica aqui é tirar um dia para estudar os seguintes tópicos:
 
@@ -77,7 +77,7 @@ Minha dica aqui é tirar um dia para estudar os seguintes tópicos:
 
 * Valor da sua hora
 
-Naturalmente exsitem mais tópicos importantes, mas esse é um bom começo. Inclusive, se você tem um conhecimento maio nessa área comente aqui no artigo se eu esqueci de algo importante na lista.
+Naturalmente existem mais tópicos importantes, mas esse é um bom começo. Inclusive, se você tem um conhecimento maior nessa área comente aqui no artigo se eu esqueci de algo importante na lista.
 
 ![](images/uploads/2017/11/04/trabalhar_como_freelancer_2.jpg)
 
@@ -91,11 +91,11 @@ Para muitas pessoas esse ponto é o que mais motiva na transição pra trabalhar
 
 Os dois pontos são importantíssimos. Eu mesmo me identifico com ambos e grande parte das decisões profissionais que eu tomei até hoje os levaram em consideração.
 
-Aqui é importante apenas não ter ilusões. Por mais que você pode escolher sempre, muitas vezes você terá que fazer sacrifícios ou mesmo quebrar medos na hora de conseguir clientes ou pagar as contas no final do mês.
+Aqui é importante apenas não ter ilusões. Por mais que você sempre tenha a escolha, muitas vezes terá que fazer sacrifícios ou mesmo quebrar medos na hora de conseguir clientes ou pagar as contas no final do mês.
 
-Percebo que a cada dia novas soluções aparecem para estreitar o encontro de freelas e oportunidades, então aqui vejo o desafio de conseguir trabalho cada vez menor. Mas ainda assim não vamos achar que é algo simples.
+Percebo que a cada dia novas soluções aparecem para estreitar o encontro de freelas e oportunidades. Então aqui vejo a questão de conseguir trabalhos como um desafio cada vez menor. Mas ainda assim não vamos achar que é algo simples.
 
-Minha sugestão aqui está relacionada com os dois pontos anteriores. Se você possui um controle financeiro que lhe permita liberdade de escolha e uma rede para te ajudar na busca de oportunidades, provavelmente se dará muito bem em sua jornada profissional.
+Minha sugestão aqui está relacionada com os dois pontos anteriores. Se você possui um controle financeiro que lhe permita liberdade de escolha e uma rede para te ajudar na busca de oportunidades provavelmente se dará muito bem em sua jornada profissional.
 
 ## Um futuro sensacional
 
@@ -112,6 +112,12 @@ Quero fechar o artigo mencionando algumas características que você pode buscar
 * Consistência de entrega no seu trabalho é sempre o objetivo
 
 * Autodidata é o melhor jeito
+
+Vou linkar aqui também dois textos que escrevi aqui na Iglu para explorar o assunto:
+
+1. [Como estruturar seu negócio como Freelancer](https://www.igluonline.com/como-estruturar-seu-negocio-como-freelancer/)
+
+2. [Você não devia entrar em um concurso ou competição para ter um cliente](https://www.igluonline.com/voce-nao-devia-entrar-em-um-concurso-ou-competicao-para-ter-um-cliente/)
 
 Trabalhar como freelancer não é fácil, mas é um caminho sensacional para quem ou está já no mercado de trabalho ou ainda não ingressou. Acredito que as relações profissionais serão cada vez menos exploratórias e mais, como o próprio nome diz, livres.
 
