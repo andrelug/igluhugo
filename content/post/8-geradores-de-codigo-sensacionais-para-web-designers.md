@@ -8,7 +8,6 @@ tags = ["CSS", "programação", "jQuery", "JavaScript", "WordPress"]
 title = "8 geradores de código sensacionais para web-designers"
 url = "/8-geradores-de-codigo-sensacionais-para-web-designers/"
 youtube = ""
-disqus = true
 
 +++
 Geradores de código para muitos Web Designers são vistos como "coisa de web designer nutella". Eu discordo. Eles são sensacionais e nos ajudam de diversas maneiras. Seja para aprender novas técnicas mais difíceis de desenvolvimento ou para automatizar processos que muitas vezes são repetitivos.
