@@ -1,7 +1,8 @@
 +++
 author = "André Lucas"
 categories = ["Games"]
-date = "2017-09-19T17:06:15+00:00"
+date = "2017-09-19T17:06:15Z"
+disqus = true
 hugo_image = "images/uploads/2017/09/19/andrelugark-1.jpg"
 tags = ["ARK: Survival Evolved", "mundo aberto", "ação", "aventura", "Studio Wildcard", "Instinct Games", "sobrevivência", "tutorial", "open world", "dinossauros", "começando"]
 title = "11 Dicas para Começar a Jogar ARK: Survival Evolved"
@@ -9,8 +10,6 @@ url = "/11-dicas-para-comecar-a-jogar-ark-survival-evolved/"
 youtube = ""
 
 +++
-
-
 ARK: Survival Evolved mal chegou na Steam há alguns meses atrás e já está no top 10 dos jogos mais jogados na Steam no momento. Mesmo ainda sendo um Early Release (jogo em fase de desenvolvimento e teste), a complexidade do jogo, seus visuais e jogabilidade já o fazem ser também um dos mais transmitidos no Twitch. É realmente um excelente jogo e nesse artigo vou dar 20 dicas para que sua experiência no game seja ainda melhor!
 
 ## 1 - Comece humilde
