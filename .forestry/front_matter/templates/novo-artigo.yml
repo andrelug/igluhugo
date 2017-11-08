@@ -70,10 +70,9 @@ fields:
   type: tag_list
   hidden: false
   default: ''
-- type: text
+- type: boolean
   name: disqus
   label: Disqus
-  description: Digite True se quiser que seja o disqus
 - name: hugo_image
   type: file
   label: Hugo Image
