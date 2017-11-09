@@ -4,14 +4,14 @@
 	<li>
 		{{ if isset .Params "categories" }}
 			{{ range  .Params.categories }}
-			<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" rel="category tag">{{ . }}</a>
+			<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" rel="category tag" ga-on="click" ga-event-category="Link" ga-event-action="click" ga-event-label="Categoria {{ . }}">{{ . }}</a>
 		    {{ end }}
 		{{ end }}
 
 	</li>
 </ul>
 <h2 class="entry-title">
-	<a href="{{ .Permalink }}">{{ .Title }}</a>
+	<a href="{{ .Permalink }}" ga-on="click" ga-event-category="Feature" ga-event-action="click" ga-event-label="Grid artigo">{{ .Title }}</a>
 </h2>
 <ul class="post-meta">
 	<li class="meta-date">
@@ -27,7 +27,7 @@
 </ul>
 
 <div class="post-more">
-<a href="{{ .Permalink }}" class="btn btn-primary btn-effect">
+<a href="{{ .Permalink }}" class="btn btn-primary btn-effect" ga-on="click" ga-event-category="Feature" ga-event-action="click" ga-event-label="Grid artigo">
 <span>Ler artigo</span>
 		  <span><i class="icon icon-arrow-right"></i></span>
 	  </a>

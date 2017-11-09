@@ -4,11 +4,11 @@
 	{{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
 		{{ $current := .Paginator.PageNumber }}
 		{{ if ge $current 4 }}
-			<a class="prev page-numbers" href="{{.Paginator.First.URL}}">Primeira</a>
+			<a class="prev page-numbers" href="{{.Paginator.First.URL}}" ga-on="click" ga-event-category="Pagination" ga-event-action="Click" ga-event-label="Primeira">Primeira</a>
 		{{ end }}
 
 	    {{ if .Paginator.HasPrev }}
-			<a class="prev page-numbers" href="{{.Paginator.Prev.URL}}">Anterior</a>
+			<a class="prev page-numbers" href="{{.Paginator.Prev.URL}}" ga-on="click" ga-event-category="Pagination" ga-event-action="Click" ga-event-label="Anterior">Anterior</a>
 	    {{ end }}
 
 
@@ -41,11 +41,11 @@
 		{{ end }}
 
 	    {{ if .Paginator.HasNext }}
-			<a class="next page-numbers" href="{{.Paginator.Next.URL}}">Próxima</a>
+			<a class="next page-numbers" href="{{.Paginator.Next.URL}}" ga-on="click" ga-event-category="Pagination" ga-event-action="Click" ga-event-label="Próxima">Próxima</a>
 	    {{ end }}
 		{{ if ge .Paginator.TotalPages 5}}
 			{{ if le $current (sub .Paginator.TotalPages 3) }}
-				<a class="next page-numbers" href="{{.Paginator.Last.URL}}">Última</a>
+				<a class="next page-numbers" href="{{.Paginator.Last.URL}}" ga-on="click" ga-event-category="Pagination" ga-event-action="Click" ga-event-label="Última">Última</a>
 			{{ end }}
 		{{ end }}
 	{{ end }}

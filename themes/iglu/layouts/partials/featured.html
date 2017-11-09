@@ -4,12 +4,12 @@
 <ul class="post-categories">
 	<li>
 		{{ range .Params.categories }}
-		<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" rel="category tag">{{ . }}</a>
+		<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" rel="category tag" ga-on="click" ga-event-category="Link" ga-event-action="click" ga-event-label="Categoria {{ . }}">{{ . }}</a>
 	    {{ end }}
 	</li>
 </ul>
 <h2 class="entry-title">
-	<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+	<a href="{{ .RelPermalink }}" ga-on="click" ga-event-category="Link" ga-event-action="Click" ga-event-label="Featured Article Home">{{ .Title }}</a>
 </h2>
 <ul class="post-meta">
 	<li class="meta-reading-time">
@@ -24,7 +24,7 @@
 </li>
 <li class="meta-author author vcard">
 	<span>por</span>
-	<a class="url fn n" href="{{ "/author/" | relLangURL }}{{ .Param "author" | urlize }}">
+	<a class="url fn n" href="{{ "/author/" | relLangURL }}{{ .Param "author" | urlize }}" ga-on="click" ga-event-category="Link" ga-event-action="Click" ga-event-label="Author">
 		{{ .Param "author" }}
 	</a>
 </li>
@@ -34,7 +34,7 @@
 </ul>  </div>
 -->
 		<div class="post-media">
-<a href="{{ .RelPermalink }}">
+<a href="{{ .RelPermalink }}" ga-on="click" ga-event-category="Link" ga-event-action="Click" ga-event-label="Featured Article Home">
 	{{if .Param "hugo_image"}}
 		<img width="1100" height="925" src="{{ .Param "hugo_image"}}" class="attachment-large size-large wp-post-image" alt="imagem do artigo">
 	{{else}}
@@ -47,7 +47,7 @@
 
 
 <div class="post-more">
-<a href="{{ .RelPermalink }}" class="btn btn-primary btn-effect">
+<a href="{{ .RelPermalink }}" class="btn btn-primary btn-effect" ga-on="click" ga-event-category="Link" ga-event-action="Click" ga-event-label="Featured Article Home">
 <span>Leia Mais</span>
 	  <span><i class="icon icon-arrow-right"></i></span>
   </a>

@@ -18,7 +18,7 @@
 					  <ul class="post-categories">
 						  <li>
 							  {{ range .Params.categories }}
-							  <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" rel="category tag">{{ . }}</a>
+							  <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" rel="category tag" ga-on="click" ga-event-category="Link" ga-event-action="click" ga-event-label="Categoria {{ . }}">{{ . }}</a>
 							  {{ end }}
 
 						  </li>
@@ -43,7 +43,7 @@
 					  <ul class="post-categories">
 		  <li>
 			  {{ range .Params.categories }}
-			  <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" rel="category tag">{{ . }}</a>
+			  <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" rel="category tag" ga-on="click" ga-event-category="Link" ga-event-action="click" ga-event-label="Categoria {{ . }}">{{ . }}</a>
 			  {{ end }}
 		  </li>
 		  </ul>                <h1>{{ .Title }}</h1>
@@ -67,13 +67,13 @@
 					  <div class="post-share post-share-vertical">
 						  <ul class="share-buttons">
 							  <li>
-								  <a target="_blank" rel="noopener" rel="nofollow" href="http://www.facebook.com/sharer.php?u={{ .RelPermalink }}"><i class="icon icon-facebook"></i></a>
+								  <a target="_blank" rel="noopener" rel="nofollow" href="http://www.facebook.com/sharer.php?u={{ .RelPermalink }}" ga-on="click" ga-event-category="Social" ga-event-action="Click" ga-event-label="Facebook Share Page"><i class="icon icon-facebook"></i></a>
 							  </li>
 							  <li>
-								  <a target="_blank" rel="noopener" rel="nofollow" href="https://twitter.com/share?text=The+Look%3A+Perfect+Balance&amp;url={{ .RelPermalink }}"><i class="icon icon-twitter"></i></a>
+								  <a target="_blank" rel="noopener" rel="nofollow" href="https://twitter.com/share?text=The+Look%3A+Perfect+Balance&amp;url={{ .RelPermalink }}"><i class="icon icon-twitter" ga-on="click" ga-event-category="Social" ga-event-action="Click" ga-event-label="Twitter Share Page"></i></a>
 							  </li>
 							  <li>
-								  <a target="_blank" rel="noopener" rel="nofollow" href="https://pinterest.com/pin/create/bookmarklet/?media=http://demo.codesupply.co/authentic/wp-content/uploads/2016/05/authentic-demo-image-085.jpg&amp;url={{ .RelPermalink }}"><i class="icon icon-pinterest"></i>
+								  <a target="_blank" rel="noopener" rel="nofollow" href="https://pinterest.com/pin/create/bookmarklet/?media=http://demo.codesupply.co/authentic/wp-content/uploads/2016/05/authentic-demo-image-085.jpg&amp;url={{ .RelPermalink }}" ga-on="click" ga-event-category="Social" ga-event-action="Click" ga-event-label="Pinterest Share Page"><i class="icon icon-pinterest"></i>
 								  </a>
 							  </li>
 						  </ul>
@@ -108,37 +108,37 @@
 			  <p>Apaixonado por design e desenvolvimento de websites. De vez em quando gosta de escrever sobre produtividade, como é ser um freelancer e algumas reflexões da vida.</p>
 			  <ul class="list-social list-social-compact post-author-social">
 				  <li class="menu-item">
-		  <a target="_blank" rel="noopener" href="https://www.facebook.com/igluonline/">
+		  <a target="_blank" rel="noopener" href="https://www.facebook.com/igluonline/" ga-on="click" ga-event-category="Social" ga-event-action="Click" ga-event-label="FacebookAuthor">
 		  <i class="icon icon-facebook"></i>
 				</a>
 		  </li>
 				<li>
-		  <a target="_blank" rel="noopener" href="https://twitter.com/andrelug_">
+		  <a target="_blank" rel="noopener" href="https://twitter.com/andrelug_" ga-on="click" ga-event-category="Social" ga-event-action="Click" ga-event-label="TwitterAuthor">
 		  <i class="icon icon-twitter"></i>
 				</a>
 		  </li>
 				<li>
-		  <a target="_blank" rel="noopener" href="https://www.instagram.com/igluonline/">
+		  <a target="_blank" rel="noopener" href="https://www.instagram.com/igluonline/" ga-on="click" ga-event-category="Social" ga-event-action="Click" ga-event-label="InstagramAuthor">
 		  <i class="icon icon-instagram"></i>
 				</a>
 		  </li>
 				<li>
-		  <a target="_blank" rel="noopener" href="https://plus.google.com/u/0/collection/0TVuZ">
+		  <a target="_blank" rel="noopener" href="https://plus.google.com/u/0/collection/0TVuZ" ga-on="click" ga-event-category="Social" ga-event-action="Click" ga-event-label="GooglePlusAuthor">
 		  <i class="icon icon-google-plus"></i>
 				</a>
 		  </li>
 				<li>
-		  <a target="_blank" rel="noopener" href="https://br.pinterest.com/andrelug/">
+		  <a target="_blank" rel="noopener" href="https://br.pinterest.com/andrelug/" ga-on="click" ga-event-category="Social" ga-event-action="Click" ga-event-label="PinterestAuthor">
 		  <i class="icon icon-pinterest"></i>
 				</a>
 		  </li>
 				<li>
-		  <a target="_blank" rel="noopener" href="https://www.linkedin.com/in/andrelug">
+		  <a target="_blank" rel="noopener" href="https://www.linkedin.com/in/andrelug" ga-on="click" ga-event-category="Social" ga-event-action="Click" ga-event-label="LinkedinAuthor">
 		  <i class="icon icon-linkedin"></i>
 				</a>
 		  </li>
 				<li>
-		  <a target="_blank" rel="noopener" href="https://www.youtube.com/channel/UCybl6LOBsIJ6R5dXUdbmmXA">
+		  <a target="_blank" rel="noopener" href="https://www.youtube.com/channel/UCybl6LOBsIJ6R5dXUdbmmXA" ga-on="click" ga-event-category="Social" ga-event-action="Click" ga-event-label="YoutubeAuthor">
 		  <i class="icon icon-youtube"></i>
 				</a>
 		  </li>

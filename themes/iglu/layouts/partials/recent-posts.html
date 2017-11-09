@@ -8,7 +8,7 @@
         <p>
         <ol class="recent-posts">
         {{ range first 5 (where .Data.Pages "Section" "post") }}
-            <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+            <li><a href="{{ .Permalink }}" ga-on="click" ga-event-category="Feature" ga-event-action="click" ga-event-label="Grid artigo">{{ .Title }}</a></li>
         {{ end }}
         </ol>
         </p>

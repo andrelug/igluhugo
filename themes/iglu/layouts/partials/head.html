@@ -120,10 +120,20 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
 ga('create', 'UA-79244441-3', {'siteSpeedSampleRate': 100});
+
+ga('require', 'eventTracker');
 ga('require', 'displayfeatures');
+ga('require', 'impressionTracker');
+ga('require', 'maxScrollTracker');
+ga('require', 'outboundFormTracker');
+ga('require', 'outboundLinkTracker');
+ga('require', 'pageVisibilityTracker');
+ga('require', 'socialWidgetTracker');
+
 ga('send', 'pageview');
 
 </script>
+<script async src="js/autotrack.js"></script>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
