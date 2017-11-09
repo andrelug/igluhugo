@@ -25,6 +25,7 @@ tags:
   - free
   - grátis
   - gratuito
+disqus: true
 
 ---
 Estamos chegando no final de 2016 e o novo ano pede também novas opções de fontes para nossos trabalhos. Todos temos aquelas fontes que não abandonamos, mas de tempos em tempos faz parte do processo nos atualizar com novas opções. Nesse artigo vou apresentar algumas fontes gratuitas que acredito farão total diferença na criação de novas peças, projetos e designs em 2017.
