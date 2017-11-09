@@ -4,6 +4,9 @@ paginate = 4
 theme = "iglu"
 title = "Iglu: Design, Freelancers, Programação e Marketing Digital"
 enableRobotsTXT = true
+defaultContentLanguage = "pt"
+[blackfriday]
+hrefTargetBlank = true
 [params]
 date_format = "0002-01-20T00:00:00+00:00"
 description = "Iglu é um blog para designers, programadores e freelancers com o foco em compartilhar recursos, tutoriais, informações e dicas."
@@ -24,3 +27,5 @@ posts = "/:filename"
 author = "author"
 category = "categories"
 tag = "tags"
+[author]
+name = "André Lucas"
