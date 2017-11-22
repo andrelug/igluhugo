@@ -271,7 +271,7 @@ Vou colocar aqui uma rápida tabela comparativa de preços para você ter uma id
 
 </tr>
 
-<tr> <td data-sheets-value="{"1":2,"2":"HostGator"}"> <a href="[https://www.melhorhospedagemdesites.com/provedor-de-hospedagem/hostgator/](https://www.melhorhospedagemdesites.com/provedor-de-hospedagem/hostgator/ "https://www.melhorhospedagemdesites.com/provedor-de-hospedagem/hostgator/")" target="_blank">HostGator</a> </td>
+<tr> <td data-sheets-value="{"1":2,"2":"HostGator"}"> <a href="https://www.melhorhospedagemdesites.com/provedor-de-hospedagem/hostgator/" target="_blank">HostGator</a> </td>
 
     <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:15.99}" data-sheets-numberformat="{&quot;1&quot;:4,&quot;2&quot;:&quot;\&quot;R$\&quot;#,##0.00&quot;,&quot;3&quot;:1}">
       R$15,99
@@ -333,7 +333,7 @@ Resolvi colocar esses aqui também para comparar uma vez que não são tão mais
 
 ## Conclusão
 
-Acabei escrevendo um tanto a mais do que eu planejava, mas espero que agora você tenha um pouco mais de conhecimento sobre como grande parte dos serviços de hospedagem no Brasil estão precários. Não é atoa que serviços estrangeiros como <a href="https://br.godaddy.com/hosting/web-hosting" target="_blank">GoDaddy</a>, <a href="[https://www.melhorhospedagemdesites.com/provedor-de-hospedagem/hostgator/](https://www.melhorhospedagemdesites.com/provedor-de-hospedagem/hostgator/ "https://www.melhorhospedagemdesites.com/provedor-de-hospedagem/hostgator/")" target="_blank">Hostgator</a> e <a href="http://mbsy.co/gWDv6" target="_blank">Dreamhost</a> estão já todos com atendimento em português. Estão até pagando mais para ficar em primeiro no Google ao comprar as palavras-chave de hospedagem de sites.
+Acabei escrevendo um tanto a mais do que eu planejava, mas espero que agora você tenha um pouco mais de conhecimento sobre como grande parte dos serviços de hospedagem no Brasil estão precários. Não é atoa que serviços estrangeiros como <a href="https://br.godaddy.com/hosting/web-hosting" target="_blank">GoDaddy</a>, <a href="https://www.melhorhospedagemdesites.com/provedor-de-hospedagem/hostgator/" target="_blank">Hostgator</a> e <a href="http://mbsy.co/gWDv6" target="_blank">Dreamhost</a> estão já todos com atendimento em português. Estão até pagando mais para ficar em primeiro no Google ao comprar as palavras-chave de hospedagem de sites.
 
 <img class=" wp-image-575 aligncenter" src="/images/uploads/2017/03/hospedagem_google.jpg" alt="" width="798" height="481" srcset="/images/uploads/2017/03/hospedagem_google.jpg 1030w, /images/uploads/2017/03/hospedagem_google-300x181.jpg 300w, /images/uploads/2017/03/hospedagem_google-768x463.jpg 768w, /images/uploads/2017/03/hospedagem_google-1024x617.jpg 1024w, /images/uploads/2017/03/hospedagem_google-450x270.jpg 450w, /images/uploads/2017/03/hospedagem_google-150x90.jpg 150w" sizes="(max-width: 798px) 100vw, 798px" />
 
