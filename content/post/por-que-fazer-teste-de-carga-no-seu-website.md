@@ -3,7 +3,6 @@ author = "André Lucas"
 categories = ["Desenvolvimento web"]
 date = "2018-01-14T15:46:16+00:00"
 disqus = true
-draft = true
 hugo_image = "images/uploads/2018/01/15/pexels-photo-97080-1.jpeg"
 tags = ["Teste de carga", "Load test", "Devops"]
 title = "Por que fazer teste de carga no seu website"
