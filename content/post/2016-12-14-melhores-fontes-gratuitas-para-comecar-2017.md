@@ -1,36 +1,35 @@
 ---
-title: A melhores fontes gratuitas para começar 2017
+title: A melhores fontes gratuitas para começar 2018
 author: André Lucas
-type: post
-date: 2016-12-14T22:10:55+00:00
-url: /melhores-fontes-gratuitas-para-comecar-2017/
+date: 2017-12-14 20:10:00 -0200
+url: "/melhores-fontes-gratuitas-para-comecar-2018/"
 featured_image: uploads/2016/12/buffalo
 featured_image_extension: jpg
 onesignal_meta_box_present:
-  - 1
+- 1
 mvp_post_template:
-  - def
+- def
 mvp_featured_image:
-  - hide
+- hide
 post_views_count:
-  - 4981
+- 4981
 instant_articles_submission_id:
-  - 198183330688487
+- 198183330688487
 categories:
-  - Design
+- Design
 tags:
-  - destaque
-  - download
-  - fontes
-  - free
-  - grátis
-  - gratuito
+- destaque
+- download
+- fontes
+- free
+- grátis
+- gratuito
 disqus: true
 
 ---
-Estamos chegando no final de 2016 e o novo ano pede também novas opções de fontes para nossos trabalhos. Todos temos aquelas fontes que não abandonamos, mas de tempos em tempos faz parte do processo nos atualizar com novas opções. Nesse artigo vou apresentar algumas fontes gratuitas que acredito farão total diferença na criação de novas peças, projetos e designs em 2017.
+Estamos chegando no final de 2017 e o novo ano pede também novas opções de fontes para nossos trabalhos. Todos temos aquelas fontes que não abandonamos, mas de tempos em tempos faz parte do processo nos atualizar com novas opções. Nesse artigo vou apresentar algumas fontes gratuitas que acredito farão total diferença na criação de novas peças, projetos e designs em 2018.
 
-**Atualização:** [Novo artigo com com vária fontes grátis para baixar e alguns sites para pesquisar fontes gratuitas.][1]
+**Atualização:** [Novo artigo com com vária fontes grátis para baixar e alguns sites para pesquisar fontes gratuitas.](https://www.igluonline.com/fontes-gratis-para-baixar-e-usar-no-photoshop-e-word-um-guia-completo/)
 
 ## <a href="https://www.graphicpear.com/nomes-typeface/" target="_blank" rel="noopener">Nomes</a>
 
@@ -86,13 +85,13 @@ A fonte Hane é uma fonte de vetor inspirada na vida na cidade, senso suas letra
 
 <a href="http://www.kursatunsal.com/hane-font" target="_blank" rel="noopener"><img class=" wp-image-230 aligncenter" src="/images/uploads/2016/12/hane-1.gif" alt="fonte gratuita hane" width="1163" height="818" /></a>
 
-&nbsp;
+ 
 
 Espero que tenha gostado dessa seleção de fontes gratuitas! Se você tiver alguma outra sugestão de fontes ou mesmo criar algo com alguma dessas fontes por favor deixe abaixo nos comentários.
 
 Não deixe de conferir essas outras fontes:
 
-<a href="https://www.igluonline.com/fontes-gratis-para-baixar-e-usar-no-photoshop-e-word-um-guia-completo/" target="_blank" rel="noopener">Fontes gratis para baixar e usar no Photoshop e Word &#8211; Um guia completo</a>
+<a href="https://www.igluonline.com/fontes-gratis-para-baixar-e-usar-no-photoshop-e-word-um-guia-completo/" target="_blank" rel="noopener">Fontes gratis para baixar e usar no Photoshop e Word – Um guia completo</a>
 
 <a href="https://www.igluonline.com/melhores-fontes-gratuitas-de-fevereiro-2017/" target="_blank" rel="noopener">Melhores fontes gratuitas de Fevereiro 2017</a>
 
@@ -100,6 +99,4 @@ Melhores Fontes Gratuitas de Junho 2016
 
 Divirta-se!
 
-&nbsp;
-
- [1]: https://www.igluonline.com/fontes-gratis-para-baixar-e-usar-no-photoshop-e-word-um-guia-completo/
+ 
