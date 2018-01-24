@@ -34,7 +34,7 @@ Aí tive minha primeira lição de finanças e fluxo de caixa quando fiquei sem 
 
 Tive que pedir dinheiro emprestado para minha mãe e no final deu tudo certo.
 
-Desde esse dia eu coloquei para mim que ia ter mais responsabilidade com as finanças e agir fervorosamente para que isso não acontecesse mais. 
+Desde esse dia eu coloquei para mim que ia ter mais responsabilidade com as finanças e agir fervorosamente para que isso não acontecesse mais.
 
 Esse é só um exemplo de responsabilidade financeira, mas com o tempo passando mais responsabilidades vão chegando. Manter uma casa, filhos, aposentadoria e por aí vai. Tudo normal seja para autônomos ou para empregados de uma empresa. A diferença é que se queremos um aumento a gente tem que criar um ao invés de pedir para o chefe.
 
@@ -96,6 +96,6 @@ De outro, podemos encontrar uma resposta que mais parece interessante e ir com t
 
 De qualquer modo, a ignorância aparece como protagonista em ambos os casos e quanto mais me conheço entendo que mais vou ter que saber lidar com ela em paz.
 
- 
+Conta aqui nos comentários abaixo quais são seus desafios e se faz sentido tudo isso.
 
 Divirta-se!
