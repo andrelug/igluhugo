@@ -1,7 +1,8 @@
 +++
 author = "André Lucas"
 categories = ["Design"]
-date = "2017-05-09T01:30:24+00:00"
+date = "2017-05-09T01:30:24Z"
+disqus = false
 hugo_image = "images/uploads/2017/05/09/fonte_gratuita_gilbert_baker.jpg"
 tags = ["download", "fontes", "free", "grátis", "gratuitas"]
 title = "As melhores fontes gratuitas de Maio 2017"
@@ -14,7 +15,7 @@ Parece que os artigos sobre fontes aqui na Iglu estão sendo um sucesso, então 
 Se você quiser já ver algumas de nossas listas anteriores, já deixo também os links para nossos outros artigos:
 
 * <a href="https://www.igluonline.com/melhores-fontes-gratuitas-de-fevereiro-2017/" target="_blank" rel="noopener">As melhores fontes gratuitas de Fevereiro 2017</a>
-* <a href="https://www.igluonline.com/melhores-fontes-gratuitas-para-comecar-2017/" target="_blank" rel="noopener">As melhores fontes gratuitas para começar 2017</a>
+* <a href="https://www.igluonline.com/melhores-fontes-gratuitas-para-comecar-2018/" target="_blank" rel="noopener">As melhores fontes gratuitas para começar 2018</a>
 * <a href="https://www.igluonline.com/melhores-fontes-gratuitas-de-junho-2016/" target="_blank" rel="noopener">Melhores Fontes Gratuitas de Junho 2016</a>
 * <a href="https://www.igluonline.com/fontes-gratis-para-baixar-e-usar-no-photoshop-e-word-um-guia-completo/" target="_blank" rel="noopener">Fontes gratis para baixar e usar no Photoshop e Word – Um guia completo</a>
 
