@@ -1,31 +1,30 @@
 ---
 title: Fontes gratis para baixar e usar no Photoshop e Word – Um guia completo
 author: André Lucas
-type: post
-date: 2017-03-10T19:17:30+00:00
-url: /fontes-gratis-para-baixar-e-usar-no-photoshop-e-word-um-guia-completo/
+date: 2017-03-10 19:17:30 +0000
+url: "/fontes-gratis-para-baixar-e-usar-no-photoshop-e-word-um-guia-completo/"
 featured_image: uploads/2017/03/type-anatomy
 featured_image_extension: jpg
 mvp_post_template:
-  - def
+- def
 mvp_featured_image:
-  - hide
+- hide
 post_views_count:
-  - 871
+- 871
 categories:
-  - Design
+- Design
 tags:
-  - destaque
-  - fonte gratuita
-  - fontes 2017
-  - fontes grátis
-  - fontes grátis para download
-  - fontes gratuitas
-  - fontes para baixar
-  - fontes para download
-  - free fonts
-  - melhores fontes
-  - melhores sites para baixar fontes
+- destaque
+- fonte gratuita
+- fontes 2017
+- fontes grátis
+- fontes grátis para download
+- fontes gratuitas
+- fontes para baixar
+- fontes para download
+- free fonts
+- melhores fontes
+- melhores sites para baixar fontes
 
 ---
 Baixar fontes grátis é algo que tem ficado cada vez mais fácil na internet. Seja você designer, programador, escritor ou entusiasta, a tipografia faz uma diferença imensa na hora de criar um projeto. Fontes de boa qualidade transformam positivamente qualquer design.
@@ -34,9 +33,9 @@ Mesmo que você já tenha muitas fontes no seu computador é sempre bom aumentar
 
 Nesse artigo vou fazer duas listas. Em primeiro lugar vou listar os principais sites para se baixar fontes grátis. Depois uma segunda lista com algumas das fontes mais bacanas de 2017. Se você quiser já ver algumas de nossas listas anteriores, já deixo também os links para nossos outros artigos:
 
-  * <a href="https://www.igluonline.com/melhores-fontes-gratuitas-de-fevereiro-2017/" target="_blank">As melhores fontes gratuitas de Fevereiro 2017</a>
-  * <a href="https://www.igluonline.com/melhores-fontes-gratuitas-para-comecar-2017/" target="_blank">As melhores fontes gratuitas para começar 2017</a>
-  * <a href="https://www.igluonline.com/melhores-fontes-gratuitas-de-junho-2016/" target="_blank">Melhores Fontes Gratuitas de Junho 2016</a>
+* <a href="https://www.igluonline.com/melhores-fontes-gratuitas-de-fevereiro-2017/" target="_blank">As melhores fontes gratuitas de Fevereiro 2017</a>
+* <a href="https://www.igluonline.com/melhores-fontes-gratuitas-para-comecar-2018/" target="_blank">As melhores fontes gratuitas para começar 2018</a>
+* <a href="https://www.igluonline.com/melhores-fontes-gratuitas-de-junho-2016/" target="_blank">Melhores Fontes Gratuitas de Junho 2016</a>
 
 ## 8 ótimos sites para baixar fontes grátis
 
@@ -44,7 +43,7 @@ Os sites que estão listados a seguir, em sua maioria, estão disponíveis apena
 
 ### 1- <a href="https://www.graphicpear.com/" target="_blank">Graphic Pear</a>
 
-O website Graphic pear é muito bacana e possui uma lista de arquivos gratuitos para baixar enorme. Eles também possuem arquivos premium e que não são muito caros, mas recomendo clicar no menu em Fonts. Na lista que aparecerá você já pode distinguir pelo nome de cada fonte se ela é &#8220;free&#8221; ou &#8220;premium&#8221;.
+O website Graphic pear é muito bacana e possui uma lista de arquivos gratuitos para baixar enorme. Eles também possuem arquivos premium e que não são muito caros, mas recomendo clicar no menu em Fonts. Na lista que aparecerá você já pode distinguir pelo nome de cada fonte se ela é “free” ou “premium”.
 
 <a href="https://www.graphicpear.com/" target="_blank"><img class=" wp-image-592 aligncenter" src="/images/uploads/2017/03/fontes_gratis_graphicpear.jpg" alt="" width="900" height="592" srcset="/images/uploads/2017/03/fontes_gratis_graphicpear.jpg 1171w, /images/uploads/2017/03/fontes_gratis_graphicpear-300x197.jpg 300w, /images/uploads/2017/03/fontes_gratis_graphicpear-768x505.jpg 768w, /images/uploads/2017/03/fontes_gratis_graphicpear-1024x673.jpg 1024w" sizes="(max-width: 900px) 100vw, 900px" /></a>
 
@@ -74,7 +73,7 @@ Esse é um site mais novo na lista, mas muitos outros blogs de design estão o r
 
 ### 6- <a href="https://www.behance.net/search?content=projects&sort=appreciations&time=week&search=free%20font" target="_blank">Behance</a>
 
-Quem acompanha minha <a href="https://plus.google.com/u/0/collection/0TVuZ" target="_blank">coleção de arte e design no Google Plus</a> já está acostumado em me ver compartilhar links do Behance. Essa plataforma de exposição de projetos de design da Adobe é sensacional e basta uma rápida pesquisa por &#8220;free font&#8221; para ter acesso a várias fontes grátis para fazer o download. É preciso um certo critério na hora de procurar pois nem todas as fontes são realmente boas já que qualquer um pode postar seus projetos pessoais na plataforma. então recomendo dar uma olhada no número de curtidas e visualizações da fonte ou mesmo do número de seguidores dos autores e criadores.
+Quem acompanha minha <a href="https://plus.google.com/u/0/collection/0TVuZ" target="_blank">coleção de arte e design no Google Plus</a> já está acostumado em me ver compartilhar links do Behance. Essa plataforma de exposição de projetos de design da Adobe é sensacional e basta uma rápida pesquisa por “free font” para ter acesso a várias fontes grátis para fazer o download. É preciso um certo critério na hora de procurar pois nem todas as fontes são realmente boas já que qualquer um pode postar seus projetos pessoais na plataforma. então recomendo dar uma olhada no número de curtidas e visualizações da fonte ou mesmo do número de seguidores dos autores e criadores.
 
 <a href="https://www.behance.net/search?content=projects&sort=appreciations&time=week&search=free%20font" target="_blank"><img class=" wp-image-598 aligncenter" src="/images/uploads/2017/03/fontes_gratis_behance.jpg" alt="" width="936" height="507" srcset="/images/uploads/2017/03/fontes_gratis_behance.jpg 1118w, /images/uploads/2017/03/fontes_gratis_behance-300x163.jpg 300w, /images/uploads/2017/03/fontes_gratis_behance-768x416.jpg 768w, /images/uploads/2017/03/fontes_gratis_behance-1024x555.jpg 1024w" sizes="(max-width: 936px) 100vw, 936px" /></a>
 
@@ -86,7 +85,7 @@ Queria dar uma atenção especial para esse site que é brasileiro. O Netfontes 
 
 ### 8- <a href="http://www.deviantart.com/browse/all/?qh=&section=&global=1&q=free+font" target="_blank">DeviantArt</a>
 
-O DeviantArt está entre os 100 websites mais acessados hoje e é inteiramente composto de criações de sua comunidade. Naturalmente artistas profissionais também utilizam a plataforma e são deles que a maior parte das boas fontes virão. A dinâmica aqui é similar ao que comentei sobre o Behance. Então procure por &#8220;Free Font&#8221; e rapidamente você terá acesso a um número grande de fontes para baixar de graça.
+O DeviantArt está entre os 100 websites mais acessados hoje e é inteiramente composto de criações de sua comunidade. Naturalmente artistas profissionais também utilizam a plataforma e são deles que a maior parte das boas fontes virão. A dinâmica aqui é similar ao que comentei sobre o Behance. Então procure por “Free Font” e rapidamente você terá acesso a um número grande de fontes para baixar de graça.
 
 <img class=" wp-image-600 aligncenter" src="/images/uploads/2017/03/fontes_gratis_deviantart.jpg" alt="" width="995" height="612" srcset="/images/uploads/2017/03/fontes_gratis_deviantart.jpg 1042w, /images/uploads/2017/03/fontes_gratis_deviantart-300x185.jpg 300w, /images/uploads/2017/03/fontes_gratis_deviantart-768x472.jpg 768w, /images/uploads/2017/03/fontes_gratis_deviantart-1024x630.jpg 1024w" sizes="(max-width: 995px) 100vw, 995px" />
 
@@ -96,7 +95,7 @@ Esse site é um pouco diferente dos outros que vimos acima. Você tem a opção 
 
 ### <a href="http://www.losttype.com/browse/" target="_blank"><img class="size-full wp-image-613 aligncenter" src="/images/uploads/2017/03/fonte_gratis_lost_type.jpg" alt="" width="954" height="445" srcset="/images/uploads/2017/03/fonte_gratis_lost_type.jpg 954w, /images/uploads/2017/03/fonte_gratis_lost_type-300x140.jpg 300w, /images/uploads/2017/03/fonte_gratis_lost_type-768x358.jpg 768w" sizes="(max-width: 954px) 100vw, 954px" /></a>10- <a href="https://dribbble.com/search?q=free+font" target="_blank">Dribble</a>
 
-Para finalizar nossa lista resolvi colocar aqui esse gigante da arte e do design. O Dribble segue a linha do Behance e DeviantArt, então aproveite pois tem muita coisa boa. Como tem tudo quanto é tipo de projetos, artes e designs, é legal procurar por &#8220;Free Font&#8221; na pesquisa.
+Para finalizar nossa lista resolvi colocar aqui esse gigante da arte e do design. O Dribble segue a linha do Behance e DeviantArt, então aproveite pois tem muita coisa boa. Como tem tudo quanto é tipo de projetos, artes e designs, é legal procurar por “Free Font” na pesquisa.
 
 <a href="https://dribbble.com/search?q=free+font" target="_blank"><img class="size-full wp-image-614 aligncenter" src="/images/uploads/2017/03/fonte_gratis_dribble.jpg" alt="" width="735" height="615" srcset="/images/uploads/2017/03/fonte_gratis_dribble.jpg 735w, /images/uploads/2017/03/fonte_gratis_dribble-300x251.jpg 300w" sizes="(max-width: 735px) 100vw, 735px" /></a>
 
@@ -146,7 +145,7 @@ Eu sou bem suspeito para falar da fonte grátis Nexa. Com certeza essa é a font
 
 ### <a href="http://www.fontspace.com/george-williams/parisish" target="_blank">8- Parish</a>
 
-Pensa numa fonte elegante. Taí a Parish. Ela foi criada pelo designer George Williams e tem um certo sentimento de Paris antiga &#8211; seguindo as descrições do autor. Para você ter ideia, essa fonte já foi baixada mais de 200 mil vezes. Não é pra qualquer um. Você pode usar ela tanto para usos pessoais quanto comerciais, então divirta-se!
+Pensa numa fonte elegante. Taí a Parish. Ela foi criada pelo designer George Williams e tem um certo sentimento de Paris antiga – seguindo as descrições do autor. Para você ter ideia, essa fonte já foi baixada mais de 200 mil vezes. Não é pra qualquer um. Você pode usar ela tanto para usos pessoais quanto comerciais, então divirta-se!
 
 <a href="http://www.fontspace.com/george-williams/parisish" target="_blank"><img class=" wp-image-608 aligncenter" src="/images/uploads/2017/03/fonte_gratis_parish.png" alt="" width="648" height="392" srcset="/images/uploads/2017/03/fonte_gratis_parish.png 580w, /images/uploads/2017/03/fonte_gratis_parish-300x182.png 300w, /images/uploads/2017/03/fonte_gratis_parish-150x90.png 150w" sizes="(max-width: 648px) 100vw, 648px" /></a>
 
@@ -176,14 +175,14 @@ Para terminar nossa lista, vou com algo mais fácil de usar também em projetos.
 
 Aproveite para conferir nossas outras seleções de fontes gratuitas:
 
-  * <a href="https://www.igluonline.com/melhores-fontes-gratuitas-de-fevereiro-2017/" target="_blank">As melhores fontes gratuitas de Fevereiro 2017</a>
-  * <a href="https://www.igluonline.com/melhores-fontes-gratuitas-para-comecar-2017/" target="_blank">As melhores fontes gratuitas para começar 2017</a>
-  * <a href="https://www.igluonline.com/melhores-fontes-gratuitas-de-junho-2016/" target="_blank">Melhores Fontes Gratuitas de Junho 2016</a>
+* <a href="https://www.igluonline.com/melhores-fontes-gratuitas-de-fevereiro-2017/" target="_blank">As melhores fontes gratuitas de Fevereiro 2017</a>
+* <a href="https://www.igluonline.com/melhores-fontes-gratuitas-para-comecar-2018/" target="_blank">As melhores fontes gratuitas para começar 2018</a>
+* <a href="https://www.igluonline.com/melhores-fontes-gratuitas-de-junho-2016/" target="_blank">Melhores Fontes Gratuitas de Junho 2016</a>
 
-&nbsp;
+ 
 
 Espero que tenha gostado do artigo. Considere compartilhar em suas redes sociais!
 
-&nbsp;
+ 
 
 Divirta-se!
