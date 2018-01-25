@@ -1,7 +1,8 @@
 +++
 author = "André Lucas"
 categories = ["design"]
-date = "2017-07-11T14:22:47+00:00"
+date = "2017-07-11T14:22:47Z"
+disqus = false
 hugo_image = "images/uploads/2017/08/31/coco_gothic_fonte_gratuita.jpg"
 tags = ["fontes gratuitas", "fontes", "melhores fontes"]
 title = "As melhores fontes gratuitas de Setembro de 2017"
@@ -16,14 +17,11 @@ Dessa vez vamos conhecer as melhores fontes de Setembro de 2017.
 Se você quiser já ver algumas de nossas listas anteriores, já deixo também os links para nossos outros artigos:
 
 * [As melhores fontes gratuitas de Fevereiro 2017](https://www.igluonline.com/melhores-fontes-gratuitas-de-fevereiro-2017/)
-
-* [As melhores fontes gratuitas para começar 2017](https://www.igluonline.com/melhores-fontes-gratuitas-para-comecar-2017/)
-
+* [As melhores fontes gratuitas para começar 2018](https://www.igluonline.com/melhores-fontes-gratuitas-para-comecar-2018/)
 * [Melhores Fontes Gratuitas de Junho 2016](https://www.igluonline.com/melhores-fontes-gratuitas-de-junho-2016/)
-
 * [Fontes gratis para baixar e usar no Photoshop e Word – Um guia completo](https://www.igluonline.com/fontes-gratis-para-baixar-e-usar-no-photoshop-e-word-um-guia-completo/)
 
-Todas as fontes aqui podem ser baixadas de graça, então basta clicar nos títulos ou nas imagens para acessá-las. Vários dos sites que estou linkando estão em Inglês, mas acredito que não será problemas achar os botões de **download **ou **free download**.
+Todas as fontes aqui podem ser baixadas de graça, então basta clicar nos títulos ou nas imagens para acessá-las. Vários dos sites que estou linkando estão em Inglês, mas acredito que não será problemas achar os botões de \*\*download \*\*ou **free download**.
 
 ## <a href="https://www.myfonts.com/fonts/my-creative-land/brushability/" target="_blank">Fonte gratuita Brushability</a>
 
