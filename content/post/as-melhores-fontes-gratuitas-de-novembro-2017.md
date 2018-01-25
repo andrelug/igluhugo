@@ -15,12 +15,9 @@ Continuando nossa coleção de artigos sobre as melhroes fontes de graça de 201
 Se você está buscando variedade, não deixe de conferir essas outras fontes:
 
 * <a href="[https://www.igluonline.com/fontes-gratis-para-baixar-e-usar-no-photoshop-e-word-um-guia-completo/](https://www.igluonline.com/fontes-gratis-para-baixar-e-usar-no-photoshop-e-word-um-guia-completo/ "https://www.igluonline.com/fontes-gratis-para-baixar-e-usar-no-photoshop-e-word-um-guia-completo/")" target="_blank" rel="noopener">Fontes gratis para baixar e usar no Photoshop e Word – Um guia completo</a>
-
 * <a href="[https://www.igluonline.com/melhores-fontes-gratuitas-de-fevereiro-2017/](https://www.igluonline.com/melhores-fontes-gratuitas-de-fevereiro-2017/ "https://www.igluonline.com/melhores-fontes-gratuitas-de-fevereiro-2017/")" target="_blank" rel="noopener">Melhores fontes gratuitas de Fevereiro 2017</a>
-
 * [Melhores Fontes Gratuitas de Junho 2016](https://www.igluonline.com/melhores-fontes-gratuitas-de-junho-2016/)
-
-* [As melhores fontes gratuitas para começar 2017](https://www.igluonline.com/melhores-fontes-gratuitas-para-comecar-2017/)
+* [As melhores fontes gratuitas para começar 2018](https://www.igluonline.com/melhores-fontes-gratuitas-para-comecar-2018/)
 
 Em geral todas as fontes que adiciono nos artigos da Iglu são gratuitas para fazer o download. Basta clicar nos títulos ou imagens desse artigo e você será redirecionado(a) para o site que poderá baixar a fonte. Às vezes os sites são em Inglês, então pode ser que os botões para baixar estejam em Inglês. Normalmente com os nomes de **Free Download** ou só **Download.**
 
