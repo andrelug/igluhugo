@@ -1,8 +1,8 @@
 ---
-title: Melhores Fontes Gratuitas de Junho 2016
+title: Melhores Fontes Gratuitas para Fevereiro 2018
 author: André Lucas
 date: 2016-06-24 03:01:43 +0000
-url: "/melhores-fontes-gratuitas-de-junho-2016/"
+url: "/melhores-fontes-gratuitas-para-fevereiro-2018"
 featured_image: uploads/2016/06/fonte_gratuita_junho_09
 featured_image_extension: jpg
 mvp_post_template:
@@ -21,7 +21,7 @@ tags:
 - tipografia
 
 ---
-Bem vindo(a) à nossa série de fontes bacanas para download gratuito que estão disponíveis para deixar nossas criações mais bonitas sem precisar afetar o bolso. Tipografia é um dos elementos mais importantes para a criação de peças de design e websites, sem contar que uma boa combinação de fontes torna qualquer leitura mais agradável.
+Bem vindo(a) à nossa série de fontes bacanas para download gratuito em 2018 que estão disponíveis para deixar nossas criações mais bonitas sem precisar afetar o bolso. Tipografia é um dos elementos mais importantes para a criação de peças de design e websites, sem contar que uma boa combinação de fontes torna qualquer leitura mais agradável.
 
 Não deixe de conferir essas outras fontes:
 
@@ -33,13 +33,13 @@ Não deixe de conferir essas outras fontes:
 
 Não quero seguir aqui muitas linhas de tendências e coisas do tipo. Vou apenas adicionar algumas fontes que vi por aí e que são bonitas e interessantes para serem usadas em projetos reais. Convenhamos que existem umas fontes que não são tão…aplicáveis tirando aquele 0,001% de casos especiais.
 
-Então sem mais delongas, vamos lá!
+Então sem mais delongas, vamos às melhores fontes de Fevereiro 2018!
 
 ## [Qanelas Soft](https://tinkov.info/qanelas-soft.html)
 
 ## [<img class=" wp-image-54 aligncenter" src="/images/uploads/2016/06/fonte_gratuita_junho.jpg" alt="fonte_gratuita_junho" width="708" height="453" srcset="/images/uploads/2016/06/fonte_gratuita_junho.jpg 1003w, /images/uploads/2016/06/fonte_gratuita_junho-300x192.jpg 300w, /images/uploads/2016/06/fonte_gratuita_junho-768x491.jpg 768w" sizes="(max-width: 708px) 100vw, 708px" />](https://tinkov.info/qanelas-soft.html)
 
-## [Moderan](http://zokidesign.com/portfolio/moderan-font/)
+## [Moderan Fonte grátis](http://zokidesign.com/portfolio/moderan-font/)
 
 [<img class=" wp-image-55 aligncenter" src="/images/uploads/2016/06/fonte_gratuita_junho_02.jpg" alt="fonte_gratuita_junho_02" width="704" height="422" srcset="/images/uploads/2016/06/fonte_gratuita_junho_02.jpg 591w, /images/uploads/2016/06/fonte_gratuita_junho_02-300x180.jpg 300w, /images/uploads/2016/06/fonte_gratuita_junho_02-450x270.jpg 450w, /images/uploads/2016/06/fonte_gratuita_junho_02-150x90.jpg 150w" sizes="(max-width: 704px) 100vw, 704px" />](http://zokidesign.com/portfolio/moderan-font/)
 
@@ -49,9 +49,7 @@ Nesse caso temos algumas fontes desse mesmo designer. Sugiro Stampbor, Brokes e 
 
 [<img class="size-full wp-image-56 aligncenter" src="/images/uploads/2016/06/fonte_gratuita_junho_03.jpg" alt="fonte_gratuita_junho_03" width="700" height="534" srcset="/images/uploads/2016/06/fonte_gratuita_junho_03.jpg 700w, /images/uploads/2016/06/fonte_gratuita_junho_03-300x229.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" />](http://artcoastdesign.com/fonts/)
 
- 
-
-## [Cenotaph](https://www.behance.net/gallery/33171085/Cenotaph-Titling-Free-Typeface)
+## [Fonte gratuita Cenotaph](https://www.behance.net/gallery/33171085/Cenotaph-Titling-Free-Typeface)
 
 [<img class="size-full wp-image-57 aligncenter" src="/images/uploads/2016/06/fonte_gratuita_junho_04.jpg" alt="fonte_gratuita_junho_04" width="701" height="509" srcset="/images/uploads/2016/06/fonte_gratuita_junho_04.jpg 701w, /images/uploads/2016/06/fonte_gratuita_junho_04-300x218.jpg 300w" sizes="(max-width: 701px) 100vw, 701px" />](https://www.behance.net/gallery/33171085/Cenotaph-Titling-Free-Typeface)
 
@@ -63,7 +61,7 @@ Nesse caso temos algumas fontes desse mesmo designer. Sugiro Stampbor, Brokes e 
 
 [<img class=" wp-image-59 aligncenter" src="/images/uploads/2016/06/fonte_gratuita_junho_06.jpg" alt="fonte_gratuita_junho_06" width="723" height="671" srcset="/images/uploads/2016/06/fonte_gratuita_junho_06.jpg 543w, /images/uploads/2016/06/fonte_gratuita_junho_06-300x278.jpg 300w" sizes="(max-width: 723px) 100vw, 723px" />](https://www.behance.net/gallery/33703060/Tattoo-Free-Font)
 
-## [Balans](https://www.dropbox.com/sh/7ia63enevjqb1u0/AADh7LJfTBq-cWVeo0LY1f-La?dl=0)
+## [Balans - Melhores fontes 2018](https://www.dropbox.com/sh/7ia63enevjqb1u0/AADh7LJfTBq-cWVeo0LY1f-La?dl=0)
 
 [<img class=" wp-image-60 aligncenter" src="/images/uploads/2016/06/fonte_gratuita_junho_07.jpg" alt="fonte_gratuita_junho_07" width="729" height="502" srcset="/images/uploads/2016/06/fonte_gratuita_junho_07.jpg 1856w, /images/uploads/2016/06/fonte_gratuita_junho_07-300x207.jpg 300w, /images/uploads/2016/06/fonte_gratuita_junho_07-768x530.jpg 768w, /images/uploads/2016/06/fonte_gratuita_junho_07-1024x706.jpg 1024w" sizes="(max-width: 729px) 100vw, 729px" />](https://www.dropbox.com/sh/7ia63enevjqb1u0/AADh7LJfTBq-cWVeo0LY1f-La?dl=0)
 
@@ -95,10 +93,6 @@ Nesse caso temos algumas fontes desse mesmo designer. Sugiro Stampbor, Brokes e 
 
 [<img class="size-full wp-image-67 aligncenter" src="/images/uploads/2016/06/fonte_gratuita_junho_14.jpg" alt="fonte_gratuita_junho_14" width="919" height="576" srcset="/images/uploads/2016/06/fonte_gratuita_junho_14.jpg 919w, /images/uploads/2016/06/fonte_gratuita_junho_14-300x188.jpg 300w, /images/uploads/2016/06/fonte_gratuita_junho_14-768x481.jpg 768w" sizes="(max-width: 919px) 100vw, 919px" />](https://www.behance.net/gallery/13783293/Blern-Free-Typeface)
 
- 
-
- 
-
-Espero que você tenha gostado! Deixe nos comentários abaixo o que você gostaria de ver aqui no blog e quero saber sua opinião sobre as fontes!
+Espero que você tenha gostado dessa sequência das melhores fontes gratuitas para Fevereiro 2018! Deixe nos comentários abaixo o que você gostaria de ver aqui no blog e quero saber sua opinião sobre as fontes! 
 
 Divirta-se
