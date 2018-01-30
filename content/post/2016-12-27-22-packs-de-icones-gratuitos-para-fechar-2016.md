@@ -1,7 +1,7 @@
 ---
 title: 22 packs dos melhores ícones gratuitos para 2018
 author: André Lucas
-date: 2016-12-28 00:50:16 +0000
+date: 2018-01-30 22:50:16 -0200
 url: "/22-packs-dos-melhores-icones-gratuitos-para-2018"
 featured_image: uploads/2016/12/pollutioniconset
 featured_image_extension: jpg
