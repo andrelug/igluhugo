@@ -1,29 +1,28 @@
 ---
-title: 22 packs de ícones gratuitos para fechar 2016
+title: 22 packs dos melhores ícones gratuitos para 2018
 author: André Lucas
-type: post
-date: 2016-12-28T00:50:16+00:00
-url: /22-packs-de-icones-gratuitos-para-fechar-2016/
+date: 2016-12-28 00:50:16 +0000
+url: "/22-packs-dos-melhores-icones-gratuitos-para-2018"
 featured_image: uploads/2016/12/pollutioniconset
 featured_image_extension: jpg
 mvp_post_template:
-  - def
+- def
 mvp_featured_image:
-  - hide
+- hide
 post_views_count:
-  - 1119
+- 1119
 categories:
-  - Design
+- Design
 tags:
-  - arte
-  - design
-  - download
-  - free
-  - ícones
-  - icons
+- arte
+- design
+- download
+- free
+- "ícones"
+- icons
 
 ---
-Design de ícones desenvolve da mesma forma que na área gráfica, de moda ou interiores. Estilos vão e voltam e aqui vamos apresentar alguns packs (pacotes) gratuitos de ícones para você baixar e começar 2017 cheio de opções para seus projetos. Os packs abaixo representam algumas tendências que foram presentes ao longo do ano e que no próximo ano continuarão sendo bem interessantes.
+Design de ícones desenvolve da mesma forma que na área gráfica, de moda ou interiores. Estilos vão e voltam e aqui vamos apresentar alguns packs (pacotes) gratuitos de ícones para você baixar e começar 2018 cheio de opções para seus projetos. Os packs abaixo representam algumas tendências que foram presentes ao longo do ano e que no próximo ano continuarão sendo bem interessantes.
 
 Os estilos de ícones abaixo vão dos coloridos aos pretos e brancos, modernos a clássicos, temáticos a generalistas. Cada vez mais os ícones ajudam designers e desenvolvedores a passar uma mensagem de forma mais lúdica e divertida, então ter no seu arsenal ícones variados tanto em temas quanto em estilos fará uma grande diferença para melhorar seus projetos. Espero que goste e não deixem de compartilhar com seus amigos os ícones que gostar mais.
 
@@ -35,7 +34,7 @@ Se tiver alguma outra sugestão de um pack de ícones bacana, não deixe de nos 
 
 <a href="https://tympanus.net/codrops/2015/12/23/freebie-colored-line-icons-svg-ai-png/" target="_blank" rel="noopener"><img class="size-full wp-image-289 aligncenter" src="/images/uploads/2016/12/Freebie_ColoredLineIcons_Preview2.png" alt="icones gratuitos colored line icons" width="800" height="3111" srcset="/images/uploads/2016/12/Freebie_ColoredLineIcons_Preview2.png 800w, /images/uploads/2016/12/Freebie_ColoredLineIcons_Preview2-77x300.png 77w, /images/uploads/2016/12/Freebie_ColoredLineIcons_Preview2-768x2987.png 768w, /images/uploads/2016/12/Freebie_ColoredLineIcons_Preview2-263x1024.png 263w" sizes="(max-width: 800px) 100vw, 800px" /></a>
 
-## <a href="https://dribbble.com/shots/2508933-Mex-icons" target="_blank" rel="noopener">2- Mex~icons (AI, EPS & PNG)</a>
+## <a href="https://dribbble.com/shots/2508933-Mex-icons" target="_blank" rel="noopener">2- Mex\~icons (AI, EPS & PNG)</a>
 
 <a href="https://dribbble.com/shots/2508933-Mex-icons" target="_blank" rel="noopener"><img class="size-full wp-image-290 aligncenter" src="/images/uploads/2016/12/dribbble-mexicons2.png" alt="icones gratuitos mexicons" width="800" height="600" srcset="/images/uploads/2016/12/dribbble-mexicons2.png 800w, /images/uploads/2016/12/dribbble-mexicons2-300x225.png 300w, /images/uploads/2016/12/dribbble-mexicons2-768x576.png 768w" sizes="(max-width: 800px) 100vw, 800px" /></a>
 
@@ -47,7 +46,7 @@ Se tiver alguma outra sugestão de um pack de ícones bacana, não deixe de nos 
 
 <a href="http://graphicburger.com/30-isometric-icon-set/" target="_blank" rel="noopener"><img class="size-full wp-image-292 aligncenter" src="/images/uploads/2016/12/30-Isometric-Icons-600.png" alt="icones gratuitos isometric icons" width="600" height="2005" srcset="/images/uploads/2016/12/30-Isometric-Icons-600.png 600w, /images/uploads/2016/12/30-Isometric-Icons-600-90x300.png 90w, /images/uploads/2016/12/30-Isometric-Icons-600-306x1024.png 306w" sizes="(max-width: 600px) 100vw, 600px" /></a>
 
-## <a href="https://tympanus.net/codrops/2016/08/19/freebie-water-sports-icons-svg/" target="_blank" rel="noopener">5- Water Sport Icons (SVG)</a>
+## <a href="https://tympanus.net/codrops/2016/08/19/freebie-water-sports-icons-svg/" target="_blank" rel="noopener">5- Water Sport Icons (SVG) - Melhores ícones de graça 2018</a>
 
 <a href="https://tympanus.net/codrops/2016/08/19/freebie-water-sports-icons-svg/" target="_blank" rel="noopener"><img class="size-full wp-image-293 aligncenter" src="/images/uploads/2016/12/Freebie_WaterSports_800x600.jpg" alt="icones gratuitos watersports" width="800" height="600" srcset="/images/uploads/2016/12/Freebie_WaterSports_800x600.jpg 800w, /images/uploads/2016/12/Freebie_WaterSports_800x600-300x225.jpg 300w, /images/uploads/2016/12/Freebie_WaterSports_800x600-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></a>
 
@@ -55,7 +54,7 @@ Se tiver alguma outra sugestão de um pack de ícones bacana, não deixe de nos 
 
 <a href="https://tympanus.net/codrops/2016/12/16/freebie-kitchen-tools-ai-eps-svg-png/" target="_blank" rel="noopener"><img class="size-full wp-image-294 aligncenter" src="/images/uploads/2016/12/Kitchen-Icons_Full.jpg" alt="icones gratuitos Kitchen icons" width="650" height="650" srcset="/images/uploads/2016/12/Kitchen-Icons_Full.jpg 650w, /images/uploads/2016/12/Kitchen-Icons_Full-150x150.jpg 150w, /images/uploads/2016/12/Kitchen-Icons_Full-300x300.jpg 300w" sizes="(max-width: 650px) 100vw, 650px" /></a>
 
-## <a href="https://dribbble.com/shots/2482432-Mini-Material-Free-iconset-Vol1" target="_blank" rel="noopener">7- Mini Material Iconset vol 1 (AI)</a>
+## <a href="https://dribbble.com/shots/2482432-Mini-Material-Free-iconset-Vol1" target="_blank" rel="noopener">7- Ícones de graça - Mini Material Iconset vol 1 (AI)</a>
 
 <a href="https://dribbble.com/shots/2482432-Mini-Material-Free-iconset-Vol1" target="_blank" rel="noopener"><img class="size-full wp-image-295 aligncenter" src="/images/uploads/2016/12/mini_material_icons_by_iftikharshaikh.png" alt="icones gratuitos mini material icons" width="800" height="600" srcset="/images/uploads/2016/12/mini_material_icons_by_iftikharshaikh.png 800w, /images/uploads/2016/12/mini_material_icons_by_iftikharshaikh-300x225.png 300w, /images/uploads/2016/12/mini_material_icons_by_iftikharshaikh-768x576.png 768w" sizes="(max-width: 800px) 100vw, 800px" /></a>
 
@@ -75,15 +74,15 @@ Se tiver alguma outra sugestão de um pack de ícones bacana, não deixe de nos 
 
 <a href="https://speckyboy.com/freebie-100-icons-png-svg/" target="_blank" rel="noopener"><img class="size-full wp-image-299 aligncenter" src="/images/uploads/2016/12/ui_interface_icon_set_screenshot.jpg" alt="icones gratuitos ui Interface icon set" width="750" height="3983" /></a>
 
-## <a href="https://pixelbuddha.net/freebie/25-design-and-shapes-icons" target="_blank" rel="noopener">12- Design & Shapes Icons (AI, EPS, SVG, PNG)</a>
+## <a href="https://pixelbuddha.net/freebie/25-design-and-shapes-icons" target="_blank" rel="noopener">12- Design & Shapes Icons (AI, EPS, SVG, PNG) - Ícones gratuitos</a>
 
 <a href="https://pixelbuddha.net/freebie/25-design-and-shapes-icons" target="_blank" rel="noopener"><img class="size-full wp-image-300 aligncenter" src="/images/uploads/2016/12/freebie-slide-1459153599-1.jpg" alt="icones gratuitos design e shape icons" width="680" height="2113" srcset="/images/uploads/2016/12/freebie-slide-1459153599-1.jpg 659w, /images/uploads/2016/12/freebie-slide-1459153599-1-97x300.jpg 97w, /images/uploads/2016/12/freebie-slide-1459153599-1-330x1024.jpg 330w" sizes="(max-width: 680px) 100vw, 680px" /></a>
 
-## <a href="https://dribbble.com/shots/2649500-40-Design-Icons" target="_blank" rel="noopener">13- Icons for Designers (AI, EPS, SVG & PNG)</a>
+## <a href="https://dribbble.com/shots/2649500-40-Design-Icons" target="_blank" rel="noopener">13- Icons for Designers 2018 (AI, EPS, SVG & PNG)</a>
 
 <a href="https://dribbble.com/shots/2649500-40-Design-Icons" target="_blank" rel="noopener"><img class="size-full wp-image-301 aligncenter" src="/images/uploads/2016/12/preview.jpg" alt="icones gratuitos icons for designers" width="800" height="600" srcset="/images/uploads/2016/12/preview.jpg 800w, /images/uploads/2016/12/preview-300x225.jpg 300w, /images/uploads/2016/12/preview-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></a>
 
-## [14- The Art Tools Icon Set (AI, SVG & PNG)][1]
+## [14- The Art Tools Icon Set (AI, SVG & PNG)](https://speckyboy.com/art-tools-free-icon-set/)
 
 <a href="https://speckyboy.com/art-tools-free-icon-set/" target="_blank" rel="noopener"><img class="size-full wp-image-302 aligncenter" src="/images/uploads/2016/12/art-tools-icon-set-free-ai-svg.jpg" alt="icones gratuitos the art tools" width="750" height="2703" srcset="/images/uploads/2016/12/art-tools-icon-set-free-ai-svg.jpg 568w, /images/uploads/2016/12/art-tools-icon-set-free-ai-svg-83x300.jpg 83w, /images/uploads/2016/12/art-tools-icon-set-free-ai-svg-284x1024.jpg 284w" sizes="(max-width: 750px) 100vw, 750px" /></a>
 
@@ -103,7 +102,7 @@ Se tiver alguma outra sugestão de um pack de ícones bacana, não deixe de nos 
 
 <a href="http://www.graphicsfuel.com/2016/03/point-square-color-icons-pack/" target="_blank" rel="noopener"><img class="size-full wp-image-306 aligncenter" src="/images/uploads/2016/12/Point-Square-Color-Icons.jpg" alt="icones gratuitos point square color" width="1000" height="4644" srcset="/images/uploads/2016/12/Point-Square-Color-Icons.jpg 441w, /images/uploads/2016/12/Point-Square-Color-Icons-768x3567.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></a>
 
-## <a href="http://citysets.co.uk/" target="_blank" rel="noopener">19- Citysets &#8211; City-Based Icons (Illustrator & Sketch)</a>
+## <a href="http://citysets.co.uk/" target="_blank" rel="noopener">19- Citysets – City-Based Icons (Illustrator & Sketch)</a>
 
 <a href="http://citysets.co.uk/" target="_blank" rel="noopener"><img class="size-full wp-image-307 aligncenter" src="/images/uploads/2016/12/Screenshot_4-3.jpg" alt="icones gratuitos City-Based icons" width="1201" height="492" srcset="/images/uploads/2016/12/Screenshot_4-3.jpg 1201w, /images/uploads/2016/12/Screenshot_4-3-300x123.jpg 300w, /images/uploads/2016/12/Screenshot_4-3-768x315.jpg 768w, /images/uploads/2016/12/Screenshot_4-3-1024x419.jpg 1024w" sizes="(max-width: 1201px) 100vw, 1201px" /></a>
 
@@ -119,10 +118,8 @@ Se tiver alguma outra sugestão de um pack de ícones bacana, não deixe de nos 
 
 <a href="https://tympanus.net/codrops/2016/02/18/freebie-pollution-energy-icons/" target="_blank" rel="noopener"><img class="size-full wp-image-310 aligncenter" src="/images/uploads/2016/12/pollutioniconset.jpg" alt="icones gratuitos pullution e energy" width="800" height="600" srcset="/images/uploads/2016/12/pollutioniconset.jpg 800w, /images/uploads/2016/12/pollutioniconset-300x225.jpg 300w, /images/uploads/2016/12/pollutioniconset-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></a>
 
-Espero que tenha gostado dessa breve seleção de alguns dos melhores packs de ícones gratuitos para download disponíveis. Se você tiver alguma sugestão ou comentário não deixe de escrever abaixo e vamos conversar!
+Espero que tenha gostado dessa breve seleção de alguns dos melhores packs de ícones gratuitos para download disponíveis para 2018. Se você tiver alguma sugestão ou comentário não deixe de escrever abaixo e vamos conversar!
 
-&nbsp;
+ 
 
 Divirta-se!
-
- [1]: https://speckyboy.com/art-tools-free-icon-set/
