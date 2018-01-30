@@ -1,7 +1,7 @@
 ---
 title: Melhores Fontes Gratuitas para Fevereiro 2018
 author: André Lucas
-date: 2016-06-24 03:01:43 +0000
+date: 2018-01-30 00:01:43 -0200
 url: "/melhores-fontes-gratuitas-para-fevereiro-2018"
 featured_image: uploads/2016/06/fonte_gratuita_junho_09
 featured_image_extension: jpg
