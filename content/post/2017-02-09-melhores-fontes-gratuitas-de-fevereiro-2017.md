@@ -1,33 +1,32 @@
 ---
 title: Melhores fontes gratuitas de Fevereiro 2017
 author: André Lucas
-type: post
-date: 2017-02-09T19:44:13+00:00
-url: /melhores-fontes-gratuitas-de-fevereiro-2017/
+date: 2017-02-09 19:44:13 +0000
+url: "/melhores-fontes-gratuitas-de-fevereiro-2017/"
 featured_image: uploads/2017/02/fonte_gratuita_2017_3.png
 featured_image_extension: jpg
 mvp_post_template:
-  - def
+- def
 mvp_featured_image:
-  - hide
+- hide
 post_views_count:
-  - 1250
+- 1250
 categories:
-  - Design
+- Design
 tags:
-  - destaque
-  - download
-  - fontes
-  - fontes gratuitas
-  - free
-  - grátis
-  - gratuito
-  - tipografia
+- destaque
+- download
+- fontes
+- fontes gratuitas
+- free
+- grátis
+- gratuito
+- tipografia
 
 ---
 O ano começou forte e já estamos em Fevereiro de 2017. Isso significa que então que temos mais recomendações de fontes gratuitas para você fazer o download. A tipografia continua sendo um dos recursos mais importantes para a criação de peças de design, websites e textos. Para isso vamos recomendar tanto algumas fontes mais fáceis de serem usadas quanto algumas um pouco mais ousadas.
 
-**Atualização:** [Novo artigo com com vária fontes grátis para baixar e alguns sites para pesquisar fontes gratuitas.][1]
+**Atualização:** [Novo artigo com com vária fontes grátis para baixar e alguns sites para pesquisar fontes gratuitas.](https://www.igluonline.com/fontes-gratis-para-baixar-e-usar-no-photoshop-e-word-um-guia-completo/)
 
 Você poderá baixar todas elas gratuitamente.
 
@@ -71,25 +70,22 @@ Nomes de fontes são bens estranhos e essa fonte aqui não é diferente (princip
 
 <a href="http://mattcolewilson.weebly.com/podriq.html" target="_blank"><img class=" wp-image-488 aligncenter" src="/images/uploads/2017/02/fonte_gratuita_2017_6.png" alt="" width="911" height="512" srcset="/images/uploads/2017/02/fonte_gratuita_2017_6.png 1100w, /images/uploads/2017/02/fonte_gratuita_2017_6-300x169.png 300w, /images/uploads/2017/02/fonte_gratuita_2017_6-768x431.png 768w, /images/uploads/2017/02/fonte_gratuita_2017_6-1024x575.png 1024w" sizes="(max-width: 911px) 100vw, 911px" /></a>
 
-## [Fonte Animada Aquatico][2]
+## [Fonte Animada Aquatico](http://www.dpalmermotion.com/freefont)
 
 Então, se fontes estáticas é chato demais para você, talvez utilizar uma fonte animada para seu próximo design seja uma boa saída. Estou adicionando uma fonte animada aqui nessa lista para finalizar com estilo, mas vale a pena lembrar que ela não se usa como qualquer outra fonte. **Precisa do After Effects para criar algo com ela.**
 
 <a href="http://www.dpalmermotion.com/freefont" target="_blank"><img class=" wp-image-489 aligncenter" src="/images/uploads/2017/02/fonte_gratuita_2017_fonte-animada.gif" alt="" width="933" height="428" /></a>
 
-&nbsp;
+ 
 
 Espero que tenha gostado dessa seleção de fontes gratuitas para o mês de Fevereiro! **Se você sabe de alguém que pode curtir também não deixe de compartilhar 🙂**
 
 Não deixe de conferir essas outras fontes:
 
-<a href="https://www.igluonline.com/fontes-gratis-para-baixar-e-usar-no-photoshop-e-word-um-guia-completo/" target="_blank">Fontes gratis para baixar e usar no Photoshop e Word &#8211; Um guia completo</a>
+<a href="https://www.igluonline.com/fontes-gratis-para-baixar-e-usar-no-photoshop-e-word-um-guia-completo/" target="_blank">Fontes gratis para baixar e usar no Photoshop e Word – Um guia completo</a>
 
 <a href="https://www.igluonline.com/melhores-fontes-gratuitas-de-junho-2016/" target="_blank">Melhores Fontes Gratuitas de Junho 2016</a>
 
-<a href="https://www.igluonline.com/melhores-fontes-gratuitas-para-comecar-2017/" target="_blank">A melhores fontes gratuitas para começar 2017</a>
+<a href="https://www.igluonline.com/melhores-fontes-gratuitas-para-comecar-2018/" target="_blank">A melhores fontes gratuitas para começar 2018</a>
 
 Divirta-se!
-
- [1]: https://www.igluonline.com/fontes-gratis-para-baixar-e-usar-no-photoshop-e-word-um-guia-completo/
- [2]: http://www.dpalmermotion.com/freefont

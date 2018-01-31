@@ -85,8 +85,6 @@ A fonte Hane é uma fonte de vetor inspirada na vida na cidade, senso suas letra
 
 <a href="http://www.kursatunsal.com/hane-font" target="_blank" rel="noopener"><img class=" wp-image-230 aligncenter" src="/images/uploads/2016/12/hane-1.gif" alt="fonte gratuita hane" width="1163" height="818" /></a>
 
- 
-
 Espero que tenha gostado dessa seleção de fontes gratuitas! Se você tiver alguma outra sugestão de fontes ou mesmo criar algo com alguma dessas fontes por favor deixe abaixo nos comentários.
 
 Não deixe de conferir essas outras fontes:
@@ -95,8 +93,4 @@ Não deixe de conferir essas outras fontes:
 
 <a href="https://www.igluonline.com/melhores-fontes-gratuitas-de-fevereiro-2017/" target="_blank" rel="noopener">Melhores fontes gratuitas de Fevereiro 2017</a>
 
-Melhores Fontes Gratuitas de Junho 2016
-
 Divirta-se!
-
- 
