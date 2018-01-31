@@ -7,6 +7,10 @@ enableRobotsTXT = true
 defaultContentLanguage = "pt"
 [blackfriday]
 hrefTargetBlank = true
+aliases = [
+    "/como-se-tornar-um-desenvolvedor-web-em-2017/",
+    "/como-se-tornar-um-desenvolvedor-web-em-2018/"
+]
 [params]
 date_format = "0002-01-20T00:00:00+00:00"
 description = "Iglu é um blog para designers, programadores e freelancers com o foco em compartilhar recursos, tutoriais, informações e dicas."
@@ -29,7 +33,3 @@ category = "categories"
 tag = "tags"
 [author]
 name = "André Lucas"
-aliases = [
-    "/como-se-tornar-um-desenvolvedor-web-em-2017/",
-    "/como-se-tornar-um-desenvolvedor-web-em-2018/"
-]
