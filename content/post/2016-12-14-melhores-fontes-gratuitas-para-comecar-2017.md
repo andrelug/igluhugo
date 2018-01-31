@@ -25,6 +25,8 @@ tags:
 - grátis
 - gratuito
 disqus: true
+aliases:
+- /melhores-fontes-gratuitas-para-comecar-2017/
 
 ---
 Estamos chegando no final de 2017 e o novo ano pede também novas opções de fontes para nossos trabalhos. Todos temos aquelas fontes que não abandonamos, mas de tempos em tempos faz parte do processo nos atualizar com novas opções. Nesse artigo vou apresentar algumas fontes gratuitas que acredito farão total diferença na criação de novas peças, projetos e designs em 2018.

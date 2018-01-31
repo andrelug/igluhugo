@@ -2,7 +2,7 @@
 title: Melhores Fontes Gratuitas para Fevereiro 2018
 author: André Lucas
 date: 2018-01-30 00:01:43 -0200
-url: "/melhores-fontes-gratuitas-para-fevereiro-2018"
+url: "/melhores-fontes-gratuitas-para-fevereiro-2018/"
 featured_image: uploads/2016/06/fonte_gratuita_junho_09
 featured_image_extension: jpg
 mvp_post_template:
@@ -19,6 +19,8 @@ tags:
 - freebies
 - gratuito
 - tipografia
+aliases:
+- /melhores-fontes-gratuitas-de-junho-2016/
 
 ---
 Bem vindo(a) à nossa série de fontes bacanas para download gratuito em 2018 que estão disponíveis para deixar nossas criações mais bonitas sem precisar afetar o bolso. Tipografia é um dos elementos mais importantes para a criação de peças de design e websites, sem contar que uma boa combinação de fontes torna qualquer leitura mais agradável.
