@@ -1,15 +1,16 @@
 +++
 author = "André Lucas"
 categories = ["Desenvolvimento Web"]
-date = "2017-05-02T14:56:57+00:00"
+date = "2018-01-31T11:56:57-02:00"
+disqus = false
 hugo_image = "images/uploads/2017/05/02/roadmap_webdevelopment_2017.jpg"
-tags = ["roadmap", "programação", "2017", "currículo", "desenvolvimento de websites"]
-title = "Como se tornar um desenvolvedor web em 2017"
-url = "/como-se-tornar-um-desenvolvedor-web-em-2017/"
+tags = ["roadmap", "programação", "currículo", "desenvolvimento de websites", "2018"]
+title = "Como se tornar um desenvolvedor web em 2018"
+url = "/como-se-tornar-um-desenvolvedor-web-em-2018/"
 youtube = ""
 
 +++
-Como se tornar um desenvolvedor web em 2017 é uma pergunta cada vez mais complicada de responder. De um lado temos a universidade e os cursos da ciência da computação, de outro os autodidatas que se aventuram online para aprender esse ofício.
+Como se tornar um desenvolvedor web em 2018 é uma pergunta cada vez mais complicada de responder. De um lado temos a universidade e os cursos da ciência da computação, de outro os autodidatas que se aventuram online para aprender esse ofício.
 
 Nesse artigo trago tanto minha experiência quanto recursos de outras pesquisas para ajudar a responder essa questão. Me inspirei muito no <a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank" rel="noopener">artigo de Kamran Ahmed</a> e também do <a href="https://www.youtube.com/watch?v=sBzRwzY7G-k"  target="_blank" rel="noopener">vídeo do Leancode.academy</a>. Também trouxe algumas de minhas experiências dos últimos 6 anos na área para tentar deixar mais claro o caminho que alguém hoje tem que passar para ser um desenvolvedor web.
 
@@ -72,15 +73,12 @@ Aliando essa capacidade de aprender sozinho com um caminho claro do que deve est
 Pensando no meu próprio caminho de aprendizado autodidata, os dois maiores desafios são:
 
 1. Persistência/disciplina
-
-1. Saber o que aprender
+2. Saber o que aprender
 
 A parte da disciplina eu posso ajudar com alguns desses artigos aqui no blog:
 
 * <a href="https://www.igluonline.com/8-dicas-para-ser-mais-produtivo/" target="_blank" rel="noopener">8 Dicas para ser mais produtivo</a>
-
 * <a href="https://www.igluonline.com/como-estruturar-seu-negocio-como-freelancer/" target="_blank" rel="noopener">Como estruturar seu negócio como Freelancer</a>
-
 * <a href="https://www.igluonline.com/voce-nao-e-sua-produtividade-diminua-velocidade/" target="_blank" rel="noopener">Você não é sua produtividade. Diminua a velocidade</a>
 
 Porém, disciplina e persistência é uma luta diária contra a procrastinação. A internet é um mar de possibilidades para distrair a cabeça, então aprender algumas técnicas de foco e bloqueio de distrações pode ajudar muito aqui.
@@ -93,30 +91,23 @@ Por exemplo, quando criei meu primeiro "Hello World" eu resolvi <a href="https:/
 
 É nesse ponto em específico que abaixo juntei várias fontes na criação de um diagrama de caminhos que podemos seguir para tornarmos desenvolvedores web. Passo por conceitos que precisamos aprende numa ordem que faz mais sentido do que simplesmente igual eu fiz: "na raça".
 
-## Como se tornar um desenvolvedor web em 2017
+## Como se tornar um desenvolvedor web em 2018
 
 Vamos então aos caminhos! Dividi aqui em 4 seções e cada uma também tem suas divisões. Podemos então dividir o aprendizado do desenvolvimento web nas seguintes categorias:
 
 1. Básico para qualquer caminho
-
-1. Front-end
-
-1. Back-end
-
-1. DevOps
+2. Front-end
+3. Back-end
+4. DevOps
 
 ### Legenda
 
 Nas imagens abaixo as cores significam o seguinte:
 
 * <span style="color:#7AA3E5">Azul</span>: Os caminhos principais
-
 * <span style="color:#E98E8B">Vermelho</span>: Os conhecimentos e conceitos recomendados
-
 * <span style="color:#E096E9">Rosa</span>: As opções dentro dos conceitos
-
 * <span style="color:#EBD95F">Amarelo</span>: Os conhecimentos e conceitos facultativos
-
 * Estrela: Minha recomendação pessoal
 
 **<a href="https://coggle.it/diagram/WP11XPh2zgABN0Rk" target="_blank" rel="noopener">O diagrama completo pode ser acessado por esse link.</a>**
