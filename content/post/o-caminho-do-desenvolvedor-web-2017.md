@@ -8,7 +8,9 @@ tags = ["roadmap", "programação", "currículo", "desenvolvimento de websites",
 title = "Como se tornar um desenvolvedor web em 2018"
 url = "/como-se-tornar-um-desenvolvedor-web-em-2018/"
 youtube = ""
-
+aliases = [
+    "/como-se-tornar-um-desenvolvedor-web-em-2017/"
+]
 +++
 Como se tornar um desenvolvedor web em 2018 é uma pergunta cada vez mais complicada de responder. De um lado temos a universidade e os cursos da ciência da computação, de outro os autodidatas que se aventuram online para aprender esse ofício.
 
