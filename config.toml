@@ -2,7 +2,7 @@ baseurl = "https://www.igluonline.com"
 languageCode = "pt-br"
 paginate = 4
 theme = "iglu"
-title = "Iglu: Design, Freelancers, Programação e Marketing Digital"
+title = "Iglu - Design, Programação e Trabalho Freelancer"
 enableRobotsTXT = true
 defaultContentLanguage = "pt"
 [blackfriday]
@@ -15,7 +15,7 @@ insta_comments = "{{comments}}"
 insta_img = "{{image}}"
 insta_likes = "{{likes}}"
 insta_link = "{{link}}"
-name = "Iglu: Design, Freelancers, Programação e Marketing Digital"
+name = "Iglu - Design, Programação e Trabalho Freelancer"
 [params.featured]
 hide = false
 [params.recentposts]

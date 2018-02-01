@@ -1,7 +1,7 @@
-name = "Iglu"
+name = "Iglu Online"
 license = "Creative Commons Attribution 3.0 Unported"
 licenselink = "//github.com/andrelug/igluhugo/blob/master/LICENSE.md"
-description = "Iglu é o melhor lugar para tutoriais sobre Design, Photoshop, Programação, Markegin Digital e Freelance."
+description = "Tutoriais e artigos sobre Design, Photoshop, Programação e trabalho Freelancer ou autônomo."
 homepage = "https://www.igluonline.com"
 tags = ["design", "programação", "web development", "freelancer", "blog", "iglu"]
 features = ["", ""]
