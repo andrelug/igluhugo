@@ -90,4 +90,4 @@ O Importante é você entender aquilo que te disse lá em cima... Lead Magnet é
 
 E lembre-se: Procure formas variadas de entregar seus _Freemiuns._
 
-Se quiser saber outra forma muito boa de atrair Leads Qualificados, dá uma olhadinha nesse Post "Site, um Grande e Completo Lead Magnet" que também tem ótimas dicas de usar o que você já tem, de forma que atraia mais Leads Qualificados.
+Se quiser saber outra forma muito boa de atrair Leads Qualificados, dá uma olhadinha nesse Post "[Site, um Grande e Completo Lead Magnet](https://www.igluonline.com/site--um-grande-e-completo-lead-magnet/)" que também tem ótimas dicas de usar o que você já tem, de forma que atraia mais Leads Qualificados.
