@@ -2,7 +2,7 @@
 author = "Marcos Waltenberg"
 categories = ["Marketing Digital"]
 date = "2018-02-01T15:02:22+00:00"
-disqus = true
+disqus = false
 hugo_image = "images/uploads/2018/02/01/lead_magnet_poder_organico_do_seu_site.jpg"
 tags = ["Lead magnet", "Marketing de conteúdo"]
 title = "Lead Magnet, aumente o Poder Orgânico do seu Site!"
