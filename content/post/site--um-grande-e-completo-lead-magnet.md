@@ -2,7 +2,7 @@
 author = "Marcos Waltenberg"
 categories = ["Marketing Digital"]
 date = "2018-02-01T18:02:15+00:00"
-disqus = true
+disqus = false
 hugo_image = "images/uploads/2018/02/01/lead_magnet_websites-1.jpg"
 tags = ["Marketing de conteúdo", "marketing", "lead magnet"]
 title = "Site, um Grande e Completo Lead Magnet"
