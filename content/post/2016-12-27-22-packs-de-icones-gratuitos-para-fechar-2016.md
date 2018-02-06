@@ -23,8 +23,6 @@ tags:
 youtube: ''
 disqus: true
 hugo_image: ''
-aliases:
-- /22-packs-de-icones-gratuitos-para-fechar-2016/
 
 ---
 Design de ícones desenvolve da mesma forma que na área gráfica, de moda ou interiores. Estilos vão e voltam e aqui vamos apresentar alguns packs (pacotes) gratuitos de ícones para você baixar e começar 2018 cheio de opções para seus projetos. Os packs abaixo representam algumas tendências que foram presentes ao longo do ano e que no próximo ano continuarão sendo bem interessantes.

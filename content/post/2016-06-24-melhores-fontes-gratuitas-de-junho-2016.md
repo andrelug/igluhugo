@@ -19,8 +19,6 @@ tags:
 - freebies
 - gratuito
 - tipografia
-aliases:
-- /melhores-fontes-gratuitas-de-junho-2016/
 
 ---
 Bem vindo(a) à nossa série de fontes bacanas para download gratuito em 2018 que estão disponíveis para deixar nossas criações mais bonitas sem precisar afetar o bolso. Tipografia é um dos elementos mais importantes para a criação de peças de design e websites, sem contar que uma boa combinação de fontes torna qualquer leitura mais agradável.
