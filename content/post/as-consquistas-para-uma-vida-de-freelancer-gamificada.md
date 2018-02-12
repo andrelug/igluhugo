@@ -84,7 +84,7 @@ Não significa que todo freelancer trabalha de cueca ou calcinha e sutiã. Mas t
 
 ![](images/uploads/2018/02/12/conquista_gamificação_conversou_com_alguem_pessoalmente_hoje_freelancer.jpg)
 
-Infelizmente essa é uma realidade de muitos freelancers ou profissionais autônomos. Tem momentos que passamos horas, dias ou até semanas com pouca interação social uma vez que nosso ambiente pessoal e profissional são o mesmo.
+Infelizmente essa é uma realidade de muitos freelancers ou profissionais autônomos. Tem momentos que passamos horas, dias ou até semanas com pouca interação social uma vez que nosso ambiente pessoal e profissional é o mesmo.
 
 A solidão é um dos fatores que hoje considero mais complicados para uma vida como freelancer. Mesmo eu sendo casado e minha esposa também trabalhando em casa, sentimos falta de ter contato com outras pessoas diferentes.
 
