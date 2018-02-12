@@ -28,7 +28,7 @@ Naturalmente há profissionais que não executam, atrasam ou deixam os clientes 
 
 ![](images/uploads/2018/02/12/conquista_gamificação_saiu_de_casa_freelancer.jpg)
 
-Essa conquista, no meu caso, tem até um efeito de vitória para minha família toda - minha esposa em especial ;). Se tem algo que grande parte dos profissionais freelancers acabam fazendo é ficando em casa demais.
+Essa conquista, no meu caso, tem até um efeito de vitória para minha família toda - minha esposa em especial ;). Se tem algo que grande parte dos profissionais freelancers acabam fazendo é ficar em casa demais.
 
 Apesar de quase cômico isso, mês passado fui diagnosticado pela segunda vez nos últimos 5 anos com deficiência de Vitamina D! E olha que já tem 6 meses que praticamente só moro em região de praia pelo [projeto Mini-vidas](https://www.igluonline.com/projeto-mini-vidas-trabalho-remoto-como-nomade-digital/). Acaba que se não tenho uma razão muito forte para sair de casa durante o dia eu fico sem sol e dá nisso. Só fazendo um jogo e colocando uma conquista dessa para mudar o hábito.
 
