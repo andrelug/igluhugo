@@ -1,39 +1,38 @@
 ---
-title: 8 blibiotecas de Javascript para ficar de olho 2017
+title: 8 bibliotecas de Javascript para ficar de olho 2018
 author: André Lucas
-type: post
-date: 2017-01-02T19:15:57+00:00
-url: /8-blibiotecas-de-javascript-para-ficar-de-olho-2017/
+date: 2018-02-22 00:11:13 -0300
+url: "/8-bibliotecas-de-javascript-para-ficar-de-olho-2018/"
 featured_image: uploads/2017/01/JavaScript_AprendaOnline-1050x600
 featured_image_extension: jpg
 mvp_post_template:
-  - def
+- def
 mvp_featured_image:
-  - show
+- show
 post_views_count:
-  - 593
+- 593
 categories:
-  - Desenvolvimento Web
+- Desenvolvimento Web
 tags:
-  - bibliotecas
-  - cms
-  - ferramentas
-  - frameworks
-  - javascript
+- bibliotecas
+- cms
+- ferramentas
+- frameworks
+- javascript
 
 ---
-JavaScript é a linguagem da web e cada vez mais está se tornando um dos recursos mais importantes de programadores web e até mobile &#8211; mesmo com os inúmeros problemas de estruturas e, principalmente, de achar bugs.
+JavaScript é a linguagem da web e cada vez mais está se tornando um dos recursos mais importantes de programadores web e até mobile – mesmo com os inúmeros problemas de estruturas e, principalmente, de achar bugs.
 
 Com milhares de bibliotecas disponíveis, entre elas algumas clássicas como jQuery, fica difícil hoje escolher algum recurso para aprendermos com receio que outro se tornará mais requisitado no mercado ou que o que você escolheu irá ser obsoleto em alguns poucos meses.
 
-Nesse artigo vamos ver alguma das bibliotecas que imaginamos que não só crescerão mais do que já são hoje quanto são boas apostas para gastar o tempo e aprender mais a fundo como usar e ganhar um ponto na competição no mercado de trabalho.
+Nesse artigo vamos ver alguma das bibliotecas que imaginamos que não só crescerão mais do que já são hoje quanto são boas apostas para gastar o tempo e aprender mais a fundo como usar e ganhar um ponto na competição no mercado de trabalho. em 2018
 
 <div id="attachment_333" style="width: 1035px" class="wp-caption aligncenter">
-  <img class=" wp-image-333" src="/images/uploads/2017/01/jstips-header-blog.gif" alt="" width="1025" height="448" />
+<img class=" wp-image-333" src="/images/uploads/2017/01/jstips-header-blog.gif" alt="" width="1025" height="448" />
 
-  <p class="wp-caption-text">
-    Fonte da imagem: <a href="http://dinki.com.br/blog/index.php/2016/07/08/entendendo-a-criacao-e-instanciacao-de-variaveis-no-javascript/" target="_blank">dinki</a>
-  </p>
+<p class="wp-caption-text">
+Fonte da imagem: <a href="http://dinki.com.br/blog/index.php/2016/07/08/entendendo-a-criacao-e-instanciacao-de-variaveis-no-javascript/" target="_blank">dinki</a>
+</p>
 </div>
 
 ## <a href="https://nodejs.org/en/" target="_blank">1- Node.js</a>
@@ -44,7 +43,7 @@ Com o Node.js você pode criar sites que performam bem e são simples de colocar
 
 Frameworks, CMS e outras ferramentas estão constantemente sendo atualizadas e melhoradas, fazendo do ambiente em torno dessa tecnologia uma experiência de desenvolvimento incrível.
 
-## <a href="http://www.createjs.com/" target="_blank">2- Create.js</a>
+## <a href="http://www.createjs.com/" target="_blank">2- Biblioteca JavaScript Create.js</a>
 
 <img class="size-full wp-image-334 aligncenter" src="/images/uploads/2017/01/createjs.jpg" alt="" width="900" height="370" srcset="/images/uploads/2017/01/createjs.jpg 900w, /images/uploads/2017/01/createjs-300x123.jpg 300w, /images/uploads/2017/01/createjs-768x316.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />
 
@@ -68,9 +67,9 @@ Existe até um framework chamado <a href="http://www.telescopeapp.org/" target="
 
 Meteor é um monstro com centenas de funcionalidades. Você pode até gerar aplicativos para Android, Windows Phone e iPhone a partir do mesmo código da web com o uso de comandos no terminal ou prompt de comando. Vale muito a pena começar a dar uma olhada mais séria nessa plataforma para seu próximo projeto, mas já fica o aviso que ela não é tão simples e requer um conhecimento de JavaScript mais profundo para realmente tirar proveito de suas funcionalidades.
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
 ## <a href="http://www.chartjs.org/" target="_blank">5- Chart.js</a>
 
@@ -78,17 +77,17 @@ Com o Chart.js você tem a possibilidade de criar gráficos em linha, bolhas, ba
 
 Vale a pena mencionar também que ela tem uma documentação muito boa, clara e simples e também é um projeto de código aberto (open source).
 
-&nbsp;
+ 
 
 ## <a href="https://webvr.info/" target="_blank">6- WebVR</a>
 
-Realidade virtual está na moda e parece que tudo agora tem que mexer com essa tecnologia para ser &#8220;legal&#8221;. Centenas de aplicativos, jogos e até websites já estão utilizando dessa ferramenta para trazer um nível de interação impressionante. Por esse motivo naturalmente alguma biblioteca de JavaScript haveria de nascer proporcionando uma experiência mais simples na implementação da realidade virtual nos navegadores.
+Realidade virtual está na moda e parece que tudo agora tem que mexer com essa tecnologia para ser “legal”. Centenas de aplicativos, jogos e até websites já estão utilizando dessa ferramenta para trazer um nível de interação impressionante. Por esse motivo naturalmente alguma biblioteca de JavaScript haveria de nascer proporcionando uma experiência mais simples na implementação da realidade virtual nos navegadores.
 
 WebVR funciona com a maioria dos aparelhos de realidade virtual mais populares, como o Oculus Rift e o The Vive, mas ainda é um programa em desenvolvimento. Sua API é open source e está constantemente sendo testada em navegadores modernos para trazer uma experiência otimizada nos aparelhos suportados.
 
 Se essa é uma área que você tem interesse, com certeza pode aproveitar muito dos recursos já disponíveis do WebVR.
 
-## <a href="https://threejs.org/" target="_blank">7- Three.js</a>
+## <a href="https://threejs.org/" target="_blank">7- Three.js - Biblioteca JS 2018</a>
 
 <img class="size-full wp-image-336 aligncenter" src="/images/uploads/2017/01/Screenshot_4.jpg" alt="" width="940" height="566" srcset="/images/uploads/2017/01/Screenshot_4.jpg 940w, /images/uploads/2017/01/Screenshot_4-300x181.jpg 300w, /images/uploads/2017/01/Screenshot_4-768x462.jpg 768w, /images/uploads/2017/01/Screenshot_4-450x270.jpg 450w, /images/uploads/2017/01/Screenshot_4-150x90.jpg 150w" sizes="(max-width: 940px) 100vw, 940px" />
 
@@ -98,9 +97,9 @@ Felizmente bibliotecas como a Three.js estão aí e fazem esse processo ser bem 
 
 Mexer com essa plataforma não é necessariamente fácil, mas você encontrará muitos recursos para dar seu start na criação de efeitos e objetos 3D logo de cara.
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
 ## <a href="https://d3js.org/" target="_blank">8- D3.js</a>
 
@@ -110,16 +109,14 @@ Visualização de informações e dados está cada vez mais importante com o mai
 
 Ela é completamente gratuita para usar e é uma das ferramentas mais poderosas hoje em JavaScript para esse fim. Se você deseja algo moderno para renderizar informações no navegador não precisa procurar muito e vai direto aprender mais sobre a D3.js.
 
-&nbsp;
-
-Espero que tenham gostado dessa seleção de bibliotecas JavaScript para ficar de olho em 2017. Existem muitas outras que não mencionei, mas eventualmente imagino que devemos fazer uma parte 2 pois o ambiente JavaScript está incrível e se desenvolvendo muito rapidamente.
+Espero que tenham gostado dessa seleção de bibliotecas JavaScript para ficar de olho em 2018. Existem muitas outras que não mencionei, mas eventualmente imagino que devemos fazer uma parte 2 pois o ambiente JavaScript está incrível e se desenvolvendo muito rapidamente.
 
 Se você tem alguma sugestão, não deixe de comentar abaixo e vamos completar nossos conhecimentos!
 
-&nbsp;
+ 
 
 Divirta-se!
 
-&nbsp;
+ 
 
-&nbsp;
+ 
