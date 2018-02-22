@@ -3,8 +3,7 @@ author = "Juliana Saldanha"
 categories = ["Trabalho"]
 date = "2018-02-07T18:03:05+00:00"
 disqus = true
-draft = true
-hugo_image = ""
+hugo_image = "images/uploads/2018/02/08/giphy.gif"
 tags = ["Freelancer", "Personal Branding", "Marca pessoal"]
 title = "5 dicas de como investir em sua marca pessoal e ser único em seu mercado"
 url = "/5-dicas-de-como-investir-em-sua-marca-pessoal-e-ser-unico-em-seu-mercado/"
@@ -26,6 +25,8 @@ Muitos dos meus colaboradores são _freelancers_. E eu, como consultora, também
 Sou também usuária do _Upwork_ e por lá já contratei e orientei diversos profissionais de vários lugares do mundo. O que observo é um amadurecimento e definição cada vez maior de quem eles são e do que entregam de valor. A entrega por lá é clara e a promessa também. 
 
 E é disso que se trata a gestão da sua marca pessoal. É entender quem você é, como você se posiciona e o que você promete e entrega de valor ao outro. E a entrega consistente de uma promessa é o que define uma marca forte. E o que uma marca forte deixa de ser é uma commodity, brigando em seu meio apenas por preço. 
+
+Leia mais: [O que é Personal Branding x Marketing Pessoal](http://julianasaldanha.com.br/o-que-e-personal-branding-x-marketing-pessoal/) 
 
 Tom Peters, o primeiro a falar sobre o conceito, em 1997 já dizia que atualmente (isso em 97!) a nossa tarefa mais importante é ser CEO de uma empresa chamada **Você ltda**. 
 
@@ -49,7 +50,7 @@ Por que você? Além da sua credibilidade técnica e de resultados, por que trab
 
 ## 2) Adicione personalidade
 
-Foi se a época em que nos conectávamos e confiávamos em marcas institucionais sem emoções ou voz própria. O que dizer então de pessoas que se misturam ao cenário e não transmitem nenhum tipo de personalidade ou paixão? Elas desaparecem. Mesmo que suas habilidades sejam extraordinárias e as demandas continuem vindo sem trégua, não há porque não engajar e se conectar de maneira mais significativa com o seu público. Ter a sua própria comunidade ou evangelistas é o que diferenciam marcas fortes de outras. 
+Foi-se a época em que nos conectávamos e confiávamos em marcas institucionais sem emoções ou voz própria. O que dizer então de pessoas que se misturam ao cenário e não transmitem nenhum tipo de personalidade ou paixão? Elas desaparecem. Mesmo que suas habilidades sejam extraordinárias e as demandas continuem vindo sem trégua, não há porque não engajar e se conectar de maneira mais significativa com o seu público. Ter a sua própria comunidade ou evangelistas é o que diferenciam marcas fortes de outras. 
 
 Qual a sua personalidade? Ela se transmite online, na sua imagem e na forma como você se relaciona? Qual a sua comunidade? No que você acredita? 
 
@@ -72,6 +73,8 @@ O objetivo aqui é que você seja um peixe grande em um aquário pequeno e domin
 Reflita: Existe algum público específico com o qual se identifica mais? Existe algum produto ou serviço no qual pode se especializar e com o tempo oferecer dezenas de cases para seus clientes? Ou será que alguma habilidade sua pode ser reforçada em suas entregas, mesmo que sejam variadas. 
 
 Marcas fortes são _tought leaders_ em suas áreas de atuação. Mas a sua área não precisa ser um mercado de massa. Você pode criar a sua e dominá-la. 
+
+Leia mais: [Posicionamento](http://julianasaldanha.com.br/posicionamento-essa-palavra-faz-parte-da-sua-rotina/) – Você tem definido ou ainda é  tudo para todos?
 
  
 
