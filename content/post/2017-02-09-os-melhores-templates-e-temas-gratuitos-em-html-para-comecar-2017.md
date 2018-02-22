@@ -1,41 +1,40 @@
 ---
-title: Os melhores templates e temas gratuitos em HTML para começar 2017
+title: Os melhores templates e temas gratuitos em HTML para começar 2018
 author: André Lucas
-type: post
-date: 2017-02-09T20:21:02+00:00
-url: /os-melhores-templates-e-temas-gratuitos-em-html-para-comecar-2017/
+date: 2018-02-22 00:08:07 -0300
+url: "/os-melhores-templates-e-temas-gratuitos-em-html-para-comecar-2018/"
 featured_image: uploads/2017/02/template_gratuito_html_2
 featured_image_extension: jpg
 mvp_post_template:
-  - def
+- def
 mvp_featured_image:
-  - hide
+- hide
 instant_articles_submission_id:
-  - 1316560551762017
+- 1316560551762017
 post_views_count:
-  - 777
+- 777
 categories:
-  - Desenvolvimento Web
-  - Design
+- Desenvolvimento Web
+- Design
 tags:
-  - baixar
-  - css
-  - download
-  - free
-  - grátis
-  - gratuito
-  - html
-  - javascript
-  - psd
-  - temas
-  - templates
+- baixar
+- css
+- download
+- free
+- grátis
+- gratuito
+- html
+- javascript
+- psd
+- temas
+- templates
 
 ---
-2017 já está por aqui e agora temos uma seleção com os melhores templates e temas gratuitos em HTML para ajudar você baixar e colocar seu website no ar. Os templates em HTML servem para inspiração, para aproveitar um pedaço deles no seu próprio site ou mesmo para os adaptar em algo com a identidade visual do seu projeto.
+2018 já está por aqui e agora temos uma seleção com os melhores templates e temas gratuitos em HTML para ajudar você baixar e colocar seu website no ar. Os templates em HTML servem para inspiração, para aproveitar um pedaço deles no seu próprio site ou mesmo para os adaptar em algo com a identidade visual do seu projeto.
 
 Não é possível garantir a boa qualidade de todos os templates online, mas os que estou publicando aqui foram selecionados não só pela sua beleza mas também pelas suas fontes e recomendações de qualidade. Então aproveite para fazer o download gratuito deles.
 
-<a href="https://www.igluonline.com/8-blibiotecas-de-javascript-para-ficar-de-olho-2017/" target="_blank">Confira também as melhores bibliotecas JavaScript para 2017.</a>
+<a href="https://www.igluonline.com/8-blibiotecas-de-javascript-para-ficar-de-olho-2018/" target="_blank">Confira também as melhores bibliotecas JavaScript para 2018.</a>
 
 ## <a href="http://freebiesbug.com/code-stuff/karmo-free-html-templates-agencies-creatives/" target="_blank">Template Gratuito Karmo</a>
 
@@ -73,24 +72,24 @@ Diferentemente dos outros templates gratuitos, você poderá fazer o download de
 
 <a href="https://github.com/BuckyMaler/Global" target="_blank"><img class=" wp-image-497 aligncenter" src="/images/uploads/2017/02/template_gratuito_html_2.jpg" alt="" width="917" height="451" srcset="/images/uploads/2017/02/template_gratuito_html_2.jpg 1423w, /images/uploads/2017/02/template_gratuito_html_2-300x148.jpg 300w, /images/uploads/2017/02/template_gratuito_html_2-768x378.jpg 768w, /images/uploads/2017/02/template_gratuito_html_2-1024x504.jpg 1024w" sizes="(max-width: 917px) 100vw, 917px" /></a>
 
-## <a href="http://freebiesbug.com/code-stuff/apollo-one-page-html-template-photographers/" target="_blank">Apollo &#8211; Template One Page para Fotógrafos em HTML</a>
+## <a href="http://freebiesbug.com/code-stuff/apollo-one-page-html-template-photographers/" target="_blank">Apollo – Template One Page para Fotógrafos em HTML</a>
 
 Esse template foi criado com os fotógrafos em mente. Apesar de poder ser utilizado em outras situações, aquelas pessoas que tiram fotos bonitas desse nosso mundo e pessoas poderão aproveitar muito mais na hora de baixar esse template de graça.
 
 <a href="http://freebiesbug.com/code-stuff/apollo-one-page-html-template-photographers/" target="_blank"><img class="size-full wp-image-498 aligncenter" src="/images/uploads/2017/02/apollo-html-onepage-website-template-580x435.jpg" alt="" width="580" height="435" srcset="/images/uploads/2017/02/apollo-html-onepage-website-template-580x435.jpg 580w, /images/uploads/2017/02/apollo-html-onepage-website-template-580x435-300x225.jpg 300w" sizes="(max-width: 580px) 100vw, 580px" /></a>
 
-&nbsp;
+ 
 
 Para acompanhar os designs acima, aproveite para dar uma olhada nessas coleções de fontes gratuitas:
 
-<a href="https://www.igluonline.com/fontes-gratis-para-baixar-e-usar-no-photoshop-e-word-um-guia-completo/" target="_blank">Fontes gratis para baixar e usar no Photoshop e Word &#8211; Um guia completo</a>
+<a href="https://www.igluonline.com/fontes-gratis-para-baixar-e-usar-no-photoshop-e-word-um-guia-completo/" target="_blank">Fontes gratis para baixar e usar no Photoshop e Word – Um guia completo</a>
 
 <a href="https://www.igluonline.com/melhores-fontes-gratuitas-de-fevereiro-2017/" target="_blank">Melhores fontes gratuitas de Fevereiro 2017</a>
 
-<a href="https://www.igluonline.com/melhores-fontes-gratuitas-para-comecar-2017/" target="_blank">A melhores fontes gratuitas para começar 2017</a>
+<a href="https://www.igluonline.com/melhores-fontes-gratuitas-para-comecar-2018/" target="_blank">A melhores fontes gratuitas para começar 2018</a>
 
-Espero que tenham gostado dessa seleção de templates e temas gratuitos que fizemos para esse início do ano de 2017. **Se você gostou você pode ajudar a Iglu a fazer mais desses artigos e seleções compartilhando esse artigo e comentando o que você mais gostaria que trouxéssemos por aqui.**
+Espero que tenham gostado dessa seleção de templates e temas gratuitos que fizemos para esse início do ano de 2018. **Se você gostou você pode ajudar a Iglu a fazer mais desses artigos e seleções compartilhando esse artigo e comentando o que você mais gostaria que trouxéssemos por aqui.**
 
-&nbsp;
+ 
 
 Divirta-se!
