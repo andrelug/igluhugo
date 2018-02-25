@@ -3,53 +3,101 @@ author = "André Lucas"
 categories = ["Trabalho", "Freelancer"]
 date = "2018-02-19T20:01:58+00:00"
 disqus = true
-draft = true
-hugo_image = ""
-tags = ["Portfólio"]
+hugo_image = "images/uploads/2018/02/25/pexels-photo-436784.jpeg"
+tags = ["Portfólio", "Estudo de caso", "Blog"]
 title = "O portfólio de freelancer perfeito. O que por nele?"
 url = "/o-portfolio-de-freelancer-perfeito.-o-que-por-nele/"
 youtube = ""
 
 +++
+Fazer um portfólio como freelancer na teoria é algo bem simples. Adicionamos o nosso nome, localização, alguns links para redes sociais, nosso e-mail de contato e prova do que somos capazes de fazer através de trabalhos antigos.
 
-1. 
-2. Your name, location and contact details.
-3. Examples of your past work.
+No entanto, na prática o quão efetivo é essa formatação básica? O que realmente é interessante explorar para que os potenciais clientes realmente acreditem que valha a pena entrar em contato?
 
-It’s pretty clear that most freelancers know what to put in their portfolio. But what they don’t know is that you can make it much easier to win work if they go further than the average freelancer.
+Ao longo dos anos pude testar, falhar, reformular e aprender com vários tipos de portfólios. De uma única página com os [básico mencionado acima](https://websites.igluonline.com/) a uma estrutura bem mais complexa que, inclusive, tem esse blog como parte.
 
-### Stories
+Nesse artigo vou destrinchar um pouco **aquilo que mais acredito que funciona para que você se legitime para seu potencial cliente**. Estratégias e reflexões para que sua presença online seja mais interessante e seu portfólio de freelancer organizado para converter leads.
 
-Case studies are non-fictional stories about **what you were hired to do, what challenges you faced, and what outcome you produced.** Clients care about the story because it gives them some context about what you do and what you can do for them. So case studies aren’t just pictures, text or code. They’re insight into how you work.
+## As histórias
 
-Whilst writing a case study, imagine you’re writing it for the 100 other similar companies that can benefit from your services. What do they want to know? Usually it’s a simple as solving a problem. But you should go into the specifics of why your solution solves their problems in the best way for their industry or product.
+[Contar uma história - storytelling](https://marketingdeconteudo.com/storytelling-guia/) - é uma prática de marketing muito bem conhecida e explorada por todo tipo de empresa ou instituição. As histórias prendem a atenção e geram uma vontade de 'saber mais', antecipação e também legitimidade.
 
-Here’s a really short example that takes you through a common request and outcome that I used to run into:
+No caso do portólio de um freelances, tem dois pontos principais que podemos explorar o storytelling.
 
-> SuchAndSuch Ltd. approached me to re-design their home page. We talked about what their goals were, and it turned out that sales had been dropping ever since a competitor had been outspending them on Adwords. I proposed that instead of re-designing their homepage, we try to do something to increase referral traffic. They were under a lot of pressure, and this solution would yield results quicker than increasing organic traffic. And obviously do much more for them than a homepage redesign would.
+### 1- História pessoal
 
-> Their product was very novel and easily shared, so I designed the UX flow for a referrals system. It rewarded anyone that shared their favourite products with their friends with a discount. This amounted to the equivalent that the client was spending to acquire a customer.
+Empresas que exploram sua história conseguem fazer com que sejam mais do que provedores de serviços ou vendedores de produtos. [Se você sabe o por quê ](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=pt-br)da existência de uma empresa, terá a crença de estar batalhando junto para a sua missão; e esse sentimento de pertencimento é muito poderoso. Pense na Apple e na história de como o Steve Jobs revolucionou vários mercados ou mesmo mais recentemente na Space X e como Elon Musk está buscando uma solução para a perpetuação da vida fora da terra. Essas histórias carregam sentidos e missões que transformam clientes em fãs, missionários ou evangelizadores.
 
-> It launched 4 weeks later when we emailed every past customer letting them know about the new offer. In the first 4 weeks after launch, they had cut their ad spend by 25% and increased organic traffic by 300%. Their sales revenue also increased 15% for the month following the launch.
+Como já comentei anteiormente, [todo freelancer é uma empresa](https://www.igluonline.com/esta-na-sua-hora-de-trabalhar-como-freelancer/). A diferença é que ao invés de contar a história de como criamos uma empresa, contamos nossa história e o por que resolvemos tomar o caminho que escolhemos.
 
-It addresses why I was hired, how I identified their deepest problems and helped fix them. It tells people how fast I fixed the problem and how I worked out how to make it affordable for their business.
+Se você já está inscrito na minha lista de e-mail, provavelmente já recebeu uma série de e-mails em que conto um pouco do por quê resolvi virar freelancer e como acredito que o trabalho deve ser cada vez mais livre, sem burocracias e não estressante. Se ainda não está na lista, basta deixar seu e-mail e nome nos campos ao lado.
 
-What if there aren’t any spectacular results? **As long as you address the clients goals and try to reach them, it’s a success.** Most of the work we do is experimental and iterative. People are smart enough to realise you can’t deliver amazing results in every situation — the key thing is how you worked with them and what state you left them in.
+A história de um freelancer pode carregar uma insatisfação com algum tipo de prática do mercado, uma vontade de viajar o mundo enquanto trabalha, uma crença de como será o futuro do trabalho ou qualquer outro ponto que expresse sua razão por ter seguido esse caminho.
 
-Most case studies I read on freelancers portfolios go as far as telling me the client name and services that were carried out. What clients really want to know is — what is it like to work with you.
+Um cliente que tem acesso a essa história vai te considerar de forma bem diferente de apenas um prestador de serviço e essa relação é bem mais interessante e duradoura para a confiança e legitimação.
 
-### Values
+### 2- História do seu portfólio freelancer
 
-Knowing what type of freelancer you are and what you stand for goes a long way to convincing someone to hire you. I’ve already written about [why you should write a manifesto](https://medium.com/workroll/why-all-freelancers-should-write-a-manifesto-with-examples-2d7e5c61d81f). The key thing to remember is that customers buy from people they feel most similar too (this is branding), so you can attract the right kind of clients by writing about your own values.
+Quando explicamos sobre a realização de um trabalho em geral damos o nome de **estudo de caso**, mas no fundo é basicamente mais uma história que contamos de como realizamos um determinado projeto. Quais foram os desafios que superamos, o que o cliente nos contratou para fazer e os resultados do nosso trabalho.
 
-### Pricing
+Clientes se importam profundamente om esse tipo de história pois elas contextualizam muito mais o que você pode fazer para o sucesso dos seus projetos. Estudos de caso não é apenas a junção de algumas imagens, textos e código. Eles servem como medidor do que você é capaz de fazer.
 
-An idea of price along with your services helps you attract the type of work you need. Most freelancers are concerned with turning off clients that you may still be able to help. Pricing is tricky. You should **try displaying prices within a range.** Add prices to your case studies to give people an idea of how much you cost in specific scenarios.
+Quando for escrever um estudo de caso para seu portfólio de freelancer, pense que está escrevendo para todos os outros próximos potenciais clientes com problemas e desafios similares ao que resolveu nesse caso específico. Em geral o principal ponto de destaque é como você conseguiu achar uma solução (técnica, financeira, estratégica) para os desafios que lhe foram propostos na hora da contratação.
 
-### Knowledge
+Vamos a alguns exemplos pessoais para servir de inspiração:
 
-Writing about what you’ve learnt is the best signal to a potential customer that you know what you’re doing. **Sharing what you know shows confidence in what you do.** You should aim to write a couple of articles on things you’ve tried and learnt from, for every project you’re involved in.
+> A _empresa X_ entrou em contato comigo para o desenvolvimento de uma plataforma de comparação de seguros. Conversamos para identificar quais eram os principais desafios para ser melhor do que os competidores. Um dos pontos mais críticos era a facilidade do fluxo de compra já era uma oportunidade em vista que alguns dos outros comparadores de seguro eram lentos e tinham várias páginas até a finalização da compra. Propus criarmos o fluxo inteiro em apenas uma página e garantir que sempre que o cliente visitasse posteriormente o site ele puxasse suas informações automaticamente para agilizar o processo. O resultado foi muito bom tanto para as taxas de conversão de compra quanto para a satisfação de seus clientes.
 
-### Action
+> _Empresa Y_ entrou em contato comigo para o redesenho de um website que queriam promover. Um dos grandes problemas é que o site antigo era muito lento e a velocidade era um aspecto muito importante para o projeto. Sugeri a criação de uma página estática e hospedá-la em um serviço chamado Netlify, garantindo não só a maior velocidade possível quanto um servidor para ela gratuito e com certificado de segurança também gratuito. A página anterior tinha um custo de até US$ 1000 em alguns momentos do ano e todo esse custo foi eliminado com essa solução.
 
-**Make it easy to start working with you.** There should be a call to action with every piece of your portfolio. The easier it is to start working with you, the more likely you are to receive inbound leads from potential customers.
+Esses exemplos explicam porque eu fui contratado, quais eram os problemas dos meus clientes e como eu ajudei tanto ao encontrar uma solução quanto a executar. Algo que é bem legal mostrar é que você entendeu perfeitamente quais eram os desafios, prioridades e preferências do cliente na hora de propôr as ações e estratégias. No meu caso específico eu tendo a sempre ter uma posição não só de execução, mas de questionamento e elaboração dos problemas. Eu evito pegar trabalhos de clientes que 'simplesmente querem algo do jeito deles' pois frequentemente esses trabalhos geram resultados ruins.
+
+Naturalmente nem todo projeto e trabalho tem resultados impactantes ou uma ação forte de nossa parte, mas desde que você atenda aos objetivos do clientes o resultado será sucesso.
+
+Alguns freelancers gostam até de colocar os nomes dos clientes, datas e outras informações assim. Contudo, sugiro focar naquilo que é mais importante: **como é a experiência de trabalhar com você**.
+
+## Valores
+
+Frequentemente nem pensamos nos nossos valores como pessoas e/ou profissionais. Você é religioso, sério, liberal, racional, detalhista e/ou vegano? O que te define? O que você tem como valor ou missão?
+
+Esse tipo de informação pode parecer secundária ou mesmo não relacionada com o portfólio, mas, ao contrário dessa crença, é uma informação [fundamental para sua marca pessoal](https://www.igluonline.com/5-dicas-de-como-investir-em-sua-marca-pessoal-e-ser-unico-em-seu-mercado/). O ponto chave aqui é lembrar que clientes tendem a contratar pessoas e empresas que são similares a eles(as).
+
+Colocar nossos valores em nosso portfólio serve tanto para que os clientes certos se identificarem mais conosco quanto para já eliminar aqueles que não compartilham daquilo que acreditamos.
+
+Uma forma de colocar isso disponível é escrever artigos sobre o que valorizamos.
+
+## Preço no portfólio de freelancer
+
+Esse é um ponto um tanto quanto delicado. A ideia de colocar o seu preço diretamente no portfólio pode atrair o tipo de trabalho que você precisa. Contudo, também pode já repelir alguns clientes que em negociação e relação mais próxima poderiam ser convertidos.
+
+Meu antigo porfólio tinha uma calculadora bem legal que qualquer potencial cliente poderia ter uma noção média do valor dos serviços que presto. Cheguei a ter alguns orçamentos, mas resolvi abandonar esse estado de total transparência.
+
+Uma ideia interessante que estou para testar é adicionar alguns valores nos estudos de caso. Assim alguns clientes mais interessados - já que estão lendo o estudo de caso - terão a oportunidade de saber também um pouco dos preços dos meus serviços.
+
+## Conhecimento
+
+Essa é uma dica que tenho seguido já há algum tempo e posso dizer que é **a mais importante dessa lista assim como também a mais difícil**.
+
+Escrever, criar vídeos ou qualquer outro tipo de conteúdo sobre aquilo que sabemos fazer é um sinal excelente de credibilidade para potenciais clientes. Às vezes os clientes até o conhecerão através dos seus conteúdos.
+
+Compartilhar aquilo que você sabe mostra que você está bastante confiança e é exemplo para outros. No caso da Iglu eu escrevo sobre reflexões e aprendizados com base em projetos passados e também artigos mais gerais sobre algum aspecto técnico do design e programação web.
+
+Esses conteúdos me legitimam para qualquer visitante interessado em contratar meus serviços e o [formulário de contato do site](https://www.igluonline.com/contato) é preenchido com frequência por interessados.
+
+## Chamada e facilidade para ação
+
+Para finalizar, quero chamar a atenção para o seguinte ponto: **Faça ser muito fácil entrar em contato com você**.
+
+Em cada página do seu site tem que ter uma chamada para que seu visitante tome uma ação - Call to action. Preferencialmente sendo uma ação de entrar em contato com você. Pode até jogar um formulário de contato em cada página de estudo de caso.
+
+Quando menos atrito entre a vontade do potencial cliente entrar e contato com você e ele realmente fazer isso melhor.
+
+## Seu portfólio de freelancer perfeito
+
+Nesse artigo passamos por algumas dicas além do tradicional currículo para que seu portfólio como freelancer fique perfeito. Existem mais dicas e também inúmeros testes que podemos fazer para otimizar.
+
+Como estamos em uma época em que vídeo é super importante, que tal utilizar elementos de vídeo em conjunto com algumas dicas acima? Ou quem sabe fazer do seu portfólio um jogo?
+
+Compartilhe comigo seu portfólio nos comentários e vamos continuar a discussão por lá!
+
+Divirta-se!
