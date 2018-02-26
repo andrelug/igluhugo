@@ -18,7 +18,7 @@ Contudo, se você está realmente sério sobre a sua presença digital então va
 
 Se você é um web designer ou desenvolvedor, então já deve estar familiarizado(a) com os favicons. Até mesmo como criá-los, quem sabe. Contudo, a grande pergunta que temos que nos fazer é _por que_ devemos nos importar com eles e como os melhor explorar.
 
-## O que é um favicon? 
+## O que é um favicon?
 
 Favicons são pequenos quadrados de, em geral, 16x16 pixels que são usados nas abas dos navegadores para representar qual website está aberto. São os ícones que ficam ao lado esquerdo do título do website. É bem provável que você já passou o olho por eles inúmeras vezes mesmo sem saber o que são. Essa imagem mostra exatamente o que é um favicon.
 
@@ -89,7 +89,7 @@ Segue o código:
 
     <link rel="shortcut icon" type="image/x-icon" href="[url do favicon]">
 
-**Lembre-se de substituir** `**\[url do favicon\]**` **pelo endereço do arquivo do favicon que subiu e de salvar quando terminar.**
+**Lembre-se de substituir** `\*\*\\\[url do favicon\\\]\*\*` **pelo endereço do arquivo do favicon que subiu e de salvar quando terminar.**
 
 Terminando essas etapas você deverá ter o favicon já sendo exibido quando abrir o seu website.
 
@@ -116,6 +116,8 @@ Um exemplo mais básico é a mudança do ícone quando há alguma notificação.
 Contudo, recentemente vi uma estratégia em um E-commerce que aproveitava o momento que você não estava com a aba dele aberta para mudar o ícone e também o título na esperança de chamar a atenção para que você voltasse ao website.
 
 Esse tipo de estratégia pode ou não funcionar no seu mercado, mas é legal estar atento para as possiblidades criativas do uso do favicon.
+
+**Bônus:** Um uso interessante do título do website para [chamar atenção do usuário pode ser esse](https://dontclosethistab.com).
 
 ## Daqui pra frente
 
