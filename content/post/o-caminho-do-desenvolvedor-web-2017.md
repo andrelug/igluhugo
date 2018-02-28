@@ -8,6 +8,7 @@ tags = ["roadmap", "programação", "currículo", "desenvolvimento de websites",
 title = "Como se tornar um desenvolvedor web em 2018"
 url = "/como-se-tornar-um-desenvolvedor-web-em-2018/"
 youtube = ""
+
 +++
 Como se tornar um desenvolvedor web em 2018 é uma pergunta cada vez mais complicada de responder. De um lado temos a universidade e os cursos da ciência da computação, de outro os autodidatas que se aventuram online para aprender esse ofício.
 
@@ -115,7 +116,7 @@ Nas imagens abaixo as cores significam o seguinte:
 
 Independentemente de qual área você quer se especializar, existem alguns conceitos e conhecimentos que todos precisamos saber.
 
-<img src="images/uploads/2017/05/02/basico_desenvolvimento_websites.jpg" class=" forestry--none" style="float: none;">
+![](images/uploads/2018/02/28/como_ser_desenvolvedor_basico.jpg)
 
 ### 2- Front-end
 
