@@ -3,7 +3,6 @@ author = "André Lucas"
 categories = ["Lifestyle", "Trabalho"]
 date = "2018-03-05T03:00:01+00:00"
 disqus = true
-draft = true
 hugo_image = "images/uploads/2018/03/05/pexels-photo-268092.jpeg"
 tags = ["Meditação", "Estresse", "Freelancer"]
 title = "Os efeitos da meditação na montanha-russa da vida como freelancer"
