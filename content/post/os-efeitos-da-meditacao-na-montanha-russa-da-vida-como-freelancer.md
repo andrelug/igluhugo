@@ -42,7 +42,7 @@ Com um pouco mais de tempo também duas outras coisas muito especiais acontecera
 * Passei a ficar mais atento e consciente das ações ao longo do dia
 * Percebi que minha resiliência aumentou
 
-Poderíamos [listar vários efeitos que supostamente também a prática da meditação gera](https://blog.bufferapp.com/how-meditation-affects-your-brain), mas aqui vou falar mais sobre aquilo que posso dizer empiricamente. Sugiro vasculhar um pouco a internet por outras fontes de informação pois vale muito a pena.
+Poderíamos [listar vários efeitos que supostamente a prática da meditação gera](https://blog.bufferapp.com/how-meditation-affects-your-brain) também, mas aqui vou falar mais sobre aquilo que posso dizer empiricamente. Sugiro vasculhar um pouco a internet por outras fontes de informação pois vale muito a pena.
 
 ## Um freelancer sem estresse
 
@@ -60,7 +60,7 @@ Nesse momento em geral recorremos dois tipos de ações:
 
 No caso da válvula de escape, também podemos dividir em viciosas e virtuosas. De um lado pode ser algo vicioso como a bebida alcólica, jogos de azar, agressão ou drogas. Já do outro, temos exercícios físicos, esportes, jogos ou artes. Esperançosamente se for utilizar esse meio de desestressar, escolha algo virtuoso.
 
-A meditação entra como forma de absorver e transformar. Ao invés de ter catalizar a energia para alguma atividade diferente da que está gerando o estresse, buscamos a paz dentro - na nossa respiração. Ao acalmar a primeira coisa que percebemos é que tudo que está nos deixando levar a ter tensões e problemas nada mais é do que simples e que temos o controle da situação. **Não quer dizer que os problemas ou desafios não são importantes ou difíceis, mas sim que vamos ter calma para entendê-los, planejar a melhor forma de atacá-los e agir sem preocupações**.
+A meditação entra como forma de absorver e transformar. Ao invés de ter que catalizar a energia para alguma atividade diferente da que está gerando o estresse, buscamos a paz dentro - na nossa respiração. Ao acalmar a primeira coisa que percebemos é que tudo que está nos deixando levar a ter tensões e problemas nada mais é do que simples e que temos o controle da situação. **Não quer dizer que os problemas ou desafios não são importantes ou difíceis, mas sim que vamos ter calma para entendê-los, planejar a melhor forma de atacá-los e agir sem preocupações**.
 
 Descobrimos que preocupar só prejudica a execução das tarefas.
 
