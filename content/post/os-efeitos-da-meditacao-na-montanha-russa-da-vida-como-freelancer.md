@@ -20,7 +20,7 @@ Em geral, independentemente do seu negócio estar indo bem ou mal você terá qu
 
 De longe um dia desses poderia ser de qualquer pessoa, mas quando somos empreendedores ou _eupreendedores_ a responsabilidade está inteiramente em nossas mãos. Não há mais ninguém para delegar, recorrer ou apontar culpa. Com funcionários, então, é ainda mais pesado, mas a escolha pelo mundo autônomo freelancer consegue esse ficar um pouco menos tensa e é um dos motivos pelos quais eu a aprecio.
 
-Há quase dois anos atrás eu tive uns dos primeiros sinais de estresse e o peso da responsabilidade. Com duas empresas andando em duas montanha-russas me vi com dores de cabeça o dia inteiro, pálpebras que não paravam de vibrar e um sentimento de estar perdido. Foi então que encontrei uma das ferramentas mais poderosas e que me ajudou a superar tudo isso. A meditação.
+Há quase dois anos eu tive uns dos primeiros sinais de estresse e o peso da responsabilidade. Com duas empresas andando em duas montanha-russas me vi com dores de cabeça o dia inteiro, pálpebras que não paravam de vibrar e um sentimento de estar perdido. Foi então que encontrei uma das ferramentas mais poderosas e que me ajudou a superar tudo isso. A meditação.
 
 ## Os efeitos da meditação
 
