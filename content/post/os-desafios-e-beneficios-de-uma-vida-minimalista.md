@@ -87,4 +87,8 @@ No fundo, um jeito de pensar nessa questão sem ficar com um pesinho na consciê
 
 ## Os desafios do minimalismo
 
-É importante lembrar que o estilo de vida minimalista é baseado em um constante treino de desapego. Principalmente para quem está começando a pensar de uma forma mais simples, tendemos a achar que tudo é importante e essencial para nossa vida. Com o tempo, a tendência é que a relação inverter e ser difícil determinar o que realmente é importante.
+É importante lembrar que o estilo de vida minimalista é baseado em um constante treino de desapego. Principalmente para quem está começando a pensar de uma forma mais simples, a tendência é achar que tudo é essencial para a vida. Com o tempo, a relação tende a inverter e é difícil determinar o que realmente é importante.
+
+### 1- O que é importante
+
+Ter 10 meias é tudo bem? Posso ficar com meus 2 tablets? Será que vou doar esse relógio? Esse tipo de pergunta será constante e saber lidar bem com elas é um grande desafio. Tem hora que é difícil responder. Os prós e contras não são tão claros e no fundo conseguimos arrumar justificativa para ficar ou jogar fora qualquer coisa.
