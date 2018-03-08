@@ -3,8 +3,7 @@ author = "André Lucas"
 categories = ["Lifestyle", "Minimalismo"]
 date = "2018-03-07T19:46:24+00:00"
 disqus = true
-draft = true
-hugo_image = ""
+hugo_image = "images/uploads/2018/03/08/minimalismo_desafios_beneficios.jpg"
 tags = ["minimalista", "nômade digital"]
 title = "Os desafios e benefícios de uma vida minimalista"
 url = "/os-desafios-e-beneficios-de-uma-vida-minimalista/"
@@ -47,7 +46,7 @@ Voltando à minha frase acima sobre felicidade, algo que faz muito sentido nisso
 
 Um estilo de vida baseado em ter consigo só o essencial e mínimo necessário traz consigo uma série de benefícios. Vamos listar alguns dos que acredito serem os mais notáveis e que, para mim, fazem mais diferença.
 
-### 1- Tranquilidade
+### 1- Tranquilidade e liberdade
 
 Com menos pensamentos, coisas ou relacionamentos para se apegar, a vida fica mais simples e tranquila. Ao invés de termos todos os dias aquela sensação de que o tempo passa rápido demais, temos uma atenção mais plena e cada momento pode ter um sentido mais interessante e diretamente relacionado com nossos objetivos de vida.
 
@@ -91,4 +90,38 @@ No fundo, um jeito de pensar nessa questão sem ficar com um pesinho na consciê
 
 ### 1- O que é importante
 
-Ter 10 meias é tudo bem? Posso ficar com meus 2 tablets? Será que vou doar esse relógio? Esse tipo de pergunta será constante e saber lidar bem com elas é um grande desafio. Tem hora que é difícil responder. Os prós e contras não são tão claros e no fundo conseguimos arrumar justificativa para ficar ou jogar fora qualquer coisa.
+Ter 10 meias é tudo bem? Posso ficar com meus 2 tablets? Será que vou doar esse relógio? Esse tipo de pergunta será constante e saber lidar bem com elas é um grande desafio. Tem hora que é difícil responder. Os prós e contras não são tão claros e no fundo conseguimos arrumar justificativa para jogar fora ou ficar com qualquer coisa.
+
+Não por peso nesses momentos é o ideal. Decisões com leveza e sem nos cobrar demais de tomarmos o caminho "certo" vão contribuir muito para o sentimento de liberdade e tranquilidade.
+
+### 2- Nem tudo que uso é seu
+
+Compartilhar é algo que muitas pessoas acabam aprendendo ao longo da vida. Seja por causa de irmãos, necessidade ou mesmo bondade e compaixão. Ser minimalista às vezes envolve compartilhar algumas coisas simplesmente porque não vale a pena ter essa _coisa_.
+
+Se não uso muito um carro, vale a pena sempre usar Uber, alugar um carro ou algum aplicativo de compartilhamento de corridas quando necessário. Para eventos mais chics ao invés de comprar uma roupa, o aluguel vira a melhor opção - no caso das mulheres, afinal o que fazer depois com um vestido que não usará socialmente em outro evento para não repetir?
+
+No meu caso, compartilhamos muitas coisas pois moramos em Airbnb ou apartamentos/casas alugadas e já mobiliadas. Sempre colocamos nosso _toque_ mas ainda assim não possuímos a grande parte dos utensílios e móveis que utilizamos.
+
+Lidar com isso pode ser um desafio constante, mas também é algo que o tempo contriui para a adptação.
+
+### 3- Comodidades
+
+Acho que aqui é um que ainda tenho bastante conflito e dificuldade de lidar. Fui acostumado com algumas comodidades ao longo da vida que hoje são um pouco mais difíceis de ter. São detalhes que só percebemos quando ficamos um pouco mais de tempo sem e aí bate a saudade.
+
+Pouco depois de começar a viver um estilo de vida mais minimalista eu nem pensava em como a minha máquina Nespresso fazia parte da minha vida, que a guitarra que tocava uma vez ao ano poderia me servir ou mesmo que o umidifador de ar seria necessário algum dia.
+
+Após alguns meses começaram a bater algumas saudades. Lembranças de que "seria legal poder simplesmente usar o processador de alimentos para cortar essa cebola ao invés da faca". Em especial eu sinto muita falta hoje de ter um computador desktop potente com duas telas, mas sendo nômade e minimalista como eu poderia dar prioridade para isso na minha mala que já tem espaço reduzido?
+
+Pode ser que eu veja no futuro que realmente faz sentido comprar uma mala só para meu computador e levar ele para onde eu for já que é meu maior instrumento de trabalho. Mas no momento estou conseguindo ser um bom profissional somente com o laptop e vou questionando a real necessidade de mudar.
+
+## Uma dica minimalista
+
+Ao longo desse texto apresentei como o que eu acredito ser os mais importantes pontos positivos e desafiadores de uma vida minimalista. Se é difícil ou fácil, esse é um questionamento que só você pode se fazer após dar uma chance para esse estilo de vida.
+
+A dica que eu tenho para você se quiser tentar viver com menos é não se importar com o que outras pessoas podem pensar ou falar. Tudo aquilo que mexe com a zona de conforto das pessoas gera um incômodo que, para muitos, se transforma em intolerância e agressividade.
+
+Você é dono(a) da sua vida e se buscar viver só com o essencial poderá acabar descobrindo muito mais de si e do que importa na sua vida. Não é uma promessa, mas - assim como grande parte do que falo aqui no blog - parte de muito estudo e de minha própria experiência.
+
+Se você gostou desse artigo sobre minimalismo, deixa nos comentários o que pensa sobre o assunto e vamos continuar a conversa por lá.
+
+Divirta-se!
