@@ -12,7 +12,7 @@ youtube = ""
 +++
 Já pensou em viver uma vida somente com o essencial? Essa é a busca de uma vida minimalista e nesse artigo vou contar um pouco sobre minha experiência nessa constante atenção para que somente o essencial permaneça na minha vida.
 
-O minimalismo é um desses termos que viraram moda, muita gente usa e, seja positiva ou negativamente, já é um conceito cheio de preconceitos. No fundo não importa tanto o que cada um diz que é ou não é minimalista - desde que o conceito do simples e essencial esteja presente, estaremos todos num caminho em direção a uma vida mais pautada no essencial e mais básico.
+O minimalismo é um desses termos que viraram moda, muita gente usa e, seja positiva ou negativamente, já é um conceito cheio de preconceitos. No fundo não importa tanto o que cada um diz que é ou não é minimalista - desde que o conceito do simples e essencial esteja presente estaremos todos num caminho em direção a uma vida mais pautada no essencial e mais básico.
 
 Digo isso pois acho que percebi um dos primeiros benefícios desse estilo de vida antes mesmo de ouvir falar da corrente artística minimalista. Com meus vinte e poucos anos lembro de estar pensando na seguinte frase:
 
@@ -24,7 +24,7 @@ Compartilhei esse sentimento com minha família no momento, mas só recentemente
 
 Antes de pensarmos como um estilo de vida, o minimalismo [vem de uma corrente artística](https://minimus.life/minimalismo/minimalismo-mal-entendido.html) que visa o uso apenas do essencial e básico. Agora, um dos elementos mais importantes é que não é só reduzir a quantidade de informações ou objetos. Todo o processo minimalista é consciente do propósito da existência ou não de algum elemento.
 
-Trazendo essa ideia para um estilo de vida, temos o minimalismo como um filtro que questiona a necessidade de qualquer objeto, ação, relacionamento ou informação fazer parte da nossa vida. Vamos ver dois exemplos dessa lógica com um mesmo objeto de decoração:
+Trazendo essa ideia para um estilo de vida temos o minimalismo como um filtro que questiona a necessidade de qualquer objeto, ação, relacionamento ou informação fazer parte da nossa vida. Vamos ver dois exemplos dessa lógica com um mesmo objeto de decoração:
 
 ### 1- Desfazendo do objeto
 
@@ -32,9 +32,9 @@ Recebi um objeto de decoração de um grande amigo. A peça foi comprada em uma 
 
 ### 2- Mantendo o objeto
 
-Recebi um objeto de decoração de um grande amigo. A peça era exatamente no estilo que eu gosto e toda vez que olho para ela tenho uma sensação agradável e positiva. Além disso ela combina muito bem com minha estande de trabalho, então resolvi a colocar lá para que todos os dias ela me ajude a inspirar e realizar meu trabalho. Mesmo depois de um bom tempo resolvi manter o objeto alí pois sinto que ele faz parte do meu dia e tem um propósito muito claro e frequente na minha vida.
+Recebi um objeto de decoração de um grande amigo. A peça era exatamente no estilo que eu gosto e toda vez que olho para ela tenho uma sensação agradável e positiva. Além disso ela combina muito bem com minha estande de trabalho, então resolvi colocar ela lá para que todos os dias ela me ajude a inspirar e realizar meu trabalho. Mesmo depois de um bom tempo resolvi manter o objeto alí pois sinto que ele faz parte do meu dia e tem um propósito muito claro e frequente na minha vida além de também ter um valor sentimental.
 
-A relação do que é essencial e minimalista, no fundo, vai de cada um. O mais importante é ter consciência do que possui e sempre se questionar se algo pode ser desapegado. No meu caso, apesar de ainda ter algumas coisas na casa da minha mãe, só vivo com duas malas. Tudo que uso, possuo e faço questão de estar ao meu lado vai comigo nas minhas viagens como nômade digital.
+A relação do que é essencial e minimalista, no fundo, vai de cada um. O mais importante é ter consciência do que possui e sempre se questionar se algo pode ser desapegado. No meu caso apesar de ainda ter algumas coisas na casa da minha mãe, só vivo com duas malas. Tudo que uso, possuo e faço questão de estar ao meu lado vai comigo nas minhas viagens como nômade digital.
 
 É interessante pois da minha primeira viagem à atual eu reduzi algumas coisas - como roupas - e aumetei alguns utensílios de cozinha que descobri que faço questão de estar perto de mim.
 
@@ -54,7 +54,7 @@ Com menos pensamentos, coisas ou relacionamentos para se apegar, a vida fica mai
 
 ### 2- Financeiro
 
-Querendo ou não, o estilo de vida minilista contribui uma vez que os gastos e compras deixam de ser impulsivos. Inclusive, a quantidade e frequência das compras diminuem substancialmente.
+Querendo ou não, o estilo de vida minimalista contribui uma vez que os gastos e compras deixam de ser impulsivos. Inclusive, a quantidade e frequência das compras diminuem substancialmente.
 
 Menos coisa para comprar, menos gastamos dinheiro com objetos. No meu caso acho isso muito especial pois posso focar as finanças para coletar mais experiências e poder compartilhar com pessoas que gosto.
 
@@ -90,7 +90,7 @@ No fundo, um jeito de pensar nessa questão sem ficar com um pesinho na consciê
 
 ### 1- O que é importante
 
-Ter 10 meias é tudo bem? Posso ficar com meus 2 tablets? Será que vou doar esse relógio? Esse tipo de pergunta será constante e saber lidar bem com elas é um grande desafio. Tem hora que é difícil responder. Os prós e contras não são tão claros e no fundo conseguimos arrumar justificativa para jogar fora ou ficar com qualquer coisa.
+Ter 10 meias é tudo bem? Posso ficar com meus 2 tablets? Será que vou doar esse relógio? Esse tipo de pergunta será constante e saber lidar bem com elas é um grande desafio. Tem hora que é difícil responder. Os prós e contras não são tão claros e no fundo conseguimos arrumar justificativa para jogar fora, doar ou ficar com qualquer coisa.
 
 Não por peso nesses momentos é o ideal. Decisões com leveza e sem nos cobrar demais de tomarmos o caminho "certo" vão contribuir muito para o sentimento de liberdade e tranquilidade.
 
@@ -98,17 +98,17 @@ Não por peso nesses momentos é o ideal. Decisões com leveza e sem nos cobrar 
 
 Compartilhar é algo que muitas pessoas acabam aprendendo ao longo da vida. Seja por causa de irmãos, necessidade ou mesmo bondade e compaixão. Ser minimalista às vezes envolve compartilhar algumas coisas simplesmente porque não vale a pena ter essa _coisa_.
 
-Se não uso muito um carro, vale a pena sempre usar Uber, alugar um carro ou algum aplicativo de compartilhamento de corridas quando necessário. Para eventos mais chics ao invés de comprar uma roupa, o aluguel vira a melhor opção - no caso das mulheres, afinal o que fazer depois com um vestido que não usará socialmente em outro evento para não repetir?
+Se não uso muito um carro, vale a pena sempre usar Uber, alugar um carro ou algum aplicativo de compartilhamento de corridas quando necessário. Para eventos mais chiques ao invés de comprar uma roupa, o aluguel vira a melhor opção - no caso das mulheres, afinal o que fazer depois com um vestido que não usará socialmente em outro evento para não repetir?
 
-No meu caso, compartilhamos muitas coisas pois moramos em Airbnb ou apartamentos/casas alugadas e já mobiliadas. Sempre colocamos nosso _toque_ mas ainda assim não possuímos a grande parte dos utensílios e móveis que utilizamos.
+No meu caso compartilhamos muitas coisas pois moramos em Airbnb ou apartamentos/casas alugadas e já mobiliadas. Sempre colocamos nosso _toque_ mas ainda assim não possuímos a grande parte dos utensílios e móveis que utilizamos.
 
-Lidar com isso pode ser um desafio constante, mas também é algo que o tempo contriui para a adptação.
+Lidar com isso pode ser um desafio constante, mas também é algo que o tempo contriui para a adaptação.
 
 ### 3- Comodidades
 
 Acho que aqui é um que ainda tenho bastante conflito e dificuldade de lidar. Fui acostumado com algumas comodidades ao longo da vida que hoje são um pouco mais difíceis de ter. São detalhes que só percebemos quando ficamos um pouco mais de tempo sem e aí bate a saudade.
 
-Pouco depois de começar a viver um estilo de vida mais minimalista eu nem pensava em como a minha máquina Nespresso fazia parte da minha vida, que a guitarra que tocava uma vez ao ano poderia me servir ou mesmo que o umidifador de ar seria necessário algum dia.
+Pouco depois de começar a viver um estilo de vida mais minimalista eu nem pensava em como a minha máquina Nespresso fazia parte da minha vida, que a guitarra que tocava uma vez ao ano poderia me servir ou mesmo que o umidificador de ar seria necessário algum dia.
 
 Após alguns meses começaram a bater algumas saudades. Lembranças de que "seria legal poder simplesmente usar o processador de alimentos para cortar essa cebola ao invés da faca". Em especial eu sinto muita falta hoje de ter um computador desktop potente com duas telas, mas sendo nômade e minimalista como eu poderia dar prioridade para isso na minha mala que já tem espaço reduzido?
 
