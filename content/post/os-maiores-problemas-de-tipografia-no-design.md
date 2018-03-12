@@ -58,7 +58,7 @@ Algo que muitos designers ou entusiastas fazem, especialmente quando no início 
 
 Naturalmente há momentos que teremos que utilizar mais de três, mas é importante sempre ter em mente que a mudança de tipos fará com que o usuário fique um tanto quanto confuso e às vezes não vale a pena.
 
-O mesmo pensamento pode ser aplicado em relação à quantidade de pesos de uma fonte. Aqui não é tão marcante para o leitor em geral, mas é algo a se ter cuidado.
+O mesmo pensamento pode ser aplicado em relação à quantidade de pesos de uma fonte. Aqui não é tão marcante para o leitor em geral, mas é algo a se ter cuidado. Para a [criação de logotipos então é bem interessante ser focado e entender as tendências](https://temporalcerebral.com.br/6-tendencias-de-logotipos-dos-proximos-anos/).
 
 ## Linhas largas demais
 
