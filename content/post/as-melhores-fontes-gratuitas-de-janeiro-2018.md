@@ -36,7 +36,7 @@ Em homenagem ao estilo "moderno velho" da cidade de Brasília, essa fonte é bem
 
 ## [Berg](https://www.behance.net/gallery/53625645/BERG-FREE-LAYERED-FONT-FAMILY)
 
-Para mudar um pouco o estilo, vamos para a fonte gratis Berg. Ela é uma fonte em camada (layered font). Inspirada por posters e pinturas vintage, tenho certeza que ela é uma excelente fonte para o arsenal de um designer gráfico. Em especial eu consigo ver ela sendo usada em logotipos e camisetas.
+Para mudar um pouco o estilo, vamos para a fonte gratis Berg. Ela é uma fonte em camada (layered font). Inspirada por posters e pinturas vintage, tenho certeza que ela é uma excelente fonte para o arsenal de um designer gráfico. Em especial eu consigo ver ela sendo usada em camisetas e bem dentro das [tendências de logotipos em 2018](https://temporalcerebral.com.br/6-tendencias-de-logotipos-dos-proximos-anos/). 
 
 [![](images/uploads/2018/01/25/melhores_fontes_gratuitas_para_2018.jpg)](https://www.behance.net/gallery/53625645/BERG-FREE-LAYERED-FONT-FAMILY)
 
