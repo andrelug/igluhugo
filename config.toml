@@ -2,20 +2,20 @@ baseurl = "https://www.igluonline.com"
 languageCode = "pt-br"
 paginate = 4
 theme = "iglu"
-title = "Iglu - Design, Programação e Trabalho Freelancer"
+title = "Iglu - Design e Desenvolvimento Web"
 enableRobotsTXT = true
 defaultContentLanguage = "pt"
 [blackfriday]
 hrefTargetBlank = true
 [params]
 date_format = "0002-01-20T00:00:00+00:00"
-description = "Iglu é um blog para designers, programadores e freelancers com o foco em compartilhar recursos, tutoriais, informações e dicas."
+description = "Iglu é um blog para designers e programadores com o foco em compartilhar recursos, tutoriais, informações e dicas."
 insta_caption = "{{caption}}"
 insta_comments = "{{comments}}"
 insta_img = "{{image}}"
 insta_likes = "{{likes}}"
 insta_link = "{{link}}"
-name = "Iglu - Design, Programação e Trabalho Freelancer"
+name = "Iglu - Design e Desenvolvimento Web"
 [params.featured]
 hide = false
 [params.recentposts]
