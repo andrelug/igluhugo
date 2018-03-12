@@ -253,15 +253,6 @@
 			})();
 		}
 
-		window.onscroll = function () {
-		if (window.pageYOffset > 1000) {
-				window.onscroll = null;
-
-				{{ if eq.Section "post" }}
-					if (disqus_loaded == false) { load_disqus() };
-				{{ end }}
-			}
-		}
 
 	{{if eq .Section "post"}}
 		window.onscroll = function () {
@@ -272,6 +263,7 @@
 			//	loadAPI();
 			//	feed.run();
 				window.onscroll = null;
+				if (disqus_loaded == false) { load_disqus() };
 			}
 		}
 		{{ else }}
