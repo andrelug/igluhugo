@@ -101,7 +101,7 @@ Para finalizar nossa lista resolvi colocar aqui esse gigante da arte e do design
 
 ## Minha seleção de melhores fontes gratis
 
-Grande parte dessa seleção a seguir vem dos próprios sites listados acima. Então aproveite pois aqui vão algumas das fontes que mais gosto.
+Grande parte dessa seleção a seguir vem dos próprios sites listados acima. Então aproveite pois aqui vão algumas das fontes que mais gosto. Seja para criação de websites, banners ou mesmo [logotipos](https://temporalcerebral.com.br/6-tendencias-de-logotipos-dos-proximos-anos/), essas são umas das melhores fontes para o arsenal de um designer.
 
 ### <a href="https://www.behance.net/gallery/38144315/Kayak-Sans-Free-Typeface" target="_blank">1- Kayak</a>
 
@@ -179,10 +179,6 @@ Aproveite para conferir nossas outras seleções de fontes gratuitas:
 * <a href="https://www.igluonline.com/melhores-fontes-gratuitas-para-comecar-2018/" target="_blank">As melhores fontes gratuitas para começar 2018</a>
 * <a href="https://www.igluonline.com/melhores-fontes-gratuitas-de-junho-2016/" target="_blank">Melhores Fontes Gratuitas de Junho 2016</a>
 
- 
-
 Espero que tenha gostado do artigo. Considere compartilhar em suas redes sociais!
-
- 
 
 Divirta-se!
