@@ -3,7 +3,6 @@ author = "André Lucas"
 categories = ["Desgin"]
 date = "2018-03-21T21:59:56+00:00"
 disqus = true
-draft = true
 hugo_image = "images/uploads/2018/03/22/contraste_no_design.jpg"
 tags = ["Contraste", "cores"]
 title = "Dicas de como usar o contraste das cores no design"
