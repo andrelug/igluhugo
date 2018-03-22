@@ -1,53 +1,27 @@
 ---
 pages:
-- post/os-maiores-problemas-de-tipografia-no-design.md
+- post/dicas-de-como-usar-o-contraste-das-cores-no-design.md
 - post/as-melhores-fontes-gratuitas-de-janeiro-2018.md
-- post/os-desafios-e-beneficios-de-uma-vida-minimalista.md
-- post/os-efeitos-da-meditacao-na-montanha-russa-da-vida-como-freelancer.md
+- post/os-maiores-problemas-de-tipografia-no-design.md
 - post/aprender-a-pesquisar-guia-como-se-tornar-um-desenvolvedor.md
-- post/mini-vida-em-chicago-como-foi-a-primeira-experiencia-como-nomade-digital.md
 - post/o-caminho-do-desenvolvedor-web-2017.md
 - post/o-que-e-e-para-que-serve-o-favicon.md
-- post/5-dicas-de-como-investir-em-sua-marca-pessoal-e-ser-unico-em-seu-mercado.md
-- post/dicas-para-se-tornar-um-programador-freelancer.md
-- post/o-portfolio-de-freelancer-perfeito.-o-que-por-nele.md
-- post/as-consquistas-para-uma-vida-de-freelancer-gamificada.md
 - post/2016-12-27-22-packs-de-icones-gratuitos-para-fechar-2016.md
 - post/como-adicionar-palavras-chave-e-meta-descricoes-no-wordpress.md
-- post/como-se-apresentar-como-um-freelancer.md
 - post/site--um-grande-e-completo-lead-magnet.md
 - post/lead-magnet--aumente-o-poder-organico-do-seu-site.md
 - post/saiba-quando-esta-na-hora-de-trocar-o-servidor-do-seu-site-wordpress.md
-- post/minha-maior-dificuldade-como-freelancer.md
 - post/por-que-fazer-teste-de-carga-no-seu-website.md
 - post/wix-x-wordpress--qual-o-melhor-criador-de-sites.md
-- post/2-dicas-financeiras-para-freelancer.md
 - post/as-melhores-fontes-gratuitas-de-novembro-2017.md
 - post/por-que-troquei-o-wordpress-pelo-gerador-de-websites-estaticos-hugo.md
-- post/a-diferenca-entre-indie-e-aaa.md
-- post/o-bullying-virtual-huehue.md
-- post/o-papel-do-video-game-na-educacao-contemporanea.md
-- post/as-franquias-anuais-estao-destruindo-o-mercado-de-games.md
-- post/por-que-os-estudios-fazem-dlc-de-primeiro-dia.md
-- post/pirataria-no-mercado-brasileiro.md
-- post/violencia-no-mundo-digital-vs-mundo-real.md
-- post/lego-worlds-o-minecraft-da-lego.md
-- post/minha-experiencia-com-star-citizen-2-5.md
-- post/o-final-de-bioshock-infinite.md
-- post/11-dicas-para-comecar-a-jogar-ark-survival-evolved.md
-- post/projeto-mini-vidas-trabalho-remoto-como-nomade-digital.md
-- post/gueime-foi-uma-longa-e-maravilhosa-jornada-mas-esta-na-hora-do-proximo-nivel.md
-- post/obsolescencia-programada-e-o-maior-aproveitamento.md
-- post/afinal-o-que-e-gamificacao.md
 - post/as-melhores-formas-de-criar-seu-site-de-graca-em-2017.md
 - post/os-melhores-editores-de-texto-para-programacao-em-2017.md
 - post/as-melhores-fontes-gratuitas-de-julho-de-2017.md
 - post/como-melhorar-drasticamente-a-performance-do-seu-site.md
-- post/7-dicas-de-gerenciamento-de-projetos-para-freelancers.md
 - post/as-melhores-fontes-gratuitas-de-maio-2017.md
 - post/introducao-ao-sass-um-guia-para-iniciantes.md
 - post/6-documentarios-sobre-design.md
-- post/esta-na-sua-hora-de-virar-freelancer.md
 hide_body: false
 fields:
 - name: title
