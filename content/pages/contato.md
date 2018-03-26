@@ -19,11 +19,11 @@ type: page
 <div class="row"><div class=" col-md-4">
 <h3>Manda um oi</h3>
 </div><div class=" col-md-8">
-<div role="form" lang="en-US" dir="ltr">
+<div role="form" lang="pt-BR" dir="ltr">
 <div class="screen-reader-response"></div>
-<form action="obrigado-pelo-contato" netlify name="Contato Iglu" netlify-honeypot="bot-field">
+<form action="obrigado-pelo-contato" netlify name="Contato Iglu" netlify-honeypot="teste">
 <p style="display:none;">
-    <label>Don’t fill this out if you're human: <input name="bot-field"></label>
+    <label>teste <input name="teste"></label>
   </p>
 <input type="hidden" name="_next" value="http://www.igluonline.com" />
 <input type="hidden" name="_subject" value="E-mail Blog" />
