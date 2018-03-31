@@ -16,7 +16,8 @@ youtube: https://www.youtube.com/embed/mr3U6DfA2uw
 instant_articles_submission_id:
   - 274466396332976
 categories:
-  - Ferramentas Photoshop
+  - Design
+  - Photoshop
 tags:
   - amostra
   - cor

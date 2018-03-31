@@ -16,7 +16,7 @@ instant_articles_submission_id:
   - 1292478130838774
 categories:
   - Design
-  - Ferramentas Photoshop
+  - Photoshop
 tags:
   - destaque
   - ferramenta

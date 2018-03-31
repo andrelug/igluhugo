@@ -18,7 +18,8 @@ youtube: https://www.youtube.com/embed/oakAFa5QYrc
 instant_articles_submission_id:
   - 1352585001489154
 categories:
-  - Tutoriais
+  - Design
+  - Photoshop
 tags:
   - adobe
   - edição de imagem

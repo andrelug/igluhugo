@@ -1,6 +1,6 @@
 +++
 author = "André Lucas"
-categories = ["Design"]
+categories = ["Design", "Download Gratis"]
 date = "2017-05-09T01:30:24Z"
 disqus = false
 hugo_image = "images/uploads/2017/05/09/fonte_gratuita_gilbert_baker.jpg"

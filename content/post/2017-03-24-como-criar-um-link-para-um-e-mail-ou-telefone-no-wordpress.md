@@ -16,6 +16,7 @@ post_views_count:
   - 249
 categories:
   - WordPress
+  - Desenvolvimento Web
 tags:
   - criar links wordpress
   - dicas

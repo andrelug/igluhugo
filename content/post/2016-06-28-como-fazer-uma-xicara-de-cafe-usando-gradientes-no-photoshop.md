@@ -15,7 +15,8 @@ post_views_count:
 instant_articles_submission_id:
   - 406762106366563
 categories:
-  - Tutoriais
+  - Design
+  - Photoshop
 tags:
   - adobe
   - café

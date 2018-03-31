@@ -13,6 +13,7 @@ post_views_count:
 - 1375
 categories:
 - Design
+- Download Gratis
 tags:
 - destaque
 - fontes

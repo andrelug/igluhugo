@@ -16,7 +16,8 @@ youtube: https://www.youtube.com/embed/5i6xydjDANI
 instant_articles_submission_id:
   - 157724494754535
 categories:
-  - Ferramentas Photoshop
+  - Design
+  - Photoshop
 tags:
   - destaque
   - dicas

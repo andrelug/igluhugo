@@ -13,6 +13,7 @@ post_views_count:
 - 1250
 categories:
 - Design
+- Download Gratis
 tags:
 - destaque
 - download

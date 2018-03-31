@@ -14,7 +14,7 @@ post_views_count:
   - 586
 categories:
   - Design
-  - Ferramentas Photoshop
+  - Photoshop
 tags:
   - destaque
   - ferramentas

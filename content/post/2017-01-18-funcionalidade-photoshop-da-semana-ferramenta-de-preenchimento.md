@@ -16,7 +16,7 @@ instant_articles_submission_id:
   - 195856197588676
 categories:
   - Design
-  - Ferramentas Photoshop
+  - Photoshop
 tags:
   - destaque
   - dicas

@@ -18,6 +18,7 @@ instant_articles_submission_id:
   - 1034210366679600
 categories:
   - Design
+  - Photoshop
 tags:
   - 2017
   - atualização

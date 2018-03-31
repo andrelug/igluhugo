@@ -16,7 +16,7 @@ instant_articles_submission_id:
   - 1307253119323542
 categories:
   - Design
-  - Ferramentas Photoshop
+  - Photoshop
 tags:
   - corte
   - destaque

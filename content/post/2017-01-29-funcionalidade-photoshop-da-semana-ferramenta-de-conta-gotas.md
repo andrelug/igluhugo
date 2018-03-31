@@ -16,7 +16,7 @@ instant_articles_submission_id:
   - 1434457626606262
 categories:
   - Design
-  - Ferramentas Photoshop
+  - Photoshop
 tags:
   - arte digital
   - conta-gotas

@@ -1,6 +1,6 @@
 +++
 author = "André Lucas"
-categories = ["Design"]
+categories = ["Design", "Download Gratis"]
 date = "2017-11-19T18:35:21+00:00"
 disqus = true
 hugo_image = "images/uploads/2017/11/20/fonte_gratis_neoneon.jpg"

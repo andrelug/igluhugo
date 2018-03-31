@@ -13,7 +13,8 @@ mvp_featured_image:
 post_views_count:
   - 938
 categories:
-  - Tutoriais
+  - Design
+  - Photoshop
 tags:
   - ajustes
   - cor

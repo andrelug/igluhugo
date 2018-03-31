@@ -1,6 +1,6 @@
 +++
 author = "André Lucas"
-categories = ["Desenvolvimento web", "Design", "Trabalho"]
+categories = ["Desenvolvimento web", "Design"]
 date = "2018-03-04T13:08:56-03:00"
 disqus = true
 hugo_image = "images/uploads/2018/03/04/pesquisa_autodidata_background.jpg"

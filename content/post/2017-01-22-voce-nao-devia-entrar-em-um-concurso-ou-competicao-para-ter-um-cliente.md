@@ -15,8 +15,8 @@ post_views_count:
 instant_articles_submission_id:
   - 238057669994447
 categories:
-  - Lifestyle
-  - Trabalho
+  - Design
+  - Desenvolvimento Web
 tags:
   - autônomo
   - competição

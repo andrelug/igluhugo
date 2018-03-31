@@ -18,7 +18,7 @@ instant_articles_submission_id:
   - 891490294326508
 categories:
   - Design
-  - Novidades
+  - Photoshop
 tags:
   - adobe
   - destaque

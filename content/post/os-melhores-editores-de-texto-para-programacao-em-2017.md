@@ -1,6 +1,6 @@
 +++
 author = "André Lucas"
-categories = ["desenvolvimento-web"]
+categories = ["Desenvolvimento Web"]
 date = "2017-05-29T18:04:24Z"
 draft = true
 hugo_image = ""

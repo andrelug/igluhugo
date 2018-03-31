@@ -16,6 +16,7 @@ instant_articles_submission_id:
   - 613410582202866
 categories:
   - WordPress
+  - Desenvolvimento Web
 tags:
   - adicionar videos do youtube no wordpress
   - adicionar vídeos no wordpress

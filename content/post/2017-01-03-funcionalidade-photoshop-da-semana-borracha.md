@@ -16,7 +16,7 @@ instant_articles_submission_id:
   - 1497163140296574
 categories:
   - Design
-  - Ferramentas Photoshop
+  - Photoshop
 tags:
   - borracha
   - destaque

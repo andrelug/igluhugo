@@ -17,6 +17,7 @@ post_views_count:
   - 140
 categories:
   - Desenvolvimento Web
+  - Download Gratis
 tags:
   - bibliotecas javascript
   - css

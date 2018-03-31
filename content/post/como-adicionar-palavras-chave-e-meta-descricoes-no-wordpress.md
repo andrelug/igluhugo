@@ -1,6 +1,6 @@
 +++
 author = "André Lucas"
-categories = ["Desenvolvimento web", "Wordpress"]
+categories = ["Desenvolvimento Web", "Wordpress"]
 date = "2018-02-03T22:57:34+00:00"
 disqus = true
 hugo_image = "images/uploads/2018/02/04/palavras_chave_yoast_SEO_capa.jpg"

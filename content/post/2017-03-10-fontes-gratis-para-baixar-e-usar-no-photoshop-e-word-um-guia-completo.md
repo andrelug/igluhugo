@@ -13,6 +13,8 @@ post_views_count:
 - 871
 categories:
 - Design
+- Photoshop
+- Download Gratis
 tags:
 - destaque
 - fonte gratuita

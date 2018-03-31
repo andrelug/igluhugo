@@ -1,6 +1,6 @@
 +++
 author = "André Lucas"
-categories = ["Desenvolvimento web"]
+categories = ["Desenvolvimento web", "Wordpress"]
 date = "2018-01-14T14:40:28+00:00"
 disqus = true
 hugo_image = "images/uploads/2018/01/14/igluonlinecapa.png"

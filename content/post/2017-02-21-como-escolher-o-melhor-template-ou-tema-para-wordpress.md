@@ -15,6 +15,7 @@ post_views_count:
 - 497
 categories:
 - WordPress
+- Desenvolvimento Web
 tags:
 - como escolher template
 - melhores temas de wordpress

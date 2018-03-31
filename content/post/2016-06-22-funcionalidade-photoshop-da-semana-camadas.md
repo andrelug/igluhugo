@@ -17,7 +17,7 @@ onesignal_meta_box_present:
 youtube: https://www.youtube.com/embed/pwm9C5vwR8I
 categories:
   - Design
-  - Ferramentas Photoshop
+  - Photoshop
 tags:
   - adobe
   - camadas

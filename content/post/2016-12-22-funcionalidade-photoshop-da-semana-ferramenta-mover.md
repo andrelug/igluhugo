@@ -14,7 +14,7 @@ post_views_count:
   - 499
 categories:
   - Design
-  - Ferramentas Photoshop
+  - Photoshop
 tags:
   - camadas
   - destaque

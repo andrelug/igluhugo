@@ -16,6 +16,8 @@ instant_articles_submission_id:
   - 1962012340685649
 categories:
   - Design
+  - Download Gratis
+  - Photoshop
 tags:
   - arte
   - design

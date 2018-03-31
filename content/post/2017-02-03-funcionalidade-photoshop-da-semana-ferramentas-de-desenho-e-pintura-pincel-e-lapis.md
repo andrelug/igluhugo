@@ -16,7 +16,7 @@ post_views_count:
   - 665
 categories:
   - Design
-  - Ferramentas Photoshop
+  - Photoshop
 tags:
   - cores
   - desenho
