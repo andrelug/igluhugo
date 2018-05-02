@@ -6,6 +6,7 @@ pages:
 - pages/obrigado-por-se-cadastrar.md
 - pages/ferramentas-para-o-sucesso-seu-blog.md
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
