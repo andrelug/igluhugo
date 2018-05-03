@@ -292,7 +292,9 @@
 
 		$(document).ready(function () {
 			$('a').each(function(){
-				$(this).attr('href', $(this).attr('href') + '?ref=igluonline')
+ 				if( $(this).attr('href').indexOf('igluonline.com') == -1 ) {
+ 					$(this).attr('href', $(this).attr('href') + '?ref=igluonline')
+				}
 			});
 		});
 	</script>
