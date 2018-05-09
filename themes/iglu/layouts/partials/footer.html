@@ -323,7 +323,9 @@
 
 		$(document).ready(function () {
 			$('a').each(function(){
- 			if( $(this).attr('href') && $(this).attr('href').indexOf('igluonline.com') == -1 ) {
+				console.log($(this).attr('href'))
+ 			if( $(this).attr('href') && ($(this).attr('href').indexOf('igluonline.com') == -1 && $(this).attr('href').indexOf('http') !== -1 ) ) {
+ console.log($(this).attr('href').indexOf('igluonline.com'))
  					$(this).attr('href', $(this).attr('href') + '?ref=igluonline')
 				}
 			});
