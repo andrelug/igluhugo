@@ -1,37 +1,36 @@
 ---
 title: 8 habilidades que todo web designer e desenvolvedor precisa ter
 author: André Lucas
-type: post
-date: 2017-04-15T00:47:59+00:00
-url: /8-habilidades-que-todo-web-designer-e-desenvolvedor-precisa-ter/
+date: 2017-04-15 00:47:59 +0000
+url: "/8-habilidades-que-todo-web-designer-e-desenvolvedor-precisa-ter/"
 featured_image: uploads/2017/04/pexels-photo-196644
 featured_image_extension: jpeg
 mvp_post_template:
-  - def
+- def
 mvp_featured_image:
-  - hide
+- hide
 instant_articles_submission_id:
-  - 195473260958847
+- 195473260958847
 post_views_count:
-  - 183
+- 183
 categories:
-  - Desenvolvimento Web
-  - Design
+- Desenvolvimento Web
+- Design
 tags:
-  - css
-  - desenvolvimento web
-  - destaque
-  - html
-  - photoshop
-  - programação
-  - web design
+- css
+- desenvolvimento web
+- destaque
+- html
+- photoshop
+- programação
+- web design
 
 ---
 Existem algumas habilidades que quem aspira ser ou já é desenvolvedor(a) web ou web designer tem que saber. Essas habilidades são tão importantes e cruciais para a prática da profissão que você praticamente tem que saber executá-las dormindo.
 
 Mesmo que você não seja um web designer, essa habilidades são cada vez mais importantes para todos que estão em posições de desenvolvimento de sites ou design. Esse artigo explica com certo detalhe o por quê cada uma é importante e também como você pode fazer para se aperfeiçoar mais.
 
-Aproveite para conferir nosso artigo com as [dicas que todo designer de UX deveria saber][1].
+Aproveite para conferir nosso artigo com as [dicas que todo designer de UX deveria saber](https://www.igluonline.com/dicas-que-todo-designer-de-ux-deveria-saber/).
 
 ## Programar em HTML e CSS
 
@@ -47,7 +46,7 @@ Antigamente apenas fotógrafos e alguns tipos de designers precisavam saber mani
 
 Seja para <a href="https://www.igluonline.com/funcionalidade-photoshop-da-semana-ferramenta-de-corte/" target="_blank">cortar</a>, <a href="https://www.igluonline.com/funcionalidade-photoshop-da-semana-texto-e-fontes-customizadas/" target="_blank">adicionar texto</a>s, fazer uma montagem ou <a href="https://www.igluonline.com/funcionalidade-photoshop-da-semana-ferramenta-de-cor/" target="_blank">melhorar as cores</a> o conhecimento nessa área está muito requerido. Afinal boas imagens na web ajudam a causar boas impressões para os visitantes de qualquer tipo de site. Navegantes da web hoje são muito mais exigentes com a qualidade das imagens do que jamais foram.
 
-Você não precisa ser um expert e fazer edições profissionais para revistas, mas precisa pelo menos saber manipular, cortar e tratar fotos e imagens. O que não faltam são <a href="https://www.igluonline.com/categories/ferramentas-photoshop/" target="_blank">tutorais aqui na Iglu sobre Photoshop</a> e até estamos lançando um <a href="http://cursos.igluonline.com" target="_blank">curso de Photoshop básico</a>.
+Você não precisa ser um expert e fazer edições profissionais para revistas, mas precisa pelo menos saber manipular, cortar e tratar fotos e imagens. O que não faltam são <a href="https://www.igluonline.com/categories/photoshop" target="_blank">tutorais aqui na Iglu sobre Photoshop</a> e até estamos lançando um <a href="http://cursos.igluonline.com" target="_blank">curso de Photoshop básico</a>.
 
 ## Escrever títulos e apresentações
 
@@ -87,11 +86,11 @@ Websites parecem ser sistemas fechados sem influencia externa, mas não são. <a
 
 Fazer backups não necessariamente é uma habilidade, mas saber como manter websites online juntamente com a criação de salvaguardas é algo muito importante e necessário para o sucesso de qualquer desenvolvedor ou web designer.
 
-Procure saber qual é a melhor forma de manter não só os arquivos do sites seguros como também os seus bancos de dados. Guardar apenas uma cópia do site no Github não é um backup. É preciso também garantir que o mais importante &#8211; os dados &#8211; estejam protegidos. <a href="https://www.igluonline.com/ferramentas-para-o-sucesso-seu-blog/" target="_blank">Muitos servidores hoje garantem o backup</a>, então dê preferência a eles.
+Procure saber qual é a melhor forma de manter não só os arquivos do sites seguros como também os seus bancos de dados. Guardar apenas uma cópia do site no Github não é um backup. É preciso também garantir que o mais importante – os dados – estejam protegidos. <a href="https://www.igluonline.com/ferramentas-para-o-sucesso-seu-blog/" target="_blank">Muitos servidores hoje garantem o backup</a>, então dê preferência a eles.
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
 ## Termos
 
@@ -105,8 +104,6 @@ Algo que é bem fácil e rápido para adquirir muito conhecimento é navegar ent
 
 Como web design e programação para sites normalmente é algo aprendido online, nem sempre há um currículo objetivo para se seguir. Infelizmente as universidades não sabem ensinar sobre o assunto bem. No fundo elas não tem condições de se manterem atualizadas com a velocidade da troca de tecnologias.
 
-Essa situação de aprender online é muito interessante, mas também abre margens para aprendizados &#8216;pela metade&#8217;. Espero que o artigo tenha passado brevemente por algumas das habilidades para se tornar um bom web designer.
+Essa situação de aprender online é muito interessante, mas também abre margens para aprendizados ‘pela metade’. Espero que o artigo tenha passado brevemente por algumas das habilidades para se tornar um bom web designer.
 
 Você possui todas essas habilidades? Tem alguma que precisa melhorar? Deixe aqui nos comentários abaixo e vamos continuar por lá.
-
- [1]: https://www.igluonline.com/dicas-que-todo-designer-de-ux-deveria-saber/
