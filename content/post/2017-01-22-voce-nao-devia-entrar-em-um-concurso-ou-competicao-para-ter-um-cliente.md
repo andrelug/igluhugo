@@ -1,36 +1,35 @@
 ---
 title: Você não devia entrar em um concurso ou competição para ter um cliente
 author: André Lucas
-type: post
-date: 2017-01-22T20:29:52+00:00
-url: /voce-nao-devia-entrar-em-um-concurso-ou-competicao-para-ter-um-cliente/
+date: 2017-01-22 20:29:52 +0000
+url: "/voce-nao-devia-entrar-em-um-concurso-ou-competicao-para-ter-um-cliente/"
 featured_image: uploads/2017/01/pexels-photo-200303
 featured_image_extension: jpeg
 mvp_post_template:
-  - def
+- def
 mvp_featured_image:
-  - hide
+- hide
 post_views_count:
-  - 657
+- 657
 instant_articles_submission_id:
-  - 238057669994447
+- 238057669994447
 categories:
-  - Design
-  - Desenvolvimento Web
+- Design
+- Desenvolvimento Web
 tags:
-  - autônomo
-  - competição
-  - concorrência
-  - concurso
-  - design
-  - destaque
-  - freelancer
-  - programação
+- autônomo
+- competição
+- concorrência
+- concurso
+- design
+- destaque
+- freelancer
+- programação
 
 ---
 Seja você um designer, programador, escritor, marqueteiro (freelancers em geral) ou um cliente, imagino que já tenha ouvido falar dos serviços de concursos ou concorrência online (Contests). Sites como DesignCrowd, Freelancer, CrowdSpring, Workana, Indeed ou 99designs, entre muitos outros, se firmaram no mercado atual e estão cada vez sendo mais considerados pelos profissionais de design, programação, marketing e letras.
 
-Seja você o profissional ou o cliente, esse tipo de site em algum momento pareceu ser atrativo. Ou pelo menos você teve alguma curiosidade a respeito deles. Para os novos profissionais liberais e freelancers, esse tipo de site de concursos representa uma promessa da aquisição de clientes com pouco esforço. Para os clientes, a possibilidade de conseguir um trabalho por preços muito baratos por trabalhos de qualidade e, em alguns casos, até possibilidade de escolher o trabalho que mais gosta entre alguns profissionais &#8211; especialmente no ramo do design.
+Seja você o profissional ou o cliente, esse tipo de site em algum momento pareceu ser atrativo. Ou pelo menos você teve alguma curiosidade a respeito deles. Para os novos profissionais liberais e freelancers, esse tipo de site de concursos representa uma promessa da aquisição de clientes com pouco esforço. Para os clientes, a possibilidade de conseguir um trabalho por preços muito baratos por trabalhos de qualidade e, em alguns casos, até possibilidade de escolher o trabalho que mais gosta entre alguns profissionais – especialmente no ramo do design.
 
 **Parece muito para ser verdade? É por que realmente não é verdade.**
 
@@ -52,13 +51,13 @@ Muitos dos pontos desse artigo irão focar no segundo tipo e ele é mais comum e
 
 De acordo com algumas fontes online parece que a chance de se ganhar um concurso desses varia de menos de 1% a 10%.
 
-Especialmente para aqueles serviços do tipo 2 (como explicamos acima) imagina trabalhar duro e produzir 100 designs. Considerando que um design, como um logotipo, leva pelo menos umas duas hora para ser feito (no formato &#8220;fast food&#8221;), são pelo menos 200 horas nesse processo. Contudo, só será pago entre 1 e 10 dos 100 se você tiver sorte. Considerando a média de 5% de chance de você ganhar um concurso desses&#8230;não parece muito bom ne?
+Especialmente para aqueles serviços do tipo 2 (como explicamos acima) imagina trabalhar duro e produzir 100 designs. Considerando que um design, como um logotipo, leva pelo menos umas duas hora para ser feito (no formato “fast food”), são pelo menos 200 horas nesse processo. Contudo, só será pago entre 1 e 10 dos 100 se você tiver sorte. Considerando a média de 5% de chance de você ganhar um concurso desses…não parece muito bom ne?
 
 Além disso, mesmo que o pagamento seja garantido existe a possibilidade de um concurso desses ser abandonado e aí ninguém é pago pelo trabalho completo.
 
-O design de uma logo no 99designs, por exemplo, hoje tem a média de uns 500 dólares. Se a gente pensar que um designer médio ganhará 5 de 100 enviados, o total são 2500 dólares. Isso hoje no convertendo para Real daria algo em torno de R$ 8,000,00 por 200 horas trabalhadas &#8211; ou R$ 40,00 por hora. **Parece um valor bem bacana, mas se você parar para pensar, cada logotipo custou R$ 80,00!**
+O design de uma logo no 99designs, por exemplo, hoje tem a média de uns 500 dólares. Se a gente pensar que um designer médio ganhará 5 de 100 enviados, o total são 2500 dólares. Isso hoje no convertendo para Real daria algo em torno de R$ 8,000,00 por 200 horas trabalhadas – ou R$ 40,00 por hora. **Parece um valor bem bacana, mas se você parar para pensar, cada logotipo custou R$ 80,00!**
 
-Estamos falando aqui apenas de um trabalho feito às pressas com o pressuposto que existirá uma demanda por logotipos constante, algo que no mundo real não funciona bem assim. Também, sem contar com o tempo de preparar tudo, enviar as propostas e outros serviços que, c<a href="https://www.igluonline.com/como-estruturar-seu-negocio-como-freelancer/" target="_blank">omo freelancers, devem ser feitos pelo próprio profissional</a>.
+Estamos falando aqui apenas de um trabalho feito às pressas com o pressuposto que existirá uma demanda por logotipos constante, algo que no mundo real não funciona bem assim. Também, sem contar com o tempo de preparar tudo, enviar as propostas e outros serviços que, c<a href="https://www.andrelug.com/como-estruturar-seu-negocio-como-freelancer/" target="_blank">omo freelancers, devem ser feitos pelo próprio profissional</a>.
 
 Algo importante a se lembrar é que como profissionais autônomos tudo que nós temos é nosso tempo para oferecer nossos serviços. O tempo é muito valioso para se gastar sem ser compensado adequadamente.
 
@@ -72,7 +71,7 @@ Isso apenas acontece quando há um certo desrespeito pela profissão que é comp
 
 ### 3- Sites de concursos barateiam os preços dos trabalhos
 
-<a href="https://www.igluonline.com/como-estruturar-seu-negocio-como-freelancer/" target="_blank">Os profissionais freelancers</a> muitas vezes têm &#8220;chutam&#8221; preços para a realização de trabalhos em sites de concorrências. Isso é porque as descrições normalmente não são bem feitas ou completamente bem explicadas. Não é culpa do cliente, pois ele mesmo não sabe exatamente o que falar já que em uma reunião presencial **com um profissional autônomo é o profissional que vai fazendo as perguntas corretas para que a estimativa de esforço seja correta**.
+<a href="https://www.andrelug.com/como-estruturar-seu-negocio-como-freelancer/" target="_blank">Os profissionais freelancers</a> muitas vezes têm “chutam” preços para a realização de trabalhos em sites de concorrências. Isso é porque as descrições normalmente não são bem feitas ou completamente bem explicadas. Não é culpa do cliente, pois ele mesmo não sabe exatamente o que falar já que em uma reunião presencial **com um profissional autônomo é o profissional que vai fazendo as perguntas corretas para que a estimativa de esforço seja correta**.
 
 Esse tipo de situação normalmente leva a um barateamento dos serviços pois há um certo desespero na vontade de ganhar na concorrência e o preço, juntamente com a reputação dos profissionais, é decisivo. Uma vez que esse processo se repete várias vezes, não só vários clientes começam a achar que o valor de um serviço é menor do que ele realmente é, quanto novos profissionais tomam esses valores como base e os aceitam.
 
@@ -92,11 +91,11 @@ Contudo, talvez ainda assim os concursos e competições não sejam a melhor sa�
 
 Você pode sentar em casa e entrar em vários concursos e competições clicando e clicando e clicando. Não há risco.
 
-Em contraste, se você se coloca em contato com clientes reais, é uma experiência muito mais complexa, difícil e desafiadora. Pensar sobre nosso marketing não é fácil, mas temos [algumas dicas aqui de como você pode melhorar seu marketing pessoal][1].
+Em contraste, se você se coloca em contato com clientes reais, é uma experiência muito mais complexa, difícil e desafiadora. Pensar sobre nosso marketing não é fácil, mas temos [algumas dicas aqui de como você pode melhorar seu marketing pessoal](http://igluonline.com/como-estruturar-seu-negocio-como-freelancer/).
 
 Fazer network é difícil. Trabalhar seu marketing online demora. Receber os duros feedbacks de clientes cara a cara é bem complicado as vezes. Trabalhar potenciais clientes e transformá-los em reais clientes é um processo delicado e mesmo com tudo isso você ainda pode ser rejeitado. É difícil.
 
-Mas você deve fazer isso. É o melhor jeito de se construir uma <a href="https://www.igluonline.com/como-estruturar-seu-negocio-como-freelancer/" target="_blank">carreira como freelancer ou autônomo</a>, uma reputação e um negócio de verdade.
+Mas você deve fazer isso. É o melhor jeito de se construir uma <a href="https://www.andrelug.com/como-estruturar-seu-negocio-como-freelancer/" target="_blank">carreira como freelancer ou autônomo</a>, uma reputação e um negócio de verdade.
 
 ### Conclusão
 
@@ -104,13 +103,13 @@ Pelo que escrevi acima deu para perceber que não sou muito fã desses serviços
 
 Acredito que cada um de nós tem uma forma de olhar para os desafios e oportunidades. Com certeza há quem se dá muito bem e aquelas outras pessoas que nem tanto. Esse artigo serve muito para quem está buscando mais informações e principalmente para quem quer dar uma chance para eles. Quanto mais informações, melhor. Nem tudo são mil maravilhas.
 
-Trabalhe nesses serviços &#8220;fast food&#8221; quando preciso, só não sugiro se deixar levar demais por eles.
+Trabalhe nesses serviços “fast food” quando preciso, só não sugiro se deixar levar demais por eles.
 
 <img class=" wp-image-438 aligncenter" src="/images/uploads/2017/01/woman-hand-smartphone-desk.jpg" alt="" width="1172" height="781" srcset="/images/uploads/2017/01/woman-hand-smartphone-desk.jpg 1280w, /images/uploads/2017/01/woman-hand-smartphone-desk-300x200.jpg 300w, /images/uploads/2017/01/woman-hand-smartphone-desk-768x512.jpg 768w, /images/uploads/2017/01/woman-hand-smartphone-desk-1024x682.jpg 1024w" sizes="(max-width: 1172px) 100vw, 1172px" />
 
-Agora&#8230;se você é um cliente está na dúvida se deve ou não utilizar esses serviços, aqui vão mais alguns pontos para considerarmos.
+Agora…se você é um cliente está na dúvida se deve ou não utilizar esses serviços, aqui vão mais alguns pontos para considerarmos.
 
-&nbsp;
+ 
 
 ## Para Clientes
 
@@ -126,9 +125,9 @@ Já vi briefings com mais de 5 páginas e mais de 50 perguntas diferentes. Pode 
 
 ### 2- Mais designs não é melhor para você
 
-Pegando como exemplo novamente um exemplo do 99designs. Por US$ 500,00 você pode receber cerca de 60 designs diferentes para um logotipo. Escolher entre 60 marcas diferentes é um processo complicado, mas é possível. Agora pense no designer. **Cada um desses 60 designers não gastou muito tempo para pensar na sua marca**. Provavelmente escolheu um template online e colocou seu nome na fonte que ficou mais legal e te enviou pois, assim como um fast food, não dá para fazer algo customizado para um cliente senão não é possível bater as metas de produção considerando a chance de ganhar um concurso desse &#8211; como vimos acima.
+Pegando como exemplo novamente um exemplo do 99designs. Por US$ 500,00 você pode receber cerca de 60 designs diferentes para um logotipo. Escolher entre 60 marcas diferentes é um processo complicado, mas é possível. Agora pense no designer. **Cada um desses 60 designers não gastou muito tempo para pensar na sua marca**. Provavelmente escolheu um template online e colocou seu nome na fonte que ficou mais legal e te enviou pois, assim como um fast food, não dá para fazer algo customizado para um cliente senão não é possível bater as metas de produção considerando a chance de ganhar um concurso desse – como vimos acima.
 
-Fazer um design de uma logo é um processo que não só leva &#8220;tempo criativo&#8221; de introspecção e imaginação, mas também tempo de produção de algo realmente único. Pelos mesmos US$ 500,00 você poderia contratar um design diretamente que fará o mesmo trabalho com o seu projeto sendo cuidado com o maior carinho.
+Fazer um design de uma logo é um processo que não só leva “tempo criativo” de introspecção e imaginação, mas também tempo de produção de algo realmente único. Pelos mesmos US$ 500,00 você poderia contratar um design diretamente que fará o mesmo trabalho com o seu projeto sendo cuidado com o maior carinho.
 
 ### 3- Profissionais estão desesperados para ganhar
 
@@ -136,9 +135,9 @@ Se você está contratando um serviço e lê essa frase acima, pode ser que até
 
 Pessoas desesperadas fazem coisas desesperadas. **E nem sempre as coisas desesperadas serão no melhor interesse de seus clientes**. Não necessariamente o profissional irá discutir utilizando seus conhecimentos para que a solução seja a melhor. Muitas vezes o que eles irão buscar é apenas em finalizar o trabalho, pegar um feedback bom e continuar tentando ganhar mais projetos. O fato desse tipo de relação entre profissional e cliente ser mais distante dificulta o designer, programador ou qualquer outro tipo de profissional realmente se colocar na mentalidade de fazer o melhor trabalho possível.
 
-Um bom freelancer é aquele que desafia o cliente nas suas percepções oferecendo soluções e não simplesmente aceitando o que o cliente pede com um &#8220;sim senhor&#8221; ou &#8220;sim senhora&#8221;.
+Um bom freelancer é aquele que desafia o cliente nas suas percepções oferecendo soluções e não simplesmente aceitando o que o cliente pede com um “sim senhor” ou “sim senhora”.
 
-&nbsp;
+ 
 
 ### 4- A qualidade do trabalho é muito pior
 
@@ -156,19 +155,19 @@ Parte disso remete ao ponto que falamos acima no qual o cliente normalmente que 
 
 No final das contas decisões ruins são tomadas o tempo todo já que o designer (ou qualquer outro profissional nessa situação) provavelmente não está ligando muito para o resultado.
 
-&nbsp;
+ 
 
 ### 5- Seu projeto não será original
 
 É complicado falar sobre esse assunto, mas na realidade é algo que acontece com mais frequência do que imaginamos. Em geral nesses concursos os projetos feitos acabam derivando de um desses jeitos:
 
-  1. Roubo do design, código ou texto de outras pessoas
-  2. Reciclagem de algo já feito anteriormente pelo profissional
-  3. Uso de templates ou projetos comprados para serem usados em massa
+1. Roubo do design, código ou texto de outras pessoas
+2. Reciclagem de algo já feito anteriormente pelo profissional
+3. Uso de templates ou projetos comprados para serem usados em massa
 
-Nenhuma dessas opções são ideais quando pensamos no que um bom profissional faria ao lidar diretamente com o cliente em um projeto sério. Contudo, nos concursos, competições ou concorrências online **o objetivo é produzir igual &#8220;fast food&#8221;**. Com velocidade, padronização e pouca qualidade.
+Nenhuma dessas opções são ideais quando pensamos no que um bom profissional faria ao lidar diretamente com o cliente em um projeto sério. Contudo, nos concursos, competições ou concorrências online **o objetivo é produzir igual “fast food”**. Com velocidade, padronização e pouca qualidade.
 
-&nbsp;
+ 
 
 ### 6- Você não conhece o profissional
 
@@ -182,7 +181,7 @@ Alguns símbolos e formas podem significar coisas bem diferentes dependendo de o
 
 Você pode acabar com um site com um código que foi comentado todo em Chinês. Imagina na hora de você dar manutenção nesse site. É algo a se pensar também.
 
-&nbsp;
+ 
 
 ### 7- Pode haver até problemas no resultado final
 
@@ -194,12 +193,12 @@ Ele pediu um website por um desses serviços. O preço nem foi tão baixo, mas f
 
 Alguns exemplos de problemas que podem acontecer com design:
 
-  * Esquecer de delinear as fontes nos logotipos
-  * Esquecer de adicionar marcas de corte e um espaço para a impressão nos arquivos de PDF
-  * Não usar CMYK para arquivos de impressão
-  * Errar na escolha da resolução
+* Esquecer de delinear as fontes nos logotipos
+* Esquecer de adicionar marcas de corte e um espaço para a impressão nos arquivos de PDF
+* Não usar CMYK para arquivos de impressão
+* Errar na escolha da resolução
 
-E por aí vai&#8230;
+E por aí vai…
 
 Se você quer que algo seja feito corretamente, contrate alguém diretamente que suas chances serão muito maiores de sucesso.
 
@@ -211,7 +210,7 @@ O pessoal do exemplo que dei acima mesmo perdeu uma quantidade de dinheiro bem g
 
 **Se você quer mais segurança financeira, não é uma boa ideia também ceder à tentação de vários profissionais oferendo seus trabalhos feitos às pressas a você**.
 
-&nbsp;
+ 
 
 # Concluindo
 
@@ -223,12 +222,10 @@ Mas mais do que isso eu acredito que a maior parte dos participantes não esteja
 
 Nesses sites de concurso temos que lembrar que quem realmente sai bem são os seus donos e uns gatos pingados que têm sorte.
 
-&nbsp;
+ 
 
 Se esse artigo te ajudou na sua decisão, comente abaixo e nos conte sua experiência ou dúvidas.
 
-Esse artigo foi baseado em um <a href="http://apexcreative.net/why-design-contests-are-bad-for-designers/" target="_blank">outro artigo do website Apexcreative</a>. Agradeço a autora Sheila por autorizar a adaptação no nosso idioma Português &#8211; com umas adições minhas, naturalmente! 🙂
+Esse artigo foi baseado em um <a href="http://apexcreative.net/why-design-contests-are-bad-for-designers/" target="_blank">outro artigo do website Apexcreative</a>. Agradeço a autora Sheila por autorizar a adaptação no nosso idioma Português – com umas adições minhas, naturalmente! 🙂
 
 Divirta-se!
-
- [1]: http://igluonline.com/como-estruturar-seu-negocio-como-freelancer/
