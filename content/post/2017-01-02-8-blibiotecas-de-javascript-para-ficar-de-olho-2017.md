@@ -27,8 +27,7 @@ Com milhares de bibliotecas disponíveis, entre elas algumas clássicas como jQu
 
 Nesse artigo vamos ver alguma das bibliotecas que imaginamos que não só crescerão mais do que já são hoje quanto são boas apostas para gastar o tempo e aprender mais a fundo como usar e ganhar um ponto na competição no mercado de trabalho. em 2018
 
-<div id="attachment_333" style="width: 1035px" class="wp-caption aligncenter">
-<img class=" wp-image-333" src="/images/uploads/2017/01/jstips-header-blog.gif" alt="" width="1025" height="448" />
+<div id="attachment_333" class="wp-caption aligncenter"> <img class=" wp-image-333" src="/images/uploads/2017/01/jstips-header-blog.gif" alt="" width="1025" height="448" />
 
 <p class="wp-caption-text">
 Fonte da imagem: <a href="http://dinki.com.br/blog/index.php/2016/07/08/entendendo-a-criacao-e-instanciacao-de-variaveis-no-javascript/" target="_blank">dinki</a>
@@ -67,17 +66,11 @@ Existe até um framework chamado <a href="http://www.telescopeapp.org/" target="
 
 Meteor é um monstro com centenas de funcionalidades. Você pode até gerar aplicativos para Android, Windows Phone e iPhone a partir do mesmo código da web com o uso de comandos no terminal ou prompt de comando. Vale muito a pena começar a dar uma olhada mais séria nessa plataforma para seu próximo projeto, mas já fica o aviso que ela não é tão simples e requer um conhecimento de JavaScript mais profundo para realmente tirar proveito de suas funcionalidades.
 
- 
-
- 
-
 ## <a href="http://www.chartjs.org/" target="_blank">5- Chart.js</a>
 
 Com o Chart.js você tem a possibilidade de criar gráficos em linha, bolhas, barras e inúmeros outros utilizando sua API do canvas. Essa é uma das bibliotecas mais simples para gerenciar dados e plotá-los em gráficos. Ela já vem até com uma série de animações que performam muito bem no mais variados navegadores.
 
 Vale a pena mencionar também que ela tem uma documentação muito boa, clara e simples e também é um projeto de código aberto (open source).
-
- 
 
 ## <a href="https://webvr.info/" target="_blank">6- WebVR</a>
 
@@ -97,10 +90,6 @@ Felizmente bibliotecas como a Three.js estão aí e fazem esse processo ser bem 
 
 Mexer com essa plataforma não é necessariamente fácil, mas você encontrará muitos recursos para dar seu start na criação de efeitos e objetos 3D logo de cara.
 
- 
-
- 
-
 ## <a href="https://d3js.org/" target="_blank">8- D3.js</a>
 
 <img class=" wp-image-332 aligncenter" src="/images/uploads/2017/01/Screenshot_3.png" alt="" width="1189" height="700" srcset="/images/uploads/2017/01/Screenshot_3.png 1308w, /images/uploads/2017/01/Screenshot_3-300x177.png 300w, /images/uploads/2017/01/Screenshot_3-768x452.png 768w, /images/uploads/2017/01/Screenshot_3-1024x603.png 1024w" sizes="(max-width: 1189px) 100vw, 1189px" />
@@ -113,10 +102,4 @@ Espero que tenham gostado dessa seleção de bibliotecas JavaScript para ficar d
 
 Se você tem alguma sugestão, não deixe de comentar abaixo e vamos completar nossos conhecimentos!
 
- 
-
 Divirta-se!
-
- 
-
- 
