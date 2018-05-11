@@ -18,7 +18,7 @@ Se você quiser já ver algumas de nossas listas anteriores, já deixo também o
 
 * [As melhores fontes gratuitas de Fevereiro 2017](https://www.igluonline.com/melhores-fontes-gratuitas-de-fevereiro-2017/)
 * [As melhores fontes gratuitas para começar 2018](https://www.igluonline.com/melhores-fontes-gratuitas-para-comecar-2018/)
-* [Melhores Fontes Gratuitas de Junho 2016](https://www.igluonline.com/melhores-fontes-gratuitas-de-junho-2016/)
+* [Melhores Fontes Gratuitas de Fevereiro 2018](https://www.igluonline.com/melhores-fontes-gratuitas-para-fevereiro-2018/)
 * [Fontes gratis para baixar e usar no Photoshop e Word – Um guia completo](https://www.igluonline.com/fontes-gratis-para-baixar-e-usar-no-photoshop-e-word-um-guia-completo/)
 
 Todas as fontes aqui podem ser baixadas de graça, então basta clicar nos títulos ou nas imagens para acessá-las. Vários dos sites que estou linkando estão em Inglês, mas acredito que não será problemas achar os botões de \*\*download \*\*ou **free download**.
