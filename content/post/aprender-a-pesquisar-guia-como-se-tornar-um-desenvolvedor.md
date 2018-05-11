@@ -146,9 +146,9 @@ Pensando no meu próprio caminho de aprendizado autodidata, os dois maiores desa
 
 A parte da disciplina eu posso ajudar com alguns desses artigos aqui no blog:
 
-* [8 Dicas para ser mais produtivo](https://www.igluonline.com/8-dicas-para-ser-mais-produtivo/)
-* [Como estruturar seu negócio como Freelancer](https://www.igluonline.com/como-estruturar-seu-negocio-como-freelancer/)
-* [Você não é sua produtividade. Diminua a velocidade](https://www.igluonline.com/voce-nao-e-sua-produtividade-diminua-velocidade/)
+* [8 Dicas para ser mais produtivo](https://www.andrelug.com/8-dicas-para-ser-mais-produtivo/)
+* [Como estruturar seu negócio como Freelancer](https://www.andrelug.com/como-estruturar-seu-negocio-como-freelancer/)
+* [Você não é sua produtividade. Diminua a velocidade](https://www.andrelug.com/voce-nao-e-sua-produtividade-diminua-velocidade/)
 
 Porém, disciplina e persistência é uma luta diária contra a procrastinação. A internet é um mar de possibilidades para distrair a cabeça, então aprender algumas técnicas de foco e bloqueio de distrações pode ajudar muito aqui.
 
@@ -229,7 +229,7 @@ Como desenvolvedor web eu fiquei em êxtase quando conheci os websites:
 * [Coderwall](https://coderwall.com/)
 * [Lynda](https://www.lynda.com/)
 * [Treehouse](http://treehouse.7eer.net/c/364685/228915/3944)
-* [Codeschool](codeschool.com)
+* [Codeschool](https://codeschool.com)
 
 São sites que me proporcionaram com:
 

@@ -40,7 +40,7 @@ O fundo preto com letras brancas, por exemplo, veio disso. No celular, o modo no
 
 ![](images/uploads/2018/05/02/youtube mobile first.png)
 
-<a href="https://medium.com/swlh/8-excellent-mobile-first-design-examples-for-designer-inspiration-d5c90d465221" rel="nofollow">Neste post</a> é possível ver uma série de outros exemplos de como o _mobile first_ tem se tornado tendência nos aplicativos e em sites mais importantes. Além do Youtube, podemos citar também os sites do Airbnb, Evernote, Apple, Facebook e por aí vai.[\[ES1\]](#_msocom_1)
+<a href="https://medium.com/swlh/8-excellent-mobile-first-design-examples-for-designer-inspiration-d5c90d465221" rel="nofollow">Neste post</a> é possível ver uma série de outros exemplos de como o _mobile first_ tem se tornado tendência nos aplicativos e em sites mais importantes. Além do Youtube, podemos citar também os sites do Airbnb, Evernote, Apple, Facebook e por aí vai.
 
 ## **Desktop vs. Mobile?**
 

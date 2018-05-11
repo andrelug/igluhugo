@@ -78,8 +78,8 @@ Pensando no meu próprio caminho de aprendizado autodidata, os dois maiores desa
 A parte da disciplina eu posso ajudar com alguns desses artigos aqui no blog:
 
 * <a href="https://www.igluonline.com/8-dicas-para-ser-mais-produtivo/" target="_blank" rel="noopener">8 Dicas para ser mais produtivo</a>
-* <a href="https://www.igluonline.com/como-estruturar-seu-negocio-como-freelancer/" target="_blank" rel="noopener">Como estruturar seu negócio como Freelancer</a>
-* <a href="https://www.igluonline.com/voce-nao-e-sua-produtividade-diminua-velocidade/" target="_blank" rel="noopener">Você não é sua produtividade. Diminua a velocidade</a>
+* <a href="https://www.andrelug.com/como-estruturar-seu-negocio-como-freelancer/" target="_blank" rel="noopener">Como estruturar seu negócio como Freelancer</a>
+* <a href="https://www.andrelug.com/voce-nao-e-sua-produtividade-diminua-velocidade/" target="_blank" rel="noopener">Você não é sua produtividade. Diminua a velocidade</a>
 
 Porém, disciplina e persistência é uma luta diária contra a procrastinação. A internet é um mar de possibilidades para distrair a cabeça, então aprender algumas técnicas de foco e bloqueio de distrações pode ajudar muito aqui.
 
