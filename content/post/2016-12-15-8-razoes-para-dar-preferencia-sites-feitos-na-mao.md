@@ -1,30 +1,29 @@
 ---
 title: 8 razões para dar preferência a sites feitos na mão
 author: André Lucas
-type: post
-date: 2016-12-15T13:18:34+00:00
-url: /8-razoes-para-dar-preferencia-sites-feitos-na-mao/
+date: 2016-12-15 13:18:34 +0000
+url: "/8-razoes-para-dar-preferencia-sites-feitos-na-mao/"
 featured_image: uploads/2016/12/pexels-photo-1
 featured_image_extension: jpg
 onesignal_meta_box_present:
-  - 1
+- 1
 mvp_post_template:
-  - def
+- def
 mvp_featured_image:
-  - show
+- show
 post_views_count:
-  - 328
+- 328
 instant_articles_submission_id:
-  - 1855427434709046
+- 1855427434709046
 categories:
-  - Desenvolvimento Web
+- Desenvolvimento Web
 tags:
-  - clientes
-  - construtores
-  - desenvolvimento
-  - "drag n' drop"
-  - websites
-  - wysiwyg
+- clientes
+- construtores
+- desenvolvimento
+- drag n' drop
+- websites
+- wysiwyg
 
 ---
 Mais intensamente nos últimos 3 anos os famosos construtores de sites (site builders) se tornaram a preferência de muitas empresas, blogueiros/blogueiras e basicamente qualquer pessoa que quer um site rápido sem pagar muito. WYSIWYG (O que você vê é o que você tem) e drag n drop (arrasta e solta) são termos que ficaram mais populares por prometer uma simplicidade e eficácia no desenvolvimento de websites.
@@ -35,7 +34,7 @@ Contudo, nem tudo são flores e mesmo e a realidade é que em muitos casos os se
 
 ## 1- Você mantém o controle de 100% do seu site e aonde ele é hospedado
 
-As páginas e funcionalidades criadas por você em construtores de sites, como Wix, Squarespace e Weebly nunca serão de seu direito de uso. Se você quiser transferir para outro lugar ou baixar o código para usar depois terá que abandonar seu site e fazer outro do zero pois os &#8220;website builders&#8221; detém todo o controle. Isso também significa que se você deixar de pagar a mensalidade ou anualidade terá seu site, juntamente com todo o seu conteúdo, ou bloqueados ou deletados.
+As páginas e funcionalidades criadas por você em construtores de sites, como Wix, Squarespace e Weebly nunca serão de seu direito de uso. Se você quiser transferir para outro lugar ou baixar o código para usar depois terá que abandonar seu site e fazer outro do zero pois os “website builders” detém todo o controle. Isso também significa que se você deixar de pagar a mensalidade ou anualidade terá seu site, juntamente com todo o seu conteúdo, ou bloqueados ou deletados.
 
 ## 2- Construtores WYSIWYG gratuitos não são realmente gratuitos
 
@@ -43,7 +42,7 @@ Quando você tem a oportunidade de colocar um site no ar gratuitamente, a maior 
 
 ## 3- Você se faz irrelevante perante seus clientes
 
-Esse ponto vai para quem vende o serviço de desenvolvimento de websites por meio do uso de construtores de websites e é um alerta se você está contratando. Se você faz sites para seus clientes com base nesses construtores, a última coisa que você quer é encorajar seus clientes a tomarem um caminho de &#8220;faça você mesmo&#8221; (DIY). Você declara que o seu trabalho, que provavelmente está sendo pago, pode ser feito por qualquer um.
+Esse ponto vai para quem vende o serviço de desenvolvimento de websites por meio do uso de construtores de websites e é um alerta se você está contratando. Se você faz sites para seus clientes com base nesses construtores, a última coisa que você quer é encorajar seus clientes a tomarem um caminho de “faça você mesmo” (DIY). Você declara que o seu trabalho, que provavelmente está sendo pago, pode ser feito por qualquer um.
 
 Confira também nosso artigo sobre os <a href="https://www.igluonline.com/voce-nao-devia-entrar-em-um-concurso-ou-competicao-para-ter-um-cliente/" target="_blank" rel="noopener">problemas de sites de concursos pois se relaciona com esse problema com clientes</a>.
 
@@ -69,7 +68,7 @@ Podemos colocar da seguinte forma essa questão. Um site feito para se adaptar a
 
 Sites feitos ou totalmente personalizados para seu objetivo ou através de sistemas amplamente testados, como o WordPress, trabalham com uma grande otimização de segurança, velocidade e performance.
 
-<a href="https://www.igluonline.com/8-blibiotecas-de-javascript-para-ficar-de-olho-2017/" target="_blank" rel="noopener">Aproveite para conferir as melhores bibliotecas JavaScript para 2017.</a>
+<a href="https://www.igluonline.com/8-blibiotecas-de-javascript-para-ficar-de-olho-2018/" target="_blank" rel="noopener">Aproveite para conferir as melhores bibliotecas JavaScript para 2018.</a>
 
 ## 6- Seu código normalmente é mais seguro
 
@@ -85,12 +84,12 @@ Quando se tem um sistema que você tem o total controle e também conhece como e
 
 Não há problema em utilizar templates, mas a maior parte das modificações que se consegue fazer em construtores de websites são mínimas e pouco mudam o design de seu site. Se você navegar um pouquinho na web verá vários sites que se parecem muito mais do que podemos considerar como coincidência.
 
-**Quando se faz uso de templates abertos ou criações de design originais você garante que seu site é único e não vai parecer apenas &#8220;mais um&#8221; site na internet.**
+**Quando se faz uso de templates abertos ou criações de design originais você garante que seu site é único e não vai parecer apenas “mais um” site na internet.**
 
-&nbsp;
+ 
 
 Se você gostou do artigo por favor deixe um comentário abaixo ou compartilhe com seus amigos.
 
-&nbsp;
+ 
 
 Divirta-se!

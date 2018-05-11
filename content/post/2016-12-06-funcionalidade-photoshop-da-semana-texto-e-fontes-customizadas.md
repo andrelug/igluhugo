@@ -1,34 +1,31 @@
 ---
 title: 'Funcionalidade Photoshop da Semana: Texto e Fontes Customizadas'
 author: André Lucas
-type: post
-date: 2016-12-06T04:37:30+00:00
-url: /funcionalidade-photoshop-da-semana-texto-e-fontes-customizadas/
+date: 2016-12-06 04:37:30 +0000
+url: "/funcionalidade-photoshop-da-semana-texto-e-fontes-customizadas/"
 featured_image: uploads/2016/12/Screenshot_5
 featured_image_extension: jpg
 mvp_post_template:
-  - def
+- def
 mvp_featured_image:
-  - show
+- show
 post_views_count:
-  - 406
+- 406
 youtube: https://www.youtube.com/embed/5i6xydjDANI
 instant_articles_submission_id:
-  - 157724494754535
+- 157724494754535
 categories:
-  - Design
-  - Photoshop
+- Design
+- Photoshop
 tags:
-  - destaque
-  - dicas
-  - ferramentas
-  - fontes
-  - texto
-  - tutorial
+- destaque
+- dicas
+- ferramentas
+- fontes
+- texto
+- tutorial
 
 ---
-<a href="https://www.igluonline.com/categories/ferramentas-photoshop/" target="_blank" rel="noopener"><strong>Não perca os outros artigos da coleção Funcionalidade Photoshop da Semana!</strong></a>
-
 ## O que faz
 
 A ferramenta de texto no Photoshop é muito poderosa e nos dá a possibilidade de escolher fontes em nosso banco de fontes do computador ou mesmo da web a partir do servido Typekit da Adobe. Mais do que isso, no entanto, ela é extremamente versátil e possui funcionalidades avançadas para estilizar e transformar os textos a serem adicionados nos designs e projetos.
@@ -57,16 +54,14 @@ Toda vez que criar um elemento de texto ele aparecerá como uma nova camada e ca
 
 ## Dicas para lembrar
 
-Apesar do Photoshop já possuir um número grande de fontes, puxar as instaladas no seu computador e ainda ter acesso às fontes do Typekit, muitas vezes precisamos de fontes  que não estão em nenhum desses bancos. Na internet há várias fontes de boa tipografia e aqui mesmo na Iglu postamos artigos com seleções de boas fontes para seus designs. Como exemplo temos [essa seleção que fizemos em Junho que ficou muito boa!][1]
+Apesar do Photoshop já possuir um número grande de fontes, puxar as instaladas no seu computador e ainda ter acesso às fontes do Typekit, muitas vezes precisamos de fontes  que não estão em nenhum desses bancos. Na internet há várias fontes de boa tipografia e aqui mesmo na Iglu postamos artigos com seleções de boas fontes para seus designs. Como exemplo temos [essa seleção que fizemos em Junho que ficou muito boa!](/melhores-fontes-gratuitas-de-junho-2016/)
 
 ## Sugestão de exercício
 
 Uma boa forma de praticar o uso da ferramenta de texto no Photoshop é testar como a fonte, cor e estilo de um texto pode mudar significamente a aparência de um projeto. Crie várias camadas com fontes, cores, estilos e formas diferentes e alterne entre elas para perceber a composição.
 
-&nbsp;
+ 
 
 Gostou do artigo? Deixe seu comentário abaixo com sugestões e perguntas.
 
 Divirta-se!
-
- [1]: /melhores-fontes-gratuitas-de-junho-2016/

@@ -37,7 +37,7 @@ Nesse artigo vou fazer duas listas. Em primeiro lugar vou listar os principais s
 
 * <a href="https://www.igluonline.com/melhores-fontes-gratuitas-de-fevereiro-2017/" target="_blank">As melhores fontes gratuitas de Fevereiro 2017</a>
 * <a href="https://www.igluonline.com/melhores-fontes-gratuitas-para-comecar-2018/" target="_blank">As melhores fontes gratuitas para começar 2018</a>
-* <a href="https://www.igluonline.com/melhores-fontes-gratuitas-de-junho-2016/" target="_blank">Melhores Fontes Gratuitas de Junho 2016</a>
+* <a href="https://www.igluonline.com/melhores-fontes-gratuitas-para-fevereiro-2018/" target="_blank">Melhores Fontes Gratuitas de Fevereiro 2018</a>
 
 ## 8 ótimos sites para baixar fontes grátis
 
@@ -179,7 +179,7 @@ Aproveite para conferir nossas outras seleções de fontes gratuitas:
 
 * <a href="https://www.igluonline.com/melhores-fontes-gratuitas-de-fevereiro-2017/" target="_blank">As melhores fontes gratuitas de Fevereiro 2017</a>
 * <a href="https://www.igluonline.com/melhores-fontes-gratuitas-para-comecar-2018/" target="_blank">As melhores fontes gratuitas para começar 2018</a>
-* <a href="https://www.igluonline.com/melhores-fontes-gratuitas-de-junho-2016/" target="_blank">Melhores Fontes Gratuitas de Junho 2016</a>
+* <a href="https://www.igluonline.com/melhores-fontes-gratuitas-para-fevereiro-2018/" target="_blank">Melhores Fontes Gratuitas de Fevereiro 2018</a>
 
 Espero que tenha gostado do artigo. Considere compartilhar em suas redes sociais!
 

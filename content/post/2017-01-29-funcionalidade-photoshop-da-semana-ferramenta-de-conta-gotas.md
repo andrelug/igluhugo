@@ -1,35 +1,32 @@
 ---
 title: 'Funcionalidade Photoshop da Semana: Ferramenta de Conta-gotas'
 author: André Lucas
-type: post
-date: 2017-01-30T00:10:26+00:00
-url: /funcionalidade-photoshop-da-semana-ferramenta-de-conta-gotas/
+date: 2017-01-30 00:10:26 +0000
+url: "/funcionalidade-photoshop-da-semana-ferramenta-de-conta-gotas/"
 featured_image: uploads/2017/01/funcionalidade-da-semana_conta-gotas
 featured_image_extension: jpg
 mvp_post_template:
-  - def
+- def
 mvp_featured_image:
-  - hide
+- hide
 post_views_count:
-  - 761
+- 761
 instant_articles_submission_id:
-  - 1434457626606262
+- 1434457626606262
 categories:
-  - Design
-  - Photoshop
+- Design
+- Photoshop
 tags:
-  - arte digital
-  - conta-gotas
-  - cores
-  - destaque
-  - ferramenta
-  - funcionalidade
-  - photoshop
-  - swatches
+- arte digital
+- conta-gotas
+- cores
+- destaque
+- ferramenta
+- funcionalidade
+- photoshop
+- swatches
 
 ---
-<a href="https://www.igluonline.com/categories/ferramentas-photoshop/" target="_blank"><strong>Não perca os outros artigos da coleção Funcionalidade Photoshop da Semana!</strong></a>
-
 ## O que faz
 
 A ferramenta de conta-gostas do Photoshop é bastante útil. Ela nos permite facilmente extrair qualquer cor de qualquer imagem ou objeto em nosso projeto para ser utilizada em qualquer ferramenta.
@@ -58,8 +55,8 @@ Já o segundo campo de escolha permite escolher as amostras pelo que é visível
 
 ## Dicas para lembrar
 
-  * Se você clicar e segurar o clique na imagem, poderá arrastar o círculo de pré-visualização para ajustar exatamente qual cor você deseja extrair ou copiar.
-  * Quando você estiver utilizando as ferramentas de pincel ou lápis, poderá acessar a ferramenta conta-gostas segurando a tecla Alt no seu teclado. Mantenha a tecla selecionada para extrair a cor e em seguida solte para voltar ao pincel ou lápis. Essa forma de utilizar é excelente para fazer retoques rápidos e é um atalho muito importante para quem faz pintura digital.
+* Se você clicar e segurar o clique na imagem, poderá arrastar o círculo de pré-visualização para ajustar exatamente qual cor você deseja extrair ou copiar.
+* Quando você estiver utilizando as ferramentas de pincel ou lápis, poderá acessar a ferramenta conta-gostas segurando a tecla Alt no seu teclado. Mantenha a tecla selecionada para extrair a cor e em seguida solte para voltar ao pincel ou lápis. Essa forma de utilizar é excelente para fazer retoques rápidos e é um atalho muito importante para quem faz pintura digital.
 
 ## Sugestão de exercício
 

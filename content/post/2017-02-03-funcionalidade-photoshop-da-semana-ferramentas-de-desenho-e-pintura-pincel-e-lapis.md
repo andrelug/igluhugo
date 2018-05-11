@@ -1,40 +1,38 @@
 ---
-title: 'Funcionalidade Photoshop da Semana: Ferramentas de Desenho e Pintura (pincel e lápis)'
+title: 'Funcionalidade Photoshop da Semana: Ferramentas de Desenho e Pintura (pincel
+  e lápis)'
 author: André Lucas
-type: post
-date: 2017-02-03T20:00:01+00:00
-url: /funcionalidade-photoshop-da-semana-ferramentas-de-desenho-e-pintura-pincel-e-lapis/
+date: 2017-02-03 20:00:01 +0000
+url: "/funcionalidade-photoshop-da-semana-ferramentas-de-desenho-e-pintura-pincel-e-lapis/"
 featured_image: uploads/2017/02/funcionalidade-da-semana_pincel
 featured_image_extension: jpg
 mvp_post_template:
-  - def
+- def
 mvp_featured_image:
-  - hide
+- hide
 instant_articles_submission_id:
-  - 1833661473626349
+- 1833661473626349
 post_views_count:
-  - 665
+- 665
 categories:
-  - Design
-  - Photoshop
+- Design
+- Photoshop
 tags:
-  - cores
-  - desenho
-  - destaque
-  - ferramenta
-  - lápis
-  - photoshop
-  - pincel
-  - pintura
-  - pintura digital
-  - traço
+- cores
+- desenho
+- destaque
+- ferramenta
+- lápis
+- photoshop
+- pincel
+- pintura
+- pintura digital
+- traço
 
 ---
-<a href="https://www.igluonline.com/categories/ferramentas-photoshop/" target="_blank"><strong>Não perca os outros artigos da coleção Funcionalidade Photoshop da Semana!</strong></a>
-
 ## O que faz
 
-As ferramentas de desenho e pintura no Photoshop servem para a criação de traços que simulam os feitos por pinceis e lápis reais. Não só eles servem para desenhar qualquer coisa de forma similar aos utensílios de verdade mas também expandem suas funcionalidades uma vez que no mundo digital &#8220;tudo é possível&#8221;.
+As ferramentas de desenho e pintura no Photoshop servem para a criação de traços que simulam os feitos por pinceis e lápis reais. Não só eles servem para desenhar qualquer coisa de forma similar aos utensílios de verdade mas também expandem suas funcionalidades uma vez que no mundo digital “tudo é possível”.
 
 Os traços podem representar pinceis finos, grossos, angulares, leves, fortes, duros, macios, pequenos, grandes e por aí vai. Além disso, você pode também criar seus próprios pinceis no formato que deseja, podendo até ser de qualquer formato, até mesmo em cima de uma foto ou formato inventado.
 
@@ -48,8 +46,8 @@ A ferramenta pode ser acessada na barra principal de ferramentas no canto esquer
 
 Uma vez que essa ferramenta lida com cores e camadas, recomendo dar uma olhada em nossos outros dois artigos sobre as funcionalidades de cor e camadas caso ainda não esteja familiarizado com essas funcionalidades.
 
-  * <a href="http://igluonline.com/funcionalidade-photoshop-da-semana-camadas/" target="_blank">Painel de camadas</a>
-  * <a href="http://igluonline.com/funcionalidade-photoshop-da-semana-ferramenta-de-cor/" target="_blank">Ferramenta de cores</a>
+* <a href="http://igluonline.com/funcionalidade-photoshop-da-semana-camadas/" target="_blank">Painel de camadas</a>
+* <a href="http://igluonline.com/funcionalidade-photoshop-da-semana-ferramenta-de-cor/" target="_blank">Ferramenta de cores</a>
 
 ## Funcionalidades
 
@@ -61,7 +59,7 @@ Uma das primeiras coisas que podemos considerar na hora de criar um traço em no
 
 <img class="size-full wp-image-460 aligncenter" src="/images/uploads/2017/02/funcionalidade_photoshop_pincel2.jpg" alt="" width="857" height="535" srcset="/images/uploads/2017/02/funcionalidade_photoshop_pincel2.jpg 857w, /images/uploads/2017/02/funcionalidade_photoshop_pincel2-300x187.jpg 300w, /images/uploads/2017/02/funcionalidade_photoshop_pincel2-768x479.jpg 768w" sizes="(max-width: 857px) 100vw, 857px" />
 
-Uma outra forma também de rapidamente alterar é utilizando os atalhos no seu teclado. **[** para diminuir o tamanho e **]** para aumentar o tamanho.
+Uma outra forma também de rapidamente alterar é utilizando os atalhos no seu teclado. **\[** para diminuir o tamanho e **\]** para aumentar o tamanho.
 
 ### Dureza
 
@@ -115,16 +113,16 @@ Não há como descrever cada opção desse painel aqui, mas recomendo brincar co
 
 ## Dicas para lembrar
 
-  * As ferramentas de desenho e pintura no Photoshop são muito poderosas e são realmente uma das melhores no mercado. Como são utilizadas pelos profissionais e possuem muitos recursos nem sempre é importante entender e testar cada opçãozinha, principalmente no painel de pinceis. A não ser que você deseje ser um artista digital profissional, eu diria que 80% do que é possível com essa ferramenta não precisa ser explorado a fundo.
-  * Além da pintura digital, é muito legal utilizar os pinceis para realizar retoques e alterações em seus projetos de fotografia e até mesmo design gráfico.
-  * Se quiser fazer um traço reto, basta segurar a tecla **Shift** no seu teclado enquanto realiza o traço. Primeiro faça o primeiro clique, depois segure a tecla shift e só então continue o traço e ele sairá reto. Essa funcionalidade apenas realizará traços horizontais ou verticais.
-  * Você também pode criar uma reta através de dois pontos e também utilizando a tecla **Shift**. Primeiro clique em um ponto do canvas, em seguida segure a tecla shitf e por último faza outro clique no destino final e o Photoshop irá criar a reta entre os dois pontos.
+* As ferramentas de desenho e pintura no Photoshop são muito poderosas e são realmente uma das melhores no mercado. Como são utilizadas pelos profissionais e possuem muitos recursos nem sempre é importante entender e testar cada opçãozinha, principalmente no painel de pinceis. A não ser que você deseje ser um artista digital profissional, eu diria que 80% do que é possível com essa ferramenta não precisa ser explorado a fundo.
+* Além da pintura digital, é muito legal utilizar os pinceis para realizar retoques e alterações em seus projetos de fotografia e até mesmo design gráfico.
+* Se quiser fazer um traço reto, basta segurar a tecla **Shift** no seu teclado enquanto realiza o traço. Primeiro faça o primeiro clique, depois segure a tecla shift e só então continue o traço e ele sairá reto. Essa funcionalidade apenas realizará traços horizontais ou verticais.
+* Você também pode criar uma reta através de dois pontos e também utilizando a tecla **Shift**. Primeiro clique em um ponto do canvas, em seguida segure a tecla shitf e por último faza outro clique no destino final e o Photoshop irá criar a reta entre os dois pontos.
 
 ## Sugestão de exercício
 
 Caso você tenha aptidão para desenho, a melhor forma de começar a trabalhar com as ferramentas de pintura e desenho no Photoshop é através da reprodução de algum outro desenho que goste. Tente não utilizar os formatos prontos, a ferramenta de caneta ou mesmo as seleções para fazer essa reprodução.
 
-&nbsp;
+ 
 
 Gostou do artigo? Deixe seu comentário abaixo com sugestões e perguntas. Não deixe de compartilhar com alguém que pode também gostar! 🙂
 

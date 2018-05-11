@@ -77,15 +77,13 @@ Então, se fontes estáticas é chato demais para você, talvez utilizar uma fon
 
 <a href="http://www.dpalmermotion.com/freefont" target="_blank"><img class=" wp-image-489 aligncenter" src="/images/uploads/2017/02/fonte_gratuita_2017_fonte-animada.gif" alt="" width="933" height="428" /></a>
 
- 
-
 Espero que tenha gostado dessa seleção de fontes gratuitas para o mês de Fevereiro! **Se você sabe de alguém que pode curtir também não deixe de compartilhar 🙂**
 
 Não deixe de conferir essas outras fontes:
 
 <a href="https://www.igluonline.com/fontes-gratis-para-baixar-e-usar-no-photoshop-e-word-um-guia-completo/" target="_blank">Fontes gratis para baixar e usar no Photoshop e Word – Um guia completo</a>
 
-<a href="https://www.igluonline.com/melhores-fontes-gratuitas-de-junho-2016/" target="_blank">Melhores Fontes Gratuitas de Junho 2016</a>
+<a href="https://www.igluonline.com/melhores-fontes-gratuitas-para-fevereiro-2018/" target="_blank">Melhores Fontes Gratuitas de Fevereiro 2018</a>
 
 <a href="https://www.igluonline.com/melhores-fontes-gratuitas-para-comecar-2018/" target="_blank">A melhores fontes gratuitas para começar 2018</a>
 
