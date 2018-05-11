@@ -1,33 +1,30 @@
 ---
 title: 'Funcionalidade Photoshop da Semana: Ferramenta de Corte'
 author: André Lucas
-type: post
-date: 2017-01-12T17:43:22+00:00
-url: /funcionalidade-photoshop-da-semana-ferramenta-de-corte/
+date: 2017-01-12 17:43:22 +0000
+url: "/funcionalidade-photoshop-da-semana-ferramenta-de-corte/"
 featured_image: uploads/2017/01/funcionalidade-da-semana_corte
 featured_image_extension: jpg
 mvp_post_template:
-  - def
+- def
 mvp_featured_image:
-  - hide
+- hide
 post_views_count:
-  - 614
+- 614
 instant_articles_submission_id:
-  - 1307253119323542
+- 1307253119323542
 categories:
-  - Design
-  - Photoshop
+- Design
+- Photoshop
 tags:
-  - corte
-  - destaque
-  - ferramentas
-  - photoshop
-  - recorte
-  - sensível a conteúdo
+- corte
+- destaque
+- ferramentas
+- photoshop
+- recorte
+- sensível a conteúdo
 
 ---
-<a href="https://www.igluonline.com/categories/ferramentas-photoshop/" target="_blank"><strong>Não perca os outros artigos da coleção Funcionalidade Photoshop da Semana!</strong></a>
-
 ## O que faz
 
 A ferramenta de corte no Photoshop possibilita o recorte de uma imagem ou projeto. Ela funciona basicamente como qualquer ferramenta de corte, então basta escolher aonde deseja recortar a imagem e fazer o recorte.
@@ -78,11 +75,11 @@ Note que as quinas foram todas criadas pelo programa com base nos elementos ao s
 
 ## Dicas para lembrar
 
-  * Se você quiser facilitar a composição com base em uma determinada regra de posicionamento, como a dos terços, você pode adicionar as medidas na prévia do corte ao clicar nesse ícone:
+* Se você quiser facilitar a composição com base em uma determinada regra de posicionamento, como a dos terços, você pode adicionar as medidas na prévia do corte ao clicar nesse ícone:
 
 <img class="size-full wp-image-388 aligncenter" src="/images/uploads/2017/01/Screenshot_4-1.jpg" alt="" width="501" height="319" srcset="/images/uploads/2017/01/Screenshot_4-1.jpg 501w, /images/uploads/2017/01/Screenshot_4-1-300x191.jpg 300w" sizes="(max-width: 501px) 100vw, 501px" />
 
-  * Se você quiser fazer um corte transformando a perspectiva da imagem, pode utilizar a ferramenta de corte da perspectiva. Essa ferramenta pode ser acessada no mesmo lugar que a de corte normal. Basta segurar o ícone e abrirá um submenu com acesso a essa nova ferramenta. Ela é muito útil se você quer transformar já uma imagem que foi tirada em uma perspectiva incorreta.
+* Se você quiser fazer um corte transformando a perspectiva da imagem, pode utilizar a ferramenta de corte da perspectiva. Essa ferramenta pode ser acessada no mesmo lugar que a de corte normal. Basta segurar o ícone e abrirá um submenu com acesso a essa nova ferramenta. Ela é muito útil se você quer transformar já uma imagem que foi tirada em uma perspectiva incorreta.
 
 <img class="size-full wp-image-389 aligncenter" src="/images/uploads/2017/01/Screenshot_5-1.jpg" alt="" width="595" height="488" srcset="/images/uploads/2017/01/Screenshot_5-1.jpg 595w, /images/uploads/2017/01/Screenshot_5-1-300x246.jpg 300w" sizes="(max-width: 595px) 100vw, 595px" />
 
@@ -94,7 +91,7 @@ O website <a href="https://www.pexels.com/" target="_blank">Pexels.com</a> é ch
 
 <a href="https://www.pexels.com/photo/brown-animal-on-brown-rock-pathway-139378/" target="_blank"><img class=" wp-image-390 aligncenter" src="/images/uploads/2017/01/nature-animals-porcupine-hiking-139378.jpeg" alt="" width="1068" height="712" srcset="/images/uploads/2017/01/nature-animals-porcupine-hiking-139378.jpeg 1920w, /images/uploads/2017/01/nature-animals-porcupine-hiking-139378-300x200.jpeg 300w, /images/uploads/2017/01/nature-animals-porcupine-hiking-139378-768x512.jpeg 768w, /images/uploads/2017/01/nature-animals-porcupine-hiking-139378-1024x683.jpeg 1024w" sizes="(max-width: 1068px) 100vw, 1068px" /></a>
 
-&nbsp;
+ 
 
 Gostou do artigo? Deixe seu comentário abaixo com sugestões e perguntas.
 
