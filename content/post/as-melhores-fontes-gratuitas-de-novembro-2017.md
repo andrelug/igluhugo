@@ -1,7 +1,7 @@
 +++
 author = "André Lucas"
 categories = ["Design", "Download Gratis"]
-date = "2017-11-19T18:35:21+00:00"
+date = "2017-11-19T18:35:21Z"
 disqus = true
 hugo_image = "images/uploads/2017/11/20/fonte_gratis_neoneon.jpg"
 tags = ["Melhores fontes", "fontes gratuitas", "fontes de graça", "fontes 2017"]
@@ -15,8 +15,8 @@ Continuando nossa coleção de artigos sobre as melhroes fontes de graça de 201
 Se você está buscando variedade, não deixe de conferir essas outras fontes:
 
 * [Fontes gratis para baixar e usar no Photoshop e Word – Um guia completo](https://www.igluonline.com/fontes-gratis-para-baixar-e-usar-no-photoshop-e-word-um-guia-completo/)
-* [Melhores fontes gratuitas de Fevereiro 2017]("https://www.igluonline.com/melhores-fontes-gratuitas-de-fevereiro-2017/)
-* [Melhores Fontes Gratuitas de Junho 2016](https://www.igluonline.com/melhores-fontes-gratuitas-de-junho-2016/)
+* [Melhores fontes gratuitas de Fevereiro 2017](%22https://www.igluonline.com/melhores-fontes-gratuitas-de-fevereiro-2017/)
+* [Melhores Fontes Gratuitas de Fevereiro 2018](https://www.igluonline.com/melhores-fontes-gratuitas-para-fevereiro-2018/)
 * [As melhores fontes gratuitas para começar 2018](https://www.igluonline.com/melhores-fontes-gratuitas-para-comecar-2018/)
 
 Em geral todas as fontes que adiciono nos artigos da Iglu são gratuitas para fazer o download. Basta clicar nos títulos ou imagens desse artigo e você será redirecionado(a) para o site que poderá baixar a fonte. Às vezes os sites são em Inglês, então pode ser que os botões para baixar estejam em Inglês. Normalmente com os nomes de **Free Download** ou só **Download.**
