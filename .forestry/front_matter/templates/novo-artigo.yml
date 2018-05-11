@@ -1,5 +1,6 @@
 ---
 pages:
+- post/introducao-ao-sass-um-guia-para-iniciantes.md
 - post/mobile-first--mobile-friendly-e-sites-responsivos--qual-a-diferenca-.md
 - post/os-melhores-editores-de-texto-para-programacao-em-2017.md
 - post/aprender-a-pesquisar-guia-como-se-tornar-um-desenvolvedor.md
@@ -21,7 +22,6 @@ pages:
 - post/por-que-troquei-o-wordpress-pelo-gerador-de-websites-estaticos-hugo.md
 - post/como-melhorar-drasticamente-a-performance-do-seu-site.md
 - post/as-melhores-fontes-gratuitas-de-maio-2017.md
-- post/introducao-ao-sass-um-guia-para-iniciantes.md
 - post/6-documentarios-sobre-design.md
 hide_body: false
 is_partial: false

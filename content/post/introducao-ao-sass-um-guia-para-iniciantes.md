@@ -1,7 +1,8 @@
 +++
 author = "André Lucas"
 categories = ["Desenvolvimento Web"]
-date = "2017-05-05T21:54:20+00:00"
+date = "2017-05-05T21:54:20Z"
+disqus = false
 hugo_image = "images/uploads/2017/05/06/css_preprocessador_sass.jpg"
 tags = ["SASS", "CSS", "Stylesheet", "css preprocessors", "pré-processador de css"]
 title = "Introdução ao Sass - Um guia para iniciantes"
@@ -46,11 +47,8 @@ A grande diferença entre Sass e SCSS é que todo código CSS pode ser interpret
 Para instalar o Sass na sua máquina, a melhor forma é utilizar um software que irá cuidar da interpretação e geração do código em CSS em tempo real para ser enviado aos navegadores. Seria muito chato desenvolver em Sass e ter que rodar um programa manualmente toda vez que quiséssemos visualizar as modificações no browser. Então aplicativos como os listados abaixo são de muita valia nessa automatização do processo de ler o código Sass, compilar e gerar um arquivo CSS que pode ser referenciado no seu HTML. Tudo isso acontece quando você salva um arquivo e é basicamente instantâneo.
 
 * <a href="http://scout-app.io/" target="_blank" rel="noopener">Scout</a>
-
 * <a href="http://livereload.com/" target="_blank" rel="noopener">LiveReload</a>
-
 * <a href="http://koala-app.com/" target="_blank" rel="noopener">Koala</a>
-
 * <a href="http://compass.handlino.com/" target="_blank" rel="noopener">Compass.app</a>
 
 Todos acima estão disponíveis gratuitamente.
@@ -69,45 +67,41 @@ Cor é um excelente exemplo pois é algo que podemos, por exemplo, mudar a cor p
 
 Veja esse exemplo de como usar uma variável:
 
-```
-// Uma boa prática é definir as variáveis no topo de seu projeto
-
-$azul: #3498db;
-$vermelho: #e74c3c;
-$planoDeFundo: #34495e;
- 
-// Em seguida aplicamos as variáveis
-
-body {
-  background-color: $planoDeFundo;
-}
- 
-h1 {
-  color: $azul;
-}
- 
-p {
-  color: $vermelho;
-}
-
-```
+    // Uma boa prática é definir as variáveis no topo de seu projeto
+    
+    $azul: #3498db;
+    $vermelho: #e74c3c;
+    $planoDeFundo: #34495e;
+     
+    // Em seguida aplicamos as variáveis
+    
+    body {
+      background-color: $planoDeFundo;
+    }
+     
+    h1 {
+      color: $azul;
+    }
+     
+    p {
+      color: $vermelho;
+    }
+    
 
 Isso então seria compilado no seguinte arquivo de CSS:
 
-```
-body {
-  background-color: #34495e;
-}
- 
-h1 {
-  color: #3498db;
-}
- 
-p {
-  color: #e74c3c;
-}
-
-```
+    body {
+      background-color: #34495e;
+    }
+     
+    h1 {
+      color: #3498db;
+    }
+     
+    p {
+      color: #e74c3c;
+    }
+    
 
 Essa é só a ponta do iceberg com relação às variáveis, então sugiro depois dar uma olhada na documentação oficial para vários outros recursos avançados.
 
@@ -117,24 +111,22 @@ Essa é só a ponta do iceberg com relação às variáveis, então sugiro depoi
 
 O Sass tem uma funcionalidade bem legal que é de aninhar as regras de CSS para que você não precise ficar se repetindo. O aninhamento é uma excelente forma de organizar melhor o código e facilmente entender quais regras se aplicam a que parte do código. Além disso, um resultado interessante disso é que você tem menos probabilidade de ficar se repetindo e criando regras conflitantes. O exemplo tradicional para essa funcionalidade é a da lista:
 
-```
-
-ul {
-  list-style: none;
- 
-  li {
-    padding: 10px;
-    display: inline-block;
- 
-    a {
-      text-decoration: none;
-      font-size: 16px;
-      color: #333;
+    
+    ul {
+      list-style: none;
+     
+      li {
+        padding: 10px;
+        display: inline-block;
+     
+        a {
+          text-decoration: none;
+          font-size: 16px;
+          color: #333;
+        }
+      }
     }
-  }
-}
-
-```
+    
 
 Uma recomendação geral é não avançar para mais de quatro níveis senão o código pode ficar um pouco confuso.
 
@@ -146,55 +138,51 @@ A herança - Inheritance - é possivelmente uma das funcionalidades mais usadas 
 
 Extensões devem ser utilizadas quando precisamos de estilos parecidos mas que ainda podem se diferenciar em alguns detalhes. Você usa a diretiva `@extend` para puxar as definições de outra declaração. Por exemplo, criando dois botões, um primário e outro secundário.
 
-```
-
-$azul: #3498db;
-$vermelho: #e74c3c;
-$branco: #fff;
- 
-.btn {
-  display: inline-block;
-  padding: 6px 12px;
-  font-size: 14px;
-  text-align: center;
-  border-radius: 4px;
-  color: $branco;
-}
- 
-.btn-primary {
-  @extend .btn;
-  background-color: $azul;
-}
- 
-.btn-secondary {
-  @extend .btn;
-  background-color: $vermelho;
-}
-
-```
+    
+    $azul: #3498db;
+    $vermelho: #e74c3c;
+    $branco: #fff;
+     
+    .btn {
+      display: inline-block;
+      padding: 6px 12px;
+      font-size: 14px;
+      text-align: center;
+      border-radius: 4px;
+      color: $branco;
+    }
+     
+    .btn-primary {
+      @extend .btn;
+      background-color: $azul;
+    }
+     
+    .btn-secondary {
+      @extend .btn;
+      background-color: $vermelho;
+    }
+    
 
 Esse código será compilado em:
 
-```
-
-.btn, .btn-primary, .btn-secondary {
-  display: inline-block;
-  padding: 6px 12px;
-  font-size: 14px;
-  text-align: center;
-  border-radius: 4px;
-  color: #fff;
-}
- 
-.btn-primary {
-  background-color: #3498db;
-}
- 
-.btn-secondary {
-  background-color: #e74c3c;
-}
-
-```
+    
+    .btn, .btn-primary, .btn-secondary {
+      display: inline-block;
+      padding: 6px 12px;
+      font-size: 14px;
+      text-align: center;
+      border-radius: 4px;
+      color: #fff;
+    }
+     
+    .btn-primary {
+      background-color: #3498db;
+    }
+     
+    .btn-secondary {
+      background-color: #e74c3c;
+    }
+    
 
 Essa funcionalidade é sensacional pois é muito simples de ser usada e tem imensos efeitos positivos no código.
 
@@ -206,35 +194,31 @@ Se você é familiarizado com as funções em linguagens de programação, os Mi
 
 No Sass você utiliza a diretiva `@mixin` para definir os mixins e `@include` para as utilizar. Você pode usar, por exemplo para declarações dependentes ainda de códigos específicos para vários navegadores. Vejamos para acriação de `border-radius` em utilizar em um botão.
 
-```
-// Primeiro declaramos o mixin
-
-@mixin border-radius($radius) {
-  -webkit-border-radius: $radius;
-     -moz-border-radius: $radius;
-      -ms-border-radius: $radius;
-          border-radius: $radius;
-}
- 
-// Depois é só passar a variável
-
-.btn {
-  @include border-radius(4px);
-}
-
-```
+    // Primeiro declaramos o mixin
+    
+    @mixin border-radius($radius) {
+      -webkit-border-radius: $radius;
+         -moz-border-radius: $radius;
+          -ms-border-radius: $radius;
+              border-radius: $radius;
+    }
+     
+    // Depois é só passar a variável
+    
+    .btn {
+      @include border-radius(4px);
+    }
+    
 
 E será compilado em:
 
-```
-.btn {
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
-  -ms-border-radius: 4px;
-  border-radius: 4px;
-}
-
-```
+    .btn {
+      -webkit-border-radius: 4px;
+      -moz-border-radius: 4px;
+      -ms-border-radius: 4px;
+      border-radius: 4px;
+    }
+    
 
 Essa funcionalidade brilha com a necessidade dos prefíxos de nevegadores, mas pode ser utilizada de várias outras formas.
 
@@ -244,7 +228,7 @@ Essa funcionalidade brilha com a necessidade dos prefíxos de nevegadores, mas p
 
 Sass é uma ferramenta muito bacana para transformar a forma de se escrever o CSS em suas aplicações e websites. Existem diversas outras funcionalidades interessantes e formas diferentes de usar ferramentas já presentes no CSS, como `import`.
 
-<a href="https://www.igluonline.com/como-se-tornar-um-desenvolvedor-web-em-2017/" target="_blank" rel="noopener">Esse artigo é parte do caminho de Front-end, presente em nosso super artigo de como se tornar um desenvolvedor web.</a>
+<a href="https://www.igluonline.com/como-se-tornar-um-desenvolvedor-web-em-2018/" target="_blank" rel="noopener">Esse artigo é parte do caminho de Front-end, presente em nosso super artigo de como se tornar um desenvolvedor web.</a>
 
 Se você gostou, não deixe de deixar uma curtida e compartilhar com seus amigos :)
 
