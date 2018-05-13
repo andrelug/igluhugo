@@ -286,9 +286,9 @@
 				  <article class="post-related post-list">
 					  <div class="post-thumbnail">
 						  {{if .Param "hugo_image"}}
-							<img width="530" height="640" src="{{ .Param "hugo_image"}}" class="attachment-list size-list wp-post-image" alt="imagem destacada">
+							<img width="530" height="640" style="min-height:200px;" src="" class="attachment-list size-list wp-post-image lazy" data-src="{{ .Param "hugo_image"}}" alt="imagem destacada">
 						  {{else}}
-							<img width="530" height="640" src="images/{{ .Param "featured_image" }}.{{ .Param "featured_image_extension" }}" class="attachment-list size-list wp-post-image" alt="imagem destacada">
+							<img width="530" height="640" style="min-height:200px;" src="" data-src="images/{{ .Param "featured_image" }}.{{ .Param "featured_image_extension" }}" class="attachment-list size-list wp-post-image lazy" alt="imagem destacada">
 						  {{ end }}
 						  <div class="post-more">
 							  <a href="{{ .Permalink }}" class="link-more" ga-on="click" ga-event-category="Feature" ga-event-action="click" ga-event-label="Artigo Relacionado Post">

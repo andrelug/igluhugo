@@ -295,6 +295,10 @@
 			//	feed.run();
 				window.onscroll = null;
 				if (disqus_loaded == false) { load_disqus() };
+
+				$('.lazy').each(function(){
+						$(this).attr('src', $(this).attr('data-src'));
+					});
 			}
 		}
 		{{ else }}
