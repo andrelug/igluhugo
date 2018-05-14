@@ -5,6 +5,7 @@ theme = "iglu"
 title = "Iglu - Design e Desenvolvimento Web"
 enableRobotsTXT = true
 defaultContentLanguage = "pt"
+rssLimit = 100
 [blackfriday]
 hrefTargetBlank = true
 [params]
