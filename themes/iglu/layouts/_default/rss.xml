@@ -13,7 +13,7 @@
         {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{ end }}
     {{ range .Data.Pages }}
-      {{ if not (or (eq .Title "Contato") (eq .Title "Obrigado por se cadastrar!") (eq .Title "Funcionalidade Photoshop da Semana: Camadas") (eq .Title "Funcionalidade Photoshop da Semana: Ferramenta Mover") (eq .Title "Como mudar a cor dos olhos no Photoshop") (eq .Title "Sobre a Iglu!")) }}
+      {{ if not (or (eq .Title "Contato") (eq .Title "Obrigado por se cadastrar!") (eq .Title "Funcionalidade Photoshop da Semana: Camadas") (eq .Title "Funcionalidade Photoshop da Semana: Ferramenta Mover") (eq .Title "Como mudar a cor dos olhos no Photoshop") (eq .Title "Sobre a Iglu!") (eq .Title "Todas as Categorias")) }}
       <item>
         <title>{{ .Title }}</title>
         <link>{{ .Permalink }}</link>
