@@ -21,14 +21,11 @@ type: page
 </div><div class=" col-md-8">
 <div role="form" lang="pt-BR" dir="ltr">
 <div class="screen-reader-response"></div>
-<form action="obrigado-pelo-contato" netlify name="Contato Iglu" netlify-honeypot="teste">
-<p style="display:none;">
-    <label>teste <input name="teste"></label>
-  </p>
-<input type="hidden" name="_next" value="http://www.igluonline.com" />
-<input type="hidden" name="_subject" value="E-mail Blog" />
-<div style="display: none;">
-</div>
+<form method="POST" name="Contato André Lug" id="contactForm">
+  <input type="hidden" name="_next" value="https://www.igluonline.com/obrigado-pelo-contato" />
+  <input type="hidden" name="_subject" value="Contato Iglu Blog" />
+  <input type="hidden" name="_language" value="pt-BR" />
+  <input type="text" name="_gotcha" style="display:none" />
 <div class="row">
 <div class="col-md-6">
 <div class="form-group"><label class="">Nome <span class="required">*</span><input class=" form-control" name="nome" type="text" value="" aria-invalid="false" aria-required="true" required=""></label></div>
@@ -37,5 +34,9 @@ type: page
 </div>
 </div>
 <div class="form-group"><label class="">Mensagem <span class="required">*</span></label><textarea class=" form-control" name="mensagem" rows="5" aria-invalid="false" aria-required="true" required=""></textarea></div>
-<div class="form-group"><div><input class=" btn btn-primary" type="submit" value="Enviar"></div></div><div class=" alert"></div></form></div>
+<div class="form-group"><div><input class=" btn btn-primary" type="submit" value="Enviar"></div></div><div class=" alert"></div></form>
+<script>
+    var contactform =  document.getElementById('contactForm');
+    contactform.setAttribute('action', '//formspree.io/' + 'andre' + '@' + 'igluonline' + '.' + 'com');
+</script></div>
 </div></div>
