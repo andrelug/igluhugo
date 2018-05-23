@@ -1,7 +1,7 @@
 ---
 title: 'Funcionalidade Photoshop da Semana: Ferramentas de Zoom'
 author: André Lucas
-date: 2016-12-30 03:43:17 +0000
+date: 2016-12-30 03:43:17 -03:00
 url: "/funcionalidade-photoshop-da-semana-ferramentas-de-zoom/"
 featured_image: uploads/2016/12/funcionalidade-da-semana_zoom
 featured_image_extension: jpg

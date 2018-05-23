@@ -1,7 +1,7 @@
 +++
 author = "André Lucas"
 categories = ["design"]
-date = "2017-04-30T15:10:02+00:00"
+date = "2017-04-30T15:10:02-03:00"
 hugo_image = "images/uploads/2017/04/30/documentario_modern_russian.jpg"
 tags = ["documentário"]
 title = "6 Documentários sobre design"

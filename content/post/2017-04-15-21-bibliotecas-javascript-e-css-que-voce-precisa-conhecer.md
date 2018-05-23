@@ -2,7 +2,7 @@
 title: 21 Bibliotecas JavaScript e CSS que você precisa conhecer
 author: André Lucas
 type: post
-date: 2017-04-16T01:13:29+00:00
+date: 2017-04-16T01:13:29-03:00
 url: /21-bibliotecas-javascript-e-css-que-voce-precisa-conhecer/
 featured_image: uploads/2017/04/pexels-photo-160107-1
 featured_image_extension: jpeg

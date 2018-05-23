@@ -1,7 +1,7 @@
 ---
 title: 'Funcionalidade Photoshop da Semana: Ferramenta de Conta-gotas'
 author: André Lucas
-date: 2017-01-30 00:10:26 +0000
+date: 2017-01-30 00:10:26 -03:00
 url: "/funcionalidade-photoshop-da-semana-ferramenta-de-conta-gotas/"
 featured_image: uploads/2017/01/funcionalidade-da-semana_conta-gotas
 featured_image_extension: jpg

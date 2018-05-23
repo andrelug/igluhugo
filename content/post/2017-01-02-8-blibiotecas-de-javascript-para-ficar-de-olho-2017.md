@@ -1,7 +1,7 @@
 ---
 title: 8 bibliotecas de Javascript para ficar de olho 2018
 author: André Lucas
-date: 2018-02-22 00:11:13 -0300
+date: 2018-02-22 00:11:13 -03:00
 url: "/8-bibliotecas-de-javascript-para-ficar-de-olho-2018/"
 featured_image: uploads/2017/01/JavaScript_AprendaOnline-1050x600
 featured_image_extension: jpg

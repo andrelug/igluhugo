@@ -2,7 +2,7 @@
 title: Nunca foi tão fácil aprender programação quanto 2017
 author: André Lucas
 type: post
-date: 2017-01-06T19:18:33+00:00
+date: 2017-01-06T19:18:33-03:00
 url: /nunca-foi-tao-facil-aprender-programacao-quanto-2017/
 featured_image: uploads/2017/01/pexels-photo-214221
 featured_image_extension: jpeg

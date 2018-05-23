@@ -1,7 +1,7 @@
 ---
 title: Fontes gratis para baixar e usar no Photoshop e Word – Um guia completo
 author: André Lucas
-date: 2017-03-10 19:17:30 +0000
+date: 2017-03-10 19:17:30 -03:00
 url: "/fontes-gratis-para-baixar-e-usar-no-photoshop-e-word-um-guia-completo/"
 featured_image: uploads/2017/03/type-anatomy
 featured_image_extension: jpg

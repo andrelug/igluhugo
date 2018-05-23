@@ -2,7 +2,7 @@
 title: 12 Melhores Plugins para Photoshop em 2017
 author: André Lucas
 type: post
-date: 2017-01-16T21:46:38+00:00
+date: 2017-01-16T21:46:38-03:00
 url: /12-melhores-plugins-para-photoshop-em-2017/
 featured_image: uploads/2017/01/pexels-photo-24578
 featured_image_extension: jpg

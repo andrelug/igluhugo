@@ -1,7 +1,7 @@
 +++
 author = "André Lucas"
 categories = ["WordPress", "Desenvolvimento Web"]
-date = "2018-01-30T20:03:51+00:00"
+date = "2018-01-30T20:03:51-03:00"
 disqus = true
 hugo_image = "images/uploads/2018/01/30/trocar_servidor_wordpress.png"
 tags = ["hospedagem", "servidor"]

@@ -1,7 +1,7 @@
 +++
 author = "André Lucas"
 categories = ["Design", "Download Gratis"]
-date = "2017-07-11T14:22:47Z"
+date = "2017-07-11T14:22:47-03:00"
 disqus = false
 hugo_image = "images/uploads/2017/08/31/coco_gothic_fonte_gratuita.jpg"
 tags = ["fontes gratuitas", "fontes", "melhores fontes"]

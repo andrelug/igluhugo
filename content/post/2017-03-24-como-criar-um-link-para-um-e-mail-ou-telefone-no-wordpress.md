@@ -2,7 +2,7 @@
 title: Como criar um link para um e-mail ou telefone no WordPress
 author: André Lucas
 type: post
-date: 2017-03-25T01:06:45+00:00
+date: 2017-03-25T01:06:45-03:00
 url: /como-criar-um-link-para-um-e-mail-ou-telefone-no-wordpress/
 featured_image: uploads/2017/03/criar_link_e-mail_telefone_wordpress
 featured_image_extension: jpg

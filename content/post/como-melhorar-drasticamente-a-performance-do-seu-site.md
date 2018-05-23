@@ -1,7 +1,7 @@
 +++
 author = "André Lucas"
 categories = ["Desenvolvimento Web"]
-date = "2017-05-15T00:53:15+00:00"
+date = "2017-05-15T00:53:15-03:00"
 hugo_image = "images/uploads/2017/05/16/traffic-car-vehicle-black.jpg"
 tags = ["websites", "velocidade", "performance"]
 title = "Como melhorar drasticamente a performance do seu site"

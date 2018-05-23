@@ -1,7 +1,7 @@
 ---
 title: 8 habilidades que todo web designer e desenvolvedor precisa ter
 author: André Lucas
-date: 2017-04-15 00:47:59 +0000
+date: 2017-04-15 00:47:59 -03:00
 url: "/8-habilidades-que-todo-web-designer-e-desenvolvedor-precisa-ter/"
 featured_image: uploads/2017/04/pexels-photo-196644
 featured_image_extension: jpeg

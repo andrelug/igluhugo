@@ -2,7 +2,7 @@
 title: 'Funcionalidade Photoshop da Semana: Ferramentas de Seleção'
 author: André Lucas
 type: post
-date: 2016-12-12T14:16:03+00:00
+date: 2016-12-12T14:16:03-03:00
 url: /funcionalidade-photoshop-da-semana-ferramentas-de-selecao/
 featured_image: uploads/2016/12/funcionalidade-da-semana_selecao
 featured_image_extension: jpg

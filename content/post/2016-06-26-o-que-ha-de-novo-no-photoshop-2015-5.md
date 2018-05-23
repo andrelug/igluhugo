@@ -2,7 +2,7 @@
 title: O que há de novo no Photoshop 2015.5
 author: André Lucas
 type: post
-date: 2016-06-26T08:40:14+00:00
+date: 2016-06-26T08:40:14-03:00
 url: /o-que-ha-de-novo-no-photoshop-2015-5/
 featured_image: uploads/2016/06/PS_BlogBanner
 featured_image_extension: jpg

@@ -2,7 +2,7 @@
 title: Qual a diferença entre URL, URI e URN
 author: André Lucas
 type: post
-date: 2017-02-12T19:01:31+00:00
+date: 2017-02-12T19:01:31-03:00
 url: /qual-diferenca-entre-url-uri-e-urn/
 featured_image: uploads/2017/02/iglu_diferenca_url_uri_urn
 featured_image_extension: jpg

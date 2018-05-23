@@ -1,7 +1,7 @@
 +++
 author = "André Lucas"
 categories = ["Desenvolvimento Web"]
-date = "2018-01-31T11:56:57-02:00"
+date = "2018-01-31T11:56:57-03:00"
 disqus = false
 hugo_image = "images/uploads/2017/05/02/roadmap_webdevelopment_2017.jpg"
 tags = ["roadmap", "programação", "currículo", "desenvolvimento de websites", "2018"]

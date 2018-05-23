@@ -1,7 +1,7 @@
 ---
 title: 'Funcionalidade Photoshop da Semana: Texto e Fontes Customizadas'
 author: André Lucas
-date: 2016-12-06 04:37:30 +0000
+date: 2016-12-06 04:37:30 -03:00
 url: "/funcionalidade-photoshop-da-semana-texto-e-fontes-customizadas/"
 featured_image: uploads/2016/12/Screenshot_5
 featured_image_extension: jpg

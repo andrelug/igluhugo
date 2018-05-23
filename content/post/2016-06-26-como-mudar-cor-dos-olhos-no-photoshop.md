@@ -2,7 +2,7 @@
 title: Como mudar a cor dos olhos no Photoshop
 author: André Lucas
 type: post
-date: 2016-06-27T01:33:15+00:00
+date: 2016-06-27T01:33:15-03:00
 url: /como-mudar-cor-dos-olhos-no-photoshop/
 featured_image: uploads/2016/06/como_trocar_cor_olhos_photoshop_01
 featured_image_extension: jpg

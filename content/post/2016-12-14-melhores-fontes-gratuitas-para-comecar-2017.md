@@ -1,7 +1,7 @@
 ---
 title: A melhores fontes gratuitas para começar 2018
 author: André Lucas
-date: 2017-12-14 20:10:00 -0200
+date: 2017-12-14 20:10:00 -03:00
 url: "/melhores-fontes-gratuitas-para-comecar-2018/"
 featured_image: uploads/2016/12/buffalo
 featured_image_extension: jpg

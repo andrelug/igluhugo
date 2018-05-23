@@ -2,7 +2,7 @@
 title: 10 dicas para iniciantes no Photoshop
 author: André Lucas
 type: post
-date: 2016-06-22T04:43:29+00:00
+date: 2016-06-22T04:43:29-03:00
 url: /10-dicas-para-iniciantes-no-photoshop/
 featured_image: uploads/2016/06/10_dicas_photoshop-1
 featured_image_extension: jpg

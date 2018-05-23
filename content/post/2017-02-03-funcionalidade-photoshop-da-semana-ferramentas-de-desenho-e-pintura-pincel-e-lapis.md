@@ -2,7 +2,7 @@
 title: 'Funcionalidade Photoshop da Semana: Ferramentas de Desenho e Pintura (pincel
   e lápis)'
 author: André Lucas
-date: 2017-02-03 20:00:01 +0000
+date: 2017-02-03 20:00:01 -03:00
 url: "/funcionalidade-photoshop-da-semana-ferramentas-de-desenho-e-pintura-pincel-e-lapis/"
 featured_image: uploads/2017/02/funcionalidade-da-semana_pincel
 featured_image_extension: jpg

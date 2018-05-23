@@ -1,7 +1,7 @@
 +++
 author = "André Lucas"
 categories = ["Design"]
-date = "2017-11-23T15:00:10Z"
+date = "2017-11-23T15:00:10-03:00"
 disqus = true
 hugo_image = "images/uploads/2017/11/27/tipografia.png"
 tags = ["Tipografia", "Typography", "Fontes"]

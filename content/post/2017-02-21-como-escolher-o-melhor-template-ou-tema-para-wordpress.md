@@ -1,7 +1,7 @@
 ---
 title: Como escolher o melhor template ou tema para WordPress
 author: André Lucas
-date: 2017-02-21 21:43:43 +0000
+date: 2017-02-21 21:43:43 -03:00
 url: "/como-escolher-o-melhor-template-ou-tema-para-wordpress/"
 featured_image: uploads/2017/02/iglu_wordpress2
 featured_image_extension: jpg

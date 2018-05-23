@@ -1,7 +1,7 @@
 +++
 author = "André Lucas"
 categories = ["Desenvolvimento Web"]
-date = "2017-05-29T18:04:24Z"
+date = "2017-05-29T18:04:24-03:00"
 draft = true
 hugo_image = ""
 tags = []

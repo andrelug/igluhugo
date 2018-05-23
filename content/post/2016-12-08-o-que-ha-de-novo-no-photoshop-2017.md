@@ -2,7 +2,7 @@
 title: O que há de novo no Photoshop 2017
 author: André Lucas
 type: post
-date: 2016-12-08T04:17:31+00:00
+date: 2016-12-08T04:17:31-03:00
 url: /o-que-ha-de-novo-no-photoshop-2017/
 featured_image: uploads/2016/12/Sem-Título-1
 featured_image_extension: jpg

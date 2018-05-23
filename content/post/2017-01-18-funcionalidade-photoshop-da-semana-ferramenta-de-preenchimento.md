@@ -1,7 +1,7 @@
 ---
 title: 'Funcionalidade Photoshop da Semana: Ferramenta de Preenchimento'
 author: André Lucas
-date: 2017-01-18 03:28:55 +0000
+date: 2017-01-18 03:28:55 -03:00
 url: "/funcionalidade-photoshop-da-semana-ferramenta-de-preenchimento/"
 featured_image: uploads/2017/01/funcionalidade-da-semana_preenchimento
 featured_image_extension: jpg

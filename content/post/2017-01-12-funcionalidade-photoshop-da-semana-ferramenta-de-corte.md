@@ -1,7 +1,7 @@
 ---
 title: 'Funcionalidade Photoshop da Semana: Ferramenta de Corte'
 author: André Lucas
-date: 2017-01-12 17:43:22 +0000
+date: 2017-01-12 17:43:22 -03:00
 url: "/funcionalidade-photoshop-da-semana-ferramenta-de-corte/"
 featured_image: uploads/2017/01/funcionalidade-da-semana_corte
 featured_image_extension: jpg

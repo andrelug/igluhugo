@@ -1,7 +1,7 @@
 +++
 author = "André Lucas"
 categories = ["Design", "Download Gratis"]
-date = "2018-01-25T16:14:18+00:00"
+date = "2018-01-25T16:14:18-03:00"
 disqus = true
 hugo_image = "images/uploads/2018/01/25/font_gratis_2018_israt_lifestyle.jpg"
 tags = ["Fontes gratis", "Fontes de graça", "Melhores fontes", "fontes 2018", "Free"]

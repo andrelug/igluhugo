@@ -1,7 +1,7 @@
 +++
 author = "André Lucas"
 categories = ["Desenvolvimento Web"]
-date = "2017-05-05T21:54:20Z"
+date = "2017-05-05T21:54:20-03:00"
 disqus = false
 hugo_image = "images/uploads/2017/05/06/css_preprocessador_sass.jpg"
 tags = ["SASS", "CSS", "Stylesheet", "css preprocessors", "pré-processador de css"]

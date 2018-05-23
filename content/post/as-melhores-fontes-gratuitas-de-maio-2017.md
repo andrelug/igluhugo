@@ -1,7 +1,7 @@
 +++
 author = "André Lucas"
 categories = ["Design", "Download Gratis"]
-date = "2017-05-09T01:30:24Z"
+date = "2017-05-09T01:30:24-03:00"
 disqus = false
 hugo_image = "images/uploads/2017/05/09/fonte_gratuita_gilbert_baker.jpg"
 tags = ["download", "fontes", "free", "grátis", "gratuitas"]

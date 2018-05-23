@@ -1,7 +1,7 @@
 +++
 author = "André Lucas"
 categories = ["WordPress", "Desenvolvimento Web"]
-date = "2017-04-29T13:44:11Z"
+date = "2017-04-29T13:44:11-03:00"
 hugo_image = "images/uploads/2017/04/29/gerador_website_estatico_hugo.jpg"
 tags = ["hugo", "wordpress", "web development", "gerador de sites estáticos"]
 title = "Por que troquei o WordPress pelo gerador de websites estáticos Hugo"

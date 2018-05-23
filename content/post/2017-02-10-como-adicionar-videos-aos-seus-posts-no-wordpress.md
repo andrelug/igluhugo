@@ -2,7 +2,7 @@
 title: Como adicionar vídeos aos seus posts no WordPress
 author: André Lucas
 type: post
-date: 2017-02-10T23:41:45+00:00
+date: 2017-02-10T23:41:45-03:00
 url: /como-adicionar-videos-aos-seus-posts-no-wordpress/
 featured_image: uploads/2017/02/video_wordpress
 featured_image_extension: jpg

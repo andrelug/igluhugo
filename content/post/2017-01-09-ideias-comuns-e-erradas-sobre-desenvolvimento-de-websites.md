@@ -2,7 +2,7 @@
 title: Ideias comuns e erradas sobre desenvolvimento de websites
 author: André Lucas
 type: post
-date: 2017-01-09T17:40:38+00:00
+date: 2017-01-09T17:40:38-03:00
 url: /ideias-comuns-e-erradas-sobre-desenvolvimento-de-websites/
 featured_image: uploads/2017/01/pexels-photo-29594-1
 featured_image_extension: jpg

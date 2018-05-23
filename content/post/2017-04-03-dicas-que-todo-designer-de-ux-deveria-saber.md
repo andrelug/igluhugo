@@ -2,7 +2,7 @@
 title: Dicas que todo designer de UX deveria saber
 author: André Lucas
 type: post
-date: 2017-04-03T16:10:59+00:00
+date: 2017-04-03T16:10:59-03:00
 url: /dicas-que-todo-designer-de-ux-deveria-saber/
 featured_image: uploads/2017/04/hands-people-woman-working
 featured_image_extension: jpg

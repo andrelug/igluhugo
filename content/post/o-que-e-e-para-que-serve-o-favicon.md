@@ -1,7 +1,7 @@
 +++
 author = "André Lucas"
 categories = ["Desenvolvimento Web"]
-date = "2018-02-19T01:07:50+00:00"
+date = "2018-02-19T01:07:50-03:00"
 disqus = true
 hugo_image = "images/uploads/2018/02/19/o_que_e_favicon.jpeg"
 tags = ["favicon", "html"]

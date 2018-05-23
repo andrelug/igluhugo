@@ -1,7 +1,7 @@
 ---
 title: Melhores fontes gratuitas de Fevereiro 2017
 author: André Lucas
-date: 2017-02-09 19:44:13 +0000
+date: 2017-02-09 19:44:13 -03:00
 url: "/melhores-fontes-gratuitas-de-fevereiro-2017/"
 featured_image: uploads/2017/02/fonte_gratuita_2017_3.png
 featured_image_extension: jpg

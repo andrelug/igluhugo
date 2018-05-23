@@ -2,7 +2,7 @@
 title: 4 tecnologias para aumentar a velocidade e confiança de seus sites
 author: André Lucas
 type: post
-date: 2016-12-11T03:34:54+00:00
+date: 2016-12-11T03:34:54-03:00
 url: /4-tecnologias-para-aumentar-velocidade-e-confianca-de-seus-sites/
 featured_image: uploads/2016/12/pexels-photo-186461
 featured_image_extension: jpeg

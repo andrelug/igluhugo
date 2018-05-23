@@ -2,7 +2,7 @@
 title: Como Fazer uma Xícara de Café usando Gradientes no Photoshop
 author: André Lucas
 type: post
-date: 2016-06-28T06:08:21+00:00
+date: 2016-06-28T06:08:21-03:00
 url: /como-fazer-uma-xicara-de-cafe-usando-gradientes-no-photoshop/
 featured_image: uploads/2016/06/photoshop_criar_xicara_com_cafe_capa
 featured_image_extension: jpg

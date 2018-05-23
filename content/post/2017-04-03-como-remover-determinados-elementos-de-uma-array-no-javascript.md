@@ -2,7 +2,7 @@
 title: Como remover determinados elementos de uma array no JavaScript
 author: André Lucas
 type: post
-date: 2017-04-03T19:53:16+00:00
+date: 2017-04-03T19:53:16-03:00
 url: /como-remover-determinados-elementos-de-uma-array-no-javascript/
 featured_image: uploads/2017/04/pexels-photo-160107
 featured_image_extension: jpeg

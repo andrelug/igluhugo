@@ -1,7 +1,7 @@
 ---
 title: 'Funcionalidade Photoshop da Semana: A Borracha'
 author: André Lucas
-date: 2017-01-03 13:05:06 +0000
+date: 2017-01-03 13:05:06 -03:00
 url: "/funcionalidade-photoshop-da-semana-borracha/"
 featured_image: uploads/2017/01/funcionalidade-da-semana_borracha
 featured_image_extension: jpg

@@ -1,7 +1,7 @@
 +++
 author = "Marcos Waltenberg"
 categories = ["Marketing Digital"]
-date = "2018-02-01T18:02:15+00:00"
+date = "2018-02-01T18:02:15-03:00"
 disqus = false
 hugo_image = "images/uploads/2018/02/01/lead_magnet_websites-1.jpg"
 tags = ["Marketing de conteúdo", "marketing", "lead magnet"]

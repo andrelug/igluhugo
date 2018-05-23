@@ -1,7 +1,7 @@
 ---
 title: 8 razões para dar preferência a sites feitos na mão
 author: André Lucas
-date: 2016-12-15 13:18:34 +0000
+date: 2016-12-15 13:18:34 -03:00
 url: "/8-razoes-para-dar-preferencia-sites-feitos-na-mao/"
 featured_image: uploads/2016/12/pexels-photo-1
 featured_image_extension: jpg

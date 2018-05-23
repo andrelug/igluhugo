@@ -1,7 +1,7 @@
 ---
 title: 'Yarn Package Manager: Será que é melhor do que NPM?'
 author: André Lucas
-date: 2016-12-23 17:52:34 -0200
+date: 2016-12-23 17:52:34 -03:00
 url: "/yarn-package-manager-sera-que-e-melhor-do-que-npm/"
 featured_image: uploads/2016/12/Screenshot_1-2
 featured_image_extension: jpg

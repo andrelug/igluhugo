@@ -1,7 +1,7 @@
 ---
 title: 'Funcionalidade Photoshop da Semana: Ferramenta de Cores'
 author: André Lucas
-date: 2016-12-01 01:31:00 +0000
+date: 2016-12-01 01:31:00 -03:00
 url: "/funcionalidade-photoshop-da-semana-ferramenta-de-cor/"
 featured_image: uploads/2016/11/color-paint-palette-wall-painting
 featured_image_extension: jpg

@@ -1,7 +1,7 @@
 +++
 author = "André Lucas"
 categories = ["Desenvolvimento Web"]
-date = "2018-01-14T15:46:16+00:00"
+date = "2018-01-14T15:46:16-03:00"
 disqus = true
 hugo_image = "images/uploads/2018/01/15/pexels-photo-97080-1.jpeg"
 tags = ["Teste de carga", "Load test", "Devops"]

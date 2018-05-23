@@ -1,7 +1,7 @@
 +++
 author = "André Lucas"
 categories = ["Design", "Desenvolvimento Web"]
-date = "2017-11-05T23:11:08Z"
+date = "2017-11-05T23:11:08-03:00"
 disqus = true
 hugo_image = "images/uploads/2017/11/06/gerador_de_codigo_flexbox.jpg"
 tags = ["CSS", "programação", "jQuery", "JavaScript", "WordPress"]

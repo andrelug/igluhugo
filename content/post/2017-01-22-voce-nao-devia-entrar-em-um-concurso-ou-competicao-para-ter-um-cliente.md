@@ -1,7 +1,7 @@
 ---
 title: Você não devia entrar em um concurso ou competição para ter um cliente
 author: André Lucas
-date: 2017-01-22 20:29:52 +0000
+date: 2017-01-22 20:29:52 -03:00
 url: "/voce-nao-devia-entrar-em-um-concurso-ou-competicao-para-ter-um-cliente/"
 featured_image: uploads/2017/01/pexels-photo-200303
 featured_image_extension: jpeg

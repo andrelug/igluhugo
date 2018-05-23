@@ -1,7 +1,7 @@
 ---
 title: Os melhores templates e temas gratuitos em HTML para começar 2018
 author: André Lucas
-date: 2018-02-22 00:08:07 -0300
+date: 2018-02-22 00:08:07 -03:00
 url: "/os-melhores-templates-e-temas-gratuitos-em-html-para-comecar-2018/"
 featured_image: uploads/2017/02/template_gratuito_html_2
 featured_image_extension: jpg

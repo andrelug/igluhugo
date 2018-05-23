@@ -1,7 +1,7 @@
 ---
 title: Não vale a pena utilizar serviços brasileiros de hospedagem de sites
 author: André Lucas
-date: 2017-03-07 22:16:22 +0000
+date: 2017-03-07 22:16:22 -03:00
 url: "/nao-vale-pena-utilizar-servicos-brasileiros-de-hospedagem-de-sites/"
 featured_image: uploads/2017/03/iglu_hospedagem_de_sites_brasileiros
 featured_image_extension: jpg
