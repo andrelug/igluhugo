@@ -1,10 +1,4 @@
 ---
-pages:
-- pages/contato.md
-- pages/sobre.md
-- pages/materiais-para-baixar.md
-- pages/obrigado-por-se-cadastrar.md
-- pages/ferramentas-para-o-sucesso-seu-blog.md
 hide_body: false
 is_partial: false
 fields:
@@ -35,3 +29,9 @@ fields:
 - type: file
   name: hugo_image
   label: Imagem destacada
+pages:
+- pages/contato.md
+- pages/sobre.md
+- pages/materiais-para-baixar.md
+- pages/obrigado-por-se-cadastrar.md
+- pages/ferramentas-para-o-sucesso-seu-blog.md
