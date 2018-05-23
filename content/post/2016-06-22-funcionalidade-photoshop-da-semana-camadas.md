@@ -1,7 +1,7 @@
 ---
 title: 'Funcionalidade Photoshop da Semana: Camadas'
 author: André Lucas
-date: 2016-06-22 23:57:52 +0000
+date: 2016-06-22 23:57:52 -03:00
 url: "/funcionalidade-photoshop-da-semana-camadas/"
 featured_image: uploads/2016/06/Funcionalidade-photoshop-camadas-capa-1
 featured_image_extension: jpg
