@@ -1,6 +1,6 @@
 ---
 author: André Lucas
-date: 2017-04-10 21:06:01 +0000
+date: 2017-04-10 21:06:01 -03:00
 tags:
 - Ferramentas para blog
 - blog
