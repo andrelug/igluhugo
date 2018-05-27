@@ -4,7 +4,7 @@
 <div class="site-content">
   <div class="container">
     <div class="page-content">
-      <div class="main">
+      <div class="main" {{ if .Param "pageStyle"}} style="max-width: 100%;flex:0 0 100%;" {{ end }}>
 
 		  <article class="post type-post status-publish format-standard has-post-thumbnail hentry category-style tag-ideas tag-indie tag-long-read tag-lookbooks tag-originals tag-sweatshirts tag-video" style="transform: none;">
 		  {{ if .Param "featured_image"}}
@@ -148,7 +148,11 @@
 		  </article>
 
       </div>
-      {{ partial "sidebar" . }}
+      {{ if .Param "pageStyle"}}
+			 {{ else }}
+			 	{{ partial "sidebar" . }}
+			 {{ end }}
+
     </div>
   </div>
 </div>

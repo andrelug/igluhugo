@@ -218,6 +218,10 @@
 
 <script type="text/javascript" src="js/mini.js"></script>
 
+{{ if .Param "pageStyle"}}
+	<script src="js/isotope.pkgd.min.js"></script>
+{{ end }}
+
 <script>
 /*
 	function loadAPI() {
@@ -303,6 +307,69 @@
  					$(this).attr('href', $(this).attr('href') + '&ref=igluonline');
 				}
 			});
+
+
+
+			{{ if .Param "pageStyle"}}
+
+				var $grid = $('.grid').isotope({
+					// options
+					itemSelector: '.grid-item, .grid-item2',
+					layoutMode: 'fitRows'
+				});
+
+				var filters = {};
+
+				$('.filter-button-group').on( 'click', 'button', function() {
+					var $this = $(this);
+					// get group key
+					var $buttonGroup = $this.parents('.button-group');
+					var filterGroup = $buttonGroup.attr('data-filter-group');
+
+					$buttonGroup.find('.active').removeClass('active');
+					$this.addClass('active');
+					// set filter for group
+					filters[ filterGroup ] = $this.attr('data-filter');
+					// combine filters
+					var filterValue = concatValues( filters );
+					$grid.isotope({ filter: filterValue });
+				});
+
+				// flatten object by concatting values
+				function concatValues( obj ) {
+					var value = '';
+					for ( var prop in obj ) {
+						value += obj[ prop ];
+					}
+					return value;
+				}
+
+				$(document).on('click', '.filter1 button', function(){
+					var thisElement = $(this);
+					var thisFilter = $(this).attr('data-filter');
+
+					if (thisFilter !== "*") {
+						$('.filter2 button').each(function(){
+							$(this).removeClass('active');
+							if($(this).attr('class').indexOf(thisFilter.replace('.', '')) !== -1) {
+								$(this).show();
+							} else {
+								$(this).hide();
+							}
+						});
+						$('.filter2 .todos').addClass('active');
+					} else {
+						$('.filter2 button').each(function(){
+							$(this).show();
+							$(this).removeClass('active');
+						});
+						$('.filter2 .todos').addClass('active');
+					}
+
+					$grid.isotope({ filter: thisFilter });
+				});
+			{{ end }}
+
 		});
 	</script>
 
