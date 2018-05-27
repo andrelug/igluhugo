@@ -567,6 +567,21 @@ Você pode aproveitar para baixar meu <a href="http://ebook.igluonline.com" targ
     </div>
   </div>
 
+  <div class="grid-item marketing email">
+    <div class="tool">
+        <a href="http://bullmailer.com" class="toolImg" target="_blank" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="Bullmailer">
+          <img class="size-full wp-image-756 aligncenter" src="images/ferramentas/bullmailer_ferramentas.jpg" alt="Bullmailer">
+        </a>
+        <div class="box">
+          <a href="http://bullmailer.com" target="_blank" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="Bullmailer">
+            <h3>Bullmailer</h3>
+          </a>
+          <p>Essa ferramenta de e-mail marketing foi desenvolvida com os Freelancers e pequenos negócios em mente. Além de ter um preço muito mais acessível e condições especiais no plano gratuito ela também fornece os principais recursos de automação e criação de e-mails que outros concorrentes.</p>
+          <a href="http://bullmailer.com" class="btn btn-primary btn-effect" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="Bullmailer">Envie e-mails sensacionais</a>
+        </div>
+    </div>
+  </div>
+
   <div class="grid-item grid-full marketing desenvolvimento landing">
     <h2>Landing Pages</h2>
     <p>Uma vez que você já tem seu sistema de automação de marketing definido é hora de criar landing pages para receber o tráfego e coletar seus leads. Uma landing page, em geral, é uma página simples que tem como objetivo coletar e-mails em troca de algum tipo de e-book ou conteúdo. O objetivo delas ou é a conversão ou a demonstração de um determinado serviço objetivo.</p>
@@ -700,6 +715,36 @@ Você pode aproveitar para baixar meu <a href="http://ebook.igluonline.com" targ
           </a>
           <p>O Unsplash é um site sensacional no estilo do Pexels. São fotos de excelente qualidade que foram carregadas por usuários - fotógrafos profissionais e amadores. A qualidade das imagens é sensacional e é interessante para sair do comum de atores em fotos.</p>
           <a href="https://unsplash.com/" class="btn btn-primary btn-effect" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="Unsplash">Baixar imagens gratuitas</a>
+        </div>
+    </div>
+  </div>
+
+  <div class="grid-item design marketing imagens">
+    <div class="tool">
+        <a href="https://www.reshot.com/" class="toolImg" target="_blank" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="Reshot">
+          <img class="size-full wp-image-756 aligncenter" src="images/ferramentas/reshot_ferramentas.jpg" alt="Reshot">
+        </a>
+        <div class="box">
+          <a href="https://www.reshot.com/" target="_blank" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="Reshot">
+            <h3>Reshot</h3>
+          </a>
+          <p>Para quem está buscando imagens não tão comuns na internet e também gratuitas para utilizar, o Reshot é uma excelente opção.</p>
+          <a href="https://www.reshot.com/" class="btn btn-primary btn-effect" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="Reshot">Baixar imagens gratuitas</a>
+        </div>
+    </div>
+  </div>
+
+  <div class="grid-item design marketing imagens">
+    <div class="tool">
+        <a href="https://photos.icons8.com/" class="toolImg" target="_blank" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="Moose">
+          <img class="size-full wp-image-756 aligncenter" src="images/ferramentas/moose_ferramentas.jpg" alt="Moose">
+        </a>
+        <div class="box">
+          <a href="https://photos.icons8.com/" target="_blank" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="Moose">
+            <h3>Moose</h3>
+          </a>
+          <p>Esse website criado pela icons8 disponibiliza uma série de imagens gratuitas para serem utilizadas em conjunto. Quem já fez uma composição sabe que não é tão fácil às vezes combinar pessoas com fundos e elementos. Esse site já te permite combinar e testar algumas imagens de forma muito simples e também recomenda algumas composições.</p>
+          <a href="https://photos.icons8.com/" class="btn btn-primary btn-effect" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="Moose">Baixar imagens gratuitas</a>
         </div>
     </div>
   </div>
