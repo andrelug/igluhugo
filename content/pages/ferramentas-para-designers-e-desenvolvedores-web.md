@@ -620,15 +620,15 @@ Você pode aproveitar para baixar meu <a href="http://ebook.igluonline.com" targ
 
   <div class="grid-item marketing desenvolvimento landing">
     <div class="tool">
-        <a href="https://www.leadpages.net/" class="toolImg" target="_blank" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="Leadpages">
+        <a href="https://leadpages.pxf.io/c/1245723/466534/5673" class="toolImg" target="_blank" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="Leadpages">
           <img class="size-full wp-image-756 aligncenter" src="images/ferramentas/leadpages_ferramentas.jpg" alt="Leadpages">
         </a>
         <div class="box">
-          <a href="https://www.leadpages.net/" target="_blank" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="Leadpages">
+          <a href="https://leadpages.pxf.io/c/1245723/466534/5673" target="_blank" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="Leadpages">
             <h3>Leadpages</h3>
           </a>
           <p>Se você não quiser preocupar muito com a criação das landing pages, então sugiro utilizar o Leadpages. Ao contrário das duas opções anteriores, aqui você pode simplesmente contratar o serviço e escolher qual o tipo de página que deseja. O sistema já monta e configura tudo para você. Naturalmente esse atalho vem com um custo mensal.</p>
-          <a href="https://www.leadpages.net/" class="btn btn-primary btn-effect" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="Leadpages">Crie sua landing page</a>
+          <a href="https://leadpages.pxf.io/c/1245723/466534/5673" class="btn btn-primary btn-effect" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="Leadpages">Crie sua landing page</a>
         </div>
     </div>
   </div>
