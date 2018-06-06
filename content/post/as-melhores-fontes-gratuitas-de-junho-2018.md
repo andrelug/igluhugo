@@ -1,10 +1,9 @@
 +++
 author = "André Lucas"
 categories = ["Design", "Download Gratis"]
-date = "2018-06-06T00:53:05-03:00"
+date = "2018-06-06T15:18:34-03:00"
 disqus = true
-draft = true
-hugo_image = ""
+hugo_image = "images/uploads/2018/06/06/fonte-gratis-2018-elephant.jpg"
 tags = ["Fontes gratuitas", "fontes", "melhores fontes", "fontes 2018"]
 title = "As melhores fontes gratuitas de Junho 2018"
 url = "/as-melhores-fontes-gratuitas-de-junho-2018/"
@@ -35,6 +34,36 @@ O tipo Luthier é caracterizado por serifas pontudas e um contraste grande e pod
 
 [![](images/uploads/2018/06/06/fonte-gratuita-2018-luthier.jpg)](https://www.behance.net/gallery/18364983/luthier-free-font)
 
-## Alcubierre - Fonte grátis
+## [Alcubierre - Fonte grátis](https://www.webdesignerdepot.com/2016/11/free-download-alcubierre-typeface/)
 
-Geometric sans serif typeface Alcubierre is the work of designer Matt Ellis. Following in the footsteps of his original free font Ikaros, this clean, minimal typeface works for a variety of uses. Ellis is super generous too, offering both designs to all totally free for both personal and commercial use.
+Mudando um pouco o estilo para uma fonte não sarifada (sans serif) a fonte Alcubierre foi criada pelo designer Matt Ellis. Ele ficou também tem uma outra fonte que é bem bacana chamada Ikaros e essa atual segue um estilo minimalista bem interessante. Ela pode ser utilizada de diversas formas e esse download grátis oferece total uso pessoal e comercial.
+
+[![](images/uploads/2018/06/06/fonte-gratuita-2018-alcubierre.jpg)](https://www.webdesignerdepot.com/2016/11/free-download-alcubierre-typeface/)
+
+## [Comfortaa](https://aajohan.deviantart.com/art/Comfortaa-font-105395949)
+
+Essa fonte geométrica sans-serif é um tipo que fica melhor em tamanhos grandes. Criada por Johan Aakerlund, um designer da Dinamarca, ela é uma fonte simples e bem agradável de se olhar. Uma característica bacana dela é que vem com suporte para vários caracteres e símbolos diferentes, dando um suporte para mais línguas.
+
+[![](images/uploads/2018/06/06/fonte-gratis-2018-confortaa.jpg)](https://aajohan.deviantart.com/art/Comfortaa-font-105395949)
+
+## [Cute Punk](https://www.behance.net/gallery/17184235/cutepunk-typeface)
+
+A fonte Cute Punk não é uma fonte de 2018 e nem muito nova, mas é uma que não tinha colocado ainda como recomendação aqui no site e acho que chegou sua hora. Ela é um fonte vibrante, jovem e tem uma abordagem moderna ao estilo "escrito à mão" de fontes. 
+
+[![](images/uploads/2018/06/06/fonte-2018-cute-punk.jpg)](https://www.behance.net/gallery/17184235/cutepunk-typeface)
+
+## [Fonte Retrô Paralines](https://www.behance.net/gallery/28060847/Paralines-Free-Font)
+
+A fonte gratuita Paralines busca inspiração tanto de designs de décadas atrás quanto da tipografia moderna. Ela é uma ótima opção para projetos de design que buscam lembrar as décadas de 70 e 80. Foi desenvolvida pelo designer britânico Lewis Latham.
+
+[![](images/uploads/2018/06/06/fonte-gratuita-2018-paralines.png)](https://www.behance.net/gallery/28060847/Paralines-Free-Font)
+
+## [Elephant](https://www.behance.net/gallery/66440793/Elephant-font-family-Free-font-included)
+
+Talvez uma das mais recentes fontes na data que estamos publicando esse artigo, a fonte grátis Elephant trás uma diversidade de aplicações em um único pacote. Apesar de apenas a versão Outline estar disponível gratuitamente para baixa, sugiro conferir e apreciar todas as versões e tudo que essa moderna fonte tem a oferecer.
+
+[![](images/uploads/2018/06/06/fonte-gratis-2018-elephant.jpg)](https://www.behance.net/gallery/66440793/Elephant-font-family-Free-font-included)
+
+Por hoje temos essas 7 fontes como referência. Se você curte essas compilações de fontes gratuitas, então deixa um comentário abaixo falando qual você mais gostou e qual é o estilo de fontes em 2018 que você mais está buscando.
+
+Divirta-se!
