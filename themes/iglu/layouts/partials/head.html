@@ -133,7 +133,7 @@ h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
 	        "datePublished": "{{.Params.date}}",
 	        "dateCreated": "{{.Params.date}}",
 	        "dateModified": "{{.Lastmod}}",
-	        "description": "{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{ .Param "excerpt" }}{{ end }}"
+	        "description": "{{ .Summary | truncate 320 | default .Site.Params.Description}}"
 	      }
 	    </script>
 
