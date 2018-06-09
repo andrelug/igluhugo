@@ -40,10 +40,19 @@ h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
 		<meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1">
 		<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}</title>
 		<link rel="icon" href="/images/favicon.png">
-	    <base href="{{ .Site.BaseURL }}">
+		<base href="{{ .Site.BaseURL }}">
+		
+		<!-- Teste Pre... -->
+		<link rel="preconnect" href="https://fonts.googleapis.com/">
+		<link rel="preconnect" href="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js" as="javascript">
+		<link rel="preconnect" href="https://c.disquscdn.com/">
+		<link rel="prefetch" href="https://a.disquscdn.com/1527717834/images/noavatar32.png" as="image">
+		<link rel="prefetch" href="https://disqus.com/next/config.js" as="javascript">
+		<link rel="prefetch" href="https://c.disquscdn.com/next/current/embed/lang/pt_BR.js" as="javascript">
+
 
 		{{ with .Site.Params.name }}<meta name="author" content="{{ . }}">{{ end }}
-		{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+		<meta name="description" content="{{ .Summary | truncate 320 | default .Site.Params.Description}}">
 		{{ with .Site.LanguageCode }}<meta http-equiv="content-language" content="{{ . }}" />{{ end }}
 
 
@@ -57,7 +66,7 @@ h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
 	    <meta property="og:url" content="{{ .Permalink }}">
 	    {{if not .IsHome}}<meta property="og:type" content="article">{{end}}
 	    <meta property="og:title" content="{{ .Title}}">
-	    <meta property="og:description" content="{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{ .Param "excerpt" }}{{ end }}" name="description">
+	    <meta property="og:description" content="{{ .Summary | truncate 320 | default .Site.Params.Description}}" name="description">
 	    <meta property="og:image" content="{{ .Site.BaseURL }}/{{ if .Param "hugo_image"}}{{ .Param "hugo_image"}}{{else}}images/{{.Param "featured_image" }}.{{ .Param "featured_image_extension" }}{{end}}">
 		<meta property="og:locale" content="pt_BR">
 		<meta property="og:site_name" content="Iglu">
@@ -80,7 +89,7 @@ h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
 	    <meta name="twitter:card" content="summary">
 	    <meta name="twitter:site" content="@andrelug_">
 	    <meta name="twitter:title" content="{{.Title}}">
-	    <meta name="twitter:description" content="{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{ .Param "excerpt" }}{{ end }}">
+	    <meta name="twitter:description" content="{{ .Summary | truncate 320 | default .Site.Params.Description}}">
 	    <meta name="twitter:image" content="{{ .Site.BaseURL }}/{{ if .Param "hugo_image"}}{{ .Param "hugo_image"}}{{else}}images/{{.Param "featured_image" }}.{{ .Param "featured_image_extension" }}{{end}}">
 
 		<!-- Styles -->
