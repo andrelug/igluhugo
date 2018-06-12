@@ -52,6 +52,7 @@ fields:
   label: Hugo Image
   description: Imagem destacada
 pages:
+- post/como-se-tornar-um-designer-sem-ir-para-a-faculdade.md
 - post/como-consertar-a-tela-branca-do-wordpress.md
 - post/o-que-e-http--como-funciona-e-qual-a-sua-diferenca-para-http-2.md
 - post/as-melhores-fontes-gratuitas-de-junho-2018.md
