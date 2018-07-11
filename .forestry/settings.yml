@@ -14,7 +14,7 @@ sections:
   label: Pages
   create: all
 upload_dir: themes/iglu/static/images/uploads
-public_path: images/uploads
+public_path: "/images/uploads"
 front_matter_path: images/uploads
 use_front_matter_path: false
 file_template: ":year:/:month:/:day:/:filename:"
