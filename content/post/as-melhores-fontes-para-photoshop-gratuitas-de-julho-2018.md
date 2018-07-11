@@ -3,8 +3,7 @@ author = "André Lucas"
 categories = ["Design", "Photoshop", "Download Gratis"]
 date = "2018-07-11T18:03:20-03:00"
 disqus = true
-draft = true
-hugo_image = ""
+hugo_image = "/images/uploads/2018/07/11/fonte_gratuita_2018_starchraw.jpg"
 tags = ["Fontes", "Fontes para photoshop"]
 title = "As melhores fontes para Photoshop gratuitas de Julho 2018"
 url = "/as-melhores-fontes-para-photoshop-gratuitas-de-julho-2018/"
@@ -52,4 +51,20 @@ Eu sempre gosto de umas fontes que me remetem a um mundo no futuro e ficção ci
 
 [![](/images/uploads/2018/07/11/giraffey_font_free.jpg)](https://www.graphicpear.com/giraffey-free-font/)
 
-## 
+## [Lombard](http://kroje.org/pl/fonts/lombard/)
+
+Fontes com ligaturas são importantes para alguns momentos no Photoshop e sempre bom para ter no arsenal. A Lombard é bem bacana e para baixar basca clicar no botão "POBIERZ FONT" e aí será direcionado para o local do download.
+
+[![](/images/uploads/2018/07/11/fonte_gratis_para_photoshop_lombard.jpg)](http://kroje.org/pl/fonts/lombard/)
+
+## [FS ABC - Fonte para Photoshop Gratuita](https://www.1001freefonts.com/fs-abc.font)
+
+Para finalizar não podíamos deixar de ter uma com serifa. Apesar de parecer simples essa fonte é bem especial, principalmente na sua versão minúscula. Como ela não é muito certinha, acho que compõe bem esse artigo cheio de fontes alegres e nada convencionais.
+
+[![](/images/uploads/2018/07/11/fonte_gratuita_2018_fsabc.jpg)](https://www.1001freefonts.com/fs-abc.font)
+
+Espero que tenha gostado dessa seleção de fontes para Photoshop em Julho de 2018. Quase todos os meses postamos aqui algumas fontes que achamos mais interessantes aqui no blog da Iglu.
+
+Se você curtiu, aproveite para nos [seguir no Facebook](https://facebook.com/igluonline).
+
+Divirta-se!
