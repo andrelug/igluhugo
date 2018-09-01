@@ -6,6 +6,7 @@ disqus = true
 hugo_image = "images/uploads/2018/02/04/palavras_chave_yoast_SEO_capa.jpg"
 tags = ["palavras-chave", "meta description", "tutorial"]
 title = "Como adicionar palavras-chave e meta descrições no Wordpress"
+type = ""
 url = "/como-adicionar-palavras-chave-e-meta-descricoes-no-wordpress/"
 youtube = ""
 
@@ -22,7 +23,7 @@ Palavras-chave são palavras ou frases importantes que representam o conteúdo d
 
 Já as meta descriptions são resumos dos conteúdos. O Google, por exemplo, adiciona o conteúdo da meta-description abaixo do título da página do seu site, sendo um fator bem importante na hora de um usuário clicar ou não no seu link.
 
-Ambas são tags HTML que ficam na parte `<head>` do seu site. Em um site que temos que editar o código diretamente é nessa parte que adicionaríamos as palavras-chave e descrição. Contudo, como estamos falando de WordPress, temos sempre plugins para nos ajudar com esse tipo de tarefa. Mais especificamente aqui, plugins de SEO.
+Ambas são tags HTML que ficam na parte `<head>` do seu site. Em um site que temos que editar o código diretamente é nessa parte que adicionaríamos as palavras-chave e descrição. Contudo, como estamos falando de WordPress, temos sempre plugins para nos ajudar com esse tipo de tarefa. Mais especificamente aqui, plugins de [SEO](https://idealmarketing.com.br/blog/o-que-e-seo/  ).
 
 Infezlimente, o WordPress puro - sem nenhum plugin ou template instalado - não tem a capacidade de customizar esse tipo de coisa para cada página.
 
@@ -44,7 +45,7 @@ data-ad-format="fluid"
 data-ad-client="ca-pub-2532350215540740"
 data-ad-slot="5916066195"></ins>
 <script>
-\(adsbygoogle = window.adsbygoogle || \[\]).push({});
+(adsbygoogle = window.adsbygoogle || \[\]).push({});
 </script>
 
 ## Habilitar suporte às palavras-chave no Yoast SEO
