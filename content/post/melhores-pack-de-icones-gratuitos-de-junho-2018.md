@@ -6,11 +6,12 @@ disqus = true
 hugo_image = "images/uploads/2018/06/13/icones-gratuitos-espaco-linhas-background.jpg"
 tags = ["ícones", "icons"]
 title = "Melhores pack de ícones gratuitos de Junho 2018"
+type = ""
 url = "/melhores-pack-de-icones-gratuitos-de-junho-2018/"
 youtube = ""
 
 +++
-Como designer estou sempre atrás dos melhores ícones gratuitos para baixar e utilizar nos meus projetos. Quando faço um website, preciso de ícones. Quando é uma logo, muitas vezes uso ícones e os modifico em algo que estou em mente. Postagens em redes sociais então, toda hora temos que utilizá-los.
+Como designer estou sempre atrás dos melhores ícones gratuitos para baixar e utilizar nos meus projetos. Quando faço um website, preciso de ícones. Quando é uma logo, muitas vezes uso ícones e os modifico em algo que estou em mente. Postagens em [redes sociais](https://idealmarketing.com.br/blog/tudo-sobre-rede-social/  ) então, toda hora temos que utilizá-los.
 
 Nesse artigo busquei trazer uma série de ícones um pouco diferentes daqueles que achamos no [The Noun Project](http://thenounproject.com/) ou em outros websites gratuitos. Os icons aqui são mais específicos de um nicho ou mesmo um pouco doidões. Algo que alguns tem em comum é que são amostras gratuitas, mas substanciais, de pacotes pagos. Então acabam tendo realmente uma qualidade muito superior.
 

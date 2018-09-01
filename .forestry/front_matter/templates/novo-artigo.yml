@@ -53,6 +53,7 @@ fields:
   label: Hugo Image
   description: Imagem destacada
 pages:
+- content/post/melhores-pack-de-icones-gratuitos-de-junho-2018.md
 - content/post/as-melhores-fontes-gratuitas-de-maio-2017.md
 - content/post/os-melhores-editores-de-texto-para-programacao-em-2017.md
 - content/post/as-melhores-fontes-gratuitas-de-janeiro-2018.md
@@ -67,7 +68,6 @@ pages:
 - content/post/wix-x-wordpress--qual-o-melhor-criador-de-sites.md
 - content/post/por-que-fazer-teste-de-carga-no-seu-website.md
 - content/post/o-que-e-http--como-funciona-e-qual-a-sua-diferenca-para-http-2.md
-- content/post/melhores-pack-de-icones-gratuitos-de-junho-2018.md
 - content/post/2016-12-27-22-packs-de-icones-gratuitos-para-fechar-2016.md
 - content/post/as-melhores-fontes-gratuitas-de-julho-de-2017.md
 - content/post/as-melhores-formas-de-criar-seu-site-de-graca-em-2017.md
