@@ -4,15 +4,21 @@ auto_deploy: false
 admin_path: ''
 webhook_url: ''
 sections:
-- path: content
+- type: directory
+  path: content
   label: Pages
   create: all
-- path: content/post
+  match: "*"
+- type: directory
+  path: content/post
   label: Post
   create: all
-- path: content/pages
+  match: "**/*"
+- type: directory
+  path: content/pages
   label: Pages
   create: all
+  match: "**/*"
 upload_dir: themes/iglu/static/images/uploads
 public_path: "/images/uploads"
 front_matter_path: images/uploads
