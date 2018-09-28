@@ -144,10 +144,6 @@
 
 <script async src="js/autotrack.js"></script>
 
-<!-- ManyChat -->
-<script src="//widget.manychat.com/663101680495099.js" async="async">
-</script>
-
 
 		<script id="hotmart_launcher_script">
 			(function(l,a,u,n,c,h,e,r){l['HotmartLauncherObject']=c;l[c]=l[c]||function(){
@@ -157,6 +153,28 @@
 
 			hot('account','9c21b4c0-a17e-3fa6-8ba8-e27d3825890b');
 		</script>
+
+
+<script type="text/javascript">
+	/** This section is only needed once per page if manually copying **/
+	if (typeof MauticSDKLoaded == 'undefined') {
+		var MauticSDKLoaded = true;
+		var head = document.getElementsByTagName('head')[0];
+		var script = document.createElement('script');
+		script.type = 'text/javascript';
+		script.src = 'https://mkt.igluonline.com/media/js/mautic-form.js';
+		script.onload = function () {
+			MauticSDK.onLoad();
+		};
+		head.appendChild(script);
+		var MauticDomain = 'https://mkt.igluonline.com';
+		var MauticLang = {
+			'submittingMessage': "Por favor, aguarde..."
+		}
+	}
+</script>
+
+
 
 
 	</head>
