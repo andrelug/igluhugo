@@ -130,6 +130,7 @@ Você pode aproveitar para baixar meu <a href="http://ebook.igluonline.com" targ
   <button class="marketing desenvolvimento marketing" data-filter=".landing">Landing Pages</button>
   <button class="marketing" data-filter=".pesquisas">Questionários</button>
   <button class="design marketing" data-filter=".imagens">Imagens</button>
+  <button class="design marketing" data-filter=".videos">Vídeos</button>
   <button class="marketing desenvolvimento" data-filter=".analytics">Analytics</button>
   <button class="marketing design" data-filter=".midias">Mídias Sociais</button>
   <button class="design" data-filter=".fontes">Fontes</button>
@@ -776,6 +777,57 @@ Você pode aproveitar para baixar meu <a href="http://ebook.igluonline.com" targ
           </a>
           <p>Especialmente para pessoas que não estão acostumadas a lidar com softwares de edição de imagem, o Canva é uma excelente ferramenta para criar artes com base em templates bem bonitos. O melhor de tudo é que é gratuito para uma grande parte de seus modelos. Ele é tão versátil que <a href="http://ebook.igluonline.com/" rel="noopener" target="_blank">até o e-book que criei há um tempo foi feito nele</a></p>
           <a href="https://www.canva.com/pt_br/" class="btn btn-primary btn-effect" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="Canva">Baixar imagens gratuitas</a>
+        </div>
+    </div>
+  </div>
+
+  <div class="grid-item design marketing imagens">
+    <div class="tool">
+        <a href="https://www.picmaker.io" class="toolImg" target="_blank" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="Picmaker">
+          <img class="size-full wp-image-756 aligncenter" src="images/ferramentas/picmaker_ferramentas.jpg" alt="Picmaker">
+        </a>
+        <div class="box">
+          <a href="https://www.picmaker.io" target="_blank" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="Picmaker">
+            <h3>Picmaker</h3>
+          </a>
+          <p>Se você está criando vídeos para o YouTube, deve saber que a capa (thumbnail) do vídeo é um dos fatores mais importantes para o sucesso de um vídeo. Afinal, se a capa não for intrigante ou bem feita ninguém vai se interessar para clicar.</p>
+          <p>Pensando nisso, o Picmaker foi criado para ajudar você no processo de criação dessas capas de uma maneira muito intuitiva e profissional.</p>
+          <a href="https://www.picmaker.io" class="btn btn-primary btn-effect" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="Picmaker">Criar capas para o youtube grátis</a>
+        </div>
+    </div>
+  </div>
+
+  <div class="grid-item grid-full design marketing videos">
+    <h2>Vídeos</h2>
+    <p>Estamos na era dos vídeos na web, mas criar vídeos nem sempre é um processo muito fácil. Essas ferramentas escolhidas vão te ajudar a criar os melhores vídeos de forma gratuita para suas redes sociais ou YouTube.</p>
+  </div>
+
+  <div class="grid-item design marketing videos">
+    <div class="tool">
+        <a href="http://www.coverr.co" class="toolImg" target="_blank" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="Coverr">
+          <img class="size-full wp-image-756 aligncenter" src="images/ferramentas/coverr_ferramentas.jpg" alt="Coverr">
+        </a>
+        <div class="box">
+          <a href="http://www.coverr.co" target="_blank" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="Coverr">
+            <h3>Coverr</h3>
+          </a>
+          <p>Vídeos em um website realmente chamam a atenção, mas em geral comprar vídeos para uso assim é um processo caro. O Coverr vem com uma proposta simples e efetiva. Vídeos gratuitos para você utilizar nos banners ou páginas iniciais dos seus websites.</p>
+          <a href="http://www.coverr.co" class="btn btn-primary btn-effect" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="Coverr">Baixar vídeos gratuitos</a>
+        </div>
+    </div>
+  </div>
+
+  <div class="grid-item design marketing videos imagens">
+    <div class="tool">
+        <a href="https://www.stocksy.com/" class="toolImg" target="_blank" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="Stocksy">
+          <img class="size-full wp-image-756 aligncenter" src="images/ferramentas/stocksy_ferramentas.jpg" alt="Stocksy">
+        </a>
+        <div class="box">
+          <a href="https://www.stocksy.com/" target="_blank" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="Stocksy">
+            <h3>Stocksy</h3>
+          </a>
+          <p>Essa ferramenta de busca de imagens e vídeos é sensacional para quem está buscando conteúdos de alta qualidade de graça para utilizar e compor seus designs. Um recurso interessante dessa ferramenta é a possibilidade também de fazer buscas com outras imagens semelhantes.</p>
+          <a href="https://www.stocksy.com/" class="btn btn-primary btn-effect" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="Stocksy">Baixar vídeos e imagens gratuitos</a>
         </div>
     </div>
   </div>
