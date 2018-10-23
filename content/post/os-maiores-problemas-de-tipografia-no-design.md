@@ -2,10 +2,11 @@
 author = "André Lucas"
 categories = ["Design"]
 date = "2017-11-23T15:00:10-03:00"
-disqus = true
+disqus = false
 hugo_image = "images/uploads/2017/11/27/tipografia.png"
 tags = ["Tipografia", "Typography", "Fontes"]
 title = "Os maiores problemas de tipografia no design"
+type = ""
 url = "/os-maiores-problemas-de-tipografia-no-design/"
 youtube = ""
 
