@@ -2,10 +2,11 @@
 author = "André Lucas"
 categories = ["Desenvolvimento web", "Wordpress"]
 date = "2018-01-14T14:40:28-03:00"
-disqus = true
+disqus = false
 hugo_image = "images/uploads/2018/01/14/igluonlinecapa.png"
 tags = ["Wix", "WordPress", "Criador de sites"]
 title = "Wix x WordPress: Qual o melhor criador de sites"
+type = ""
 url = "/wix-x-wordpress--qual-o-melhor-criador-de-sites/"
 youtube = ""
 
