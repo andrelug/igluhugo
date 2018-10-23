@@ -1,7 +1,7 @@
 ---
 title: 22 packs dos melhores ícones gratuitos para 2018
 author: André Lucas
-date: 2018-01-29 22:50:16 -03:00
+date: 2018-01-30 01:50:16 +0000
 url: "/22-packs-dos-melhores-icones-gratuitos-para-2018/"
 featured_image: uploads/2016/12/pollutioniconset
 featured_image_extension: jpg
@@ -19,11 +19,12 @@ tags:
 - design
 - download
 - free
-- "ícones"
+- ícones
 - icons
 youtube: ''
-disqus: true
+disqus: false
 hugo_image: ''
+type: ''
 
 ---
 Design de ícones desenvolve da mesma forma que na área gráfica, de moda ou interiores. Estilos vão e voltam e aqui vamos apresentar alguns packs (pacotes) gratuitos de ícones para você baixar e começar 2018 cheio de opções para seus projetos. Os packs abaixo representam algumas tendências que foram presentes ao longo do ano e que no próximo ano continuarão sendo bem interessantes.
