@@ -2,7 +2,7 @@
 author = "André Lucas"
 categories = ["Design", "Download Gratis"]
 date = "2018-06-06T15:18:34-03:00"
-disqus = true
+disqus = false
 hugo_image = "images/uploads/2018/06/06/fonte-gratis-2018-elephant.jpg"
 tags = ["Fontes gratuitas", "fontes", "melhores fontes", "fontes 2018"]
 title = "As melhores fontes gratuitas de Junho 2018"

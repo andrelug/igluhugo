@@ -2,7 +2,7 @@
 author = "André Lucas"
 categories = ["Desenvolvimento Web", "Wordpress"]
 date = "2018-02-03T22:57:34-03:00"
-disqus = true
+disqus = false
 hugo_image = "images/uploads/2018/02/04/palavras_chave_yoast_SEO_capa.jpg"
 tags = ["palavras-chave", "meta description", "tutorial"]
 title = "Como adicionar palavras-chave e meta descrições no Wordpress"

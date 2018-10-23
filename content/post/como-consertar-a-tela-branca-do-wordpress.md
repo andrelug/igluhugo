@@ -2,7 +2,7 @@
 author = "André Lucas"
 categories = ["Wordpress", "Desenvolvimento Web"]
 date = "2018-06-10T20:59:24-03:00"
-disqus = true
+disqus = false
 hugo_image = "images/uploads/2018/06/11/como-consertar-erro-tela-branca-wordpress.jpg"
 tags = ["Cache", "Erro", "Plugins"]
 title = "Como consertar o erro da a tela branca do WordPress"

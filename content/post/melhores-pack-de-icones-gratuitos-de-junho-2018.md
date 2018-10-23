@@ -2,7 +2,7 @@
 author = "André Lucas"
 categories = ["Design", "Download Gratis"]
 date = "2018-06-12T23:07:16-03:00"
-disqus = true
+disqus = false
 hugo_image = "images/uploads/2018/06/13/icones-gratuitos-espaco-linhas-background.jpg"
 tags = ["ícones", "icons"]
 title = "Melhores pack de ícones gratuitos de Junho 2018"

@@ -2,7 +2,7 @@
 author = "Erick K. Scudero"
 categories = ["Desenvolvimento Web"]
 date = "2018-05-02T17:37:20-03:00"
-disqus = true
+disqus = false
 hugo_image = "images/uploads/2018/05/02/gif sites responsivos.gif"
 tags = ["Sites responsivos", "mobile first", "desktop vs mobile"]
 title = "Mobile first, mobile friendly e sites responsivos: qual a diferença?"

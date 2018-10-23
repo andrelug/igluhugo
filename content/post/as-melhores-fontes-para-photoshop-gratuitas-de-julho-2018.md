@@ -2,7 +2,7 @@
 author = "André Lucas"
 categories = ["Design", "Photoshop", "Download Gratis"]
 date = "2018-07-11T18:03:20-03:00"
-disqus = true
+disqus = false
 hugo_image = "/images/uploads/2018/07/11/fonte_gratuita_2018_starchraw.jpg"
 tags = ["Fontes", "Fontes para photoshop"]
 title = "As melhores fontes para Photoshop gratuitas de Julho 2018"

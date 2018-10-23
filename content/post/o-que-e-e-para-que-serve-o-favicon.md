@@ -2,7 +2,7 @@
 author = "André Lucas"
 categories = ["Desenvolvimento Web"]
 date = "2018-02-19T01:07:50-03:00"
-disqus = true
+disqus = false
 hugo_image = "images/uploads/2018/02/19/o_que_e_favicon.jpeg"
 tags = ["favicon", "html"]
 title = "O que é e para que serve o favicon?"

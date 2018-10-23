@@ -2,7 +2,7 @@
 author = "André Lucas"
 categories = ["Desenvolvimento web", "Design"]
 date = "2018-03-04T13:08:56-03:00"
-disqus = true
+disqus = false
 hugo_image = "images/uploads/2018/03/04/pesquisa_autodidata_background.jpg"
 tags = ["Programação", "Tutorial", "Autodidata"]
 title = "Como ser autodidata e aprender a pesquisar"

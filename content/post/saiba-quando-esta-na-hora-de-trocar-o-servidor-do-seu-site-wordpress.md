@@ -2,7 +2,7 @@
 author = "André Lucas"
 categories = ["WordPress", "Desenvolvimento Web"]
 date = "2018-01-30T20:03:51-03:00"
-disqus = true
+disqus = false
 hugo_image = "images/uploads/2018/01/30/trocar_servidor_wordpress.png"
 tags = ["hospedagem", "servidor"]
 title = "Saiba quando está na hora de trocar o servidor do seu site WordPress"

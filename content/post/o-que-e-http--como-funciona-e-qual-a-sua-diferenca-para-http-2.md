@@ -2,7 +2,7 @@
 author = "André Lucas"
 categories = ["Desenvolvimento web"]
 date = "2018-06-08T14:27:55-03:00"
-disqus = true
+disqus = false
 hugo_image = "images/uploads/2018/06/08/como-funciona-http].jpg.jpg"
 tags = ["http", "requsições", "https", "http2", "servidor", "dns"]
 title = "O que é HTTP, como funciona e qual a sua diferença para HTTP 2"

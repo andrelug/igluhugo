@@ -2,7 +2,7 @@
 author = "André Lucas"
 categories = ["Design", "Download Gratis"]
 date = "2017-11-19T18:35:21-03:00"
-disqus = true
+disqus = false
 hugo_image = "images/uploads/2017/11/20/fonte_gratis_neoneon.jpg"
 tags = ["Melhores fontes", "fontes gratuitas", "fontes de graça", "fontes 2017"]
 title = "As melhores fontes gratuitas de Novembro 2017"
