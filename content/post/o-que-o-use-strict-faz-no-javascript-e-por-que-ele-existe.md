@@ -42,16 +42,19 @@ Há duas maneiras para se utilizar o `strict mode`.
 ### Uso global
 
 'use strict';
+
 var variavelA  = "script inteiro";
 
 ### Uso em escopo
 
 numero1 = 2.4; // Não vai causar erro
+
 minhaFuncao();
 
 function minhaFuncao() {
-    "use strict";
-    numero2 = 2.4;   // Vai causar um erro pois a variável numero2 não está declarada.
+
+"use strict"; numero2 = 2.4;   // Vai causar um erro pois a variável numero2 não está declarada.
+
 }
 
 ## Regras
