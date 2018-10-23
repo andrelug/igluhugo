@@ -12,7 +12,7 @@ youtube = ""
 +++
 Se você usa JavaScript em seus projetos ou em algum momento já leu um código de algum plugin na linguagem provavelmente já se deparou com uma linhazinha no início do documento que diz:
 
-`'use strict';`
+`use strict;`
 
 O 'modo estrito', traduzindo, foi introduzido na linguagem na versão ECMAScript 5, então já tem um tempinho. Basicamente a opção nos possibilita colocar um programa ou uma função para que ela opere em modo estrito ('strict'). Esse contexto estrito previne algumas ações de serem tomadas e envia mais exceções. A linha `use strict` instrui o navegador para usar o modo Estrito, que é como se fosse uma versão mais segura e reduzida do JavaScript.
 
@@ -67,7 +67,7 @@ Existem uma série grande de regras que se aplicam ao strict mode. Alguns exempl
 
 E muitas outras. Para ver uma lista mais completa acesse o link para a [documentação completa](https://www.w3schools.com/js/js_strict.asp).
 
-Espero que essa explicação já tenha esclarecido um pouco como funciona essa declaração do '`use strict';`. Esse artigo foi criado com base também nesse [outro artigo](https://www.geeksforgeeks.org/strict-mode-javascript/).
+Espero que essa explicação já tenha esclarecido um pouco como funciona essa declaração do `use strict;`. Esse artigo foi criado com base também nesse [outro artigo](https://www.geeksforgeeks.org/strict-mode-javascript/).
 
 Se você é iniciante esse modo estrito vai te ajudar bastante inclusive para entender quais são as melhores práticas de escrita da linguagem. Se há algo no JavaScript que você tem dúvidas deixa nos comentários!
 
