@@ -19,6 +19,11 @@ sections:
   label: Pages
   create: all
   match: "**/*"
+- type: directory
+  path: data
+  label: Data
+  create: none
+  match: "**/*.{json,yaml,yml,toml}"
 upload_dir: themes/iglu/static/images/uploads
 public_path: "/images/uploads"
 front_matter_path: images/uploads

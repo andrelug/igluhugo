@@ -53,10 +53,10 @@ fields:
   label: Hugo Image
   description: Imagem destacada
 pages:
+- content/post/as-melhores-fontes-gratuitas-de-janeiro-2018.md
 - content/post/melhores-pack-de-icones-gratuitos-de-junho-2018.md
 - content/post/as-melhores-fontes-gratuitas-de-maio-2017.md
 - content/post/os-melhores-editores-de-texto-para-programacao-em-2017.md
-- content/post/as-melhores-fontes-gratuitas-de-janeiro-2018.md
 - content/post/mobile-first--mobile-friendly-e-sites-responsivos--qual-a-diferenca-.md
 - content/post/as-melhores-fontes-para-photoshop-gratuitas-de-julho-2018.md
 - content/post/por-que-troquei-o-wordpress-pelo-gerador-de-websites-estaticos-hugo.md
