@@ -53,7 +53,6 @@ fields:
   label: Hugo Image
   description: Imagem destacada
 pages:
-- content/post/teste.md
 - content/post/o-que-o-use-strict-faz-no-javascript-e-por-que-ele-existe.md
 - content/post/saiba-quando-esta-na-hora-de-trocar-o-servidor-do-seu-site-wordpress.md
 - content/post/dicas-de-como-usar-o-contraste-das-cores-no-design.md
