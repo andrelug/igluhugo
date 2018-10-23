@@ -40,20 +40,20 @@ Há duas maneiras para se utilizar o `strict mode`.
 2. Aplicado individualmente em funções específicas.
 
 ### Uso global
-
-    'use strict';
-    var variavelA  = "script inteiro";
-
+```
+'use strict';
+var variavelA  = "script inteiro";
+```
 ### Uso em escopo
+```
+numero1 = 2.4; // Não vai causar erro
+minhaFuncao();
 
-    numero1 = 2.4; // Não vai causar erro
-    minhaFuncao();
-    
-    function minhaFuncao() {
-    	"use strict";
-        numero2 = 2.4;   // Vai causar um erro pois a variável numero2 não está declarada.
-    }
-
+function minhaFuncao() {
+    "use strict";
+    numero2 = 2.4;   // Vai causar um erro pois a variável numero2 não está declarada.
+}
+```
 ## Regras
 
 Existem uma série grande de regras que se aplicam ao strict mode. Alguns exemplos:
