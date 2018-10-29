@@ -1,7 +1,7 @@
 +++
 author = "André Lucas"
 categories = ["Desenvolvimento web", "Wordpress"]
-date = "2018-10-27T14:59:15-03:00"
+date = "2018-10-29T15:59:15-03:00"
 disqus = false
 hugo_image = "/images/uploads/2018/10/29/como-mudar-autor-de-um-post-no-wordpress.jpg"
 tags = ["Trocar autor no wordpress", "wp"]
