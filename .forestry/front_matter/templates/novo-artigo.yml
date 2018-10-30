@@ -53,6 +53,7 @@ fields:
   label: Hugo Image
   description: Imagem destacada
 pages:
+- content/post/como-parar-e-desabilitar-as-atualizações-chatas-do-windows-10.md
 - content/post/como-trocar-o-autor-de-um-post-no-wordpress.md
 - content/post/o-que-o-use-strict-faz-no-javascript-e-por-que-ele-existe.md
 - content/post/saiba-quando-esta-na-hora-de-trocar-o-servidor-do-seu-site-wordpress.md
