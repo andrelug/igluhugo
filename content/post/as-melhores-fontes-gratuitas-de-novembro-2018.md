@@ -60,7 +60,7 @@ Para não deixarmos de ter um tipo vintage nessa nossa coleção de Novembro 201
 
 ## Melhores fontes Novembro 2018
 
-Essas foram algumas das melhores fontes que escolhi para esse mês de Novembro. Em breve começamos mais um ano e vamos preparar uma coletânea de tipos sensacionais para que seus projetos de design não fiquem na mão.
+Essas foram algumas das melhores fontes que escolhi para esse mês de Novembro. Em breve começamos mais um ano e vamos preparar uma coletânea de tipos sensacionais para que seus projetos de design não fiquem na mão. Quero fazer um agradecimento especial também ao blog [designmodo ](https://designmodo.com/best-fonts-2018/)que nos inspirou para a criação dessa coletânea.
 
 Para aqueles que estão procurando mais fontes voltadas para o uso em Word e Photoshop, sugiro conferir nosso outro artigo com as [melhores fontes para Word e Photoshop](https://www.igluonline.com/fontes-gratis-para-baixar-e-usar-no-photoshop-e-word-um-guia-completo/).
 
