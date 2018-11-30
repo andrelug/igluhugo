@@ -1,11 +1,10 @@
 +++
 author = "André Lucas"
-categories = []
+categories = ["Desenvolvimento web", "WordPress"]
 date = "2018-11-30T19:07:09-02:00"
 disqus = false
-draft = true
-hugo_image = ""
-tags = []
+hugo_image = "/images/uploads/2018/11/30/otimizar-velocidade-website-imagens-smush.jpg"
+tags = ["Velocidade do site", "Otimizar websites", "Sites rápidos"]
 title = "10 Formas de otimizar a velocidade de seus sites (especialmente para Mobile)"
 url = ""
 youtube = ""
@@ -116,12 +115,143 @@ O seu navegador vai travar o carregamento do site enquanto o JavaScript estiver 
 
 Uma prática que ajuda a diminuir o tamanho dos arquivos JavaScript é a _minificação (minify)_ deles. Isto é, tirar todos os espaços em branco, reduzir o tamanho dos nomes das variáveis e mais alguns processos complexos que no final das contas fará seu arquvio ficar super compactado.
 
+Ferramentas gratuitas:
+
+* [JScompress](https://jscompress.com/)
+* [JavaScript-minifier](https://javascript-minifier.com/)
+* [Minifier](https://www.minifier.org/)
+
 ### Concatene seus arquivos
 
 É comum termos mais do que um arquivo JavaScript em nossos sites. Seja por estarmos chamando bibliotecas, plugins ou outros códigos separados é importante saber que quanto mais requisições de arquivos JavaScript, mais demorado será o carregamento deles. Devo dizer também que isso está um pouco em cheque [agora que HTTP/2 está se tornando mais comum](https://www.igluonline.com/o-que-e-http-como-funciona-e-qual-a-sua-diferenca-para-http-2/), mas ainda assim é uma boa prática de se ter.
 
-Put JavaScript at the bottom of files: Browsers won’t load other elements while JavaScript is loading. Solve this problem by moving JS scripts to the bottom of the page when you can. That way HTML content renders first and you can use a visual cue to let users know more data is coming if necessary.
+Ferramentas de graça:
 
-Optimize and minify: Smaller files load faster. Don’t forget this applies to code as well.
+* [JScompress](https://jscompress.com/)
 
-Use asynchronous JavaScript: Opt for asynchronous JS loading until after the first render for all non-critical elements. This allows scripts to load at the same time rather than one-by-one.
+### Utilize o async loading
+
+Carregar os scripts de forma assíncrona vai fazer eles carregarem simultaneamente em vez de um a um. Dessa forma também vai ajudar a não bloquear o carregamento da página.
+
+![](/images/uploads/2018/11/30/javascript-minificado-velocidade-website.png)
+
+## 4- Utilize o lazy loading
+
+O lazy loading - que traduzindo significa carregamento preguiçoso - é uma forma de carregar algumas partes do site depois que a parte visível para o usuário está já carregada.
+
+A ideia é que não faz sentido carregar toda a página de uma vez só já que o usuário só vera a parte inicial logo nos primeiros momentos.
+
+Ferramentas de Lazy Load para WordPress:
+
+* [Lazy Load](https://wordpress.org/plugins/lazy-load/%20)
+* [WP Rocket](https://wp-rocket.me/blog/lazy-load-images-wordpress-site/)
+
+Código JavaScript para auxiliar no Lazy load:
+
+* [CSS-Tricks](https://css-tricks.com/snippets/javascript/lazy-loading-images/)
+* [Lazy Load](https://appelsiini.net/projects/lazyload/)
+
+![](/images/uploads/2018/11/30/lazy-loading-velocidade-websites.jpg)
+
+## 5- Utilize o cache
+
+Existem várias formas e [tipos diferentes de cache](https://www.digitalocean.com/community/tutorials/web-caching-basics-terminology-http-headers-and-caching-strategies), mas para simplificar vamos dizer que tem dois: Cache do navegador, cache do servidor.
+
+Ambos são super importantes e a forma de implementá-los vai variar muito de qual linguagem utiliza no Back-end, qual é servidor utilizado e por aí vai.
+
+Alguns recursos para alguns tipos comuns:
+
+* WordPress:
+  * [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/)
+  * [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/)
+  * [WP Rocket](https://wp-rocket.me/)
+* [Apache](https://httpd.apache.org/docs/2.4/caching.html)
+* [NGINX](https://www.nginx.com/blog/nginx-caching-guide/)
+* [Node.js](https://medium.com/the-node-js-collection/simple-server-side-cache-for-express-js-with-node-js-45ff296ca0f0)
+* [PHP](http://www.php-cache.com/en/latest/)
+
+Algo que vale a pena mencionar aqui é que você também pode diminuir o tamanho dos arquivos enviados através da internet por meio de uma compactação. Hoje temos dois tipos de compactação muito boas e muito utilizadas:
+
+* [GZIP](https://www.oficinadanet.com.br/artigo/programacao/como_funciona_a_compressao_gzip_deflate)
+* [Brotli](https://braziljs.org/blog/compactacao-maxima-com-brotli/)
+
+## 6- Diminua os redirecionamentos
+
+Algo que poucas pessoas levam em consideração é quantos redirecionamentos estão acontecendo no seu website na hora que alguém clica em um link para seu domínio. Apesar dos redirecionamentos serem bem úteis e até fundamentais para muitos negócios, eles podem aumentar significamente o tempo de carregamento de uma determinada página.
+
+O redirecionamento mais demorado e comum é o 301, que redireciona permanentemente uma página que não deseja mais ser utilizada para outra.
+
+Outros redirecionamentos que às vezes não prestamos muita atenção são aqueles de www para sem www ou mesmo http para https.
+
+Ferramentas gratuitas para analisar seus redirecionamentos:
+
+* [Varvy's Redirect Mapper](https://varvy.com/tools/redirects/)
+* [Redirect-checker](http://www.redirect-checker.org/)
+
+![](/images/uploads/2018/11/30/redirect-check-speed-website.jpg)
+
+## 7- AMP - Accelerated Mobile Pages
+
+Talvez você já conheça o [Projeto AMP](https://www.ampproject.org/es/docs/getting_started/create), mas de qualquer maneira vou explicar brevemente. O AMP foi uma iniciativa da Google para criar um padrão de estrutura dos websites que facilitasse o carregamento em aparelhos móveis a partir de links vindos do Google.
+
+Para um website ser validado e apresentado através da rede de distribuição otimizada da Google como AMP ele precisa cumprir uma série de requisitos e grande parte deles tem a ver com a eliminação de conteúdos e estruturas que tradicionalmente atrapalham a velocidade dos sites.
+
+Basicamente os sites devem ser mais simples e orientar o Google através de sua estrutura o que cada parte significa.
+
+Montar a estrutura do seu website de acordo com as especificações não é tão simples, mas traz benefícios enormes pois os sites carregam quase que isntantaneamente no mobile.
+
+Ferramentas:
+
+* [AMP para WordPress](https://wordpress.org/plugins/amp/)
+* [Guia para AMP](https://www.ampproject.org/pt_br/)
+
+## 8- Remova o atraso do toque no mobile
+
+Não sei se já percebeu, mas há um atraso (delay) entre o toque na tela e a ação ser tomada em alguns sites quando se está utilizando um celular ou tablet. Esse atraso foi criado inicialmente para os aparelhos poderem reconhecer quando era apenas um toque ou um toque duplo. Contudo, hoje não há necessidade disso.
+
+Para ajudar nesse processo, basta utilizar a seguinte tag abaixo no `<head>` do seu website:
+
+`<meta name="viewport" content="width=device-width">`
+
+[Uma interface que responde imediatamente passa a ideia de velocidade](https://developers.google.com/web/updates/2013/12/300ms-tap-delay-gone-away). Então não necessariamente a percepção dessa velocidade tem a ver apenas com o tempo de carregamento da página, mas também da experiência do usuário.
+
+## 9- PWA é uma ótima opção
+
+Se você tem um site que é cheio de animações, funcionalidades e interações, talvez o transformar em um [Progressive Web App](https://developers.google.com/web/progressive-web-apps/) possa ser a melhor solução para ajudar na velocidade.
+
+PWA, assim como o AMP, se relaciona com a forma como você configura o seu website. Contudo, aqui existe uma série de especificações em JavaScript que também precisam ser seguidas para ter os benefícios.
+
+A ideia de um PWA é que o seu site funciona como um aplicativo no celular, mas sem precisar baixá-lo na loja. Isso é bacana pois os usuários podem acessar o seu site até offline e receber notificações da mesma forma que aplicativos normais. Além disso, naturalmente, são muito mais rápidos.
+
+Eu já utilizei essa estrutura aqui no site da Iglu por um tempo, mas o trabalho de manutenção da ferramenta acabou sendo muito maior do que eu gostaria de dedicar na época. Porém, a tecnologia está cada vez melhor e devo me aventurar em breve novamente.
+
+## 10- Delete a maioria dos plugins
+
+Sejam plugins do WordPress, JavaScript ou outra ferramenta que está utilizando para criar os seus sites, provavelmente eles estão atrapalhando o carregamento do seu site.
+
+Plugins são muito úteis para habilitar funcionalidades especiais nos websites. Contudo, como eles são muito fáceis de instalar e adicionar aos sites (especialmente no WordPress), muitos projetos acabam com uma quantidade grande de plugins sem muito uso e apenas contribuindo para a lerdeza do carregamento das páginas.
+
+Cada novo plugin significa um arquivo a mais de CSS, JS, um processamento do banco de dados e por aí vai.
+
+Além disso, muitos plugins não foram desenvolvidos com as melhores práticas de código em mente e podem gerar não só um aumento do tempo de carregamento mas também problemas de segurança e estabilidade do seu servidor e website.
+
+A melhor forma de encarar essa situação é rever todos os plugins que você hoje tem instalado em seu website e não só desabilitar mas remover completamente aqueles que não estão contribuindo tanto para a experiência dos seus usuários.
+
+Uma atenção especial tem que ser dada para aqueles plugins que estão desatualizados e não funcionam bem com as novas versões das linguagens de programação que foram utilizadas para os desenvolver.
+
+Recentemente atualizei a versão do PHP em um de meus sites da versão 5.6 para a 7.0. Como alguns plugins e temas do WordPress não haviam sido atualizados, acabaram gerando erros no meu site. A grande questão é que [a versão 7 do PHP melhorou muito a velocidade](https://www.isbrasil.info/blog/performance-e-velocidade-no-php7-vale-apena-migrar.html) e em sites e eu quero aproveitar todos possíveis benefícios que contribuem para o resultado final de performance.
+
+Outra dica é encontrar plugins que você pode substituir por apenas um pouquinho mais de trabalho. Um exemplo é adicionar o script do Google Analytics no seu site. Com menos de 5 minutos você pode [aprender como adicionar diretamente](https://www.hostinger.com.br/tutoriais/como-adicionar-o-google-analytics-ao-wordpress/) o código no seu site diretamente no HTML.
+
+## Conclusão
+
+Ao longo desse longo artigo apresentei 10 formas de você otimizar a velocidade do seu website. É claro que existem muitas outras formas e cada plataforma e linguagem de programação terá sua maneira mais específica de otimização.
+
+Se você gostou desse artigo, temos mais dois outros que aprofundam em alguns dos tópicos acima e até trazem outras informações sobre como aumentar a velocidade dos seus sites:
+
+* [Como melhorar drasticamente a performance do seu site](https://www.igluonline.com/como-melhorar-drasticamente-a-performance-do-seu-site/)
+* [4 tecnologias para aumentar a velocidade e confiança de seus sites](https://www.igluonline.com/4-tecnologias-para-aumentar-velocidade-e-confianca-de-seus-sites/)
+
+Se você gostou desse artigo, por favor considere a possibilidade de compartilhá-lo com outros colegas e nas redes sociais.
+
+Divirta-se!
