@@ -252,6 +252,8 @@ Se você gostou desse artigo, temos mais dois outros que aprofundam em alguns do
 * [Como melhorar drasticamente a performance do seu site](https://www.igluonline.com/como-melhorar-drasticamente-a-performance-do-seu-site/)
 * [4 tecnologias para aumentar a velocidade e confiança de seus sites](https://www.igluonline.com/4-tecnologias-para-aumentar-velocidade-e-confianca-de-seus-sites/)
 
+Quero também mencionar a o website [Webdesignerdepot pela inspiração para a criação desse artigo](https://www.webdesignerdepot.com/2018/08/10-ways-to-design-your-website-for-mobile-speed/).
+
 Se você gostou desse artigo, por favor considere a possibilidade de compartilhá-lo com outros colegas e nas redes sociais.
 
 Divirta-se!
