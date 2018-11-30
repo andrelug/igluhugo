@@ -6,7 +6,7 @@ disqus = false
 hugo_image = "/images/uploads/2018/11/30/otimizar-velocidade-website-imagens-smush.jpg"
 tags = ["Velocidade do site", "Otimizar websites", "Sites rápidos"]
 title = "10 Formas de otimizar a velocidade de seus sites (especialmente para Mobile)"
-url = ""
+url = "/10-formas-de-otimizar-a-velocidade-de-seus-sites-especialmente-para-mobile/"
 youtube = ""
 
 +++
