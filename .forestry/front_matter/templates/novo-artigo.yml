@@ -53,6 +53,7 @@ fields:
   label: Hugo Image
   description: Imagem destacada
 pages:
+- content/post/como-tornar-sua-experiência-no-wordpress-mais-segura.md
 - content/post/como-renomear-a-categoria-sem-categoria-do-wordpress.md
 - content/post/10-formas-de-otimizar-a-velocidade-de-seus-sites-especialmente-para-mobile.md
 - content/post/5-ferramentas-para-designers-que-querem-fazer-sites-sem-programar.md
