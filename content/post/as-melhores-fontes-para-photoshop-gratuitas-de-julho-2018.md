@@ -6,6 +6,7 @@ disqus = false
 hugo_image = "/images/uploads/2018/07/11/fonte_gratuita_2018_starchraw.jpg"
 tags = ["Fontes", "Fontes para photoshop"]
 title = "As melhores fontes para Photoshop gratuitas de Julho 2018"
+type = ""
 url = "/as-melhores-fontes-para-photoshop-gratuitas-de-julho-2018/"
 youtube = ""
 
@@ -14,9 +15,9 @@ O mês de Julho de 2018 está aqui e resolvi fazer um pouco diferente. Focar em 
 
 Como uma referência, vou adicionar abaixo alguns dos artigos sobre fontes mais populares que temos:
 
-* [As melhores fontes gratuitas de Maio 2017](As melhores fontes gratuitas de Maio 2017)
+* [As melhores fontes gratuitas de Maio 2017](https://www.igluonline.com/as-melhores-fontes-gratuitas-de-maio-2017/)
 * [As melhores fontes gratuitas de Janeiro 2018](https://www.igluonline.com/as-melhores-fontes-gratuitas-de-janeiro-2018/)
-* [As melhores fontes gratuitas para começar 2018](A melhores fontes gratuitas para começar 2018)
+* [As melhores fontes gratuitas para começar 2018](https://www.igluonline.com/melhores-fontes-gratuitas-para-comecar-2018/)
 
 É válido dizer que grande parte das fontes estão em sites em Inglês, então é muito provável que não vão encontrar botões escritos "Download Grátis" ou "Baixe aqui". Em geral serão links e botões escritos "Free Download", "Download here" ou algo similar na língua inglesa. De qualquer maneira não precisa preocupar pois nenhuma irá te pedir para pagar. Naturalmente algumas só contém alguns pesos ou estilos da fonte e há a possibilidade de se pagar para ter ela completa.
 
@@ -43,7 +44,7 @@ Quer uma fonte divertida para um título? Aí está a Starch Raw. Seguindo a ond
 ## [Land - Fonte Grátis](https://www.behance.net/gallery/47104421/LAND-Font-Free)
 
 Muito inspirada pela tipografia de ancestrais e ruínas antigas essa fonte Land é muito única e para casos bem específicos. Mas como sempre trago alguma fonte diferentona, a da vez foi essa.  
-[![](/images/uploads/2018/07/11/fonte_gratuita_para_photoshop_land.jpg)](https://www.behance.net/gallery/47104421/LAND-Font-Free) 
+[![](/images/uploads/2018/07/11/fonte_gratuita_para_photoshop_land.jpg)](https://www.behance.net/gallery/47104421/LAND-Font-Free)
 
 ## [Giraffey](https://www.graphicpear.com/giraffey-free-font/)
 
