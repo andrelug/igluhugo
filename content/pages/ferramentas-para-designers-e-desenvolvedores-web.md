@@ -114,8 +114,8 @@ Você pode aproveitar para baixar meu <a href="http://ebook.igluonline.com" targ
 <div class="button-group filter-button-group filter1" data-filter-group="type">
   <button class="active todos" data-filter="*">Todos</button>
   <button data-filter=".desenvolvimento">Desenvolvimento Web</button>
-  <button data-filter=".design">Design</button>
   <button data-filter=".marketing">Marketing Digital</button>
+  <button data-filter=".design">Design</button>
   <!--<button data-filter=".cursos">Cursos</button>-->
 </div>
 <p class="subcategoria" style="font-size:20px;font-weight:bold;margin-top:20px;margin-bottom:10px;">Subcategorias</p>
@@ -129,11 +129,14 @@ Você pode aproveitar para baixar meu <a href="http://ebook.igluonline.com" targ
   <button class="marketing" data-filter=".email">E-mail Marketing</button>
   <button class="marketing desenvolvimento marketing" data-filter=".landing">Landing Pages</button>
   <button class="marketing" data-filter=".pesquisas">Questionários</button>
-  <button class="design marketing" data-filter=".imagens">Imagens</button>
-  <button class="design marketing" data-filter=".videos">Vídeos</button>
+  <button class="marketing" data-filter=".planejamento">Planejamento</button>
   <button class="marketing desenvolvimento" data-filter=".analytics">Analytics</button>
   <button class="marketing design" data-filter=".midias">Mídias Sociais</button>
+  <button class="design marketing" data-filter=".imagens">Imagens</button>
+  <button class="design marketing" data-filter=".videos">Vídeos</button>
   <button class="design" data-filter=".fontes">Fontes</button>
+  <button class="design" data-filter=".cores">Cores</button>
+  <button class="design" data-filter=".logo">Logo</button>
   <!--<button class="design" data-filter=".proto">Prototipagem</button>
   <button class="design" data-filter=".edicao">Edição</button>
   <button class="cursos desenvolvimento" data-filter=".cursosDev">Cursos de Programação</button>
@@ -685,6 +688,27 @@ Você pode aproveitar para baixar meu <a href="http://ebook.igluonline.com" targ
     </div>
   </div>
 
+  <div class="grid-item grid-full marketing planejamento">
+    <h2>Planejamento</h2>
+    <p>Parte importante de qualquer ação de marketing é o seu planejamento e estratégia. As ferramentas de planejamento de marketing nos ajudam a entender quais são as ações necessárias, suas ordens e até mesmo na identificação de quais são as métricas que devemos nos importar.</p>
+  </div>
+
+  <div class="grid-item marketing planejamento">
+    <div class="tool">
+        <a href="https://marketplan.io/" class="toolImg" target="_blank" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="MarketPlan">
+          <img class="size-full wp-image-756 aligncenter" src="images/ferramentas/marketplan_ferramentas.jpg" alt="MarketPlan">
+        </a>
+        <div class="box">
+          <a href="https://marketplan.io/" target="_blank" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="MarketPlan">
+            <h3>MarketPlan</h3>
+          </a>
+          <p>O MarketPlan é um criador de funis para as diversas estratégias de marketing. Seja na criação de um funil de vendas para lançamento de um produto digital, sequência de e-mails (drip) ou mesmo uma estratégia de vendas de e-commerce.</p>
+          <p>Com o MarketPlan é possível não só criar os funis mas atrelar informações de conversões à ele e gerar relatórios interativos para entender quais os mais importantes passos na otimização das suas conversões. É possível utilizá-lo gratuitamente.</p>
+          <a href="https://marketplan.io/" class="btn btn-primary btn-effect" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="MarketPlan">Crie um funil de vendas</a>
+        </div>
+    </div>
+  </div>
+
   <div class="grid-item grid-full design marketing imagens">
     <h2>Imagens</h2>
     <p>Um blog sem imagens muitas vezes é bem chato. As imagens ilustram o que está sendo falado no texto e pode cativar os usuários do seu blog para explorarem mais os seus textos e páginas. É possível hoje adquirir imagens de qualidade tanto gratuitamente quanto pagas. <b>Algo que não pode, no entanto, é buscar no Google Imagens, baixar e reutilizar em seu blog</b>. Se você fizer isso, está correndo o risco de receber uma notificação ou mesmo um processo legal.</p>
@@ -731,6 +755,21 @@ Você pode aproveitar para baixar meu <a href="http://ebook.igluonline.com" targ
           </a>
           <p>Para quem está buscando imagens não tão comuns na internet e também gratuitas para utilizar, o Reshot é uma excelente opção.</p>
           <a href="https://www.reshot.com/" class="btn btn-primary btn-effect" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="Reshot">Baixar imagens gratuitas</a>
+        </div>
+    </div>
+  </div>
+
+  <div class="grid-item design marketing imagens">
+    <div class="tool">
+        <a href="https://www.humaaans.com/" class="toolImg" target="_blank" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="humaaans">
+          <img class="size-full wp-image-756 aligncenter" src="images/ferramentas/humaaans_ferramentas.jpg" alt="humaaans">
+        </a>
+        <div class="box">
+          <a href="https://www.humaaans.com/" target="_blank" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="humaaans">
+            <h3>humaaans</h3>
+          </a>
+          <p>Sabe aquelas imagens bonitinhas de pessoas em desenho que muitos websites estão utilizando para ilustrar suas funcionalidades? Basicamente essa ferramenta te ajuda a criar exatamente isso. Ilustrações de pessoas fazendo diversas coisas que você pode customizar.</p>
+          <a href="https://www.humaaans.com/" class="btn btn-primary btn-effect" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="humaaans">Criar ilustrações de pessoas</a>
         </div>
     </div>
   </div>
@@ -964,6 +1003,46 @@ Você pode aproveitar para baixar meu <a href="http://ebook.igluonline.com" targ
           </a>
           <p>Esse artigo que escrevemos em nosso blog aqui da Iglu possui todas as referências e links para que você possa encontrar e baixar as melhores fontes. Além disso, ele também te conecta com outros artigos nos quais compartilhamos seleções de fontes gratuitas para baixar.</p>
           <a href="/fontes-gratis-para-baixar-e-usar-no-photoshop-e-word-um-guia-completo/" class="btn btn-primary btn-effect" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="Iglu Online">Baixar fontes gratuitas</a>
+        </div>
+    </div>
+  </div>
+
+  <div class="grid-item grid-full design cores">
+    <h2>Cores</h2>
+    <p>Parte super importante da criação de qualquer peça de design é a escolha das cores. Aqui organizei algumas ferramentas que vão te ajudar a melhor escolher, segmentar, combinar e copiar cores para seus projetos de design.</p>
+  </div>
+
+  <div class="grid-item design cores">
+    <div class="tool">
+        <a href="https://picular.co/" class="toolImg" target="_blank" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="Picular">
+          <img class="size-full wp-image-756 aligncenter" src="images/ferramentas/picular_ferramentas.jpg" alt="Picular">
+        </a>
+        <div class="box">
+          <a href="https://picular.co/" target="_blank" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="Picular">
+            <h3>Picular</h3>
+          </a>
+          <p>Essa ferramenta se autointitula o Google para as cores. Basta você procurar por algum elemento no seu campo de busca e o sistema tentará encontrar cores que se relacionam. Um exemplo é escrever "Desert" (a aplicação está em Inglês) e ele mostrará tons parecidos com o que encontramos em desertos.</p>
+          <a href="https://picular.co/" class="btn btn-primary btn-effect" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="Picular">Procurar as melhores cores</a>
+        </div>
+    </div>
+  </div>
+
+  <div class="grid-item grid-full design logo">
+    <h2>Logo / Logotipos</h2>
+    <p>A criação de logos está cada vez mais simples. Seja contratando um profissional freelancer no Fivvr ou até mesmo criando você mesmo, hoje não há tanta necessidade da contratação de agências caras e grandes para a criação de uma identidade visual de qualidade. Pensando nisso, algumas das ferramentas abaixo vão te ajudar a criar seus logos você mesmo.</p>
+  </div>
+
+  <div class="grid-item design logo">
+    <div class="tool">
+        <a href="https://logo.shapefactory.co/" class="toolImg" target="_blank" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="Logo Shapefactory">
+          <img class="size-full wp-image-756 aligncenter" src="images/ferramentas/logo_ferramentas.jpg" alt="Logo Shapefactory">
+        </a>
+        <div class="box">
+          <a href="https://logo.shapefactory.co/" target="_blank" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="Logo Shapefactory">
+            <h3>Logo by Shapefactory</h3>
+          </a>
+          <p>O próprio nome dessa ferramenta já nos induz à compreenção do que faz. Com ela podemos criar uma logo para nosso negócio de maneira bem intuitiva, rápida e simples. Apesar do resultado não ser aquela identidade visual sensacional e impressionante que muitos de nós desejamos, ela pode ser uma alternativa rápida e de graça para já colocar algum projeto no ar sem preocupar com os detalhes da marca.</p>
+          <a href="https://logo.shapefactory.co/" class="btn btn-primary btn-effect" rel="noopener" ga-on="click" ga-event-category="Ferramentas" ga-event-action="Click" ga-event-label="Logo Shapefactory">Criar uma logo gratuitamente</a>
         </div>
     </div>
   </div>
