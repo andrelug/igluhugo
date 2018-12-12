@@ -31,7 +31,7 @@ fields:
   name: hugo_image
   label: Imagem destacada
 pages:
-- content/pages/contato.md
-- content/pages/materiais-para-baixar.md
-- content/pages/sobre.md
 - content/pages/obrigado-por-se-cadastrar.md
+- content/pages/sobre.md
+- content/pages/materiais-para-baixar.md
+- content/pages/contato.md
