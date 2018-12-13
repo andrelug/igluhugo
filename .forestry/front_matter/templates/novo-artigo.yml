@@ -53,6 +53,7 @@ fields:
   label: Hugo Image
   description: Imagem destacada
 pages:
+- content/post/ux-design-o-que-é-ferramentas-e-curso-para-entrar-na-área.md
 - content/post/2016-12-27-22-packs-de-icones-gratuitos-para-fechar-2016.md
 - content/post/mobile-first--mobile-friendly-e-sites-responsivos--qual-a-diferenca-.md
 - content/post/dicas-de-como-usar-o-contraste-das-cores-no-design.md
