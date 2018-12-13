@@ -29,16 +29,25 @@ Além disso, temos alguns momentos que podemos ou escolher formas mais simples o
 
 Como exemplo, na hora de escolhermos a hospedagem do site - onde vamos colocar o site para todo mundo poder acessar - podemos escolher entre um caminho fácil que tem um custo por mês, um camimho intermediário que o primeiro ano é gratuito ou o caminho difícil que é de graça pra sempre.
 
-## Índice
+## Como funciona esse guia
 
 Como esse artigo é enorme, precisamos de um um guia para seguir. Além disso, crei abaixo dois caminhos que você pode seguir:
 
 * Caminho Expresso
+* Caminho Interessado
 * Caminho Completo
 
-O Expresso te possiblilita a criação de um website em muito pouco tempo sem te explicar muita coisa. Já o caminho Completo contém todos os detalhes e explicações do processo.
+O Expresso te possiblilita a criação de um website em muito pouco tempo sem te explicar muita coisa. Já o caminho Interessado é aquele famoso caminho do meio, para pessoas que querem saber um pouquinho mais mas não quererm também virar desenvolvedoras de sites. Por sua vez, o caminho Completo contém todos os detalhes e explicações do processo e, quem sabe, poder até oferecer o serviço de criação de sites para outras pessoas ou empresas.
 
-### Todos os ítens
+### Caminho Expresso
+
+1 > 3.2 > 3.3 > 4.2 > 7.2 > 8.5
+
+### Caminho Interessado
+
+### Caminho Completo
+
+## Todos os ítens
 
 Parte 1: Introdução
 
