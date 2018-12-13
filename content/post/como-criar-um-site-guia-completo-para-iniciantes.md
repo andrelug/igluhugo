@@ -186,11 +186,13 @@ Parte 2: Criação dos Sites
 
 8\.6.6- Página de contato
 
-8\.6.7- Página do carrinho e finalizar compra
+8\.6.7- Configuração do WooCommerce
 
-8\.6.8- Conexão com sistema de pagamento
+8\.6.8- Página do carrinho e finalizar compra
 
-8\.6.9- Conexão com os correios
+8\.6.9- Conexão com sistema de pagamento
+
+8\.6.10- Conexão com os correios
 
 8\.7- Criação de um site tipo Porfólio
 
@@ -336,4 +338,142 @@ Parte 3: Conteúdo
 
 15\.4.2- Distribuir seu site no Google Ads
 
-Parte 4:
+Parte 4: Velocidade
+
+16- Por que a velocidade do seu site é importante
+
+17- Otimização do servidor e hospedagem para velocidade
+
+17\.1- Qualidade da máquina
+
+17\.2- Versão da linguagem de programação
+
+17\.3- Cache
+
+17\.4- Configurações gerais
+
+18- Otimização de Imagens para velocidade
+
+18\.1- Como salvar imagens para a web
+
+18\.2- Serviços online de otimização de imagens
+
+18\.3- Lazy loading
+
+18\.4- Tamanho de imagem certa para cada tamanho de tela
+
+18\.5- Plugins no WordPress para otimização de imagens
+
+19- Otimização de código para velocidade
+
+19\.1- Minificação
+
+19\.2- Concatenação
+
+19\.3- Organização do código
+
+19\.4- Banco de dados
+
+19\.5- Limpeza do código
+
+20- Otimização do WordPress para velocidade
+
+20\.1- Plugins para otimização
+
+20\.2- Corte os demais plugins
+
+21- CDN - Content Distribution Network
+
+22- Ferramentas para mensurar e monitorar a velocidade do seu site
+
+Parte 5: Segurança
+
+23- Por que a segurança do seu site é importante
+
+24- Avaliar seu site
+
+25- Proteção via CDN
+
+26- Lidar com as atualizações do WordPress
+
+Parte 6: Ferramentas
+
+27- E-mail com o seu domínio
+
+27\.1- Zoho mail
+
+27\.2- Yandex
+
+27\.3- Servidor Cpanel
+
+27\.4- Google G Suite
+
+28- E-mail marketing
+
+28\.1- O que é e-mail marketing
+
+28\.2- Mailchimp - O melhor para começar
+
+28\.3- Mautic - Serviço poderoso, gratuito e avançado
+
+28\.4- E-goi, LeadLovers, Active Campaign e outros
+
+29- Imagens
+
+29\.1- Melhores fontes de imagens gratuitas
+
+29\.2- Envato Elements
+
+30- Analytics ( estatísticas )
+
+30\.1- Google Analytics
+
+30\.2- Mixpanel
+
+30\.3- Amplitude
+
+31- Chat
+
+31\.1- Talk.to
+
+31\.2- Freshdesk
+
+31\.3- Olark
+
+31\.4- Chatra
+
+32- Fontes
+
+32\.1- Iglu Online
+
+32\.2- Google Fonts
+
+32\.3- Typekit
+
+33- Gestão Mídias Sociais
+
+33\.1- Buffer
+
+33\.2- Mlabs
+
+33\.3- Gerenciagram
+
+34- Melhores Plugins do WordPress
+
+Parte 7: Monetização
+
+35- Melhores formas de monetizar seu site
+
+35\.1- Afiliação
+
+35\.2- Publicidade
+
+35\.3- Newsletter
+
+35\.4- Premios
+
+35\.5- Posts patrocinados
+
+35\.6- Conteúdo exclusivo
+
+35\.7- Venda do seu site
